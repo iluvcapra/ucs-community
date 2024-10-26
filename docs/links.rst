@@ -22,7 +22,7 @@ Implementation
 Soundminer, `UCS - Universal Category System
 <https://store.soundminer.com/blogs/news/ucs-universal-category-system>`_, 2020-07-24
 
-AudioKinetic `UCS Naming Structure
+AudioKinetic, `UCS Naming Structure
 <https://www.audiokinetic.com/en/library/strata/?source=StrataLibrary&id=strata_ucs_naming>`_
 
 
