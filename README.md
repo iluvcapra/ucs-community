@@ -5,6 +5,8 @@
 This repository contains documentation and some developer resources for the 
 [Universal Category System][ucs], used for organizing sound effects libraries.
 
+[ucs]: https://universalcategorysystem.com
+
 ## What's here?
 
 Some items of interest are:
@@ -12,8 +14,6 @@ Some items of interest are:
   - [JSON-formatted UCS Schedules](json/) for all the available languages.
   - The [tool](tools/ucsxls2json.py) used to make these JSON files from the
     original XLS file.
-
-[ucs]: https://universalcategorysystem.com
 
 ## Who maintains this?
 
