@@ -3,7 +3,9 @@
 ## What is this?
 
 This repository contains documentation and some developer resources for the 
-[Universal Category System][ucs], used for organizing sound effects libraries.
+[Universal Category System][ucs], a library classification system and file 
+naming convention for sound effects recordings used widely in the motion
+picture, television and videogame/interactive industries.
 
 [ucs]: https://universalcategorysystem.com
 
