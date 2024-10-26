@@ -14,6 +14,9 @@ Some items of interest are:
   - [JSON-formatted UCS Schedules](json/) for all the available languages.
   - The [tool](tools/ucsxls2json.py) used to make these JSON files from the
     original XLS file.
+  - A [directory-creation tool](tools/ucsdirs.py) that can create a directory 
+    tree of UCS categories and sub-categories in any of the supported
+    languages, using the JSON schedule of your choice.
 
 ## Who maintains this?
 
