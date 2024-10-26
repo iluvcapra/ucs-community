@@ -26,10 +26,10 @@ The four basic blocks of the filename as defined and stuctured as follows:
 
 
 ``CatID`` 
-  Abbreviated ``Category`` / ``SubCategory`` (as defined by UCS list)
+  Abbreviated ``Category`` / ``SubCategory`` (as defined by the UCS list)
 
 ``FXName``
-  Brief Description or Title (under 25 character preferably)
+  Brief Description or Title (under 25 characters preferably)
 
 ``CreatorID``
   Sound Designer, Recordist or Vendor (or abbreviation for them)
@@ -37,9 +37,9 @@ The four basic blocks of the filename as defined and stuctured as follows:
 ``SourceID``
   Project, Show or Library name (or abbreviation representing it)
 
-The ``CatID`` represents both the Category and SubCategory in abbreviated form
-as defined in the Universal Category System list, initiated by Tim Nielsen and
-Justin Druty.
+The ``CatID`` represents both the ``Category`` and ``SubCategory`` in
+abbreviated form as defined in the Universal Category System list, initiated by
+Tim Nielsen and Justin Druty.
 
 the ``CatID`` is really at the heart of this entire system. It is the **only
 requirement** to use the system, and it must not be altered from the list. We
@@ -77,8 +77,8 @@ AIRCRAFT          ROCKET            AERORckt     AERO
 
 ``CatShort`` is the abbreviation only for the ``Category``. At the moment it's 
 not utilized as a metadata field, but is offered on the list for future use. It 
-is NOT used as part of the filename, the full ``CatID`` must be used at the head
-of the file.
+is NOT used as part of the filename, the full ``CatID`` must be used at the
+head of the file.
 
 ``FXName`` is the next block of data in a UCS filename. Think of it as a Title.
 The goal is to give a brief description of the sound; around 25 charactes is
@@ -103,7 +103,7 @@ consider an abbreivated form if that makes sense to you.
 this case library.
 
 Again as vendors and creators it's up to you how to best utilize this block of
-text, but it should contain somwehow the name of your library that this sound
+text, but it should contain somehow the name of your library that this sound
 belongs to, or the show it was designed or recorded for. Again we'd encourage
 some sort of abbreviation if your library name is very long.
 
@@ -148,7 +148,7 @@ for INTERIOR and EXTERIOR.
 
 ``VendorCategory`` is an optional head extension to the ``FXName`` block. It is
 defined as the first block of text immediately after the first \_, and up to
-the very next \-. It is meant as an optional library specific category
+the very next \-. It is meant as an optional, library-specific category
 definable by a vendor to organize a library internally. As many libraries
 already have some logical category system in place, this block is meant as a
 way to preserve that information for vendors when adapting a library to the UCS
@@ -250,7 +250,7 @@ the following information:
   *UZI 9mm*
 
 ``CreatorID`` 
-  *TN* (which is a user defined abbreviation for Time Nielsen)
+  *TN* (which is a user-defined abbreviation for Tim Nielsen)
 
 ``SourceID``
   *None*
