@@ -19,6 +19,9 @@ UCS_VERSION = "8.2.1"
 # This is the file to pull descriptions from
 EXCEL_FILE = 'UCS v8.2.1 Full Translations.xlsx'
 
+# Output directory, where all the output files will be written 
+OUTPUT_DIR = 'json'
+
 data = pd.read_excel(EXCEL_FILE)
 
 # Create a table of all languages that maps language-column pairs to their
@@ -44,7 +47,7 @@ for i, (col_index, col_data) in enumerate(data.T.iterrows()):
     
         langs[components[1]][i] = components[0]
 
-os.makedirs("ucs_json", exist_ok=True)
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Pull the rows into a list
 # skip the first three rows of the data, it's just header material
@@ -64,9 +67,11 @@ for lang in langs:
         for col_index in langs[lang]:
             key_name = langs[lang][col_index]
             category[key_name] = row.iloc[col_index]
+            # Save the English CatID so this can be cross-referenced
+            category['CatID'] = row.iloc[2]
         
         schedule.append(category)
 
     # and dump it to json
-    with open(f"ucs_json/{lang}.json", "w") as fp:
+    with open(f"{OUTPUT_DIR}/{lang}.json", "w") as fp:
         json.dump(schedule, indent=True, fp=fp)
