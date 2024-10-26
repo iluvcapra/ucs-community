@@ -26,7 +26,7 @@ The four basic blocks of the filename as defined and stuctured as follows:
 
 
 ``CatID`` 
-  Abbreviated Category / SubCategory (as defined by UCS list)
+  Abbreviated ``Category`` / ``SubCategory`` (as defined by UCS list)
 
 ``FXName``
   Brief Description or Title (under 25 character preferably)
@@ -263,17 +263,17 @@ CONCLUSION
 
 Just to reiterate, the **only requirement** fo the UCS system is the
 designation of every file to one of the ``Category`` / ``SubCategroy`` pairs in
-the list, and the associated ``CatID``\_ being placed at the head of the
+the list, and the associated ``CatID`` being placed at the head of the
 filename. The rest of the filename structure is completely optional.
 
-The immediate benefit of adhereing to this 'requirement' is that that purchaser
+The immediate benefit of adhering to this 'requirement' is that that purchaser
 of your library will instantly know that the sound in question belongs to the
 ``Category``/``SubCategory`` pair GUNS-AUTOMATIC because *GUNAuto* is defined
 in that list.
 
 This rigid placement of *GUNAuto\_* at the head of the filename will also allow 
-various scripts and parsing of that infomation back into metadata fields for the 
-user. 
+various scripts and parsing of that infomation back into metadata fields for
+the user. 
 
 Also by placing the ``CatID`` at the beginning of the filename, all
 GUNS-AUTOMATIC will now sort together in any list, or region list in any DAW,
