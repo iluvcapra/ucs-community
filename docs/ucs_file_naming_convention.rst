@@ -29,7 +29,7 @@ The four basic blocks of the filename as defined and stuctured as follows:
   Abbreviated Category / SubCategory (as defined by UCS list)
 
 ``FXName``
-  Brief Description or Title (uner 25 character preferably)
+  Brief Description or Title (under 25 character preferably)
 
 ``CreatorID``
   Sound Designer, Recordist or Vendor (or abbreviation for them)
@@ -43,16 +43,16 @@ Justin Druty.
 
 the ``CatID`` is really at the heart of this entire system. It is the **only
 requirement** to use the system, and it must not be altered from the list. We
-ask that the case also be honored. It is what guarantees that anyone relwasing
+ask that the case also be honored. It is what guarantees that anyone releasing
 a wood door agrees that the short abbreviated form for this
 ``Category``/``SubCategory`` pair will be DOORWood.
 
 This will allow any user of the system to know exactly where that sound
 belongs. And using many of the scripts developed and being developed, most
-common database programs can parse that out easily into the Category and
-SubCategory fields, and also in some cases build a ``CategoryFull`` field by
-looking up the ``CatID``, matching to the list, and then pasting the matched
-fields together with a hyphen. So DOORWOod becomes DOORS-WOOD.
+common database programs can parse that out easily into the ``Category`` and
+``SubCategory`` fields, and also in some cases build a ``CategoryFull`` field 
+by looking up the ``CatID``, matching to the list, and then pasting the 
+matched fields together with a hyphen. So DOORWood becomes DOORS-WOOD.
 
 An example of a section of the UCS list is below:
 
@@ -75,25 +75,25 @@ AIRCRAFT          ROCKET            AERORckt     AERO
 ================  ================  ===========  ===================
 
 
-``CatShort`` is the abbreviation only for the Category. At the moment it's not
-utilized as a metadata field, but is offered on the list for future use. It is
-NOT used as part of the filename, the full ``CatID`` must be used at the head
+``CatShort`` is the abbreviation only for the ``Category``. At the moment it's 
+not utilized as a metadata field, but is offered on the list for future use. It 
+is NOT used as part of the filename, the full ``CatID`` must be used at the head
 of the file.
 
 ``FXName`` is the next block of data in a UCS filename. Think of it as a Title.
-The goal is to give a brief description of the eound; around 25 charactes is
+The goal is to give a brief description of the sound; around 25 charactes is
 usually ideal for the length of this field. This is not meant to repalce a more
 elaborate 'Description' metadata field, but is meant so that at a glance, the
 user will understand what the sound file is without having to listen to it.
 
 ``CreatorID`` shows you who recorded or designed the sound. A vendor would
 place their name here... or you would put your name or initials. Most likely
-you'll  probably want to put an abbreviation here. This is entirely up to each
+you'll probably want to put an abbreviation here. This is entirely up to each
 vendor or creator. UCS has a vendor list that allows a vendor to assign an
-official abbreviation to be used in filenames. Thie ill be more documentation
+official abbreviation to be used in filenames. There will be more documentation
 about defining this information in the Vendors folder.
 
-At first glance, a user shold be able to clearly tell that the sound came from
+At first glance, a user should be able to clearly tell that the sound came from
 you, without having to even need access to the metadata. You could put your
 entire name here, or the full name of your company. We only ask that you keep
 this consistent on all of your products. And again if your name is long,
@@ -103,22 +103,22 @@ consider an abbreivated form if that makes sense to you.
 this case library.
 
 Again as vendors and creators it's up to you how to best utilize this block of
-text, but it should contain soumehow the name of your library that this sound
+text, but it should contain somwehow the name of your library that this sound
 belongs to, or the show it was designed or recorded for. Again we'd encourage
 some sort of abbreviation if your library name is very long.
 
 OPTIONAL BLOCKS 
 ---------------
 
-There are three optional blocks of information also available in the fiename to 
-satisfgy specifci instances. They are defined as UserCategory, VendorCategory, 
-and USerData.
+There are three optional blocks of information also available in the filename 
+to satisfy specific instances. They are defined as ``UserCategory``, 
+``VendorCategory``, and ``UserData``.
 
-A breakdown of all blcoks in a UCS full filename is as follows:
+A breakdown of all blocks in a UCS full filename is as follows:
 
 ::
 
-  CatID(-UserCategory)_(VendorCategory-)FXName_CreatorID_SourceIC_UserData 
+  CatID(-UserCategory)_(VendorCategory-)FXName_CreatorID_SourceID_UserData 
 
 
 ``UserCategory``
