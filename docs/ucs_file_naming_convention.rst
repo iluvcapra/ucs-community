@@ -263,7 +263,7 @@ CONCLUSION
 
 Just to reiterate, the **only requirement** fo the UCS system is the
 designation of every file to one of the ``Category`` / ``SubCategroy`` pairs in
-the list, and the associated ``CatID\_`` being placed at the head of the
+the list, and the associated ``CatID``\_ being placed at the head of the
 filename. The rest of the filename structure is completely optional.
 
 The immediate benefit of adhereing to this 'requirement' is that that purchaser
