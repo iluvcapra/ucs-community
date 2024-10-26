@@ -16,7 +16,7 @@ import json
 SCHEDULE_JSON=sys.argv[1]
 
 # The path to create the directory tree in
-OUTPUT_PATH='dirs'
+OUTPUT_PATH=sys.argv[2]
 
 schedule = []
 
@@ -27,5 +27,5 @@ with open(SCHEDULE_JSON, "r") as fp:
 for cat in schedule:
     path = os.path.join(OUTPUT_PATH, cat['Category'], 
                         f"{cat['Category']} - {cat['SubCategory']}")
-    os.makedirs(path)
+    os.makedirs(path, exist_ok=True)
 
