@@ -11,7 +11,8 @@ This repository contains documentation and some developer resources for the
 
 Some items of interest are:
 
-  - [JSON-formatted UCS Schedules](json/) for all the available languages.
+  - [JSON-formatted UCS Schedules](json/) for all the available languages,
+    based on version **8.2.1** of the UCS.
     - The [tool](tools/ucsxls2json.py) used to make these JSON files from the
       original XLS file.
   - Zipped [UCS Category-SubCategory directory trees](dirs) in all of the
