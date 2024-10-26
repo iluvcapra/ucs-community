@@ -19,7 +19,8 @@ Some items of interest are:
       original XLS file.
   - Transcriptions of core UCS documentation into ReStructuredText:
     - Tim Nielsen's original [*UCS File Naming Convention*][ucs_fns] document.
-    - An unofficial [list of released UCS versions](docs/versions.rst). 
+    - An unofficial [list of released UCS versions](docs/versions.rst).
+  - A [link tree](docs/links.rst) to UCS resources.
   - Zipped [UCS Category-SubCategory directory trees](dirs) in all of the
     available languages.
     - The [directory-creation tool](tools/ucsdirs.py) that was used to create 
