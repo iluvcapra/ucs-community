@@ -12,12 +12,12 @@ This repository contains documentation and some developer resources for the
 Some items of interest are:
 
   - [JSON-formatted UCS Schedules](json/) for all the available languages.
-  - The [tool](tools/ucsxls2json.py) used to make these JSON files from the
-    original XLS file.
+    - The [tool](tools/ucsxls2json.py) used to make these JSON files from the
+      original XLS file.
   - Zipped [UCS Category-SubCategory directory trees](dirs) in all of the
     supported languages.
-  - A [directory-creation tool](tools/ucsdirs.py) that was used to create 
-    these trees.
+    - The [directory-creation tool](tools/ucsdirs.py) that was used to create 
+      these trees.
 
 ## Who maintains this?
 
