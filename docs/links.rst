@@ -11,7 +11,6 @@ Official Resources
 YouTube, `UCS System Overview and Introduction
 <https://www.youtube.com/watch?v=COFedloGJeg>`_ 2023-02-01
 
-
 YouTube, `UCS Final Update 8.2 Introduction
 <https://www.youtube.com/watch?v=HjEJqmYQv4g>`_ 2023-02-01
 
