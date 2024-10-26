@@ -1,0 +1,4514 @@
+[
+ {
+  "version": "8.2.1",
+  "Category": "LUCHT",
+  "SubCategory": "UITBARSTING",
+  "Synonyms": "luchtstoot, lucht poef, chuff, spurt, blazen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUCHT",
+  "SubCategory": "SISSEN",
+  "Synonyms": "lucht afblazen, uitlaten, verdrijven, lek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUCHT",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUCHT",
+  "SubCategory": "ZUIGING",
+  "Synonyms": "vacu\u00fcm, zuigen, zuigen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUCHTVAART",
+  "SubCategory": "DEUR",
+  "Synonyms": "cockpitdeur, vliegtuigdeur, luik, nooduitgang"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUCHTVAART",
+  "SubCategory": "HELIKOPTER",
+  "Synonyms": "gyrocopter, whirlybird, chopper, ghetto bird, bellcopter, politiechopper, huey, chopper, blackhawk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUCHTVAART",
+  "SubCategory": "INTERIEUR",
+  "Synonyms": "jet, vliegtuig, vliegtuig, passagiersjet, zweefvliegtuig, zeppelin, airliner, jetliner, jumbojet, learjet, airbus, boeing, bombardier, 737, 747, 777, A310, DC-10, A310, A330, A350, A380, gevechtsvliegtuig"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUCHTVAART",
+  "SubCategory": "STRAALJAGER",
+  "Synonyms": "airliner, jetliner, jumbojet, learjet, airbus, boeing, bombardier, 737, 747, 777, A310, DC-10, A310, A330, A350, A380"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUCHTVAART",
+  "SubCategory": "MECHANISME",
+  "Synonyms": "landingsgestel, cockpit hendel, roer, flap"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUCHTVAART",
+  "SubCategory": "MILITAIR",
+  "Synonyms": "straaljager, bommenwerper, stealth bommenwerper, blue angels, thunderbirds, lockheed, mig, F18, F16, F35, F22, A10, P52"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUCHTVAART",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "blimp, zweefvliegtuig, heteluchtballon, ultralicht, deltavlieger, zeppelin, zeppelin"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUCHTVAART",
+  "SubCategory": "PROPELLER",
+  "Synonyms": "tweedekker, driedekker, turboprop, stuntvliegtuig, crop duster, piper cub, propeller, twin-prop, propjet, airscrew"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUCHTVAART",
+  "SubCategory": "RADIOGRAFISCH BESTUURBAAR",
+  "Synonyms": "quadcopters, uav, onbemand luchtvoertuig, rc jet, rc helikopter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUCHTVAART",
+  "SubCategory": "RAKET",
+  "Synonyms": "raket, raket, jetpack, space shuttle, spacex, nasa, icbm, kernraket, kernkop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "BEL",
+  "Synonyms": "brandbel, schoolbel, spoorwegovergangsbel, alarmbel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "ZOEMER",
+  "Synonyms": "deurzoemer, spelshow zoemer, voordeur zoemer, ingang zoemer, intercom zoemer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "KLOK",
+  "Synonyms": "digitale wekker, wekker, wekker"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "ELEKTRONISCH",
+  "Synonyms": "brandmelder, rookmelder, CO2 melder, autoalarm, huisalarm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "SIRENE",
+  "Synonyms": "claxon, ahoogahoorn, luchtalarmsirene, tornadosirene"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "LUCHT",
+  "Synonyms": "woestijn, winter, rustige lucht, nachtlucht, berglucht, nachtlucht"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "BERGEN",
+  "Synonyms": "alpen, bergen, rockies, tetons, bergbeklimmen, bergachtig, besneeuwd, berghelling, piek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "PRETPARK",
+  "Synonyms": "disneyland, six-flags, themapark, pretpark, kermis, fair, county fair, midway, reizende kermis, festival, spookhuis, funhouse, arcade, pinball"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "VOGELZANG",
+  "Synonyms": "ochtendkoor, ochtendkoor, mooie vogel, zwermen, tjilpen, twitteren, gluren"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "VIERING",
+  "Synonyms": "openbare bijeenkomst, evenement, feest, gala, carnaval, feest, fiesta, festival"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "CONSTRUCTIE",
+  "Synonyms": "wegenbouw, bouwen, timmeren, verbouwen, huis renoveren, weg repareren, verbouwen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "WOESTIJN",
+  "Synonyms": "woestijn, tumbleweed, oase, kaal, woestenij, sahara, dor, zandduinen, desolaat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "ONTWORPEN",
+  "Synonyms": "kunstmatig, ontworpen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "NOODGEVAL",
+  "Synonyms": "plaats delict, brandbestrijding, politie, medici, bewijsmateriaal, natuurramp, schietpartij, ongeval, catastrofe, verwonding, pileup slachtoffer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "FANTASIE",
+  "Synonyms": "fee, fantasie, magisch, rijk, droom, middelste aarde, pandora"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "BOERDERIJ",
+  "Synonyms": "boerderij, oogst, bewerking, ranch, hoeve, grange, plantage, landbouwgrond, hok, schuur, weide, zuivel, wijngaard, kraal, pastoraal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "BOS",
+  "Synonyms": "bos, bos, houtgrond, boreaal bos, regenwoud, gematigd regenwoud, nevelwoud, loofbos, naaldbos"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "GRASLAND",
+  "Synonyms": "prairie, landbouwgrond, gras, weide, begrazing, weiland, vlaktes"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "HISTORISCH",
+  "Synonyms": "spookstad, oude westen, goudkoorts, oude Rome, oude Griekenland"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "HI TECH",
+  "Synonyms": "laboratorium, machinekamer, server, datacentrum, controlekamer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "ZIEKENHUIS",
+  "Synonyms": "spoedeisende hulp, chirurgie, wachtkamer, ziekenboeg, kliniek, sanatorium, ziekenboeg"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "INDUSTRIEEL",
+  "Synonyms": "fabriek, fabricage, fabriek, molen, magazijn, werkplaats"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "INSECT",
+  "Synonyms": "krekels, krekels, katachtigen, zwermen, sprinkhanen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "MEREN",
+  "Synonyms": "meren, meren, kabbelen, zwemmen, reservoir, vijver, loch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "MARKT",
+  "Synonyms": "markt, marktplaats, verkoper, winkelgebied, bazaar, mart, beurs, vlooienmarkt, plein"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "SCHEEPVAART",
+  "Synonyms": "nautisch, scheepswerf, poopdeck, achtersteven, boeg, achterdek, zeevarend, zeegaand, oceanisch, marine, maritiem, jachthaven"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "KANTOOR",
+  "Synonyms": "kantoor, hokje, werkplek, afdeling, station, vestiging, werkplek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "PARK",
+  "Synonyms": "park, speelplaats, tuinen, botanische tuinen, stadspark, voorstedelijk park, balpark, parklandschap"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "GEVANGENIS",
+  "Synonyms": "gevangenis, gevangenis, gevangenisterrein, penitentiaire inrichting, gevangenis, opsluiting, eenzame opsluiting, strafinrichting"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "DEMONSTRATIE",
+  "Synonyms": "protest, rally, rally's, oproer, scanderen, schreeuwen, boze menigte, marsen, demonstratie, oproer, opstand, revolutie, woedend"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "OPENBARE RUIMTE",
+  "Synonyms": "winkels, lobby's, hotels, winkelcentra, musea, openbare pleinen, binnenplaatsen, sportscholen, fitnesscentrum, motel, bibliotheek, gerechtsgebouw, rechtbank"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "RELIGIEUS",
+  "Synonyms": "kerk, tempel, moskee, kapel, derasar, kathedraal..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "WOONWIJK",
+  "Synonyms": "huis, appartement, appartement, herenhuis, huis, herenhuis, hut, huis, woonplaats"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "RESTAURANT",
+  "Synonyms": "restaurant, bar, pub, gastropub, foodcart, diner, caf\u00e9, cafetaria, kantine, tearoom, saloon, coffee shop, pizzeria, fast-food, wijnbar, automaat, commissariaat, taverne, nachtclub, deli, eetcaf\u00e9, brasserie, drive-in"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "ROOM TONE",
+  "Synonyms": "kamertoon, dode lucht, stille lucht"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "PLATTELAND",
+  "Synonyms": "platteland, vlakte, prairie, grasland, berg, glooiende heuvel, savanne, toendra, weide, canyon, coulee, scrub, scrubland, plateau"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "SCHOOL",
+  "Synonyms": "lagere school, middelbare school, middelbare school, hogeschool, kleuterschool, universiteit, klaslokaal, vergadering"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "SCIFI",
+  "Synonyms": "ruimteschip, technisch centrum, commandocentrum, scifi, futuristisch, high-tech, hi-tec"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "KUST",
+  "Synonyms": "strand, strand, kust, oever, kustlijn, zeekust, zeekust, promenade, strandresort, strandfront, dijk, dok, pier, haven, haven"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "SPORT",
+  "Synonyms": "nfl, voetbal, nba, basketbal, mlb, honkbal, tennis, sportevenement, little league, praktijk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "VOORSTAD",
+  "Synonyms": "voorstad, woonwijk, buurt, cul-de-sac, dorp, barrio, buitenwijk, gehucht"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "MOERAS",
+  "Synonyms": "kikker, moeras, everglade, wetland, oever, meer, mangrove"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "DORP",
+  "Synonyms": "stad, dorp, gehucht, kleine stad, gemeenschap, nederzetting"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "VERKEER",
+  "Synonyms": "car bys, freeway, highway, boulevard, avenue, motorway"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "VERVOER",
+  "Synonyms": "treinstation, luchthaven, busstation, metrostation, metrostation, terminal, depot, terminus"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "TROPISCH",
+  "Synonyms": "jungle, struikgewas, tropisch regenwoud, nevelwoud, tropisch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "TOENDRA",
+  "Synonyms": "artic, antartic, plateau, noordpool, zuidpool, pool, gletsjer, sneeuw, ijs"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "ONDERGRONDS",
+  "Synonyms": "grot, druip, echo, riool, bunker, tunnel, kerker, lavabuis, kelder, ondergronds, verzonken, begraven, ondergronds, kelder, schacht, mijn, gang, doorgang"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "ONDERWATER",
+  "Synonyms": "onderwater, rif, koraal, oceaangeul, ondergedompeld, onderzees, subaquatisch, scheepswrak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "STAD",
+  "Synonyms": "metropool, dichte stad, stad, centrum, binnenstad, grootstedelijk, bruisend, spitsuur, congestie, stadscentrum, sloppenwijk, achterbuurt, getto, financieel district"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFEER",
+  "SubCategory": "OORLOG",
+  "Synonyms": "oorlog, oorlogsvoering, slag, schermutseling, gevecht, gevecht, aanval, offensief, blitz, luchtaanval, bombardement, spervuur, fusillade, blitzkrieg, salvo, flak, broadside, kanonade"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DIEREN",
+  "SubCategory": "AMFIBIE",
+  "Synonyms": "kikker, pad, brulkikker, salamander, salamander, koorkikker, gluurder, kropper, axolotl"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DIEREN",
+  "SubCategory": "ZEE",
+  "Synonyms": "walvis, dolfijn, bruinvis, zeeleeuw, zeehond, orka, zeekoe, walrus, zeeolifant, zee-otter, beluga, narwal, doejong, haai, pijlstaartrog, kwal, inktvis, octopus, krabben, kreeften, paling"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DIEREN",
+  "SubCategory": "VLEERMUIS",
+  "Synonyms": "vliegende vos, vampiervleermuizen, fruitvleermuis..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DIEREN",
+  "SubCategory": "HUISKAT",
+  "Synonyms": "miauw, spinnen, kitten, poes, kat, straatkat..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DIEREN",
+  "SubCategory": "WILDE KATACHTIGEN",
+  "Synonyms": "leeuw, tijger, poema, poema, luipaard, jaguar, sneeuwluipaard, cheeta, lynx, bobcat, caracal, ocelot, panter, serval..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DIEREN",
+  "SubCategory": "HOND",
+  "Synonyms": "hond, jachthond, blaffer, puppy, hondje, schoothondje, mutt, pooch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DIEREN",
+  "SubCategory": "WILDE HONDACHTIGEN",
+  "Synonyms": "wolf, vos, coyote, jakhals, dingo, lupus, canide"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DIEREN",
+  "SubCategory": "BOERDERIJ",
+  "Synonyms": "koe, schaap, geit, varken, rund, lama, alpaca"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DIEREN",
+  "SubCategory": "PAARD",
+  "Synonyms": "ezel, muilezel, ezel, zebra..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DIEREN",
+  "SubCategory": "INSECT",
+  "Synonyms": "sprinkhaan, krekel, cicade, vlieg, bij, wesp, horzel, weta, kegelkop, sprinkhaan, kever, kakkerlak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DIEREN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DIEREN",
+  "SubCategory": "PRIMAAT",
+  "Synonyms": "chimpansee, aap, gorilla, lemur, orang-oetan, kapucijn, marmoset, aap, gibbon, bonobo, baviaan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DIEREN",
+  "SubCategory": "REPTIEL",
+  "Synonyms": "slang, hagedis, alligator, krokodil, schildpad, gharial, kaaiman, gekko"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DIEREN",
+  "SubCategory": "KNAAGDIER",
+  "Synonyms": "muis, muizen, rat, eekhoorn, mol, stekelvarken, cavia, eekhoorn, bever, grondeekhoorn, wasbeer, prairiehond, gerbil, hamster, marmot, lemming, muskusrat, chinchilla, knaagdier"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DIEREN",
+  "SubCategory": "WILD",
+  "Synonyms": "beer, giraffe, nijlpaard, olifant, eland, hert, gazelle, das, miereneter, vogelbekdier, luiaard, veelvraat, everzwijn, wombat, koala, kangoeroe, wallaby, gnoe, panda, antilope, wasbeer, eland, rendier, neushoorn, aardvarken, wrattenzwijn, impala, nijlpaard, honingdas, buffel, eland..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIEF",
+  "SubCategory": "ADR",
+  "Synonyms": "adr, loop, vervangingsdialoog"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIEF",
+  "SubCategory": "ASSET",
+  "Synonyms": "asset, resource, tag"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIEF",
+  "SubCategory": "BOUNCE",
+  "Synonyms": "bounce, crashdown"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIEF",
+  "SubCategory": "IMPULSE RESPONSE",
+  "Synonyms": "impulse response, IR, altiverb, reverb sample, convolutie reverb"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIEF",
+  "SubCategory": "LOOP GROEP",
+  "Synonyms": "loop groep, walla"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIEF",
+  "SubCategory": "MIX",
+  "Synonyms": "premix, eindmix, stem, M&E, mixdown, printmaster"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIEF",
+  "SubCategory": "PRODUCTIE",
+  "Synonyms": "productie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIEF",
+  "SubCategory": "DIALOOG",
+  "Synonyms": "productie opname, dialoog lijn, dx"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIEF",
+  "SubCategory": "RAW",
+  "Synonyms": "datatape, ruwe bestanden, onbewerkt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIEF",
+  "SubCategory": "REFERENTIE",
+  "Synonyms": "referentie, inspiratie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIEF",
+  "SubCategory": "SCENE",
+  "Synonyms": "readymade, prebuilt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIEF",
+  "SubCategory": "TEST TOON",
+  "Synonyms": "adr piepjes, testtonen, bliep toon, 2pops, witte ruis, roze ruis, sinus sweeps"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIEF",
+  "SubCategory": "LOGOS",
+  "Synonyms": "handelsmerk, copyright, product geluid, gelicenseerd, geregistreerd, legaal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIEF",
+  "SubCategory": "LOPENDE WERKZAAMHEDEN",
+  "Synonyms": "werk in uitvoering, wip, onvoltooid"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIEF",
+  "SubCategory": "WTF",
+  "Synonyms": "uncategorizable, unknown, jokes"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIEP",
+  "SubCategory": "APPARAAT",
+  "Synonyms": "magnetron, vaatwasser, wasmachine, droger"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIEP",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "piep"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIEP",
+  "SubCategory": "LOFI",
+  "Synonyms": "atari, famicom, colecovision"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIEP",
+  "SubCategory": "MEDISCH",
+  "Synonyms": "EKG, ECG, KDC, hartmonitor, flatline, echografie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIEP",
+  "SubCategory": "TIMER",
+  "Synonyms": "magnetron, ovenwekker, digitaal horloge, telefoonwekker..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIEP",
+  "SubCategory": "VOERTUIG",
+  "Synonyms": "vorkheftruck pieptoon, back-up pieptoon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BELLEN",
+  "SubCategory": "DIER",
+  "Synonyms": "koebel, hawkbell, halsbandbel, schapenbel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BELLEN",
+  "SubCategory": "DEURBEL",
+  "Synonyms": "deurbel, deurbel, ding dong, tring"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BELLEN",
+  "SubCategory": "GONG",
+  "Synonyms": "gong, gamelan, agung, kom gong, tam-tam"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BELLEN",
+  "SubCategory": "HANDBEL",
+  "Synonyms": "handbel, dinerbel, schoolbel, altaarbel, sleebel, jinglebells, butler bell"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BELLEN",
+  "SubCategory": "GROOT ",
+  "Synonyms": "tempelklok, kerkklok, luidklok, torenklok"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BELLEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "fietsbel, dienstbel, bel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOGELS",
+  "SubCategory": "ROOFVOGEL",
+  "Synonyms": "havik, adelaar, valk, uil, gier, condor, buizerd, wouw, visarend, kiekendief, torenvalk, karakara"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOGELS",
+  "SubCategory": "KRAAI",
+  "Synonyms": "kraai, raaf, gaai, blauwe gaai, ekster, notenkraker..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOGELS",
+  "SubCategory": "KIP",
+  "Synonyms": "kip, fazant, kalkoen, gans, korhoen, eend, zwaan, patrijs, wintertaling, wilde eend, eider, guans, chachalacas, curassow, kwartel, fuut, chukar, ptarmigan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOGELS",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "ani, roadrunner, koekoek, specht, nachtzwaluw, armoedzaaier, kolibrie..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOGELS",
+  "SubCategory": "ZEE",
+  "Synonyms": "zeemeeuw, jan-van-gent, albatros, aalscholver, pelikaan, pingu\u00efn, stormvogel, meeuw, stern, fregatvogel, booby, scholekster, plevier, oeverloper, bonte strandloper, bonte strandloper, alk, papegaaiduiker, murrelet, eekhoorn..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOGELS",
+  "SubCategory": "ZANGVOGEL",
+  "Synonyms": "duif, vliegenvanger, krakeend, spotvogel, boomklever, duif, roodborstje, mus, zwaluw, tanager, lijster, vireo, grasmus, winterkoning, koolmees, mees, pendule, leeuwerik, zanglijster, kruiper, boomkruiper, gnatvanger, waterspreeuw, spreeuw, merel, bonte kraai, vleermuis, troepiaal, kardinaal, gors, merel..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOGELS",
+  "SubCategory": "TROPISCH",
+  "Synonyms": "papegaai, toekan, kookaburra, liervogel, pauw, ara, neushoornvogel, kaketoe, parkiet, ibis, lepelaar, flamingo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOGELS",
+  "SubCategory": "WATER",
+  "Synonyms": "kraanvogel, zilverreiger, flamingo, ibis, rail, lepelaar, ooievaar, reiger, rail, sora, meerkoet, kraanvogel, reiger, roerdomp, zilverreiger, ooievaar, watersnip..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "LUCHT AANGEDREVEN",
+  "Synonyms": "waaierboot, luchtboot, hovercraft"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "BOEGWATER",
+  "Synonyms": "boegwas, kielzog"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "DEUR",
+  "Synonyms": "luik, veerdeur, bootdeur, waterdichte deur, scheepsdeur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "ELEKTRONISCH",
+  "Synonyms": "sleepmotor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "VISSEN",
+  "Synonyms": "krabbenboten, trawlers, zegenboot, lijnvaartuig, baggerschip, kieuwnetter, onderzoeksvaartuig"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "TOETER",
+  "Synonyms": "scheepshoorn, sleepboothoorn"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "INTERIEUR",
+  "Synonyms": "schip, veerboot, veerboten, cruiseschip, marine, militaire boot, sleepboot, zeilboot, jacht, olietanker, vrachtschip, vrachtschip, onderzee\u00ebr"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "MECHANISME",
+  "Synonyms": "tuigage, katrol, touw, scheepsrad, gashendel, net, kooi, fuik, anker"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "MILITAIR",
+  "Synonyms": "patrouilleboot, destroyer, kruiser, slagkruiser, fregat, korvet, snelle aanvalsboot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "waterfiets, waterfiets"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "MOTORBOOT",
+  "Synonyms": "kleine boot, persoonlijke vissersboot, speedboot, pontonboot, eendenboot, rubberboot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "RACE",
+  "Synonyms": "watervliegtuig, draagvleugelboot, straalboot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "ROEIBOOT",
+  "Synonyms": "kano, roeiboot, kajak, roeispaan, peddel, drakenboot, roeien"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "ZEILBOOT",
+  "Synonyms": "zeilboot, schoener, yawl, sloep, ketch, motorsailer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "SCHIP",
+  "Synonyms": "groot schip, cruiseschip, olietanker, vrachtschip, vrachtschip"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "STOOMBOOT",
+  "Synonyms": "stoomraderschip, raderstoomboot, stoommachine"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "ONDERZEE\u00cbR",
+  "Synonyms": "onderzee\u00ebr, sonar, duikboot, u-boot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BOOT",
+  "SubCategory": "ONDERWATER",
+  "Synonyms": "boot, schip, onder water, tanker, vissersboot, motorboot, onder water"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOGELS",
+  "SubCategory": "PASSEREN",
+  "Synonyms": "bullet whiz-by, fwip"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOGELS",
+  "SubCategory": "INSLAG",
+  "Synonyms": "kogelinslag, kogelinslag"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOGELS",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOGELS",
+  "SubCategory": "RICOCHET",
+  "Synonyms": "ricos, ricochet, afketsen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOGELS",
+  "SubCategory": "HULS",
+  "Synonyms": "huls, casing, eject"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "BEEST",
+  "Synonyms": "nepdier, jachtroep, eendenroep"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "BOING",
+  "Synonyms": "kaakharp, mondharp"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "CLANG",
+  "Synonyms": "gekletter, metaal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "KRAAK",
+  "Synonyms": "rubber, hout"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "TOETER",
+  "Synonyms": "bolhoorn, toeter, clownshoorn"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "IMPACT",
+  "Synonyms": "bonk, boink, doink"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "MACHINE",
+  "Synonyms": "contraptie, komische machine, rube goldberg machine"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "toon, squanch, blorb, flump"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "MUZIKAAL",
+  "Synonyms": "glijden, stijgen, dalen,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "PLUK",
+  "Synonyms": "touwtje trekken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "POP",
+  "Synonyms": "pop gun, mouth pop, suction cup, bubble pops"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "SCHUD",
+  "Synonyms": "rammelaar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "SPLAT",
+  "Synonyms": "splat, splort, squish"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "PIEP",
+  "Synonyms": "piepen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "REK",
+  "Synonyms": "stam"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "SWISH",
+  "Synonyms": "draaien, wervelen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "TWANG",
+  "Synonyms": "liniaal, mondharp"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "VOERTUIG",
+  "Synonyms": "jetsons, contraptie. Flintstones auto, backfire"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "STEM",
+  "Synonyms": "mompelen, domme stem, tekenfilm stem"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "WIEBEL",
+  "Synonyms": "wobble"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "FLUIT",
+  "Synonyms": "schuif fluit"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "ZIP",
+  "Synonyms": "zip, rico, sirene, fluitje"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIEK",
+  "SubCategory": "BREKEN",
+  "Synonyms": "break, crack, shatter, crunch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIEK",
+  "SubCategory": "CRASH & PUIN",
+  "Synonyms": "vallen, brokstukken, scherven"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIEK",
+  "SubCategory": "WRIJVING",
+  "Synonyms": "stress, schrapen, kraken, piepen, krijsen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIEK",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "hanteren, grijpen, instellen, ophalen, neerzetten, gooien, vangen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIEK",
+  "SubCategory": "IMPACT",
+  "Synonyms": "raken, laten vallen, botsen, crashen, klakken, rinkelen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIEK",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIEK",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "slepen, rollen, rammelen, schudden"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIEK",
+  "SubCategory": "TONAAL",
+  "Synonyms": "buigen, ring, shing, ping"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KETTINGEN",
+  "SubCategory": "BREKEN",
+  "Synonyms": "breken, breken, buigen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KETTINGEN",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "hanteren, grijpen, instellen, ophalen, neerzetten, gooien, vangen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KETTINGEN",
+  "SubCategory": "IMPACT",
+  "Synonyms": "laten vallen, raken, botsen, slam, spanning snapt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KETTINGEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KETTINGEN",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "slepen, handboeien, gevangenisketting, hondenketting"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CHEMICALI\u00cbN",
+  "SubCategory": "ZUUR",
+  "Synonyms": "sissen, smelten, bruisen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CHEMICALI\u00cbN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CHEMICALI\u00cbN",
+  "SubCategory": "REACTIE",
+  "Synonyms": "borrelen, schuimen, reactie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KLOKKEN",
+  "SubCategory": "KLOKGELUI",
+  "Synonyms": "luiden, bel, staande klok"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KLOKKEN",
+  "SubCategory": "MECHANISME",
+  "Synonyms": "opwinden, uurwerk, koekoeksklok"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KLOKKEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KLOKKEN",
+  "SubCategory": "TIKKEN",
+  "Synonyms": "tik, klik, kwarts, tik-tak, stopwatch, eierwekker"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STOF",
+  "SubCategory": "FLAPPEREN",
+  "Synonyms": "flap, vlag, ritselen, parachute, cape, zeildoek, zeil, laken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STOF",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "hanteren, grijpen, instellen, ophalen, neerzetten, gooien, vangen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STOF",
+  "SubCategory": "IMPACT",
+  "Synonyms": "slaan, laten vallen, botsen, smakken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STOF",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STOF",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "zuzz, swish, rustle, ruffle, scrunch, mvmt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STOF",
+  "SubCategory": "SCHEUR",
+  "Synonyms": "scheuren, scheuren, klittenband"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMMUNICATIE",
+  "SubCategory": "AUDIO VISUEEL",
+  "Synonyms": "filmcamera, spoelen, filmcamera, projector, bandrecorder, nagra, walkman, cd-speler, reel to reel, vcr, laserdiscspeler, betamax, diaprojector, beamer, ipod, bolex, 8mm, 16mm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMMUNICATIE",
+  "SubCategory": "CAMERA",
+  "Synonyms": "camerasluiter, opwinding, flitser, kodak, nikon, canon, olympus, kodak, fuji, fujifilm, mamiya, hasselblad, leica, 35mm, 120mm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMMUNICATIE",
+  "SubCategory": "MOBIEL",
+  "Synonyms": "mobiele telefoon, smartphone, iphone, blackberry, flip phone, android"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMMUNICATIE",
+  "SubCategory": "MICROFOON",
+  "Synonyms": "mic handling, mic tap, larsen, megafoon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMMUNICATIE",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMMUNICATIE",
+  "SubCategory": "GRAMMOFOON",
+  "Synonyms": "platenspeler, victrola, fonograaf, naald, vinylplaat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMMUNICATIE",
+  "SubCategory": "RADIO",
+  "Synonyms": "afstemmen, radio, kortegolf, squelch, futz, radio-uitzending"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMMUNICATIE",
+  "SubCategory": "STATISCH",
+  "Synonyms": "ruis, fuzz, scramble"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMMUNICATIE",
+  "SubCategory": "SIGNALEN",
+  "Synonyms": "morse code, telegraaf, telemetrie, uitlezing, sos"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMMUNICATIE",
+  "SubCategory": "TELEFOON",
+  "Synonyms": "bellen, telefooncel, draaischijf, toetsenbord, vaste lijn, draadtelefoon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMMUNICATIE",
+  "SubCategory": "TELEVISIE",
+  "Synonyms": "tv, afstandsbediening, draaischijf, show, programma, futz, tv-show, uitzending"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMMUNICATIE",
+  "SubCategory": "WALKIE TALKIE",
+  "Synonyms": "walkie talkies, cb, ham radio's, transceiver, squelch, intercom, dispatch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMMUNICATIE",
+  "SubCategory": "TYPEMACHINE",
+  "Synonyms": "typemachine, teleprinter, carriage return, platenknop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMPUTERS",
+  "SubCategory": "HARDE SCHIJF",
+  "Synonyms": "overslaan, zoeken, slijpen, harde schijf, harde schijf"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMPUTERS",
+  "SubCategory": "TOETSENBORD EN MUIS",
+  "Synonyms": "toetsenbord, muis, muizen, trackpad"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "COMPUTERS",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "palm pilot, pocket pc"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEZENS",
+  "SubCategory": "ZEE",
+  "Synonyms": "kraken, zeemeermin, reuzeninktvis"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEZENS",
+  "SubCategory": "VOGEL",
+  "Synonyms": "buitenaardse vogels, buitenaardse vogels, fantasievogels"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEZENS",
+  "SubCategory": "BEEST",
+  "Synonyms": "wollige mammoet, mumakil, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEZENS",
+  "SubCategory": "BLOB",
+  "Synonyms": "blob, gloop, goop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEZENS",
+  "SubCategory": "DINOSAURUS",
+  "Synonyms": "brontosaurus, velociraptor, triceratops, stegosaurus, tyrannosaurus, allosaurus, spinosaurus, brachiosaurus, archaeopteryx, pterosaurus, pterodactyl"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEZENS",
+  "SubCategory": "DRAAK",
+  "Synonyms": "draak, draak, wyvern"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEZENS",
+  "SubCategory": "ELEMENTEN",
+  "Synonyms": "rotsmonster, vuurmonster, ijsmonster, rotsreus, ijsreus, golem"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEZENS",
+  "SubCategory": "SPOOK",
+  "Synonyms": "spoken, geesten, etherische, spookachtige, spook, ziel, verschijning, spook, poltergeist, spook, wraith"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEZENS",
+  "SubCategory": "MENSELIJK",
+  "Synonyms": "zombie, ondode, levende doden, ghoul, vampier, elf, orcs, ogre, troll, tengu, leprechaun, bigfoot, swamp thing, weerwolf, frankenstein, mummie..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEZENS",
+  "SubCategory": "INSECT",
+  "Synonyms": "reuzenmier, reuzenspin"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEZENS",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEZENS",
+  "SubCategory": "MONSTER",
+  "Synonyms": "godzilla, king kong, rancor, behemoth, xenomorph, chupacabra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEZENS",
+  "SubCategory": "REPTIEL",
+  "Synonyms": "slang, serpentine, reuzenhagedis, reuzenslang"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEZENS",
+  "SubCategory": "KLEIN",
+  "Synonyms": "fee, elfje, gremlin, imp, fraggle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEZENS",
+  "SubCategory": "SOURCE",
+  "Synonyms": "blaffen, ademen, roepen, krijsen, piepen, tsjilpen, klikken, huilen, inspanning, grommen, sissen, brullen, grommen, snauwen, keelklank, kreunen, grommen, mond, brullen, schreeuwen, krijsen, piepen, janken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "OPSTAND",
+  "Synonyms": "hooligan, oproer, protest, schreeuwen, ruw..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "APPLAUS",
+  "Synonyms": "applaus, juichen, klappen, toegift"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "STRIJD",
+  "Synonyms": "strijdkreten, schreeuwen, aanvallen, rally, leger, strijd, handgemeen, oorlog, schreeuwen, sterven"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "VIERING",
+  "Synonyms": "vieren, vakantie, feest, luidruchtig, verjaardag, nieuwjaar, kerstmis, optocht"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "JUICHEN",
+  "Synonyms": "juichen, concert, stadion, publiek, joelen, zwellen, zingen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "KINDEREN",
+  "Synonyms": "speelplaats, pauze, kinderen spelen, park, spelen, tikkertje"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "CONVERSATIE",
+  "Synonyms": "chatter, chat, talk, sparse walla, converse, conversation"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "LACHEN",
+  "Synonyms": "tv-show, ingeblikt gelach, comedy club, laugh track"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "LOOP GROEP",
+  "Synonyms": "loop groep, adr, ingeblikt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "PANIEK",
+  "Synonyms": "paniek, chaos, schreeuwen, gillen, huilen, nood"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "RUSTIG",
+  "Synonyms": "mompelen, fluisteren, verzwijgen, mompelen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "REACTIE",
+  "Synonyms": "boe, ahh, ooh, studio reactie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "ZINGEN",
+  "Synonyms": "gezang, koor, koraal, kerstliedje"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "SPORT",
+  "Synonyms": "applaus, klappen, boe, juichen, stadion, yay, publiek, olympische spelen, schreeuwen, woohoo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENIGTE",
+  "SubCategory": "GEROESEMOES",
+  "Synonyms": "stemmen, praten, walla, gesprek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "BAS VAL",
+  "Synonyms": "bass dive, downer, bass drop, fall"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "BOOM",
+  "Synonyms": "boem, deep hit, low angel, trailer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "BRAAM",
+  "Synonyms": "bramm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "DISTORTION",
+  "Synonyms": "distortion, squared off, distorted"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "DRONE",
+  "Synonyms": "pad, drone, textuur, onheilspellend, spanning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "SPANNING",
+  "Synonyms": "spookachtig, gespannen, vreemd, griezelig, eng, huiveringwekkend, spookachtig, freaky, angstaanjagend, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "ETHERISCH",
+  "Synonyms": "etherisch, hemels"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "GRANULAIR",
+  "Synonyms": "granular, paulstretch, grains, slices"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "IMPACT",
+  "Synonyms": "impact, hit, slam, smash, botsing"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "MORF",
+  "Synonyms": "morph, mix, overgang"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "RISER",
+  "Synonyms": "reverse, crescendo, rizer, riser, tension"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "ROMMELEN",
+  "Synonyms": "subharmonisch, rumble, shake, earthquake"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "RITMISCH",
+  "Synonyms": "stutter, glitch, pulse, stattaco"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "SOURCE",
+  "Synonyms": "bron, ruw, materiaal, ruwe opname"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "STINGER",
+  "Synonyms": "angel, schrikken, trailer, filmisch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "SYNTH",
+  "Synonyms": "gesynthetiseerd, synth, mod synth, modulaire synth, granulair, analoge synth, modulaire synth"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "TONAAL",
+  "Synonyms": "tinnitus, ringing, shell shock, subjectief"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "VOCAAL",
+  "Synonyms": "betovering, betovering, bewerkt, vocaal, fluisteren, spookachtig"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ONTWORPEN",
+  "SubCategory": "WOESJ",
+  "Synonyms": "whoosh, trailer swish, swish"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VERWOESTING",
+  "SubCategory": "INSTORT",
+  "Synonyms": "instorten, omvallen, vallen, imploderen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VERWOESTING",
+  "SubCategory": "CRASH & PUIN",
+  "Synonyms": "crash, rupture, implode, smash, break, shatter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VERWOESTING",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AARDE & ZAND",
+  "SubCategory": "CRASH & PUIN",
+  "Synonyms": "puin, zand, vuil, druppelen, spuiten, verkruimelen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AARDE & ZAND",
+  "SubCategory": "STOF",
+  "Synonyms": "fijn, deeltje, sediment, slib, stof"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AARDE & ZAND",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "hanteren, grijpen, graven, vangen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AARDE & ZAND",
+  "SubCategory": "IMPACT",
+  "Synonyms": "storten, ploffen, lossen, laten vallen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AARDE & ZAND",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AARDE & ZAND",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "gieten, lossen, stromen, morsen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AARDE & ZAND",
+  "SubCategory": "TONAAL",
+  "Synonyms": "zandduinen, zingend zand"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "ANTIEK",
+  "Synonyms": "kasteel, abby, kerk, oud, oud, antiek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "APPARAAT",
+  "Synonyms": "oven, magnetron, koelkast, vaatwasser, wasmachine, droger"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "KAST",
+  "Synonyms": "kast, keukenkast, gereedschapskast"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "COMPOSIET",
+  "Synonyms": "glasvezel, deur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "KRAAK",
+  "Synonyms": "kraken, deur, kerker, kelder, kasteel, houten deur, metalen deur, deur kraken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "KERKER",
+  "Synonyms": "kasteel, kerker, groot, kelder"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "ELECTRISCH",
+  "Synonyms": "elektrische deur, garagedeur, geluidsdeur, automatische deur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "POORT",
+  "Synonyms": "tuinpoort, hekpoort, parkpoort, spoorwegovergang, veepoort, boerderijpoort"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "GLAS",
+  "Synonyms": "glazen deur, winkeldeur, erker, openslaande deur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "IJZERWAAR",
+  "Synonyms": "deurknop, nachtschoot, duwstang, kettingslot, scharnier, klink, beslag, lock picking, jiggle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "HI TECH",
+  "Synonyms": "laboratoriumdeur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "HYDRAULISCH",
+  "Synonyms": "deurdranger, pneumatisch, hydraulisch, aangedreven luik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "KLOPPEN",
+  "Synonyms": "kloppen, kloppen, klopper, klap, dreun, dreun"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "METAAL",
+  "Synonyms": "rollup, kluis, kluis, luik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "PLASTIC",
+  "Synonyms": "porta john, porta let, porta pottie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "GEVANGENIS",
+  "Synonyms": "gevangenisdeur, gevangenisdeur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "DRAAIEN",
+  "Synonyms": "draaien, roteren, draaideur, hotel, luchthaven, winkelcentrum"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "SCHUIVEN",
+  "Synonyms": "glazen schuifdeur, patiodeur, douchedeur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "STEEN",
+  "Synonyms": "graf, crypte, tempel, mausoleum, geheime ingang"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "KLAPPEN",
+  "Synonyms": "saloondeur, verkeersdeur, restaurantdeur, kerkpreekstoeldeur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DEUREN",
+  "SubCategory": "HOUT",
+  "Synonyms": "ingang, voordeur, kast"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LADES",
+  "SubCategory": "METAAL",
+  "Synonyms": "gereedschapskist, stellinglade, archiefkast, kassa, veiligheidslade"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LADES",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LADES",
+  "SubCategory": "PLASTIC",
+  "Synonyms": "onderdelenbak, bureau-organizer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LADES",
+  "SubCategory": "HOUT",
+  "Synonyms": "keukenlade, badkamerlade"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRICITEIT",
+  "SubCategory": "BOOG",
+  "Synonyms": "jacobsladder, tesla spoel, ark, boog, centrale, elektrocutie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRICITEIT",
+  "SubCategory": "BUZZ & HUM",
+  "Synonyms": "grond brom, amp brom, amp buzz, speaker brom, speaker buzz, hum, buzz, inductie hum"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRICITEIT",
+  "SubCategory": "ELEKTRO MAGNETISCH",
+  "Synonyms": "emf, spoel, pick-up, inductie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRICITEIT",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRICITEIT",
+  "SubCategory": "VONKEN",
+  "Synonyms": "fonkelaar, las, sputter, kortsluiting"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRICITEIT",
+  "SubCategory": "ZAP",
+  "Synonyms": "ontlading, tase, taser, elektrocutie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UITRUSTING",
+  "SubCategory": "DIEREN",
+  "Synonyms": "hoofdstel, teugels, riem, harnas, hondenriem, zadelriem"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UITRUSTING",
+  "SubCategory": "HI TECH",
+  "Synonyms": "ruimtepak, gereedschapsriem"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UITRUSTING",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UITRUSTING",
+  "SubCategory": "RECREATIEF",
+  "Synonyms": "rugzak, wandeling, wandelen, bergbeklimmen, klimmen, rotsklimmen, kamperen, tent"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UITRUSTING",
+  "SubCategory": "SPORT",
+  "Synonyms": "schoudervulling, knievulling, scheenbeschermer, jock strap"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UITRUSTING",
+  "SubCategory": "TACTISCH",
+  "Synonyms": "riem, tactisch, dienstriem, munitie riem, politie, militair, bandelier"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "EXPLOSIES",
+  "SubCategory": "ONTWORPEN",
+  "Synonyms": "schokgolf, zoetje, echo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "EXPLOSIES",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "detonatie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "EXPLOSIES",
+  "SubCategory": "AUTHENTIEK",
+  "Synonyms": "knal, implosie, crack, pop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCHETEN",
+  "SubCategory": "ONTWORPEN",
+  "Synonyms": "putty, razzberry, raspberry, whoopie kussen, flarp, oksel, scheetzak, ballon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCHETEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "dierscheet"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCHETEN",
+  "SubCategory": "AUTHENTIEK",
+  "Synonyms": "menselijke scheet, winderigheid, poot, toot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEVECHT",
+  "SubCategory": "VALLEN",
+  "Synonyms": "bodyfall, body drag, scuffle, body slam, tackle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEVECHT",
+  "SubCategory": "STOF",
+  "Synonyms": "gevechtsdoek, grijpen, snatch, doekstoot, doekstoot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEVECHT",
+  "SubCategory": "PAKKEN",
+  "Synonyms": "gevecht, grijpen, grapple, worstelen, judo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEVECHT",
+  "SubCategory": "IMPACT",
+  "Synonyms": "stoot, schop, body blow, klap, smak, knok, duw, sok, uppercut, jab"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEVECHT",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUUR",
+  "SubCategory": "BRANDEN",
+  "Synonyms": "vreugdevuur, kampvuur, kreupelhoutbrand, structuurbrand, vuurzee, inferno, verbranding, tondel, brandstapel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUUR",
+  "SubCategory": "UITBARSTING",
+  "Synonyms": "backdraft, dragon fire, engulf"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUUR",
+  "SubCategory": "KNISPER",
+  "Synonyms": "pop, spit, snap, sparkle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUUR",
+  "SubCategory": "GAS",
+  "Synonyms": "gasgrill, bunsenbrander, oven, campingfornuis, keukenfornuis, crematorium, gasfornuis"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUUR",
+  "SubCategory": "ONTSTEKEN",
+  "Synonyms": "lucifer, aansteker, zippo, enflame, erupt, flame up, inflamame"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUUR",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUUR",
+  "SubCategory": "SISSEN",
+  "Synonyms": "vuurpook, lont, lont branden"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUUR",
+  "SubCategory": "FAKKEL",
+  "Synonyms": "fakkel, lont, fakkel, firebrand, brandende stok, cresset"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUUR",
+  "SubCategory": "TURBULENT",
+  "Synonyms": "fire swirl, violent fire, flame thrower, fire tornado, engulf, backdraft"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUUR",
+  "SubCategory": "WHOOSH",
+  "Synonyms": "vuurbal, vuurzee, molotov, fakkel, backdraft"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUURWERK",
+  "SubCategory": "PROFESSIONEEL",
+  "Synonyms": "mortier, vuurwerk, pyrotechniek, kaboom, shell, vuurwerkshow"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUURWERK",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUURWERK",
+  "SubCategory": "RECREATIEF",
+  "Synonyms": "rotje, m80, sparkler, flessenraket, rookbom, jumping jack, romeinse kaars, popper, kersenbom"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLEY",
+  "SubCategory": "STOF",
+  "Synonyms": "ritseling, beweging, mvmt, zuzz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLEY",
+  "SubCategory": "VOETEN",
+  "Synonyms": "voet, schoen, voetstap, oppervlak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLEY",
+  "SubCategory": "HANDEN",
+  "Synonyms": "pat, grab, handle, set"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLEY",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLEY",
+  "SubCategory": "PROPS",
+  "Synonyms": "rekwisiet, rekwisieten"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ETEN & DRINKEN",
+  "SubCategory": "KOKEN",
+  "Synonyms": "hakken, snijden, in blokjes snijden, mengen, mixen, kloppen, saute, frituren, koken, grillen, sissen, stomen, stoven, roeren, saute"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ETEN & DRINKEN",
+  "SubCategory": "DRINKEN",
+  "Synonyms": "nippen, slurpen, drinken, slikken, slurpen, drank, slurpen, slurpen, slurpen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ETEN & DRINKEN",
+  "SubCategory": "ETEN",
+  "Synonyms": "eten, knarsen, kauwen, doorslikken, kauwen, bijten, innemen, consumeren, smullen, voeden"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ETEN & DRINKEN",
+  "SubCategory": "GLASWERK",
+  "Synonyms": "fles, glas, beker, kan, karaf, kan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ETEN & DRINKEN",
+  "SubCategory": "INGREDI\u00cbNTEN",
+  "Synonyms": "noot, zaad, graan, groente, fruit, voedsel in blik, cornflakes, vlees, haver, ma\u00efs"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ETEN & DRINKEN",
+  "SubCategory": "KEUKENGEREI",
+  "Synonyms": "pan, pot, stoofpan, voorraadpot, koekenpan, steelpan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ETEN & DRINKEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ETEN & DRINKEN",
+  "SubCategory": "GIETEN",
+  "Synonyms": "schenken, stromen, morsen, serveren"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ETEN & DRINKEN",
+  "SubCategory": "TAFELGEREI",
+  "Synonyms": "zilverwerk, keukengerei, glasgerinkel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOETSTAPPEN",
+  "SubCategory": "DIER",
+  "Synonyms": "lopen, rennen, sprinten"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOETSTAPPEN",
+  "SubCategory": "WEZENS",
+  "Synonyms": "dinosaurus, schepsel, beest, draak, mythisch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOETSTAPPEN",
+  "SubCategory": "PAARD",
+  "Synonyms": "stap, draf, galop, hoef, hoeven, galop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOETSTAPPEN",
+  "SubCategory": "MENS",
+  "Synonyms": "lopen, rennen, voet, joggen, sprinten, springen, huppelen, hinkelen, stappen, voetstap, voeten, stap, klimmen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOETSTAPPEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPELLETJES",
+  "SubCategory": "ARCADE",
+  "Synonyms": "pinball, whack-a-mole, skeeball, klauwmachine"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPELLETJES",
+  "SubCategory": "BORDSPEL",
+  "Synonyms": "schaken, dammen, go, backgammon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPELLETJES",
+  "SubCategory": "CASINO",
+  "Synonyms": "roulette, gokkast, craps, moneywheel, keno, pokermachine"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPELLETJES",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "poker, kaart, jenga, dobbelen, knokkel,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPELLETJES",
+  "SubCategory": "VIDEO",
+  "Synonyms": "atari, ps4, xbox one, xbox 360, amstrad, famicom, snes, gameboy, nintendo 64, playstation, megadrive, psp..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEOTHERMISCH",
+  "SubCategory": "GAS",
+  "Synonyms": "stoomopening, geothermisch, fumarole"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEOTHERMISCH",
+  "SubCategory": "GEYSER",
+  "Synonyms": "spuiten, spuiten, bellen, koken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEOTHERMISCH",
+  "SubCategory": "LAVA",
+  "Synonyms": "lava, stroom, geknetter, stroperig, vlam, gerommel, vulkaan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEOTHERMISCH",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "borrelende hete poel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEOTHERMISCH",
+  "SubCategory": "MODDER",
+  "Synonyms": "modderpot, verfpot, teerput, modder, bubbel, glop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "BREKEN",
+  "Synonyms": "glas breken, breken, versplinteren"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "CRASH & PUIN",
+  "Synonyms": "scherf, fragment, crash, puin"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "WRIJVING",
+  "Synonyms": "stress, schrapen, kraken, piepen, krijsen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "hanteren, grijpen, instellen, ophalen, neerzetten, gooien, vangen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "IMPACT",
+  "Synonyms": "raken, laten vallen, botsen, rinkelen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "rammelen, rollen, pingelen, kletteren"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "TONAAL",
+  "Synonyms": "resoneren, rinkelen, klinken, glazen harmonica, kristallen kom"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GORE",
+  "SubCategory": "BLOED",
+  "Synonyms": "druppelen, stromen, gutsen, spuiten, spuiten"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GORE",
+  "SubCategory": "BOT",
+  "Synonyms": "bot breken, bot breken, bot versplinteren, kaak breken, kaken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GORE",
+  "SubCategory": "BRANDEN",
+  "Synonyms": "knetteren, dichtschroeien, zien, brandmerken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GORE",
+  "SubCategory": "VLEES",
+  "Synonyms": "rip, peel, tear, rend, intestine, meat, wound"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GORE",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GORE",
+  "SubCategory": "SIJPEL",
+  "Synonyms": "slijm, slijm, stroom, gelatine"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GERONNEN",
+  "SubCategory": "SOURCE",
+  "Synonyms": "goosh, squish, goop, slijm, slijm, glop, orgaan, darm, juicy, goo, splat, ooze, rip, peel, stab, tear, rend, intestine, meat, wound, slice, impale, juicy, splat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GORE",
+  "SubCategory": "SPLAT",
+  "Synonyms": "goosh, squish, goop, slijm, ooze, glop, orgaan, darm, juicy, goo, splat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GORE",
+  "SubCategory": "SQUISH",
+  "Synonyms": "squish, meat, organ, goosh, intestine, juicy, splat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GORE",
+  "SubCategory": "STEKEN",
+  "Synonyms": "snijden, spietsen, steken, snijden, vorpal, ontleden"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUURWAPENS",
+  "SubCategory": "ANTIEK",
+  "Synonyms": "muzzleloader, musket, zwartkruit, flintlock, longrifle, fire lance..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUURWAPENS",
+  "SubCategory": "ARTILLERIE",
+  "Synonyms": "houwitser, luchtafweergeschut, raketwerper, bazooka, mortier, raket, marine..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUURWAPENS",
+  "SubCategory": "AUTOMATISCH",
+  "Synonyms": "ak-47, m16, machinegeweer, tommy gun, uzi, m249, M1919, gatling gun, minigun, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUURWAPENS",
+  "SubCategory": "KANON",
+  "Synonyms": "donderbus, handkanon, kanon, zwartkruit"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUURWAPENS",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "holster, pistool, pistool pakken, pistool vangen, pistool laten vallen, pistool laden..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUURWAPENS",
+  "SubCategory": "HI TECH",
+  "Synonyms": "rail gun, spy gun"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUURWAPENS",
+  "SubCategory": "MECHANISME",
+  "Synonyms": "clip, haan, pistool rammelen, grendel, magazijn, kogel laden, pistool haan..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUURWAPENS",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "fakkelpistool, luchtbuks, paintballpistool"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUURWAPENS",
+  "SubCategory": "PISTOOL",
+  "Synonyms": "9mm, pistool, revolver, glock, handwapen, colt, smith & wesson, sig sauer, luger, walther ppk, browning, ruger, beretta"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUURWAPENS",
+  "SubCategory": "GEWEER",
+  "Synonyms": "geweer, mauser, casull, arisaka, luger, karabijn, powell, sniper, jacht, semi-automatisch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUURWAPENS",
+  "SubCategory": "SHOTGUN",
+  "Synonyms": "jachtgeweer, dubbelloops, mossberg, winchester, coach gun"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VUURWAPENS",
+  "SubCategory": "GEDEMPT",
+  "Synonyms": "gedempt, geluiddemper"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOETERS",
+  "SubCategory": "LUCHTDRUK",
+  "Synonyms": "misthoorn, luchthoorn, fabriekshoorn"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOETERS",
+  "SubCategory": "VIERING",
+  "Synonyms": "feesttoeter, vuvuzela"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOETERS",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "jachthoorn, elandhoorn, eendenhoorn, vossenhoorn"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOETERS",
+  "SubCategory": "TRADITIONEEL",
+  "Synonyms": "shofar, conch, conch schelp, strijdhoorn, alpenhoorn, alpenhoorn, alpenhoorn"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENS",
+  "SubCategory": "BLAZEN",
+  "Synonyms": "blazen, uitademen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENS",
+  "SubCategory": "ADEM",
+  "Synonyms": "adem, zucht, inademen, uitademen, hijgen, puffen, hijgen, whoop, ademhaling, inademing, uitademing"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENS",
+  "SubCategory": "BOER",
+  "Synonyms": "boeren, oprispen, hikken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENS",
+  "SubCategory": "HOEST",
+  "Synonyms": "hack, ahem, schorre, heldere keel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENS",
+  "SubCategory": "HARTSLAG",
+  "Synonyms": "hartkloppingen, bumbum"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENS",
+  "SubCategory": "ZOENEN",
+  "Synonyms": "smooch, peck"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENS",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENS",
+  "SubCategory": "PLASSEN",
+  "Synonyms": "plassen, plassen, plassen, tinkelen, wizz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENS",
+  "SubCategory": "HUID",
+  "Synonyms": "wrijven, krabben, huid, jeuk, klap, handgreep, handdruk, strelen, wrijven, rugwrijven"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENS",
+  "SubCategory": "NIEZEN",
+  "Synonyms": "niezen, ah-choo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENS",
+  "SubCategory": "RUIKEN",
+  "Synonyms": "snuiven, snuiven, ruiken, snuiven"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENS",
+  "SubCategory": "SNURKEN",
+  "Synonyms": "snurken, zzz, verstopt, zware ademhaling, apneu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENS",
+  "SubCategory": "SPUGEN",
+  "Synonyms": "spugen, hakken, spuwen, spuugbak, kwijlen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MENS",
+  "SubCategory": "KOTSEN",
+  "Synonyms": "overgeven, kotsen, opkotsen, uitbraken, overgeven, kokhalzen, kokhalzen, overgeven, spuwen, zeeziek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IJS",
+  "SubCategory": "BREKEN",
+  "Synonyms": "breken, barsten, scheuren, versplinteren, kraken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IJS",
+  "SubCategory": "CRASH & PUIN",
+  "Synonyms": "neerstorten, vallen, brokstukken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IJS",
+  "SubCategory": "WRIJVING",
+  "Synonyms": "stress, schrapen, kraken, piepen, krijsen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IJS",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "hanteren, grijpen, instellen, ophalen, neerzetten, gooien, vangen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IJS",
+  "SubCategory": "IMPACT",
+  "Synonyms": "raken, laten vallen, botsen, neerstorten, clunk, clang, clink, chop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IJS",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IJS",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "slepen, rollen, rammelen, schudden"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IJS",
+  "SubCategory": "TONAAL",
+  "Synonyms": "boog, ring, shing"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LASERS",
+  "SubCategory": "STRAAL ",
+  "Synonyms": "straal, gamma, straal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LASERS",
+  "SubCategory": "PISTOOL",
+  "Synonyms": "plasmawapen, blaster, laserkanon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LASERS",
+  "SubCategory": "IMPACT",
+  "Synonyms": "laser, blaster, impact, hit, sizzle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LASERS",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LEER",
+  "SubCategory": "KRAAK",
+  "Synonyms": "kraken, stress, spanning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LEER",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "hanteren, grijpen, instellen, ophalen, neerzetten, gooien, vangen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LEER",
+  "SubCategory": "IMPACT",
+  "Synonyms": "hit, impact, grab, thud, thump"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LEER",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LEER",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "flap, flop, ritselen, mvmt, glijden"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VLOEISTOF & MODDER",
+  "SubCategory": "BUBBELS",
+  "Synonyms": "bel, schuim, pop, modder"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VLOEISTOF & MODDER",
+  "SubCategory": "IMPACT",
+  "Synonyms": "splat, splatter, hit, impact, plop, kerplunk, plunk, modder"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VLOEISTOF & MODDER",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VLOEISTOF & MODDER",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "slijm, slijm, prut, modder"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VLOEISTOF & MODDER",
+  "SubCategory": "ZUIGING",
+  "Synonyms": "zuig, slurp, glomp, plunjer, modder"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "PRETPARK",
+  "Synonyms": "achtbaan, draaimolen, scrambler, tilt-a-whirl, kinderattractie, pretparkattractie, flipperkast, skeeball"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "ANTIEK",
+  "Synonyms": "drukpers, naaimachine, olijfpers, boterkarn..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "APPARAAT",
+  "Synonyms": "oven, koelkast, mixer, keukenmachine, haardroger, ijsmachine, wasmachine, droger, strijkijzer, koffiezetapparaat, vaatwasser, elektrische blikopener, vuilnisbak, luchtbevochtiger, ontvochtiger, naaimachine, broodrooster, wafelijzer, bakplaat, kookplaat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "CONSTRUCTIE",
+  "Synonyms": "kraan, cementmolen, houtversnipperaar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "LIFT",
+  "Synonyms": "paternoster, goederenlift, personenlift, lift..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "ROLTRAP",
+  "Synonyms": "roltrap, loopbrug"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "VENTILATOR",
+  "Synonyms": "ventilator, plafondventilator, boxventilator, industri\u00eble ventilator, ventilator zonder bladen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "TUIN",
+  "Synonyms": "grasmaaier, onkruidverdelger, grasmaaier, kettingzaag, trimmer, stokzaag, mulcher, cultivator"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "FITNESS",
+  "Synonyms": "loopband, eliptical, roeimachine, hometrainer, stationaire fiets, nordictrack, trapklimmer."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "HI TECH",
+  "Synonyms": "gadget, digitaal, handheld"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "OVEN / AIRCO",
+  "Synonyms": "airco, airconditioning, verwarming."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "INDUSTRIEEL",
+  "Synonyms": "hydraulische pers, lopende band, distilleerderij, ponsmachine, vormpers+F437:F450"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "MECHANISME",
+  "Synonyms": "puzzeldoos, rube goldberg, gizmo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "MEDISCH",
+  "Synonyms": "x-ray machines, mri, cat scan, pet scan, bloeddruk machine, lab test machine, centrifuge, ventilator, defibrillator"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "KANTOOR",
+  "Synonyms": "fax, facsimile, telefax, kopieerapparaat, printer, versnipperaar, xerox, fotokopieerapparaat, mimeograaf, laserprinter, inkjet, papierversnipperaar, plotter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MACHINES",
+  "SubCategory": "POMP",
+  "Synonyms": "waterpomp, carterpomp, compressor, luchtcompressor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGIE",
+  "SubCategory": "ENGELACHTIG",
+  "Synonyms": "heilig, hemels, etherisch, goddelijk, spiritueel, zaligmakend, rechtvaardig, heilig"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGIE",
+  "SubCategory": "ELEMENTAIRE",
+  "Synonyms": "vuur, water, aarde, elektrisch, lucht, wind"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGIE",
+  "SubCategory": "KWAADAARDIG",
+  "Synonyms": "duister, duivel, oproep, necromantie, voodoo, zwarte magie, verboden"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGIE",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGIE",
+  "SubCategory": "POOEF",
+  "Synonyms": "chuff, foomp, blast"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGIE",
+  "SubCategory": "GLINSTEREN",
+  "Synonyms": "twinkelen, fonkelen, bellenboom, klingelen, glinsteren, glinsteren, glitteren, schitteren, gloeien, glinsteren, fonkelen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGIE",
+  "SubCategory": "BETOVERING",
+  "Synonyms": "heks, tovenaar, tovenaar, cast, incantatie, hex, rune, sorcery, enchant, invocatie, bewitch, exorcisme, curse, trance"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANISCH",
+  "SubCategory": "KLIK",
+  "Synonyms": "click, clack, snap, toggle, button"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANISCH",
+  "SubCategory": "TANDWIEL",
+  "Synonyms": "versnelling, tandwiel, rondsel, tandheugel, transmissie, tandwiel, tandwiel, vliegwiel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANISCH",
+  "SubCategory": "HYDRAULISCH & PNEUMATISCH",
+  "Synonyms": "hydraulisch, pneumatisch, onder druk, ventiel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANISCH",
+  "SubCategory": "LUIK",
+  "Synonyms": "grendel, beslag, slot, sluiting, grendel, bout"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANISCH",
+  "SubCategory": "HENDEL",
+  "Synonyms": "hendel, schakelaar, clunk, clank"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANISCH",
+  "SubCategory": "SLOT",
+  "Synonyms": "hangslot, nachtslot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANISCH",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANISCH",
+  "SubCategory": "KATROL",
+  "Synonyms": "piepen, piepen, rollen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANISCH",
+  "SubCategory": "RATEL",
+  "Synonyms": "ratel, klik, klik, wind, zwengel, lier"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANISCH",
+  "SubCategory": "RELAIS",
+  "Synonyms": "flip, toggle, clack"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANISCH",
+  "SubCategory": "ROLLER",
+  "Synonyms": "rol, riem, lijnas"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANISCH",
+  "SubCategory": "SCHAKELAAR",
+  "Synonyms": "schakelaar, klik, clack, toggle, knop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAAL",
+  "SubCategory": "BREKEN",
+  "Synonyms": "breken, kraken, scheuren, versplinteren, kraken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAAL",
+  "SubCategory": "CRASH & PUIN",
+  "Synonyms": "crash, val, brokstukken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAAL",
+  "SubCategory": "WRIJVING",
+  "Synonyms": "stress, schrapen, kraken, piepen, krijsen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAAL",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "hanteren, grijpen, instellen, ophalen, neerzetten, gooien, vangen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAAL",
+  "SubCategory": "IMPACT",
+  "Synonyms": "raken, vallen, impact, crash, clunk, clang"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAAL",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAAL",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "slepen, rollen, rammelen, schudden"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAAL",
+  "SubCategory": "TONAAL",
+  "Synonyms": "buigen, ring, wronk, shing, kromtrekken, buigen, resoneren"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTOREN",
+  "SubCategory": "ANTIEK",
+  "Synonyms": "kerosinemotor, paraffinemotor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTOREN",
+  "SubCategory": "ONTBRANDING",
+  "Synonyms": "dieselmotor, gasmotor, verbrandingsmotor, tweetaktmotor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTOREN",
+  "SubCategory": "ELECTRISCH",
+  "Synonyms": "tandenborstel, elektrisch scheerapparaat, elektrische motor, vuilnisbak, tandartsboormachine"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTOREN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTOREN",
+  "SubCategory": "SERVO",
+  "Synonyms": "robot, rc auto, camera focus, auto antenne, printer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTOREN",
+  "SubCategory": "TURBINE",
+  "Synonyms": "windmolen, vliegtuig, vliegtuig, generator"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BEWEGING",
+  "SubCategory": "ACTIVITEITEN",
+  "Synonyms": "activiteit, verhuizen, schoonmaken, winkelen, uitpakken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BEWEGING",
+  "SubCategory": "DIEREN",
+  "Synonyms": "stormloop, kudde, aanval, vertrappen, klauteren"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BEWEGING",
+  "SubCategory": "WEZEN",
+  "Synonyms": "glibberen, kruipen, glijden, kronkelen, kronkelen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BEWEGING",
+  "SubCategory": "MENIGTE",
+  "Synonyms": "lopen, rennen, marcheren, wandelen, schuifelen, schuifelen, zitten, staan, liggen, uitglijden, springen, overslaan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BEWEGING",
+  "SubCategory": "MENS",
+  "Synonyms": "lopen, rennen, marcheren, frezen, schuifelen, schuifelen, zitten, staan, liggen, glijden, springen, overslaan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BEWEGING",
+  "SubCategory": "INSECT",
+  "Synonyms": "zwerm, korf, bijenkorf, glibberen, maden"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BEWEGING",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BEWEGING",
+  "SubCategory": "AANWEZIGHEID",
+  "Synonyms": "aanpassen, schuifelen, schuifelen, lichte beweging, verschuiven"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "BELLEN",
+  "Synonyms": "buisklokken, beiaard, gamelan, klankschaal, handbel, koebel, gong, gamelan, agung, komgong, tam-tam"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "KOPERBLAZERS",
+  "Synonyms": "tuba, hoorn, trombone, trompet, mellofoon, euphorium, sousafoon, bugel, saxhoorn, kornet"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "GONG",
+  "Synonyms": "windgong, bellenboom, tinkle, twinkle, shimmer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "KOOR",
+  "Synonyms": "koor, koor, gospel, kerk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "EXPERIMENTEEL",
+  "Synonyms": "theremin, glazen armonica, pyrofoon, stylofoon, kristallen baschet, ge\u00eblektriseerde cactus, eolische windharp"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "INSTRUMENT",
+  "Synonyms": "instrument"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "TOETSEN",
+  "Synonyms": "piano, orgel, klavecimbel, accordeon, melodica, celesta, spinet, clavinet, clavichord, harmonium, dulcitone"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "LOOP  ",
+  "Synonyms": "muziek loops, sample loops, drum loops"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diversen, harmonica, kazoo..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "PERCUSSIE",
+  "Synonyms": "pauken, keteldrum, basdrum, toms, oorlogsdrums, taiko, kick drum, snare drum"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "PERCUSSIE GESTEMD",
+  "Synonyms": "glockenspiel, xylofoon, vibrafoon, metallofoon, klokkenluider, steeldrum, marimba"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "UITVOERING",
+  "Synonyms": "band, straatmuzikant, live concert, show, nachtclub, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "GEPLUKT",
+  "Synonyms": "gitaar, banjo, ukelele, harp, akoestische gitaar, basgitaar, mandoline, balalaika, sitar, pipa, duimpiano, kaakharp, citer, balalaika, autoharp, kora, luit, lier, oud, tambura, karimba..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "SAMPLE",
+  "Synonyms": "samples, ruwe samples, one-shot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "SCHUDDEN",
+  "Synonyms": "maracas, tamboerijn, rammelaars, regenstok, shekere, eierschudder, chajchas, apenstok, katsa, sistrum, shaker, cabasa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "LIED",
+  "Synonyms": "muziek, player piano, ringtone, musical car by, phrase"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "STING",
+  "Synonyms": "muziek angel, nieuws angel, titel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "STRIJKERS",
+  "Synonyms": "viool, cello, altviool, violoncello, bas, contrabas"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "GESYNTHETISEERD",
+  "Synonyms": "synth, moog, casio, roland, arp, synthesizer, oberheim, minimoog, yamaha, korg"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "SPEELGOED",
+  "Synonyms": "muziekdoos, jack in the box"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSICAL",
+  "SubCategory": "HOUTBLAZERS",
+  "Synonyms": "fluit, piccolo, hobo, fagot, blokfluit, klarinet, saxofoon, basklarinet, ney, bansuri, kaval, panfluit, xiao, fife.., "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NATUURRAMP",
+  "SubCategory": "LAWINE",
+  "Synonyms": "aardverschuiving, modderstroom"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NATUURRAMP",
+  "SubCategory": "AARDBEVING",
+  "Synonyms": "earthquake, rumble, rattle, fissure, lfe"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NATUURRAMP",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NATUURRAMP",
+  "SubCategory": "TORNADO",
+  "Synonyms": "twister, vortex, waterhoos"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NATUURRAMP",
+  "SubCategory": "TSUNAMI",
+  "Synonyms": "vloedgolf, tsunami"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NATUURRAMP",
+  "SubCategory": "TYFOON",
+  "Synonyms": "tyfoon, orkaan, cycloon, tropische storm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NATUURRAMP",
+  "SubCategory": "VULKAAN",
+  "Synonyms": "uitbarsting, lava, lava bommen, uitbarstingen, pyroclastiek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "TAS",
+  "Synonyms": "duffel, rugzak, rugzak, handtas, schoudertas, cameratas"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "BOEK",
+  "Synonyms": "boek, kaft, tijdschrift, catalogus, leerboek, woordenboek, boekdeel, bijbel, publicatie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "MUNT",
+  "Synonyms": "toss, flip, ping, dump, spin, piggy bank, clink, coin, loose change, change, silver dollar, penny, nickel, dime, quarter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "BEWAARDOOS",
+  "Synonyms": "doos, kartonnen doos, container, verpakking, juwelendoos, plastic container, deksel, tupperware, capsule, brooddoos, bus, gereedschapskist, pillendoosje"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "TUIN",
+  "Synonyms": "schoenen, laarzen, mascara, lippenstift, make-up, riem, sjerp, sjaal, hoge hakken, eyeliner, zonnebril, bril, portefeuille, hoed, handschoenen, horloges, sjaal, sokken, bandana, hoofdband, dassen, moffen, bretels, badjas, zakdoek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "GYM",
+  "Synonyms": "chesterfield, bank, schommelstoel, tafel, stoel, loveseat, kruk, kast, boekenkast, bed, bank, kist"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "MODE",
+  "Synonyms": "bloempot, tuinbeeld, slang, kraan, gieter, vogelvoederbak, composteerbak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "MEUBILAIR",
+  "Synonyms": "gewicht, dumbell, barbell, mat, gewichtsbank, springtouw, gymnastiekbal, yogamat, gewichtsbank, weerstandsband, kettlebell, fitnessbal, gymnastiekbal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "HUISHOUDEN",
+  "Synonyms": "huis, huis, huis"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "JUWELEN",
+  "Synonyms": "armband, halsketting, kroon, oorbel, ring, nosering, hanger, dasspeld, manchetknopen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "SLEUTELS",
+  "Synonyms": "sleutelring, sleutelhanger, sleutelkoord"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "KOFFERS",
+  "Synonyms": "koffer, bagage, plunjezak, duffel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "MEDISCH",
+  "Synonyms": "manuele bloeddrukmeter, stethoscoop, rubberen handschoenen, klem, injectiespuit, forceerapparaat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "KANTOOR",
+  "Synonyms": "nietmachine, papiersnijder, perforator, schaar, papierbak, presse-papier, map, ordner, rapport"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "INPAK",
+  "Synonyms": "karton, piepschuim, verpakkingspinda's, etiketten, pakpapier, noppenfolie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "TAPE",
+  "Synonyms": "tape, klittenband, vliegenpapier, lijm, verpakkingstape, afplaktape, duct tape, gaffer tape, scotch tape, dubbelzijdig plakband..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "PARAPLU",
+  "Synonyms": "schudden, ritselen, ploppen, dreunen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "OP WIELEN",
+  "Synonyms": "kinderwagen, wandelwagen, kinderwagen, rolstoel, dolly, wandelwagen, kar, brancard"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "SCHRIJVEN",
+  "Synonyms": "pen, potlood, stift, krijt, krijt, droog wisbord, sharpie, handtekening"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOORWERPEN",
+  "SubCategory": "RITS",
+  "Synonyms": "rits, broek, jas, tent, tas"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPIER",
+  "SubCategory": "FLADDEREN",
+  "Synonyms": "fladderen, flapperen, vallen, confetti, karton, papier"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPIER",
+  "SubCategory": "WRIJVING",
+  "Synonyms": "glijden, schrapen, karton, papier"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPIER",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "omslaan, bladzijde, bladeren, doorbladeren, karton, papier"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPIER",
+  "SubCategory": "IMPACT",
+  "Synonyms": "papier slaan, smakken, meppen, krant, tijdschrift, karton, papier"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPIER",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPIER",
+  "SubCategory": "SCHEUREN",
+  "Synonyms": "scheuren, scheuren, versnipperen, karton, papier"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPIER",
+  "SubCategory": "TONAAL",
+  "Synonyms": "tonaal, zingen, rinkelen, papier, karton"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIC",
+  "SubCategory": "BREKEN",
+  "Synonyms": "breken, barsten, scheuren, versplinteren, kraken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIC",
+  "SubCategory": "CRASH & PUIN",
+  "Synonyms": "vallen, neerstorten, brokstukken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIC",
+  "SubCategory": "WRIJVING",
+  "Synonyms": "stress, schrapen, kraken, piepen, krijsen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIC",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "hanteren, grijpen, instellen, ophalen, neerzetten, gooien, vangen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIC",
+  "SubCategory": "IMPACT",
+  "Synonyms": "raken, laten vallen, botsen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIC",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIC",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "slepen, rollen, rammelen, schudden"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIC",
+  "SubCategory": "TONAAL",
+  "Synonyms": "tonaal, zingen, rinkelen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGEN",
+  "SubCategory": "KLEDING",
+  "Synonyms": "regen, doek, jas, paraplu, katoen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGEN",
+  "SubCategory": "ASFALT",
+  "Synonyms": "regen, cement, stoep, asfalt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGEN",
+  "SubCategory": "ALGEMEEN",
+  "Synonyms": "regen, regenstorm, stortbui"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGEN",
+  "SubCategory": "GLAS",
+  "Synonyms": "regen, glas, dakraam, raam, zonnedak, serre"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGEN",
+  "SubCategory": "INTERIEUR",
+  "Synonyms": "regen, regenstorm, binnenregen, windschermregen, regen op dak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGEN",
+  "SubCategory": "METAAL",
+  "Synonyms": "regen, metaal, auto, blik, blik, dak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGEN",
+  "SubCategory": "PLASTIC",
+  "Synonyms": "regen, plastic, vinyl, plexiglas"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGEN",
+  "SubCategory": "VEGETATIE",
+  "Synonyms": "regen op een metalen oppervlak, dus regen op een auto, of metalen plaat, enz."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGEN",
+  "SubCategory": "WATER",
+  "Synonyms": "regen, plas, meer, vijver"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGEN",
+  "SubCategory": "HOUT",
+  "Synonyms": "regen, hout, dek, dak, schuur, vloer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ROBOTS",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "automaat, droid, bot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ROBOTS",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "servo, soleno\u00efde, mechanisme, pneumatisch, hydraulisch, droid, bot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ROBOTS",
+  "SubCategory": "STEM",
+  "Synonyms": "droid, tsjirp, piep, fluit, bot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STENEN",
+  "SubCategory": "BREKEN",
+  "Synonyms": "Breuken, barsten, scheuren, versplinteren, kraken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STENEN",
+  "SubCategory": "CRASH & PUIN",
+  "Synonyms": "Vallen, Puin"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STENEN",
+  "SubCategory": "WRIJVING",
+  "Synonyms": "Spanning, schrammen, kraken, piepen, krijsen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STENEN",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "hanteren, grijpen, instellen, ophalen, neerzetten, gooien, vangen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STENEN",
+  "SubCategory": "IMPACT",
+  "Synonyms": "Hit, Drop, Impact, Crash, Clunk, Clang, Clink, Chop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STENEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STENEN",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "Slepen, Rollen, Rammelen, Schudden"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STENEN",
+  "SubCategory": "TONAAL",
+  "Synonyms": "Buigen, Ring, Wronk, Shing, Warp"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOUW",
+  "SubCategory": "KRAKEN",
+  "Synonyms": "rekken, spannen, trekken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOUW",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "hanteren, grijpen, instellen, ophalen, neerzetten, gooien, vangen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOUW",
+  "SubCategory": "IMPACT",
+  "Synonyms": "slaan, laten vallen, stoten"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOUW",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOUW",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "zuzz, zipline, zip, knoop, tie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RUBBER",
+  "SubCategory": "CRASH & PUIN",
+  "Synonyms": "puin, verstrooien, plop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RUBBER",
+  "SubCategory": "WRIJVING",
+  "Synonyms": "piepen, kraken, slepen, wrijven, schrapen, kreunen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RUBBER",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "hanteren, grijpen, instellen, ophalen, neerzetten, gooien, vangen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RUBBER",
+  "SubCategory": "IMPACT",
+  "Synonyms": "smakken, botsen, slaan, stuiteren, vallen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RUBBER",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RUBBER",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "beweging, slepen, kleppen, floppen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RUBBER",
+  "SubCategory": "TONAAL",
+  "Synonyms": "tonaal, rubber, zingen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "ALARM",
+  "Synonyms": "sci-fi alarm, alarm, waarschuwing"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "COMPUTER",
+  "Synonyms": "computer, console, interface, holoscherm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "DEUR",
+  "Synonyms": "sci-fi deur, luchtsluis"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "ENERGIE",
+  "Synonyms": "deeltje, vortex, transporter, hologram, krachtveld"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "IMPACT",
+  "Synonyms": "energiestoot, energiegolf, krachtveld"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "MACHINE",
+  "Synonyms": "teleporter, voedselreplicators, holodeck..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "MECHANISME",
+  "Synonyms": "tricorder, scifi apparaat, gizmo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "RETRO",
+  "Synonyms": "oude sci-fi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "RUIMTESCHIP",
+  "Synonyms": "ruimteschip, ufo, moederschip, slagschip, sterrenschip"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "VOERTUIG",
+  "Synonyms": "maan zwerver, landspeeder, speeder fiets, hoverboard, podracer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "WAPEN",
+  "Synonyms": "lichtzwaarden, exotisch wapen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SNOW",
+  "SubCategory": "CRASH & PUIN",
+  "Synonyms": "sneeuwbal, sneeuwcrash"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SNOW",
+  "SubCategory": "WRIJVING",
+  "Synonyms": "stress, schrapen, kraken, piepen, krijsen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SNOW",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "hanteren, grijpen, instellen, oppakken, neerzetten, gooien, vangen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SNOW",
+  "SubCategory": "IMPACT",
+  "Synonyms": "sneeuwbal, sneeuwdrift, omvallen, vallen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SNOW",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SNOW",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "waden, slepen, ploeteren, fumble"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORTEN",
+  "SubCategory": "BINNENBAAN",
+  "Synonyms": "basketbal, tennis, schermen, volleybal, racquetball, badminton, netbal, squash, trefbal, sjoelbak, handbal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORTEN",
+  "SubCategory": "VELD",
+  "Synonyms": "voetbal, voetbal, honkbal, veldhockey, cricket, rugby, polo, lacrosse..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORTEN",
+  "SubCategory": "GYM",
+  "Synonyms": "boksen, worstelen, gymnastiek, krachttraining, vechtsporten, karate, judo, tae kwon do, dojo, kung fu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORTEN",
+  "SubCategory": "BINNEN",
+  "Synonyms": "bowling, biljart, pingpong, darts"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORTEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "golf"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORTEN",
+  "SubCategory": "SKATEN",
+  "Synonyms": "skateboarden, rolschaatsen, skeeleren, steppen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORTEN",
+  "SubCategory": "BAAN & VELD",
+  "Synonyms": "verspringen, hardlopen, polsstokhoogspringen, kogelstoten, speerwerpen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORTEN",
+  "SubCategory": "WATER",
+  "Synonyms": "zwemmen, waterpolo, watervolleybal, duiken, waterski\u00ebn, surfen, kiteboarden, duiken, snorkelen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORTEN",
+  "SubCategory": "WINTER",
+  "Synonyms": "ski\u00ebn, snowboarden, bobslee\u00ebn, schaatsen, slee\u00ebn, curling, ijshockey, rodelen, schaatsen..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SWOOSHES",
+  "SubCategory": "SWISH",
+  "Synonyms": "swish, kungfu, whizby, flutter, swing"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SWOOSHES",
+  "SubCategory": "WHOOSH",
+  "Synonyms": "woosh"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEREEDSCHAPPEN",
+  "SubCategory": "TUIN",
+  "Synonyms": "hark, schoffel, spade, troffel, bezem, snoeischaar, tuinvork, tuinfrees, takkenschaar, schop, onkruidwieder"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEREEDSCHAPPEN",
+  "SubCategory": "HANDGEREEDSCHAP",
+  "Synonyms": "hamer, schroevendraaier, tang, moersleutel, ratel, dopsleutel, handzaag, klem, kniptang, koevoet, beitel, schraper, nietpistool, vijl, schaar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEREEDSCHAPPEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEREEDSCHAPPEN",
+  "SubCategory": "PNEUMATISCH",
+  "Synonyms": "drilboor, luchtgereedschap, luchtratel, spijkerpistolen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEREEDSCHAPPEN",
+  "SubCategory": "KRACHT",
+  "Synonyms": "boormachine, motorzaag, cirkelzaag, decoupeerzaag, schuurmachine, bandschuurmachine, router, elektrische schroevendraaier, warmtepistool, boormachine, tafelzaag"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPEELGOED",
+  "SubCategory": "ELECTRONISCH",
+  "Synonyms": "auto met afstandsbediening, slot car, spreken en spellen, furby"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPEELGOED",
+  "SubCategory": "MECHANISCH",
+  "Synonyms": "opwindbaar speelgoed, speelgoedrobot, opwindbaar speelgoed"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPEELGOED",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "actiefiguur, pop, knuffeldier"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREINEN",
+  "SubCategory": "REM",
+  "Synonyms": "breekt, krijst, knarst"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREINEN",
+  "SubCategory": "RAILS",
+  "Synonyms": "clack"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREINEN",
+  "SubCategory": "DEUR",
+  "Synonyms": "treindeur, metrodeur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREINEN",
+  "SubCategory": "DIESEL",
+  "Synonyms": "dieseltrein"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREINEN",
+  "SubCategory": "ELECTRISCH",
+  "Synonyms": "forensentrein, regionale trein, stadslijn, intercitytrein, lightrail"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREINEN",
+  "SubCategory": "HOGE SNELHEID",
+  "Synonyms": "hi-tech trein, maglev, monorails, hyperloop, bullet train"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREINEN",
+  "SubCategory": "TOETER",
+  "Synonyms": "treinhoorn, metrohoorn"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREINEN",
+  "SubCategory": "INTERIEUR",
+  "Synonyms": "forensentrein, regionale trein, stadslijn, intercitytrein, lightrail, goederentrein, metro, monorail"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREINEN",
+  "SubCategory": "MECHANISME",
+  "Synonyms": "rangeren, ontkoppelen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREINEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREINEN",
+  "SubCategory": "STOOM",
+  "Synonyms": "stoomtrein, kolentrein"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREINEN",
+  "SubCategory": "METRO",
+  "Synonyms": "metro, metro, de buis, rer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREINEN",
+  "SubCategory": "TRAM",
+  "Synonyms": "tram, trolley, kabelbaan, funiculaire, grijpauto"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "USER INTERFACE",
+  "SubCategory": "ALARM",
+  "Synonyms": "waarschuwing, toon, sms, melding, opstarten"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "USER INTERFACE",
+  "SubCategory": "BEEP",
+  "Synonyms": "computer pieptoon, telefoon pieptoon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "USER INTERFACE",
+  "SubCategory": "KLIK",
+  "Synonyms": "klikken, tikken, typen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "USER INTERFACE",
+  "SubCategory": "DATA",
+  "Synonyms": "gegevens, verwerking, informatie, denken"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "USER INTERFACE",
+  "SubCategory": "STATISCH",
+  "Synonyms": "glitch, storing, fout, kernel paniek, guru meditatie fout"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "USER INTERFACE",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "USER INTERFACE",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "vegen, scrollen, zoomen, pagina"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VEGETATIE",
+  "SubCategory": "GRAS",
+  "Synonyms": "gras ritselen, doorlopen, hooi, tarwe"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VEGETATIE",
+  "SubCategory": "BLADEREN",
+  "Synonyms": "bladwerveling, bladval, bladeren vallen, bladstapel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VEGETATIE",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "gebladerte"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VEGETATIE",
+  "SubCategory": "BOOM",
+  "Synonyms": "boom valt, tak knapt, tak breekt, takje"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "ALARM",
+  "Synonyms": "auto, auto, automobiel, autoalarm, arm tsjirp, ontwapen tsjirp, fob"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "ANTIEK",
+  "Synonyms": "auto, auto, auto, oldsmobiel, model a, model t"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "TERREINWAGEN",
+  "Synonyms": "quad, driewieler, vierwieler, vierwieler, duinbuggy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "FIETS",
+  "Synonyms": "fiets, fiets, ligfiets, eenwieler, tandem, bmx"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "REM",
+  "Synonyms": "rem piepen, piepen, knarsen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "BUS",
+  "Synonyms": "stadsbus, schoolbus, greyhoundbus, touringcarbus, tourbus, dubbeldekker"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "AUTO",
+  "Synonyms": "auto, auto, automobiel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "CONSTRUCTIE",
+  "Synonyms": "kraan, bulldozer, graafmachine, graafmachine, vorkheftruck"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "DEUR",
+  "Synonyms": "auto, auto, automobiel, autodeur, bestelwagendeur, vrachtwagendeur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "ELECTRISCH",
+  "Synonyms": "segway, golfkarretje, elektrische scooter, elektrische auto, elektrische motorfiets, tesla, elektrische gokart"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "NOODGEVAL",
+  "Synonyms": "brandweerwagen, brandweerwagen, ambulance, politieauto, SWAT-busje"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "BOERDERIJ",
+  "Synonyms": "tractor, combine, peller, oogstmachine"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "VRACHT",
+  "Synonyms": "big rigs, vrachtwagen, semi-truck, u-haul truck, penske, box truck, vrachtauto"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "VOORBIJ",
+  "Synonyms": "auto, auto, auto, passeren"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "CLAXON",
+  "Synonyms": "auto, auto, auto, autoclaxon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "INTERIEUR",
+  "Synonyms": "auto, vrachtwagen, bestelwagen, interieur, rijden, aan boord, bus"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "OUD BARREL",
+  "Synonyms": "auto, auto, auto, hoopty, clunker, junker, valse start, misfiring, storing, misfire, backfire"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "MECHANISCH",
+  "Synonyms": "raamslinger, handschoenenkastje, voorruit, ruitenwisser, kofferbak, veiligheidsgordel, richtingaanwijzer, versnellingspook..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "MILITAIR",
+  "Synonyms": "tank, APC, pantserwagen, humvee, jeep..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "sneeuwscooter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "MOTOR",
+  "Synonyms": "scooter, motorfiets, motorfiets, vespa, motorcross, crossmotor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "RACE",
+  "Synonyms": "auto, auto, auto, race auto, drag race auto, indy, formule 1, nascar, grand prix, monster truck"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "SIRENE",
+  "Synonyms": "ambulance, politie, sirene, brandweerwagen, brandweerman"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "SLIPPEN",
+  "Synonyms": "band slip, peel out, chuff, burnout"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "VERING",
+  "Synonyms": "ophanging, schokveren, piepen, rammelen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "BAND",
+  "Synonyms": "band, band, rol"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "VRACHTWAGEN & SUV",
+  "Synonyms": "auto, auto, auto, passagierstruck, pick-up truck, bestelwagens, suv, flatbed, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "KLEIN",
+  "Synonyms": "utv, sxs, side by side, rzr, ranger, cushman, gator"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "KOETS",
+  "Synonyms": "wagen, postkoets, buggy, koets, houtkar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VOERTUIGEN",
+  "SubCategory": "RAAM",
+  "Synonyms": "auto, auto, automobiel, automatisch raam, elektrisch raam"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "BUITENAARDS",
+  "Synonyms": "alien taal, chewbacca"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "BABY",
+  "Synonyms": "coo, babble, fuss, snuffle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "JUICHEN",
+  "Synonyms": "klap, boe, juich, yay, schreeuw, woohoo, holler"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "KIND",
+  "Synonyms": "kind, tiener, tiener"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "HUILEN",
+  "Synonyms": "huilen, pruilen, snikken, jammeren, brullen, pruilen, verwonden"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "INSPANNING",
+  "Synonyms": "inspanning, grommen, worstelen, inspannen, inspannen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "VROUW",
+  "Synonyms": "vrouw, vrouwelijk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "OMROEPEN",
+  "Synonyms": "spreker, openbare toespraak, aankondiging"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "HISTORISCH",
+  "Synonyms": "toespraak, lezing, uitzending, nieuws, historisch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "LACHEN",
+  "Synonyms": "giechelen, grinniken, lachen, toeteren, schreeuwen, maniakaal, hysterisch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "MAN",
+  "Synonyms": "man, man"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "REACTIE",
+  "Synonyms": "oh, ooh, ooo, ah, ahh, ahhh, er, em, hmm, hm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "SCHREEUWEN",
+  "Synonyms": "schreeuw, gil, schreeuw, dood, val"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "ZINGEN",
+  "Synonyms": "zingen, neuri\u00ebn, deuntje"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEMMEN",
+  "SubCategory": "FLUISTEREN",
+  "Synonyms": "fluisteren, mompelen, zwijgen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "BUBBELS",
+  "Synonyms": "bubbel, kook, pruttel, blub, glub, ketel, brouwsel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "AFVOER",
+  "Synonyms": "drain, gurgle, burble, sewer, shower, sink, storm drain"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "DRUPPELEN",
+  "Synonyms": "druipen, plop, plop, druppelen, lek, grot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "PRIK",
+  "Synonyms": "bruisen, sissen, seltzer, schuim, sissen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "STROMEN",
+  "Synonyms": "rivier, beek, kreek, stroom, waterloop, zijrivier, beek, runnel, beekje, bron"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "FONTEIN",
+  "Synonyms": "fontein, spray, druppel, sis"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "IMPACT",
+  "Synonyms": "plons, buiksprong, kanonskogel, dieptebom, sploosh"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "KABBELEN",
+  "Synonyms": "rimpeling, schoot, romp, klap, klotsen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "slosh, wade, splash, sweep, tread"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "LOODGIETEN",
+  "Synonyms": "toilet doorspoelen, wastafel, douche,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "GIETEN",
+  "Synonyms": "gieten, vullen, dumpen, legen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "SPETTEREN",
+  "Synonyms": "splash, swim, wade, dive, plunge, slosh, submerge"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "SPRAYEN",
+  "Synonyms": "spuiten, spritsen, spuiten, gutsen, sprenkelen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "STOOM",
+  "Synonyms": "spuiten, nevel, stoom, nat sissen, sputteren"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "OCEAAN",
+  "Synonyms": "kustlijn, kustlijn, zeekust, strand, wassen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "TURBULENT",
+  "Synonyms": "draaikolk, golfslagbad, stroomversnelling, maalstroom, kolk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "ONDERWATER",
+  "Synonyms": "onder water, stroom, turbulent"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "WATERVAL",
+  "Synonyms": "waterval, waterval, dam, stortvloed, niagara"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WATER",
+  "SubCategory": "GOLFSLAG",
+  "Synonyms": "golf, golfbreker, getijden, zeekust, steiger, kabbelen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WAPENS",
+  "SubCategory": "HARNAS",
+  "Synonyms": "harnas, mali\u00ebnkolder, helm, pantser, borstplaat, kuras, domaru, spalk, haramaki, schild"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WAPENS",
+  "SubCategory": "PIJL",
+  "Synonyms": "pijl, bout, fletch, koker"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WAPENS",
+  "SubCategory": "BIJL",
+  "Synonyms": "bijl, bijl, hak, werpbijl"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WAPENS",
+  "SubCategory": "STOMP",
+  "Synonyms": "knots, knuppel, foelie, bal en ketting, nunchuck, oorlogshamer, hamer, stok, koperen knokkels, vlegel, tonfa, gummiknuppel..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WAPENS",
+  "SubCategory": "BOOG",
+  "Synonyms": "longbow, compound box, kruisboog"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WAPENS",
+  "SubCategory": "MES",
+  "Synonyms": "zakmes, zakmes, vlindermes, jachtmes, hobbymes, hakmes, slagersmes, greppelmes, koksmes..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WAPENS",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "katapult"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WAPENS",
+  "SubCategory": "LANS",
+  "Synonyms": "speer, snoek, harpoen, hellebaard, speer, poleaxe, pollaxe"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WAPENS",
+  "SubCategory": "BELEGERING",
+  "Synonyms": "katapult, trebuchet, stormram, ballista, belegeringstoren..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WAPENS",
+  "SubCategory": "ZWAARD",
+  "Synonyms": "falchion, kromzwaard, breedzwaard, rapier, langzwaard, samoerai, degen, schermzwaard, kattana, machete, sabel, vikingzwaard, floret..."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WAPENS",
+  "SubCategory": "ZWEEP",
+  "Synonyms": "zweep, paardenzweep, zweepslag, zweepslag"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEER",
+  "SubCategory": "HAGEL",
+  "Synonyms": "hagel, ijs, ijzel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEER",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEER",
+  "SubCategory": "STORM",
+  "Synonyms": "orkaan, onweer, tyfoon, ijzel, zandstorm, tornado, cycloon, hagelbui,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WEER",
+  "SubCategory": "ONWEER",
+  "Synonyms": "onweer, bliksem, donderslag, bliksem, donder, krak, rol, gerommel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FLUITEN",
+  "SubCategory": "MENS",
+  "Synonyms": "fluiten, juichen, mens, wolfsfluit, signaal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FLUITEN",
+  "SubCategory": "MECHANISCH",
+  "Synonyms": "stoomschip, scheidsrechter, toeter, politiefluitje, theepot, treinfluitje"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FLUITEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "ref, neusfluit"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WIND",
+  "SubCategory": "ONTWORPEN",
+  "Synonyms": "windmachine, synthetisch, kunstmatig, tonaal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WIND",
+  "SubCategory": "ALGEMEEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WIND",
+  "SubCategory": "VLAAG",
+  "Synonyms": "vlaag, windvlaag, winden, bries, buffet, windvlaag, storm, vlaag"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WIND",
+  "SubCategory": "INTERIEUR",
+  "Synonyms": "interieur, luik, rammelaar, kreun, tocht"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WIND",
+  "SubCategory": "TONAAL",
+  "Synonyms": "huilen, fluiten, kreunen, tonaal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WIND",
+  "SubCategory": "TURBULENT",
+  "Synonyms": "buffet, turbulente wind, sterke wind, hevige wind, buffet"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WIND",
+  "SubCategory": "VEGETATIE",
+  "Synonyms": "gebladerte, vegetatie, gras, boom, blad, plant, ritselen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RAMEN",
+  "SubCategory": "GORDIJNEN",
+  "Synonyms": "gordijn, jaloezie, rolluik, verduistering, zonwering"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RAMEN",
+  "SubCategory": "IJZERWAAR",
+  "Synonyms": "raamklink, raamkrukken, raamslot, raamsluiting"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RAMEN",
+  "SubCategory": "KLOPPEN",
+  "Synonyms": "kloppen, ruit, rammelen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RAMEN",
+  "SubCategory": "METAAL",
+  "Synonyms": "metalen frame"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RAMEN",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RAMEN",
+  "SubCategory": "PLASTIC",
+  "Synonyms": "kunststof kozijn"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RAMEN",
+  "SubCategory": "HOUT",
+  "Synonyms": "houten frame"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VLEUGELS",
+  "SubCategory": "VOGEL",
+  "Synonyms": "vogelvleugel, flap, fladder"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VLEUGELS",
+  "SubCategory": "WEZEN",
+  "Synonyms": "drakenvleugel, fee\u00ebnvleugel, griffioenvleugel, sfinxvleugel, engelenvleugel, feniksvleugel, reuzevogelvleugel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VLEUGELS",
+  "SubCategory": "INSECT",
+  "Synonyms": "vlieg, bij, libel, mot, vlinder, kever, scarabee, horzel, wesp, sprinkhaan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VLEUGELS",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HOUT",
+  "SubCategory": "BREKEN",
+  "Synonyms": "breekt, barst, scheurt, verbrijzelt, kraakt, splintert"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HOUT",
+  "SubCategory": "CRASH & PUIN",
+  "Synonyms": "vallen, brokstukken, neerstorten, vallen, hout"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HOUT",
+  "SubCategory": "WRIJVING",
+  "Synonyms": "stress, schrammen, kraken, piepen, krijsen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HOUT",
+  "SubCategory": "HANDELINGEN",
+  "Synonyms": "hanteren, grijpen, instellen, ophalen, neerzetten, gooien, vangen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HOUT",
+  "SubCategory": "IMPACT",
+  "Synonyms": "slaan, laten vallen, impact, crash, clunk, clang, clink, chop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HOUT",
+  "SubCategory": "DIVERSEN",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HOUT",
+  "SubCategory": "BEWEGING",
+  "Synonyms": "slepen, rollen, rammelen, schudden"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HOUT",
+  "SubCategory": "TONAAL",
+  "Synonyms": "buigen, ring, wronk, shing, warp"
+ }
+]

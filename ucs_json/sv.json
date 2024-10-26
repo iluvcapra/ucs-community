@@ -1,0 +1,4514 @@
+[
+ {
+  "version": "8.2.1",
+  "Category": "LUFT",
+  "SubCategory": "EXPLOSIV",
+  "Synonyms": "luftst\u00f6t, luftpuff, luftpuff, luftspurt, luftst\u00f6t, luftst\u00f6t"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUFT",
+  "SubCategory": "PYS",
+  "Synonyms": "luftutsl\u00e4pp, utlopp, utlopp, l\u00e4ckage"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUFT",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUFT",
+  "SubCategory": "SUG",
+  "Synonyms": "vakuum, suga, suga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUFTFARKOSTER",
+  "SubCategory": "D\u00d6RR",
+  "Synonyms": "Cockpitd\u00f6rr, flygplansd\u00f6rr, lucka, n\u00f6dutg\u00e5ng"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUFTFARKOSTER",
+  "SubCategory": "HELIKOPTER",
+  "Synonyms": "gyrokopter, whirlybird, chopper, ghettof\u00e5gel, bellcopter, polishelikopter, huey, chopper, blackhawk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUFTFARKOSTER",
+  "SubCategory": "INTERI\u00d6R",
+  "Synonyms": "jet, flygplan, flygplan, passagerarjet, segelflygplan, zeppelin, passagerarplan, jumbojet, learjet, airbus, boeing, bombardier, 737, 747, 777, A310, DC-10, A310, A310, A330, A350, A380, stridsflygplan."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUFTFARKOSTER",
+  "SubCategory": "JET",
+  "Synonyms": "flygplan, jetliner, jumbojet, learjet, airbus, boeing, bombardier, 737, 747, 777, A310, DC-10, A310, A310, A330, A350, A380"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUFTFARKOSTER",
+  "SubCategory": "MEKANISM",
+  "Synonyms": "landningsst\u00e4ll, cockpitspak, roder, klaffar."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUFTFARKOSTER",
+  "SubCategory": "MILIT\u00c4R",
+  "Synonyms": "stridsflygplan, bombplan, stealthbombplan, blue angels, thunderbirds, lockheed, mig, F18, F16, F35, F22, A10, P52"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUFTFARKOSTER",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "luftskepp, segelflygplan, varmluftsballong, ultral\u00e4tt flygplan, h\u00e4ngflygplan, zeppelin, luftskepp."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUFTFARKOSTER",
+  "SubCategory": "PROPELLER",
+  "Synonyms": "biplan, treplan, turbopropflygplan, stuntflygplan, crop duster, piper cub, propeller, tv\u00e5propeller, propjet, luftskruv."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUFTFARKOSTER",
+  "SubCategory": "FJ\u00c4RRSTYRD",
+  "Synonyms": "Fyrhjulingar, uav, obemannade flygfarkoster, rc jet, rc helikopter."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUFTFARKOSTER",
+  "SubCategory": "RAKET",
+  "Synonyms": "raket, missil, jetpack, rymdf\u00e4rja, spacex, nasa, icbm, k\u00e4rnvapenraket, stridsspets"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LARM",
+  "SubCategory": "RINGKLOCKA",
+  "Synonyms": "brandklocka, skolklocka, klocka vid j\u00e4rnv\u00e4gs\u00f6verg\u00e5ng, larmklocka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LARM",
+  "SubCategory": "SUMMER",
+  "Synonyms": "d\u00f6rrsummare, spelprograms-summare, d\u00f6rrsummare f\u00f6r ytterd\u00f6rren, ing\u00e5ngssummare, intercom-summare"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LARM",
+  "SubCategory": "KLOCKA",
+  "Synonyms": "digital v\u00e4ckarklocka, v\u00e4ckarklocka, v\u00e4ckarklocka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LARM",
+  "SubCategory": "ELEKTRONISK",
+  "Synonyms": "Branddetektor, r\u00f6kdetektor, CO2-detektor, bilalarm, hemlarm."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LARM",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LARM",
+  "SubCategory": "SIREN",
+  "Synonyms": "Klaxon, ahooga-horn, luftv\u00e4rnssiren, tornadosiren"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "LUFT",
+  "Synonyms": "\u00f6ken, vinter, tyst luft, nattluft, bergsluft, nattluft"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "ALPIN",
+  "Synonyms": "alper, berg, berg, rockies, tetons, bergsbestigning, bergigt, sn\u00f6kl\u00e4tt, bergssida, topp"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "N\u00d6JESF\u00c4LT",
+  "Synonyms": "disneyland, six-flags, temapark, n\u00f6jespark, karneval, tivoli, m\u00e4ssa, l\u00e4nsm\u00e4ssa, midway, resem\u00e4ssa, festival, sp\u00f6khus, funhouse, arkad, flipperspel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "F\u00c5GELS\u00c5NG",
+  "Synonyms": "gryningsk\u00f6r, morgonk\u00f6r, vacker f\u00e5gel, flockar, kvittrande, pipande, pipande, pipande"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "FEST",
+  "Synonyms": "offentlig sammankomst, evenemang, fest, gala, karneval, fest, fiesta, festival"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "BYGGE",
+  "Synonyms": "v\u00e4gbygge, byggnad, snickeri, ombyggnad, renovering, renovering av hus, v\u00e4greparation, ombyggnad"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "\u00d6KEN",
+  "Synonyms": "\u00f6ken, \u00f6de, oas, karg, \u00f6demark, sahara, torrt, sanddyner, \u00f6de"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "DESIGNAD",
+  "Synonyms": "konstgjord, designad"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "N\u00d6DSITUATION",
+  "Synonyms": "brottsplats, brandbek\u00e4mpning, polis, sjukv\u00e5rdare, bevismaterial, naturkatastrof, skottlossning, olycka, katastrof, skada, trafikolycka, olycksfall"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "FANTASY",
+  "Synonyms": "\u00e4lva, fantasi, magi, rike, dr\u00f6m, medeljord, pandora"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "LANTBRUK",
+  "Synonyms": "g\u00e5rd, sk\u00f6rd, jordbearbetning, ranch, g\u00e5rdshus, grange, plantage, \u00e5kermark, stall, lada, betesmark, mejeri, ving\u00e5rd, korral, betesmark"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "SKOG",
+  "Synonyms": "skog, skog, skogsmark, boreal skog, regnskog, tempererad regnskog, molnskog, l\u00f6vskog, barrskog"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "GR\u00c4SMARK",
+  "Synonyms": "Pr\u00e4rie, \u00e5kermark, gr\u00e4s, \u00e4ng, betesmark, betesmark, sl\u00e4ttland."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "HISTORISK",
+  "Synonyms": "sp\u00f6kstad, gamla v\u00e4stern, guldrushen, det antika Rom, det antika Grekland"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "HI-TECH",
+  "Synonyms": "laboratorium, maskinrum, server, datacenter, kontrollrum"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "SJUKV\u00c5RD",
+  "Synonyms": "akutmottagning, operation, v\u00e4ntrum, sjukhus, klinik, sanatorium, sjukstuga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "INDUSTRI",
+  "Synonyms": "fabrik, tillverkning, anl\u00e4ggning, kvarn, lager, verkstad"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "INSEKT",
+  "Synonyms": "syrsor, cikador, katydider, svampar, gr\u00e4shoppor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "SJ\u00d6SIDA",
+  "Synonyms": "sj\u00f6ar, sj\u00f6ar, sj\u00f6ar, bad, badning, reservoar, damm, loch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "MARKNAD",
+  "Synonyms": "marknad, marknadsplats, f\u00f6rs\u00e4ljare, shoppingdistrikt, basar, marknadsplats, b\u00f6rs, loppmarknad, torg"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "MARIN",
+  "Synonyms": "nautisk, varv, poopdeck, akter, aktern, bog, akter, sj\u00f6fart, sj\u00f6fart, oceanisk, marin, maritim, marina"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "KONTOR",
+  "Synonyms": "kontor, b\u00e5s, arbetsplats, avdelning, station, filial, arbetsstation"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "PARK",
+  "Synonyms": "park, lekplats, tr\u00e4dg\u00e5rdar, botaniska tr\u00e4dg\u00e5rdar, stadspark, f\u00f6rortspark, bollpark, parkmark"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "F\u00c4NGELSE",
+  "Synonyms": "f\u00e4ngelse, f\u00e4ngelse, f\u00e4ngelseg\u00e5rd, straffanstalt, slammer, f\u00e4ngelsehus, h\u00e4ktning, isoleringscell, straffanstalt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "PROTEST",
+  "Synonyms": "protest, demonstration, demonstrationer, upplopp, skanderande, skrikande, skrikande, ilsken folkmassa, marscher, demonstration, tumult, revolt, revolution, arg"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "ALLM\u00c4N PLATS",
+  "Synonyms": "aff\u00e4rer, lobbys, hotell, k\u00f6pcentra, museer, offentliga platser, innerg\u00e5rdar, gym, fitnesscenter, motell, bibliotek, domstolsbyggnad, domstol"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "RELIGI\u00d6S",
+  "Synonyms": "kyrka, tempel, mosk\u00e9, kapell, derasar, katedral"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "BOSTADS",
+  "Synonyms": "hem, l\u00e4genhet, bostadsr\u00e4tt, herrg\u00e5rd, hus, radhus, stuga, hus, bostad"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "RESTAURANG",
+  "Synonyms": "Restaurang, bar, pub, gastropub, matvagn, matkasse, caf\u00e9, cafeteria, matsal, tehall, salong, kaf\u00e9, pizzeria, snabbmat, vinbar, automat, kommissarie, taverna, nattklubb, deli, matst\u00e4lle, brasserie, drive-in."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "RUMSATMOSF\u00c4R",
+  "Synonyms": "Rumstoner, d\u00f6d luft, tyst luft."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "LANTLIG",
+  "Synonyms": "landsbygd, sl\u00e4tt, pr\u00e4rie, gr\u00e4smark, berg, b\u00f6ljande kullar, savann, tundra, \u00e4ng, canyon, coulee, buskage, buskmark, plat\u00e5."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "SKOLA",
+  "Synonyms": "Grundskola, mellanstadium, h\u00f6gstadium, universitet, f\u00f6rskola, universitet, klassrum, samling."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "SCI-FI",
+  "Synonyms": "Rymdskepp, teknikcentral, kommandocentral, scifi, futuristisk, h\u00f6gteknologisk, hi-tec"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "KUST",
+  "Synonyms": "strand, strand, strand, kust, strand, strandlinje, kust, strandlinje, sj\u00f6kust, strandpromenad, strandpromenad, badort, strandpromenad, strandpromenad, strandpromenad, kaj, brygga, pir, hamn, hamn."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "SPORT",
+  "Synonyms": "nfl, fotboll, nba, basket, mlb, baseball, tennis, sportevenemang, little league, tr\u00e4ning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "F\u00d6RORT",
+  "Synonyms": "f\u00f6rort, bostadsomr\u00e5de, grannskap, \u00e5terv\u00e4ndsgr\u00e4nd, by, barrio, utkanter, bygd"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "TR\u00c4SK",
+  "Synonyms": "groda, mosse, tr\u00e4sk, everglade, v\u00e5tmark, strandomr\u00e5de, sj\u00f6, sj\u00f6, mangrove"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "BY",
+  "Synonyms": "stad, by, hembygd, sm\u00e5stad, samh\u00e4lle, bos\u00e4ttning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "TRAFIK",
+  "Synonyms": "bilv\u00e4g, motorv\u00e4g, motorv\u00e4g, motorv\u00e4g, boulevard, aveny, motorv\u00e4g"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "TRANSPORTMEDEL",
+  "Synonyms": "t\u00e5gstation, flygplats, busstation, tunnelbanestation, tunnelbanestation, tunnelbanestation, terminal, dep\u00e5, terminus"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "TROPISK",
+  "Synonyms": "djungel, buske, tropisk regnskog, molnskog, tropisk skog"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "TUNDRA",
+  "Synonyms": "arktisk, antarktisk, plat\u00e5, nordpol, sydpol, polar, glaci\u00e4r, sn\u00f6, is"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "UNDERJORDISK",
+  "Synonyms": "grotta, dropp, eko, kloak, bunker, tunnel, f\u00e4ngelseh\u00e5la, lavar\u00f6r, k\u00e4llare, underjordisk, neds\u00e4nkt, begravd, underjordisk, k\u00e4llare, schakt, gruva, passage, passage"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "UNDERVATTEN",
+  "Synonyms": "undervattens, rev, korall, havsgrav, neds\u00e4nkt, undervattens, undervattens, subaquatisk, skeppsvrak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "STAD",
+  "Synonyms": "metropol, t\u00e4t stad, stad, centrum, innerstad, storstad, livlig, rusningstid, tr\u00e4ngsel, centrum, slum, slum, slumkvarter, ghetto, finansdistrikt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSF\u00c4R",
+  "SubCategory": "KRIG",
+  "Synonyms": "krig, krigsf\u00f6ring, strid, slag, sk\u00e4rmytsling, strid, kamp, engagemang, anfall, offensiv, blitz, luftangrepp, raid, bombardemang, sp\u00e4rreldrag, fusillad, blitzkrig, salva, flak, bredsida, kanonad"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DJUR",
+  "SubCategory": "AMFIBIE",
+  "Synonyms": "groda, padda, groda, salamander, vattensalamander, vattensalamander, vattensalamander, groda, peeper, croaker, axolotl"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DJUR",
+  "SubCategory": "VATTEN",
+  "Synonyms": "val, delfin, tumlare, sj\u00f6lejon, s\u00e4l, sp\u00e4ckhuggare, orca, manatee, valross, elefants\u00e4l, havsutter, havsutter, beluga, narval, dugong, haj, stingrock, manet, bl\u00e4ckfisk, bl\u00e4ckfisk, krabba, hummer, \u00e5l"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DJUR",
+  "SubCategory": "FLADDERMUS",
+  "Synonyms": "Flyghund, vampyrfladdermus, fruktfladdermus."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DJUR",
+  "SubCategory": "TAMKATT",
+  "Synonyms": "miav, spinn, kattunge, kattunge, kattunge, kattdjur, katt i gr\u00e4nden"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DJUR",
+  "SubCategory": "VILDKATT",
+  "Synonyms": "lejon, tiger, puma, puma, puma, leopard, jaguar, sn\u00f6leopard, gepard, lodjur, bobcat, karakal, ocelot, panter, serval."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DJUR",
+  "SubCategory": "HUND",
+  "Synonyms": "hund, jakthund, bark, hundvalp, hund, hund, kn\u00e4hund, mutt, hundkarl"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DJUR",
+  "SubCategory": "VILDHUND",
+  "Synonyms": "varg, r\u00e4v, pr\u00e4rievarg, schakal, dingo, lupus, kanid."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DJUR",
+  "SubCategory": "BONDG\u00c5RD",
+  "Synonyms": "ko, f\u00e5r, get, gris, n\u00f6tkreatur, lama, alpacka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DJUR",
+  "SubCategory": "H\u00c4ST",
+  "Synonyms": "\u00e5sna, mul\u00e5sna, \u00e5sna, zebra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DJUR",
+  "SubCategory": "INSEKT",
+  "Synonyms": "gr\u00e4shoppa, syrsa, cikada, fluga, bi, geting, geting, geting, vete, kotte, gr\u00e4shoppor, gr\u00e4shoppor, skalbaggar, kackerlackor."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DJUR",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DJUR",
+  "SubCategory": "APA",
+  "Synonyms": "Schimpans, apa, gorilla, lemur, orangutang, kapuciner, marmoset, apa, gibbon, bonobo, babian."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DJUR",
+  "SubCategory": "REPTIL",
+  "Synonyms": "orm, \u00f6dla, alligator, krokodil, sk\u00f6ldpadda, gharial, kaiman, gecko"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DJUR",
+  "SubCategory": "GNANGARE",
+  "Synonyms": "Mus, m\u00f6ss, r\u00e5tta, ekorre, mullvad, piggsvin, marsvin, jordekorre, b\u00e4ver, m\u00e5rdhund, tv\u00e4ttbj\u00f6rn, pr\u00e4riehund, gerbil, hamster, murmeldjur, lemming, myskr\u00e5ka, chinchilla, gnagare."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DJUR",
+  "SubCategory": "VILDA DJUR",
+  "Synonyms": "Bj\u00f6rn, giraff, flodh\u00e4st, elefant, \u00e4lg, r\u00e5djur, gasell, gr\u00e4vling, myrslok, n\u00e4bbdjur, sloth, j\u00e4rv, vildsvin, wombat, koala, k\u00e4nguru, wallaby, gnu, panda, antilop, tv\u00e4ttbj\u00f6rn, \u00e4lg, ren, nosh\u00f6rning, jordn\u00f6tssvin, v\u00e5rtsvin, impala, flodh\u00e4st, honungsgr\u00e4vling, buffel, \u00e4lg."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARKIV",
+  "SubCategory": "ADR",
+  "Synonyms": "adr, loop, ers\u00e4ttningsdialog"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARKIV",
+  "SubCategory": "RESURS",
+  "Synonyms": "tillg\u00e5ng, resurs, tagg"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARKIV",
+  "SubCategory": "BOUNCE",
+  "Synonyms": "studs, krasch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARKIV",
+  "SubCategory": "IMPULSRESPONS",
+  "Synonyms": "impulssvar, IR, altiverb, reverbprov, konvolutionsreverb, konvolutionsreverb"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARKIV",
+  "SubCategory": "LOOP GROUP",
+  "Synonyms": "loop group, walla"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARKIV",
+  "SubCategory": "MIX",
+  "Synonyms": "F\u00f6rmix, slutmix, stam, M&E, mixdown, printmaster."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARKIV",
+  "SubCategory": "PRODUKTIONSLJUD",
+  "Synonyms": "produktion"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARKIV",
+  "SubCategory": "PRODUKTION",
+  "Synonyms": "produktionsupptagning, dialoglinje, dx"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARKIV",
+  "SubCategory": "R\u00c5MATERIAL",
+  "Synonyms": "databand, r\u00e5filer, obearbetade filer, obearbetade"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARKIV",
+  "SubCategory": "REFERENS",
+  "Synonyms": "referens, inspiration"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARKIV",
+  "SubCategory": "SCEN",
+  "Synonyms": "f\u00e4rdigst\u00e4lld, f\u00e4rdigbyggd"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARKIV",
+  "SubCategory": "TESTTON",
+  "Synonyms": "adr-p\u00e5slag, testtoner, pipande ton, 2pops, vitt brus, rosa brus, sinusv\u00e5gssvep."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARKIV",
+  "SubCategory": "UPPHOVSR\u00c4TT SKYDDAD",
+  "Synonyms": "varum\u00e4rke, upphovsr\u00e4tt, produktljud, licensierat, registrerat, lagligt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARKIV",
+  "SubCategory": "UNDER ARBETE",
+  "Synonyms": "p\u00e5g\u00e5ende arbete, wip, oavslutad"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARKIV",
+  "SubCategory": "KONSTIGHETER",
+  "Synonyms": "okategoriserbart, ok\u00e4nt, sk\u00e4mt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIP",
+  "SubCategory": "HUSH\u00c5LL",
+  "Synonyms": "mikrov\u00e5gsugn, diskmaskin, tv\u00e4ttmaskin, torktumlare"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIP",
+  "SubCategory": "ALLM\u00c4N",
+  "Synonyms": "pip"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIP",
+  "SubCategory": "LO-FI",
+  "Synonyms": "atari, famicom, colecovision"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIP",
+  "SubCategory": "SJUKV\u00c5RD",
+  "Synonyms": "EKG, EKG, KDC, hj\u00e4rtmonitor, flatline, ultraljud"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIP",
+  "SubCategory": "TIMER",
+  "Synonyms": "mikrov\u00e5gsugn, ugnsur, digitalklocka, telefonur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIP",
+  "SubCategory": "FORDON",
+  "Synonyms": "pip f\u00f6r gaffeltruck, pip f\u00f6r backup"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KLOCKOR",
+  "SubCategory": "DJUR",
+  "Synonyms": "koh\u00e4llan, hakklocka, krageklocka, f\u00e5rklocka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KLOCKOR",
+  "SubCategory": "D\u00d6RR",
+  "Synonyms": "D\u00f6rrklocka, d\u00f6rrklocka, ding dong, tring"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KLOCKOR",
+  "SubCategory": "GONG",
+  "Synonyms": "gong, gamelan, agung, bowl gong, tam-tam"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KLOCKOR",
+  "SubCategory": "HAND",
+  "Synonyms": "handklocka, middagsklocka, skolklocka, alterklocka, sl\u00e4deklocka, jinglebells, butlerklocka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KLOCKOR",
+  "SubCategory": "STOR",
+  "Synonyms": "tempelklocka, kyrkklocka, klockspel, tornklocka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KLOCKOR",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "cykelklocka, serviceklocka, ringklocka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00c5GLAR",
+  "SubCategory": "ROVF\u00c5GEL",
+  "Synonyms": "h\u00f6k, \u00f6rn, falk, uggla, gam, kondor, sv\u00e4rd, drake, fiskgjuse, harr, tornfalk, karakara"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00c5GLAR",
+  "SubCategory": "KR\u00c5KA",
+  "Synonyms": "kr\u00e5ka, korp, kr\u00e5kf\u00e5gel, kr\u00e5kf\u00e5gel, bl\u00e5f\u00e5gel, l\u00e4rkf\u00e5gel, n\u00f6tkr\u00e5ka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00c5GLAR",
+  "SubCategory": "FJ\u00c4DERF\u00c4",
+  "Synonyms": "H\u00f6ns, fasaner, kalkoner, g\u00e4ss, g\u00e5sar, lommar, ankor, svanar, rapph\u00f6ns, kricka, gr\u00e5trut, gr\u00e4sand, ejder, guan, chachalacas, curassow, vaktel, lapp, chukar, ptarmigan."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00c5GLAR",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "ani, roadrunner, g\u00f6k, hackspett, nattsk\u00e4rra, nattsk\u00e4rra, poorwill, kolibri"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00c5GLAR",
+  "SubCategory": "SJ\u00d6F\u00c5GEL",
+  "Synonyms": "M\u00e5s, soth\u00f6na, albatross, skarv, pelikan, pingvin, stormf\u00e5gel, m\u00e5s, t\u00e4rna, fregattf\u00e5gel, tobis, ostronf\u00e5gel, pipl\u00e4rka, strandpipare, dunlin, alk, lundf\u00e5gel, lundf\u00e5gel, gr\u00e5trut, pilgrimsf\u00e5gel, pilgrimsf\u00e5gel."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00c5GLAR",
+  "SubCategory": "S\u00c5NGF\u00c5GEL",
+  "Synonyms": "Duva, flugsnappare, gropn\u00e4bb, spottf\u00e5gel, n\u00f6tkr\u00e5ka, duva, r\u00f6dhake, sparv, svala, tanager, trumpetare, vireo, l\u00f6vs\u00e5ngare, trollsl\u00e4ndor, mesar, mesar, titth\u00f6ns, pendel, l\u00e4rkf\u00e5gel, kungsf\u00e5gel, krypven, tr\u00e4dkrypare, gnagare, dykare, stare, koltrast, trashank, vaxskivling, chatt, troupial, kardinal, amning, svartf\u00e5gel."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00c5GLAR",
+  "SubCategory": "TROPISK",
+  "Synonyms": "Papegoja, tukan, kookaburra, lyrf\u00e5gel, p\u00e5f\u00e5gel, ara, hornf\u00e5gel, kakadu, parakit, ibis, skedf\u00e5gel, flamingo."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00c5GLAR",
+  "SubCategory": "VADARE",
+  "Synonyms": "Trana, h\u00e4ger, flamingo, ibis, skr\u00e4ntunga, skedskv\u00e4tta, stork, h\u00e4ger, skr\u00e4ntunga, sora, sora, soth\u00f6na, trana, h\u00e4ger, bittern, h\u00e4ger, stork, snipa."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "SV\u00c4VARE",
+  "Synonyms": "fl\u00e4ktb\u00e5t, luftb\u00e5t, sv\u00e4vare"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "BOGSVALL",
+  "Synonyms": "bogspolning, k\u00f6lvatten"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "D\u00d6RR",
+  "Synonyms": "lucka, f\u00e4rjed\u00f6rr, b\u00e5td\u00f6rr, vattent\u00e4t d\u00f6rr, fartygsd\u00f6rr"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "ELEKTRISK",
+  "Synonyms": "trollingmotor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "FISKEB\u00c5T",
+  "Synonyms": "krabbb\u00e5tar, tr\u00e5lare, notfartyg, linfartyg, mudderverk, garnfartyg, forskningsfartyg."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "TUTA",
+  "Synonyms": "fartygshorn, bogserb\u00e5tshorn"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "INTERI\u00d6R",
+  "Synonyms": "fartyg, f\u00e4rja, f\u00e4rjor, kryssningsfartyg, marin, milit\u00e4rb\u00e5t, bogserb\u00e5t, segelb\u00e5t, yacht, oljetanker, lastfartyg, fraktfartyg, ub\u00e5t"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "MEKANISM",
+  "Synonyms": "rigg, remskiva, rep, fartygshjul, gaspedal, n\u00e4t, bur, f\u00e4lla, ankare."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "MILIT\u00c4R",
+  "Synonyms": "Patrullb\u00e5t, f\u00f6rst\u00f6rare, kryssare, slagkryssare, fregatt, korvett, snabb attackb\u00e5t."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "paddelb\u00e5t, paddelbr\u00e4da"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "MOTORB\u00c5T",
+  "Synonyms": "liten b\u00e5t, personlig fiskeb\u00e5t, motorb\u00e5t, pontonb\u00e5t, ankb\u00e5t, jolle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "RACERB\u00c5T",
+  "Synonyms": "vattenplan, hydrofoil, jetb\u00e5t"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "RODDB\u00c5T",
+  "Synonyms": "kanot, roddb\u00e5t, kajak, \u00e5ror, paddel, drakb\u00e5t, rodd."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "SEGELB\u00c5T",
+  "Synonyms": "Segelb\u00e5t, skonare, yawl, sloop, ketch, motorseglare."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "FARTYG",
+  "Synonyms": "stort fartyg, kryssningsfartyg, oljetankfartyg, lastfartyg, fraktfartyg"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "\u00c5NGB\u00c5T",
+  "Synonyms": "\u00e5ngpaddelskepp, paddelpaddelskepp, \u00e5ngmaskin"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "UB\u00c5T",
+  "Synonyms": "ub\u00e5t, sonar, undervattensb\u00e5t, u-b\u00e5t"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00c5TAR",
+  "SubCategory": "UNDERVATTEN",
+  "Synonyms": "b\u00e5t, fartyg, undervattensfartyg, tankfartyg, fiskeb\u00e5t, motorb\u00e5t, undervattensfartyg"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMMUNITION",
+  "SubCategory": "PASSERING",
+  "Synonyms": "bullet whiz-by, fwip"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMMUNITION",
+  "SubCategory": "TR\u00c4FF",
+  "Synonyms": "kulst\u00f6tning, kulst\u00f6tning, kulst\u00f6tning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMMUNITION",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMMUNITION",
+  "SubCategory": "RIKOSCHETT",
+  "Synonyms": "ricos, ricochet, avledas"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMMUNITION",
+  "SubCategory": "HYLSA",
+  "Synonyms": "granat, h\u00f6lje, utkast"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "DJUR",
+  "Synonyms": "falskt djur, jaktrop, ankrop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "BOING",
+  "Synonyms": "k\u00e4ftharpa, munharpa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "KLANG",
+  "Synonyms": "klang, metalliskt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "KNARR",
+  "Synonyms": "gummi, tr\u00e4"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "TUTA",
+  "Synonyms": "l\u00f6khorn, tuta, clownshorn"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "Bonk, boink, doink"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "MASKIN",
+  "Synonyms": "konstruktion, komisk maskin, rube goldberg-maskin"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "toon, squanch, blorb, flump"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "MUSIKALISK",
+  "Synonyms": "gliss, uppstigning, nedstigning,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "KN\u00c4PP",
+  "Synonyms": "str\u00e4ngplockning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "PLOPP",
+  "Synonyms": "Pop-pistol, mun-pop, sugkopp, bubbel-pops"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "SKAK",
+  "Synonyms": "skrammel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "SMACK",
+  "Synonyms": "Splat, splort, squish"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "GNISSEL",
+  "Synonyms": "gnissel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "STR\u00c4CK",
+  "Synonyms": "anstr\u00e4nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "SVISCH",
+  "Synonyms": "snurra, virvla"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "TWANG",
+  "Synonyms": "linjal, munharmonika"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "FORDON",
+  "Synonyms": "jetsons, apparat. Flintstones bil, backfire"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "R\u00d6ST",
+  "Synonyms": "mumla, f\u00e5nig r\u00f6st, tecknad r\u00f6st"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "VIRVLA",
+  "Synonyms": "wobble"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "VISSLA",
+  "Synonyms": "Slide whistle, visselpipa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CARTOON",
+  "SubCategory": "ZIP",
+  "Synonyms": "zip, rico, siren, visselpipa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIK",
+  "SubCategory": "KROSS & BITAR",
+  "Synonyms": "bryta, kn\u00e4cka, splittra, kn\u00e4cka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIK",
+  "SubCategory": "KRASCH",
+  "Synonyms": "falla, skr\u00e4p, sk\u00e4rvor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIK",
+  "SubCategory": "FRIKTION",
+  "Synonyms": "stress, skrapa, kn\u00e4cka, gnissla, skrika, skrik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIK",
+  "SubCategory": "HANTERING",
+  "Synonyms": "hantera, ta tag i, s\u00e4tta, plocka upp, s\u00e4tta ner, kasta, f\u00e5nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIK",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "tr\u00e4ffa, falla, sl\u00e5, krascha, klunka, klirra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIK",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIK",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "dra, rulla, skramla, skaka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KERAMIK",
+  "SubCategory": "TONAL",
+  "Synonyms": "b\u00f6jd, ring, shing, ping"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KEDJOR",
+  "SubCategory": "G\u00c5 AV",
+  "Synonyms": "kn\u00e4ppa, bryta, b\u00f6ja"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KEDJOR",
+  "SubCategory": "HANTERING",
+  "Synonyms": "hantera, ta tag i, st\u00e4lla in, plocka upp, st\u00e4lla ner, kasta, f\u00e5nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KEDJOR",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "droppe, tr\u00e4ffa, sl\u00e5, sl\u00e5, slam, sp\u00e4nningar, kn\u00e4ppas."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KEDJOR",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KEDJOR",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "Drag, handbojor, f\u00e4ngelsekedja, hundkedja."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KEMI",
+  "SubCategory": "SYRA",
+  "Synonyms": "svider, sm\u00e4lter, fr\u00e4ser"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KEMI",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KEMI",
+  "SubCategory": "REAKTION",
+  "Synonyms": "bubbling, skumning, reaktion"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UR",
+  "SubCategory": "KLOCKSLAG",
+  "Synonyms": "klockspel, klocka, storklocka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UR",
+  "SubCategory": "MEKANISM",
+  "Synonyms": "uppdragning, kugghjul, g\u00f6kur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UR",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UR",
+  "SubCategory": "TICKA",
+  "Synonyms": "tick, klick, kvarts, tick tock, stoppur, \u00e4ggklocka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TYG",
+  "SubCategory": "FLADDER",
+  "Synonyms": "flax, flagga, rassel, fallsk\u00e4rm, cape, segelduk, segel, lakan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TYG",
+  "SubCategory": "HANTERING",
+  "Synonyms": "handtag, greppa, s\u00e4tta, plocka upp, s\u00e4tta ner, kasta, f\u00e5nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TYG",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "tr\u00e4ffa, falla, sl\u00e5, sm\u00e4lla, smacka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TYG",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TYG",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "zuzz, swish, rusch, ruffle, scrunch, mvmt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TYG",
+  "SubCategory": "RIV",
+  "Synonyms": "riva, slita, kardborreband"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMMUNIKATION",
+  "SubCategory": "AV-APPARAT",
+  "Synonyms": "filmkamera, spolning, filmkamera, projektor, bandspelare, nagra, walkman, cd-spelare, rullband, videobandspelare, laserdiscspelare, betamax, diaprojektor, beamer, ipod, bolex, 8mm, 16mm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMMUNIKATION",
+  "SubCategory": "KAMERA",
+  "Synonyms": "Kameraslutare, upprullning, blixtlampa, kodak, nikon, canon, olympus, kodak, fuji, fujifilm, mamiya, hasselblad, leica, 35mm, 120mm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMMUNIKATION",
+  "SubCategory": "MOBILTELEFON",
+  "Synonyms": "mobiltelefon, smartphone, iphone, blackberry, flip phone, android"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMMUNIKATION",
+  "SubCategory": "MIKROFON",
+  "Synonyms": "mikrofonhantering, mic tap, larsen, megafon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMMUNIKATION",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMMUNIKATION",
+  "SubCategory": "SKIVSPELARE",
+  "Synonyms": "skivspelare, victrola, fonograf, stylus, vinylskiva"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMMUNIKATION",
+  "SubCategory": "RADIO",
+  "Synonyms": "st\u00e4mning, radio, kortv\u00e5g, squelch, futz, radios\u00e4ndning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMMUNIKATION",
+  "SubCategory": "BRUS",
+  "Synonyms": "statisk st\u00f6rning, fuzz, scramble"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMMUNIKATION",
+  "SubCategory": "SIGNALER",
+  "Synonyms": "morsekod, telegraf, telemetri, avl\u00e4sning, sos."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMMUNIKATION",
+  "SubCategory": "TELEFON",
+  "Synonyms": "ringa, telefonautomat, ratt, knappsats, fast telefon, sladdtelefon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMMUNIKATION",
+  "SubCategory": "TV",
+  "Synonyms": "TV, fj\u00e4rrkontroll, ringa, visa, program, futz, TV-program, s\u00e4ndning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMMUNIKATION",
+  "SubCategory": "KOMRADIO",
+  "Synonyms": "walkie talkies, cb, amat\u00f6rradio, transceiver, squelch, intercom, s\u00e4ndning."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMMUNIKATION",
+  "SubCategory": "SKRIVMASKIN",
+  "Synonyms": "skrivmaskin, teleprinter, vagnsretur, vridknappen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DATORER",
+  "SubCategory": "H\u00c5RDDISK",
+  "Synonyms": "hoppa \u00f6ver, s\u00f6ka, slipa, h\u00e5rddisk, h\u00e5rddisk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DATORER",
+  "SubCategory": "TANGENTBORD & MUS",
+  "Synonyms": "tangentbord, mus, m\u00f6ss, styrplatta"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DATORER",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Palm Pilot, Pocket PC"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARELSER",
+  "SubCategory": "VATTENVARELSE",
+  "Synonyms": "kraken, sj\u00f6jungfru, j\u00e4ttebl\u00e4ckfisk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARELSER",
+  "SubCategory": "FLYGANDE",
+  "Synonyms": "fr\u00e4mmande f\u00e5glar, utomjordiska f\u00e5glar, fantasif\u00e5glar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARELSER",
+  "SubCategory": "BEST",
+  "Synonyms": "ullig mammut, mumakil, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARELSER",
+  "SubCategory": "BLOB",
+  "Synonyms": "blob, gloop, goop, goop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARELSER",
+  "SubCategory": "DINOSAURIE",
+  "Synonyms": "brontosaurus, velociraptor, triceratops, stegosaurus, tyrannosaurus, allosaurus, spinosaurus, brachiosaurus, archaeopteryx, pterosaurier, pterodactyl"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARELSER",
+  "SubCategory": "DRAKE",
+  "Synonyms": "drake, drake, wyvern"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARELSER",
+  "SubCategory": "NATURELEMENT",
+  "Synonyms": "stenmonster, eldmonster, ismonster, bergsj\u00e4tte, isj\u00e4tte, golem"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARELSER",
+  "SubCategory": "SP\u00d6KE",
+  "Synonyms": "sp\u00f6ken, andar, eteriska, vimlande, sp\u00f6ke, sj\u00e4l, uppenbarelse, spektral, poltergeist, fantom, v\u00e5lnad"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARELSER",
+  "SubCategory": "M\u00c4NNISKOLIK",
+  "Synonyms": "zombie, od\u00f6d, levande d\u00f6d, sp\u00f6ke, vampyr, alv, orcher, tr\u00e4sktroll, troll, tengu, pyssling, bigfoot, tr\u00e4skdjur, varulv, Frankenstein, mumie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARELSER",
+  "SubCategory": "INSEKTSLIK",
+  "Synonyms": "j\u00e4ttemyra, j\u00e4ttespindel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARELSER",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARELSER",
+  "SubCategory": "MONSTER",
+  "Synonyms": "Godzilla, King Kong, Rancor, Behemoth, Xenomorph, Chupacabra."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARELSER",
+  "SubCategory": "REPTIL",
+  "Synonyms": "Orm, orm, ormstj\u00e4rna, j\u00e4tte\u00f6dla, j\u00e4ttelik orm."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARELSER",
+  "SubCategory": "LITEN",
+  "Synonyms": "\u00e4lva, \u00e4lv, gremlin, tomte, sp\u00f6ke, fraggle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARELSER",
+  "SubCategory": "R\u00c5MATERIAL",
+  "Synonyms": "sk\u00e4lla, andas, ropa, kr\u00e5ka, kvidra, klick, skrika, anstr\u00e4nga sig, grymta, v\u00e4sa, tjoa, yla, morra, snor, gutturalt, st\u00f6n, st\u00f6n, st\u00f6n, mun, vr\u00e5l, skrik, skrik, skrik, skrik, gnissel, gn\u00e4ll, gn\u00e4ll."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "ILSKA",
+  "Synonyms": "huligan, upplopp, protest, skrik, br\u00e5k, br\u00e5kig"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "APPL\u00c5D",
+  "Synonyms": "appl\u00e5der, jubel, appl\u00e5der, appl\u00e5der, appl\u00e5der, appl\u00e5der, appl\u00e5der, appl\u00e5der, appl\u00e5der, appl\u00e5der"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "KAMP",
+  "Synonyms": "stridsrop, skrik, anfall, samling, arm\u00e9, strid, slagsm\u00e5l, slagsm\u00e5l, krig, skrikande, d\u00f6ende"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "FIRANDE",
+  "Synonyms": "firande, semester, fest, br\u00e5kigt, f\u00f6delsedag, ny\u00e5r, jul, parad, parad"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "JUBEL",
+  "Synonyms": "jubel, konsert, stadion, publik, jubel, svall, s\u00e5ng"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "BARN",
+  "Synonyms": "lekplats, rast, barn som leker, park, lek, leka, leka."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "SAMTAL",
+  "Synonyms": "prat, chatt, prat, prat, gles walla, konversation, konversation"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "SKRATT",
+  "Synonyms": "TV-program, konserverat skratt, komediklubb, skrattsp\u00e5r"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "ST\u00d6DREPLIKER",
+  "Synonyms": "loop group, adr, burka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "PANIK",
+  "Synonyms": "Panik, kaos, skrik, skrik, gr\u00e5t, n\u00f6d"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "TYST",
+  "Synonyms": "mumlande, viskning, tystnad, mumlande"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "REAKTION",
+  "Synonyms": "bu, ahh, ooh, studioreaktion"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "S\u00c5NG",
+  "Synonyms": "s\u00e5ng, k\u00f6r, koral, s\u00e5ngs\u00e5ng"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "SPORT",
+  "Synonyms": "appl\u00e5der, klappning, buu, jubel, stadion, yay, publik, olympiska spelen, skrik, woohoo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLKSAMLINGAR",
+  "SubCategory": "SORL",
+  "Synonyms": "r\u00f6ster, prat, walla, konversation"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "BASTON FALLANDE",
+  "Synonyms": "bas dykning, downer, bas droppe, fall"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "BOOM",
+  "Synonyms": "boom, deep hit, low sting, trailer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "BRAAM",
+  "Synonyms": "bramm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "DISTORTION",
+  "Synonyms": "f\u00f6rvr\u00e4ngning, fyrkantig, snedvriden, f\u00f6rvr\u00e4ngd"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "DRONE",
+  "Synonyms": "pad, drone, textur, olycksb\u00e5dande, sp\u00e4nning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "OLYCKSB\u00c5DANDE",
+  "Synonyms": "sp\u00f6klik, sp\u00e4nd, konstig, l\u00e4skig, skr\u00e4mmande, skr\u00e4mmande, skr\u00e4mmande, hems\u00f6kande, freaky, skr\u00e4mmande, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "SP\u00d6KLIK",
+  "Synonyms": "eterisk, himmelskt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "GRANUL\u00c4R",
+  "Synonyms": "kornig, paulstretch, korn, skivor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "slag, tr\u00e4ff, slag, sm\u00e4ll, smash, kollision"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "MORF",
+  "Synonyms": "morph, blandning, \u00f6verg\u00e5ng"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "STIGANDE",
+  "Synonyms": "omv\u00e4nd, crescendo, rizer, riser, sp\u00e4nning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "MULLER",
+  "Synonyms": "subharmonisk, mullrande, skakande, jordb\u00e4vning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "RYTMISK",
+  "Synonyms": "Stottrande, glitch, puls, stattaco"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "R\u00c5MATERIAL",
+  "Synonyms": "k\u00e4lla, r\u00e5material, material, r\u00e5 inspelning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "STINGER",
+  "Synonyms": "sting, startle, trailer, cinematisk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "SYUNTETISK",
+  "Synonyms": "syntetiserad, synt, mod synth, modul\u00e4r synt, granul\u00e4r, analog synt, modul\u00e4r synt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "TONAL",
+  "Synonyms": "tinnitus, ringning, granatchock, subjektiv"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "R\u00d6ST",
+  "Synonyms": "f\u00f6rtrollning, trollformel, bearbetad, vokal, viskning, sp\u00f6klik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LJUDDESIGN",
+  "SubCategory": "SVISCH",
+  "Synonyms": "Whoosh, trailer swish, swish"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00d6RST\u00d6RELSE",
+  "SubCategory": "RAS",
+  "Synonyms": "kollaps, st\u00f6rtar, faller, imploderar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00d6RST\u00d6RELSE",
+  "SubCategory": "KRASCH & BR\u00c5TE",
+  "Synonyms": "krascha, brista, implodera, sl\u00e5 s\u00f6nder, bryta, splittra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00d6RST\u00d6RELSE",
+  "SubCategory": "DIV",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JORD OCH SAND",
+  "SubCategory": "KRASCH & BR\u00c5TE",
+  "Synonyms": "skr\u00e4p, sand, smuts, rinnande, spray, smulor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JORD OCH SAND",
+  "SubCategory": "DAMM",
+  "Synonyms": "fin, partikel, sediment, silt, damm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JORD OCH SAND",
+  "SubCategory": "HANTERING",
+  "Synonyms": "hantera, ta tag i, gr\u00e4va, f\u00e5nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JORD OCH SAND",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "dumpa, duns, lossning, droppe"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JORD OCH SAND",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JORD OCH SAND",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "h\u00e4lla, lossa, fl\u00f6da, spilla"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JORD OCH SAND",
+  "SubCategory": "TONAL",
+  "Synonyms": "sanddyner, sjungande sand"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "ANTIK",
+  "Synonyms": "slott, abby, kyrka, gammalt, gammalt, gammalt, antikt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "HUSH\u00c5LLSAPPARAT",
+  "Synonyms": "ugn, mikrov\u00e5gsugn, kylsk\u00e5p, diskmaskin, tv\u00e4ttmaskin, torktumlare"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "SK\u00c5P",
+  "Synonyms": "sk\u00e5p, k\u00f6kssk\u00e5p, verktygssk\u00e5p"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "SAMMANSATT",
+  "Synonyms": "glasfiber, d\u00f6rr"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "KNARR",
+  "Synonyms": "kn\u00e4ppning, d\u00f6rr, f\u00e4ngelseh\u00e5la, k\u00e4llare, slott, tr\u00e4d\u00f6rr, metalld\u00f6rr, d\u00f6rrkn\u00e4ppning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "H\u00c5LA",
+  "Synonyms": "slott, f\u00e4ngelseh\u00e5la, stor, k\u00e4llare"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "ELEKTRISK",
+  "Synonyms": "elektrisk d\u00f6rr, garaged\u00f6rr, d\u00f6rr f\u00f6r ljudscenor, automatisk d\u00f6rr"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "GRIND",
+  "Synonyms": "tr\u00e4dg\u00e5rdsgrind, staketgrind, parkgrind, j\u00e4rnv\u00e4gs\u00f6verg\u00e5ng, boskapsgrind, g\u00e5rdsgrind"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "GLAS",
+  "Synonyms": "glasd\u00f6rr, f\u00f6rr\u00e5dsd\u00f6rr, portd\u00f6rr, fransk d\u00f6rr"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "BESLAG",
+  "Synonyms": "D\u00f6rrhandtag, l\u00e5sbult, tryckst\u00e5ng, kedjel\u00e5s, g\u00e5ngj\u00e4rn, l\u00e5s, handtag, h\u00e5rdvara, l\u00e5splockning, rattfylla"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "HI-TECH",
+  "Synonyms": "D\u00f6rr till labb"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "HUDRAULISK & PNEUMATISK",
+  "Synonyms": "D\u00f6rrst\u00e4ngare, pneumatisk, hydraulisk, elektrisk lucka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "KNACKA",
+  "Synonyms": "knacka, rappa, knacka, sm\u00e4ll, dunk, dunk, dunk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "METALL",
+  "Synonyms": "rulllucka, valv, kassask\u00e5p, lucka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "PLAST",
+  "Synonyms": "porta john, porta let, porta pottie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "F\u00c4NGELSE",
+  "Synonyms": "f\u00e4ngelsed\u00f6rr, f\u00e4ngelsed\u00f6rr"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "ROTERANDE",
+  "Synonyms": "rotera, rotera, sv\u00e4ngd\u00f6rr, hotell, flygplats, k\u00f6pcentrum"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "SKJUTD\u00d6RR",
+  "Synonyms": "glasskjutd\u00f6rr, altand\u00f6rr, duschd\u00f6rr"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "STEN",
+  "Synonyms": "grav, krypta, tempel, mausoleum, hemlig ing\u00e5ng"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "SV\u00c4NGD\u00d6RR",
+  "Synonyms": "salongsd\u00f6rr, trafikd\u00f6rr, restaurangd\u00f6rr, kyrkans predikstolsd\u00f6rr"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "D\u00d6RRAR",
+  "SubCategory": "TR\u00c4",
+  "Synonyms": "ing\u00e5ng, ytterd\u00f6rr, garderob"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00c5DOR",
+  "SubCategory": "METALL",
+  "Synonyms": "Verktygsl\u00e5da, rackl\u00e5da, arkivsk\u00e5p, kassaapparat, s\u00e4kerhetsl\u00e5da."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00c5DOR",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00c5DOR",
+  "SubCategory": "PLAST",
+  "Synonyms": "reservdelsbeh\u00e5llare, skrivbordsorganisator"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00c5DOR",
+  "SubCategory": "TR\u00c4",
+  "Synonyms": "k\u00f6ksl\u00e5da, badrumsl\u00e5da"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRICITET",
+  "SubCategory": "B\u00c5GE",
+  "Synonyms": "Jacobs stege, tesla-spiral, ark, b\u00e5ge, kraftverk, elverk, elst\u00f6tar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRICITET",
+  "SubCategory": "SURR",
+  "Synonyms": "Jordbrum, f\u00f6rst\u00e4rkarbrum, f\u00f6rst\u00e4rkarbrum, h\u00f6gtalarbrum, h\u00f6gtalarbrum, brum, brum, brum, induktionsbrum."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRICITET",
+  "SubCategory": "ELEKTOMAGNETISK",
+  "Synonyms": "emf, spole, pickup, induktion"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRICITET",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRICITET",
+  "SubCategory": "SPRAK",
+  "Synonyms": "t\u00e4ndstift, svetsning, sputter, kortslutning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRICITET",
+  "SubCategory": "ZAP",
+  "Synonyms": "urladdning, tase, taser, elchocker"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UTRUSTNING",
+  "SubCategory": "H\u00c4STRELATERAT",
+  "Synonyms": "tygel, tyglar, koppel, sele, hundkoppel, sadelband"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UTRUSTNING",
+  "SubCategory": "HI-TECH",
+  "Synonyms": "Rymddr\u00e4kt, anv\u00e4ndningsb\u00e4lte"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UTRUSTNING",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UTRUSTNING",
+  "SubCategory": "FRITID",
+  "Synonyms": "ryggs\u00e4ck, vandring, vandring, bergskl\u00e4ttring, kl\u00e4ttring, bergskl\u00e4ttring, l\u00e4ger, t\u00e4lt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UTRUSTNING",
+  "SubCategory": "SPORT",
+  "Synonyms": "axelskydd, kn\u00e4skydd, skenskydd, b\u00e4lte, b\u00e4lte f\u00f6r sportkl\u00e4der."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UTRUSTNING",
+  "SubCategory": "MILIT\u00c4R & POLIS",
+  "Synonyms": "b\u00e4lte, taktiskt, arbetsb\u00e4lte, ammunitionsb\u00e4lte, polis, milit\u00e4r, bandoleer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "EXPLOSIONER",
+  "SubCategory": "DESIGNAD",
+  "Synonyms": "shockwave, s\u00f6tningsmedel, eko"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "EXPLOSIONER",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "detonation"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "EXPLOSIONER",
+  "SubCategory": "REALISTISK",
+  "Synonyms": "sm\u00e4ll, implosion, kn\u00e4ppning, pop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FISAR",
+  "SubCategory": "DESIGNAD",
+  "Synonyms": "kitt, razzberry, raspberry, whoopie cushion, flarp, armh\u00e5la, fartbag, ballong"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FISAR",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "djurprutt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FISAR",
+  "SubCategory": "REALISTISK",
+  "Synonyms": "m\u00e4nsklig prutt, flatulens, putt, putt, putt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SLAGSM\u00c5L",
+  "SubCategory": "FALL",
+  "Synonyms": "Kroppsfall, kroppsdrag, handgem\u00e4ng, kroppsslag, tackling."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SLAGSM\u00c5L",
+  "SubCategory": "TYG",
+  "Synonyms": "stridskl\u00e4dsel, grepp, ryck, slag med tyg, slag med tyg, slag med tyg"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SLAGSM\u00c5L",
+  "SubCategory": "GREPP",
+  "Synonyms": "strid, grepp, grip, brottning, judo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SLAGSM\u00c5L",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "slag, spark, kroppsslag, \u00f6rfil, sm\u00e4ll, slagsm\u00e5l, knuff, st\u00f6t, strumpa, uppercut, st\u00f6t"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SLAGSM\u00c5L",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELD",
+  "SubCategory": "BRAND",
+  "Synonyms": "b\u00e5l, l\u00e4gereld, buskbrand, byggnadsbrand, eldsv\u00e5da, inferno, f\u00f6rbr\u00e4nning, t\u00e4ndstift, b\u00e5l"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELD",
+  "SubCategory": "UTBROTT",
+  "Synonyms": "backdraft, drakeld, uppsluka, uppsluka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELD",
+  "SubCategory": "KNASTER",
+  "Synonyms": "pop, spotta, kn\u00e4ppa, gnist"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELD",
+  "SubCategory": "GAS",
+  "Synonyms": "gasolgrill, bunsenbr\u00e4nnare, ugn, campingspis, k\u00f6ksspis, krematorium, gasspis."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELD",
+  "SubCategory": "ANT\u00c4NDA",
+  "Synonyms": "t\u00e4ndsticka, t\u00e4ndare, zippo, uppflammas, utbryta, flamma upp, ant\u00e4nda."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELD",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELD",
+  "SubCategory": "FR\u00c4S",
+  "Synonyms": "eldpoker, stubin, stubin brinner"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELD",
+  "SubCategory": "FACKLA",
+  "Synonyms": "flamma, stubin, fackla, eldsticka, flammande pinne, cresset"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELD",
+  "SubCategory": "TURBULENT",
+  "Synonyms": "eldvirvel, v\u00e5ldsam eld, flamkastare, eldtornado, uppsluka, bak\u00e5tstr\u00e4cka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELD",
+  "SubCategory": "SVISCH",
+  "Synonyms": "eldklot, eldklot, molotov, eldklot, flamma, bak\u00e5tstrykning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FYRVERKERI",
+  "SubCategory": "OFFENTLIG",
+  "Synonyms": "granatkastare, fyrverkeri, pyroteknik, kaboom, granat, fyrverkeri"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FYRVERKERI",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FYRVERKERI",
+  "SubCategory": "HEMMABRUK",
+  "Synonyms": "sm\u00e4llare, m80, t\u00e4ndstift, flaskraket, r\u00f6kbomb, jumping jack, romanskt ljus, popper, k\u00f6rsb\u00e4rsbomb"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TRAMP",
+  "SubCategory": "TYG",
+  "Synonyms": "Rus, r\u00f6relse, mvmt, zuzz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TRAMP",
+  "SubCategory": "STEG",
+  "Synonyms": "fot, sko, fotsteg, yta"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TRAMP",
+  "SubCategory": "H\u00c4NDER",
+  "Synonyms": "klapp, grepp, handtag, upps\u00e4ttning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TRAMP",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TRAMP",
+  "SubCategory": "F\u00d6REM\u00c5L",
+  "Synonyms": "rekvisita, rekvisita"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAT & DRYCK",
+  "SubCategory": "MATLAGNING",
+  "Synonyms": "Hacka, skiva, t\u00e4rning, blanda, mixa, vispa, sautera, steka, koka, koka, grilla, sila, \u00e5nga, gryta, r\u00f6ra om, sautera."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAT & DRYCK",
+  "SubCategory": "DRYCK",
+  "Synonyms": "smutta, slurpa, dricka, sv\u00e4lja, sv\u00e4lja, sv\u00e4lja, dricka, dricka, sv\u00e4nga, sv\u00e4nga, sv\u00e4nga, sv\u00e4nga, sv\u00e4nga, sv\u00e4nga, sv\u00e4nga, sv\u00e4nga, sv\u00e4nga, sv\u00e4nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAT & DRYCK",
+  "SubCategory": "\u00c4TA",
+  "Synonyms": "\u00e4ta, krossa, tugga, sv\u00e4lja, mumsa, tugga, tugga, bita, inta, konsumera, festa, mata"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAT & DRYCK",
+  "SubCategory": "GLAS",
+  "Synonyms": "flaska, glas, kopp, kanna, karaff, burk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAT & DRYCK",
+  "SubCategory": "INGREDIENSER",
+  "Synonyms": "n\u00f6t, fr\u00f6, spannm\u00e5l, gr\u00f6nsaker, frukt, konserverad mat, spannm\u00e5l, k\u00f6tt, havre, majs"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAT & DRYCK",
+  "SubCategory": "K\u00d6KSREDSKAP",
+  "Synonyms": "stekpanna, gryta, gryta, stekpanna, stekpanna, kastrull, kastrull"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAT & DRYCK",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAT & DRYCK",
+  "SubCategory": "H\u00c4LLA",
+  "Synonyms": "h\u00e4lla, fl\u00f6da, spilla, servera"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAT & DRYCK",
+  "SubCategory": "PORSLIN & BESTICK",
+  "Synonyms": "bestick, redskap, glas klirrar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOTSTEG",
+  "SubCategory": "DJUR",
+  "Synonyms": "g\u00e5, springa, sprinta"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOTSTEG",
+  "SubCategory": "MONSTER",
+  "Synonyms": "dinosaurie, varelse, djur, drake, mytisk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOTSTEG",
+  "SubCategory": "H\u00c4ST",
+  "Synonyms": "g\u00e5, trav, galopp, hov, hovar, galopp, galopp"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOTSTEG",
+  "SubCategory": "M\u00c4NNISKA",
+  "Synonyms": "g\u00e5, springa, springa, jogga, sprinta, hoppa, hoppa \u00f6ver, hoppa, vandra, g\u00e5, steg, fotsteg, fot, steg, kl\u00e4ttra, kl\u00e4ttra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOTSTEG",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPEL",
+  "SubCategory": "SPELHALL",
+  "Synonyms": "flipperspel, whack-a-mole, skeeball, kl\u00f6smaskin"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPEL",
+  "SubCategory": "BR\u00c4DSPEL",
+  "Synonyms": "schack, dam, go, backgammon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPEL",
+  "SubCategory": "KASINO",
+  "Synonyms": "Roulette, spelautomat, craps, moneywheel, keno, pokermaskin."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPEL",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "poker, kort, jenga, t\u00e4rning, knogj\u00e4rn,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPEL",
+  "SubCategory": "VIDEOSPEL",
+  "Synonyms": "atari, ps4, xbox one, xbox 360, amstrad, famicom, snes, gameboy, nintendo 64, playstation, megadrive, psp"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEOTERMIK",
+  "SubCategory": "VULKANISK",
+  "Synonyms": "\u00e5ngventil, geotermisk, fumarole"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEOTERMIK",
+  "SubCategory": "GEJSER",
+  "Synonyms": "pipa, spray, bubbla, koka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEOTERMIK",
+  "SubCategory": "LAVA",
+  "Synonyms": "lava, fl\u00f6de, sprakande, tr\u00f6gflytande, flammande, rytmande, vulkan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEOTERMIK",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "bubblande varm pool"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEOTERMIK",
+  "SubCategory": "LERH\u00c5L",
+  "Synonyms": "lergrop, f\u00e4rggrop, tj\u00e4rgrop, lera, bubbla, glop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "SPR\u00c4CKA",
+  "Synonyms": "glas g\u00e5r s\u00f6nder, krossas, splittras"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "KROSSA",
+  "Synonyms": "sk\u00e4rva, fragment, krasch, spillror"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "FRIKTION",
+  "Synonyms": "Stress, skrapning, kn\u00e4ppning, gnissel, skrik, skrik."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "HANTERING",
+  "Synonyms": "hantera, ta tag i, s\u00e4tta, plocka upp, s\u00e4tta ner, kasta, f\u00e5nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "tr\u00e4ffa, falla, sl\u00e5, sl\u00e5, klirra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "skramla, rulla, ping, skramla."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GLAS",
+  "SubCategory": "TONAL",
+  "Synonyms": "resonera, ringa, tonal, glasharmonika, kristallsk\u00e5l"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KROPPSSKADOR",
+  "SubCategory": "BLOD",
+  "Synonyms": "droppa, fl\u00f6da, spruta, spruta, sprutas, spraya"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KROPPSSKADOR",
+  "SubCategory": "KN\u00c4CKA",
+  "Synonyms": "benkn\u00e4ppning, benbrott, benbrott, k\u00e4kknippning, k\u00e4ftar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KROPPSSKADOR",
+  "SubCategory": "BR\u00c4NNA",
+  "Synonyms": "svider, br\u00e4nner, br\u00e4nner, ser, br\u00e4nnm\u00e4rker"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KROPPSSKADOR",
+  "SubCategory": "K\u00d6TT",
+  "Synonyms": "riva, skala, riva, slita, slita, s\u00f6nder, tarm, k\u00f6tt, s\u00e5r."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KROPPSSKADOR",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KROPPSSKADOR",
+  "SubCategory": "RINNA",
+  "Synonyms": "Slem, slem, fl\u00f6de, gelatin"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KROPPSSKADOR",
+  "SubCategory": "R\u00c5MATERIAL",
+  "Synonyms": "goosh, squish, goop, slime, ooze, glop, organ, tarm, saftig, goo, splat, ooze, rip, peel, stab, tear, rend, tarm, k\u00f6tt, s\u00e5r, skiva, spale, saftig, splat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KROPPSSKADOR",
+  "SubCategory": "KLAFS",
+  "Synonyms": "goosh, squish, goop, slime, ooze, glop, organ, tarm, juicy, goo, splat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KROPPSSKADOR",
+  "SubCategory": "KL\u00c4MMA",
+  "Synonyms": "kladd, k\u00f6tt, organ, g\u00f6dsel, tarm, saftigt, kladd, kladd, kladd."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KROPPSSKADOR",
+  "SubCategory": "HUGG",
+  "Synonyms": "sk\u00e4ra, spetsa, hugga, sk\u00e4ra, vorpal, s\u00f6nderdela"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKJUTVAPEN",
+  "SubCategory": "ANTIK",
+  "Synonyms": "Mufflada, musk\u00f6t, svartkrut, flintl\u00e5s, l\u00e5ngdistansgev\u00e4r, eldstudsare."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKJUTVAPEN",
+  "SubCategory": "ARTILLERI",
+  "Synonyms": "haubits, luftv\u00e4rnskanon, missilkastare, bazooka, murbruk, raket, marin"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKJUTVAPEN",
+  "SubCategory": "AUTOMATISK",
+  "Synonyms": "ak-47, m16, maskingev\u00e4r, tommy gun, uzi, m249, M1919, gatling gun, minigun, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKJUTVAPEN",
+  "SubCategory": "KANON",
+  "Synonyms": "Blunderbuss, handkanon, kanon, svartkrut"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKJUTVAPEN",
+  "SubCategory": "HANTERING",
+  "Synonyms": "h\u00f6lster, pistol, pistolgrepp, pistolf\u00e5ngst, pistolsl\u00e4pp, pistolladdning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKJUTVAPEN",
+  "SubCategory": "HI-TECH",
+  "Synonyms": "skenpistol, spionpistol"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKJUTVAPEN",
+  "SubCategory": "MEKANISM",
+  "Synonyms": "clip, sp\u00e4nnning, pistolskrammel, bultsl\u00e4pp, magasin, laddning av kula, pistolspik, pistolspik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKJUTVAPEN",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Fackelpistol, luftpistol, paintballpistol."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKJUTVAPEN",
+  "SubCategory": "PISTOL",
+  "Synonyms": "9mm, pistol, revolver, glock, handeldvapen, colt, smith & wesson, sig sauer, luger, walther ppk, browning, ruger, beretta"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKJUTVAPEN",
+  "SubCategory": "GEV\u00c4R",
+  "Synonyms": "gev\u00e4r, mauser, casull, arisaka, luger, karbin, powell, prickskytt, jakt, halvautomatisk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKJUTVAPEN",
+  "SubCategory": "HAGELB\u00d6SSA",
+  "Synonyms": "hagelb\u00f6ssa, dubbelr\u00f6r, mossberg, winchester, kuskpistol"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKJUTVAPEN",
+  "SubCategory": "LJUDD\u00c4MPAD",
+  "Synonyms": "ljudd\u00e4mpad, ljudd\u00e4mpare"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TUTOR",
+  "SubCategory": "TRYCKLUFTTUTA",
+  "Synonyms": "dimhorn, lufthorn, fabrikshorn"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TUTOR",
+  "SubCategory": "PARTY",
+  "Synonyms": "partyhorn, vuvuzela"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TUTOR",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "jaktklocka, \u00e4lgklocka, ankklocka, r\u00e4vklocka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TUTOR",
+  "SubCategory": "TRADITIONELL",
+  "Synonyms": "shofar, sn\u00e4ckor, sn\u00e4ckskal, stridshorn, alphorn, alphorn, alphorn"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00c4NSKLIGT",
+  "SubCategory": "BL\u00c5S",
+  "Synonyms": "bl\u00e5sa, andas ut"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00c4NSKLIGT",
+  "SubCategory": "ANDNING",
+  "Synonyms": "andning, suck, inandning, utandning, gasp, fl\u00e4mtning, v\u00e4sande, v\u00e4sande, v\u00e4sande, v\u00e4sande, v\u00e4sande, v\u00e4sande, v\u00e4sande, v\u00e4sande, v\u00e4sande, andning, inandning, utandning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00c4NSKLIGT",
+  "SubCategory": "RAPA",
+  "Synonyms": "rapa, rapa, hicka, hicka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00c4NSKLIGT",
+  "SubCategory": "HOSTA",
+  "Synonyms": "hack, ahem, hes, klar hals"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00c4NSKLIGT",
+  "SubCategory": "HJ\u00c4RTSLAG",
+  "Synonyms": "hj\u00e4rtklappning, bumbum"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00c4NSKLIGT",
+  "SubCategory": "KYSSA",
+  "Synonyms": "smekning, pussning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00c4NSKLIGT",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00c4NSKLIGT",
+  "SubCategory": "KISSA",
+  "Synonyms": "kissar, kissar, kissar, kissar, kissar, kissar, kissar, kissar, kissar, kissar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00c4NSKLIGT",
+  "SubCategory": "HUD",
+  "Synonyms": "gnugga, skrapa, hud, klia, sl\u00e5, ta tag i handen, handslag, smekning, gnugga, ryggmassage"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00c4NSKLIGT",
+  "SubCategory": "NYSA",
+  "Synonyms": "nysa, ah-choo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00c4NSKLIGT",
+  "SubCategory": "SNIFFA",
+  "Synonyms": "sniffa, sniffa, lukta, sniffa, sniffa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00c4NSKLIGT",
+  "SubCategory": "SNARKA",
+  "Synonyms": "snorka, zzz, tr\u00e5ngsynt, tung andning, apn\u00e9"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00c4NSKLIGT",
+  "SubCategory": "SPOTTA",
+  "Synonyms": "spotta, spotta, spotta, spottkopp, dregla, dregla."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00c4NSKLIGT",
+  "SubCategory": "KR\u00c4KAS",
+  "Synonyms": "kr\u00e4kas, spy, spy upp, spy upp, spy upp, spy upp, spy upp, spy upp, spy upp, spy upp, spy upp, spy upp, spy upp, spy upp, spy upp, spy upp, spy upp, spy upp, spy upp, spy upp, spy upp, spy upp"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IS",
+  "SubCategory": "BRYTA",
+  "Synonyms": "bryta, spricka, riva, splittra, krossa, kn\u00e4cka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IS",
+  "SubCategory": "KROSSA & BITAR",
+  "Synonyms": "krascha, falla, skr\u00e4p"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IS",
+  "SubCategory": "FRIKTION",
+  "Synonyms": "stress, skrapa, kn\u00e4cka, gnissla, skrika, skrika."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IS",
+  "SubCategory": "HANTERING",
+  "Synonyms": "hantera, ta tag i, s\u00e4tta, plocka upp, s\u00e4tta ner, kasta, f\u00e5nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IS",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "tr\u00e4ffa, falla, sl\u00e5, sl\u00e5, krascha, klunk, klang, klink, hugga."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IS",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IS",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "dra, rulla, skramla, skaka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "IS",
+  "SubCategory": "TONAL",
+  "Synonyms": "buga, ring, shing, shing"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LASER",
+  "SubCategory": "STR\u00c5LE",
+  "Synonyms": "str\u00e5le, gammastr\u00e5le, str\u00e5le"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LASER",
+  "SubCategory": "VAPEN",
+  "Synonyms": "plasmavapen, blaster, laserkanon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LASER",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "laser, blaster, slag, tr\u00e4ff, svider, svider"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LASER",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00c4DER",
+  "SubCategory": "KNARR",
+  "Synonyms": "kn\u00e4ppning, stress, sp\u00e4nning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00c4DER",
+  "SubCategory": "HANTERING",
+  "Synonyms": "hantera, ta tag i, st\u00e4lla in, plocka upp, st\u00e4lla ner, kasta, f\u00e5nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00c4DER",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "tr\u00e4ff, slag, grepp, duns, duns, duns"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00c4DER",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00c4DER",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "flap, flop, prassel, mvmt, glidning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "V\u00c4TSKOR & LERA",
+  "SubCategory": "BUBBLA",
+  "Synonyms": "bubbla, skum, pop, lera"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "V\u00c4TSKOR & LERA",
+  "SubCategory": "PLASK",
+  "Synonyms": "Splat, splatter, hit, impact, plop, kerplunk, plunk, lera, mudder."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "V\u00c4TSKOR & LERA",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "V\u00c4TSKOR & LERA",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "slem, slem, gegga, gyttja, lera"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "V\u00c4TSKOR & LERA",
+  "SubCategory": "SUG",
+  "Synonyms": "sug, slurp, glomp, plunger, lera"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "N\u00d6JESF\u00c4LT",
+  "Synonyms": "berg- och dalbana, karusell, scrambler, tilt-a-whirl, barntur, n\u00f6jespark, flipper, skeeball"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "ANTIK",
+  "Synonyms": "Tryckpress, symaskin, olivpress, sm\u00f6rkvarn."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "HUSH\u00c5LLSAPPARAT",
+  "Synonyms": "Ugn, kylsk\u00e5p, kylsk\u00e5p, mixer, matberedare, h\u00e5rtork, ismaskin, tv\u00e4ttmaskin, torktumlare, strykj\u00e4rn, kaffebryggare, diskmaskin, elektrisk burk\u00f6ppnare, avfallskvarn, luftfuktare, avfuktare, symaskin, br\u00f6drost, v\u00e5ffelmaskin, griddle, kokplatta."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "BYGGE",
+  "Synonyms": "Kran, cementblandare, flishuggare"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "HISS",
+  "Synonyms": "paternoster, godshiss, personhiss, hiss"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "RULLTRAPPA",
+  "Synonyms": "Travelator, rullbana, rullande g\u00e5ngbana"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "FL\u00c4KT",
+  "Synonyms": "Fl\u00e4kt, takfl\u00e4kt, boxfl\u00e4kt, industrifl\u00e4kt, bl\u00e5sl\u00f6s fl\u00e4kt."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "TR\u00c4DG\u00c5RD",
+  "Synonyms": "Gr\u00e4sklippare, ogr\u00e4srensare, kantsk\u00e4rare, motors\u00e5g, trimmer, st\u00e5ngs\u00e5g, mulcher, kultivator."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "GYM",
+  "Synonyms": "L\u00f6pband, eliptisk maskin, roddmaskin, motionscykel, station\u00e4r cykel, nordictrack, trappkl\u00e4ttrare."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "HI-TECH",
+  "Synonyms": "pryl, digital, handh\u00e5llen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "VENTILATION",
+  "Synonyms": "aircon, luftkonditionering, uppv\u00e4rmning."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "INDUSTRI",
+  "Synonyms": "hydraulisk press, monteringslinje, br\u00e4nneri, stanspress, formpress+F437:F450"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "MEKANISM",
+  "Synonyms": "pusselbox, rube goldberg, pryl."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "SJUKV\u00c5RD",
+  "Synonyms": "R\u00f6ntgenapparater, mri, cat scan, pet scan, blodtrycksmaskin, laboratorietestmaskin, centrifug, ventilator, defibrillator."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "KONTOR",
+  "Synonyms": "Fax, fax, telefax, kopieringsmaskin, skrivare, dokumentf\u00f6rst\u00f6rare, xerox, fotokopierare, mimograf, laserskrivare, bl\u00e4ckstr\u00e5leskrivare, pappersf\u00f6rst\u00f6rare, plotter."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASKINER",
+  "SubCategory": "PUMP",
+  "Synonyms": "Vattenpump, sumppump, kompressor, luftkompressor."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGI",
+  "SubCategory": "\u00c4NGLALIK",
+  "Synonyms": "helig, himmelsk, eterisk, gudomlig, andlig, salig, r\u00e4ttf\u00e4rdig, helgonaktig"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGI",
+  "SubCategory": "NATURELEMENT",
+  "Synonyms": "eld, vatten, jord, elektricitet, luft, vind"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGI",
+  "SubCategory": "ONDSKA",
+  "Synonyms": "m\u00f6rkt, dj\u00e4vul, besv\u00e4rjelse, nekromantik, voodoo, svart magi, f\u00f6rbjudet"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGI",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGI",
+  "SubCategory": "POFF",
+  "Synonyms": "chuff, foomp, blast"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGI",
+  "SubCategory": "SKIMMER",
+  "Synonyms": "glittra, gnistra, klockan, klockspel, glittra, glittra, glittra, glitter, scintillation, gl\u00f6d, glimmer, skimmer, skimmern"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGI",
+  "SubCategory": "TROLLFORMEL",
+  "Synonyms": "h\u00e4xa, trollkarl, trollkarl, kasta, besv\u00e4rjelse, trollformel, trolldom, trolldom, f\u00f6rtrollning, \u00e5kallan, f\u00f6rh\u00e4xning, exorcism, f\u00f6rbannelse, trance"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKANIK",
+  "SubCategory": "KLICK",
+  "Synonyms": "klick, clack, snap, toggle, knapp"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKANIK",
+  "SubCategory": "KUGGHJUL",
+  "Synonyms": "kugghjul, kugghjul, kugghjul, kugghjul, kugghjul, kugghjul, sv\u00e4nghjul, v\u00e4xelhjul, kugghjul, kugghjul, kugghjul, kugghjul"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKANIK",
+  "SubCategory": "HYDRAULIK & PNEUMATIK",
+  "Synonyms": "hydraulisk, pneumatisk, trycksatt, ventil"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKANIK",
+  "SubCategory": "REGEL",
+  "Synonyms": "sp\u00e4rr, beslag, l\u00e5s, l\u00e5s, sp\u00e4nne, hasp, bult"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKANIK",
+  "SubCategory": "SPAK",
+  "Synonyms": "spak, omkopplare, klunk, klunk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKANIK",
+  "SubCategory": "L\u00c5S",
+  "Synonyms": "h\u00e4ngl\u00e5s, l\u00e5s"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKANIK",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKANIK",
+  "SubCategory": "DRAG & RULLA",
+  "Synonyms": "gnissel, pip, rullning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKANIK",
+  "SubCategory": "SP\u00c4RR",
+  "Synonyms": "sp\u00e4rr, kn\u00e4pp, klick, vind, vev, vinsch, vinsch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKANIK",
+  "SubCategory": "REL\u00c4",
+  "Synonyms": "flipp, v\u00e4xel, klack"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKANIK",
+  "SubCategory": "VALS",
+  "Synonyms": "rulle, rem, kardanaxel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKANIK",
+  "SubCategory": "BRYTARE",
+  "Synonyms": "omkoppling, klick, klack, v\u00e4xel, knapp"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METALL",
+  "SubCategory": "BRYTARE",
+  "Synonyms": "bryta, kn\u00e4cka, slita, slita s\u00f6nder, krossa, kn\u00e4cka."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METALL",
+  "SubCategory": "KRASH & BITAR",
+  "Synonyms": "krasch, fall, spillror"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METALL",
+  "SubCategory": "FRIKTION",
+  "Synonyms": "Stress, skrapning, kn\u00e4ppning, gnissel, gnissel, skrik."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METALL",
+  "SubCategory": "HANTERING",
+  "Synonyms": "hantera, ta tag i, st\u00e4lla in, plocka upp, st\u00e4lla ner, kasta, f\u00e5nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METALL",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "tr\u00e4ff, fall, slag, kollision, krasch, klunk, klang"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METALL",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METALL",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "dra, rulla, skramla, skaka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METALL",
+  "SubCategory": "TONAL",
+  "Synonyms": "buga, ringa, wronk, shing, varpa, b\u00f6ja sig, b\u00f6jas, resonera."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTORER",
+  "SubCategory": "ANTIK",
+  "Synonyms": "fotogenmotor, paraffinmotor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTORER",
+  "SubCategory": "F\u00d6RBR\u00c4NNING",
+  "Synonyms": "dieselmotor, gasmotor, f\u00f6rbr\u00e4nningsmotor, tv\u00e5taktsmotor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTORER",
+  "SubCategory": "EL",
+  "Synonyms": "tandborste, elektrisk rakkniv, elektrisk motor, avfallskvarn, tandl\u00e4karborrmaskin"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTORER",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTORER",
+  "SubCategory": "SERVO",
+  "Synonyms": "robot, rc-bil, kamerafokus, bilantenn, skrivare"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTORER",
+  "SubCategory": "TURBIN",
+  "Synonyms": "V\u00e4derkvarn, flygplan, flygplan, generator"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6RELSE",
+  "SubCategory": "AKTIVITET",
+  "Synonyms": "aktivitet, flyttning, st\u00e4dning, shopping, uppackning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6RELSE",
+  "SubCategory": "DJUR",
+  "Synonyms": "stampede, flock, anstormning, trampning, skrammel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6RELSE",
+  "SubCategory": "VARELSE",
+  "Synonyms": "krypa, krypa, glida, slingra sig, slingra sig."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6RELSE",
+  "SubCategory": "FOLKSAMLING",
+  "Synonyms": "g\u00e5, springa, marschera, g\u00e5, g\u00e5, g\u00e5, g\u00e5, sitta, st\u00e5, ligga, glida, hoppa, hoppa \u00f6ver."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6RELSE",
+  "SubCategory": "M\u00c4NNISKA",
+  "Synonyms": "g\u00e5, springa, marschera, mala, blanda, skuffla, sitta, st\u00e5, ligga, glida, hoppa, hoppa, hoppa."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6RELSE",
+  "SubCategory": "INSEKT",
+  "Synonyms": "sv\u00e4rm, kupa, bikupa, slingra, maskar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6RELSE",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6RELSE",
+  "SubCategory": "N\u00c4RVARO",
+  "Synonyms": "justera, blanda, r\u00f6ra sig, skramla, l\u00e4tt r\u00f6relse, flytta sig"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "CHIME",
+  "Synonyms": "R\u00f6rklockor, carillon, gamelan, klangsk\u00e5l, handklocka, koh\u00e4llan, gong, gamelan, agung, sk\u00e5lgong, tam-tam."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "BLECKBL\u00c5S",
+  "Synonyms": "tuba, valthorn, trombon, trumpet, mellofon, euphorium, sousafon, fl\u00f6jelhorn, horn, saxhorn, kornett"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "KLOCKOR",
+  "Synonyms": "vindklocka, klockspel, klockspel, tinkle, twinkle, shimmer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "K\u00d6R",
+  "Synonyms": "k\u00f6r, k\u00f6r, gospel, kyrka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "EXPERIMENTELL",
+  "Synonyms": "Theremin, glasarmoniak, pyrofon, stylofon, kristallbaschet, elektrifierad kaktus, aeolianisk vindharpa."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "INSTRUMENT",
+  "Synonyms": "instrument"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "TANGENTINSTRUMENT",
+  "Synonyms": "piano, orgel, harpsicord, dragspel, melodica, celesta, spinet, clavinet, clavichord, harmonium, dulcitone"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "LOOP",
+  "Synonyms": "musikslingor, sampelslingor, trumslingor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse, munspel, munspel, kazoo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "SLAGVERK",
+  "Synonyms": "timpani, trumma, bastrumma, toms, krigstrummor, taiko, kickdrum, l\u00e5rtrumma"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "IDIOFONER",
+  "Synonyms": "glockenspel, xylofon, vibrafon, metallofon, klocklyra, st\u00e5ltrum, marimba"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "UTF\u00d6RANDE",
+  "Synonyms": "band, gatumusikant, livekonsert, show, nattklubb, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "KN\u00c4PPINSTRUMENT",
+  "Synonyms": "gitarr, banjo, ukelele, harpa, akustisk gitarr, basgitarr, mandolin, balalaika, sitar, pipa, tummepiano, k\u00e4ppharpa, cittra, balalaika, autoharpa, kora, luta, lyra, oud, tambura, karimba"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "SAMPLING",
+  "Synonyms": "Samplar, r\u00e5a samplingar, enstaka samplingar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "SKAKAD",
+  "Synonyms": "maracas, tamburin, skrammel, regnpinne, shekere, \u00e4ggskakare, chajchas, apst\u00e5ng, katsa, sistrum, shaker, cabasa."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "S\u00c5NG & FRASER",
+  "Synonyms": "musik, spelpiano, ringsignal, musikalisk bil, fras"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "ACCENT",
+  "Synonyms": "musiksting, nyhetssting, titel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "STR\u00c5K",
+  "Synonyms": "violin, cello, viola, violoncello, bas, kontrabas"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "SYNTETISERAD",
+  "Synonyms": "synth, moog, casio, roland, arp, synthesizer, oberheim, minimoog, yamaha, korg"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "LEKSAK",
+  "Synonyms": "speldosa, jack i l\u00e5dan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUSIKALISK",
+  "SubCategory": "TR\u00c4BL\u00c5S",
+  "Synonyms": "Fl\u00f6jt, piccolo, oboe, fagott, blockfl\u00f6jt, klarinett, saxofon, basklarinett, ney, bansuri, kaval, panfl\u00f6jt, xiao, fife, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NATURKATASTROF",
+  "SubCategory": "LAVIN",
+  "Synonyms": "jordskred, jordskred, slamskred"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NATURKATASTROF",
+  "SubCategory": "JORDB\u00c4VNING",
+  "Synonyms": "jordb\u00e4vning, mullrande, skrammel, spricka, lfe"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NATURKATASTROF",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NATURKATASTROF",
+  "SubCategory": "TORNADO",
+  "Synonyms": "tornado, virvel, vattenspridare"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NATURKATASTROF",
+  "SubCategory": "TSUNAMI",
+  "Synonyms": "Tidvattenv\u00e5g, tsunami"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NATURKATASTROF",
+  "SubCategory": "TYFON",
+  "Synonyms": "tyfon, orkan, cyklon, tropisk storm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NATURKATASTROF",
+  "SubCategory": "VULKAN",
+  "Synonyms": "utbrott, lava, lavabomber, utbrott, pyroklaster"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "V\u00c4SKA",
+  "Synonyms": "Duffle, ryggs\u00e4ck, ryggs\u00e4ck, v\u00e4ska, handv\u00e4ska, axelv\u00e4ska, kamerav\u00e4ska."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "BOK",
+  "Synonyms": "bok, omslag, tidskrift, katalog, l\u00e4robok, ordbok, tome, volym, bibel, publikation."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "MYNT",
+  "Synonyms": "kasta, flip, ping, dumpa, snurra, spargris, klirra, mynt, l\u00f6s v\u00e4xel, v\u00e4xel, silverdollar, penny, nickel, dime, quarter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "BEH\u00c5LLARE",
+  "Synonyms": "L\u00e5da, kartongl\u00e5da, beh\u00e5llare, f\u00f6rpackning, smyckeskrin, plastbeh\u00e5llare, lock, tupperware, kapsel, br\u00f6dl\u00e5da, burk, verktygsl\u00e5da, pillerl\u00e5da."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "MODE",
+  "Synonyms": "skor, st\u00f6vlar, mascara, l\u00e4ppstift, smink, b\u00e4lte, sk\u00e4rp, halsduk, h\u00f6gklackat, eyeliner, solglas\u00f6gon, glas\u00f6gon, pl\u00e5nbok, hatt, handskar, klockor, sjal, strumpor, bandana, pannband, slipsar, muffar, h\u00e4ngslen, morgonrock, n\u00e4sduk."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "M\u00d6BEL",
+  "Synonyms": "Chesterfield, soffa, gungstol, bord, stol, \u00e4lskogss\u00e4te, pall, sk\u00e5p, bokhylla, s\u00e4ng, soffa, kista."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "TR\u00c4DG\u00c5RD",
+  "Synonyms": "Blomkruka, tr\u00e4dg\u00e5rdsskulptur, slang, kran, vattenkanna, f\u00e5gelmatare, komposter."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "GYM",
+  "Synonyms": "Vikt, hantel, skivst\u00e5ng, matta, viktb\u00e4nk, hopprep, tr\u00e4ningsboll, yogamatta, viktb\u00e4nk, motst\u00e5ndsband, kettlebell, tr\u00e4ningsboll, fitnessboll, tr\u00e4ningsboll."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "HUSH\u00c5LLSAPPARAT",
+  "Synonyms": "hush\u00e5ll, hem, hus"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "SMYCKE",
+  "Synonyms": "armband, halsband, krona, \u00f6rh\u00e4nge, ring, nosring, h\u00e4nge, slipsn\u00e5l, manschettknappar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "NYCKEL",
+  "Synonyms": "nyckelring, nyckelring, nyckelknippa, nyckelband"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "BAGGAGE",
+  "Synonyms": "resv\u00e4ska, bagage, v\u00e4ska, duffelbag, duffel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "SJUKV\u00c5RD",
+  "Synonyms": "Manuell blodtrycksm\u00e4tare, stetoskop, gummihandskar, kl\u00e4mma, spruta, pincett"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "KONTOR",
+  "Synonyms": "h\u00e4ftapparat, pappersklippare, h\u00e5lslagare, sax, papperskorg, pappersviktare, mapp, p\u00e4rm, rapport"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "F\u00d6RPACKNING",
+  "Synonyms": "kartong, styrofoam, packp\u00e5sar, etiketter, f\u00f6rpackningspapper, bubbelplast"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "TEJP",
+  "Synonyms": "tejp, kardborreband, flugpapper, lim, packtejp, maskeringstejp, tejp, gaffatejp, scotch, dubbelh\u00e4ftande tejp."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "PARAPLY",
+  "Synonyms": "Skaka, prassla, kn\u00e4ppa, kn\u00e4ppa, dunka."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "VAGN",
+  "Synonyms": "Barnvagn, barnvagn, rullstol, rullator, docka, vagn, vagn, vagga, b\u00e5r."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "PENNA",
+  "Synonyms": "penna, blyertspenna, tusch, krita, krita, raderblock, sharpie, signatur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAKER",
+  "SubCategory": "DRAGKEDJA",
+  "Synonyms": "dragkedja, byxor, jacka, t\u00e4lt, v\u00e4ska"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPPER",
+  "SubCategory": "FLADDRA",
+  "Synonyms": "fladdrar, fladdrar, faller, konfetti, kartong, papper"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPPER",
+  "SubCategory": "FRIKTION",
+  "Synonyms": "glidning, skrapning, kartong, papper"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPPER",
+  "SubCategory": "HANTERA",
+  "Synonyms": "v\u00e4nda, bl\u00e4ddra, bl\u00e4ddra, bl\u00e4ddra, bl\u00e4ddra, bl\u00e4ddra, kartong, papper"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPPER",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "papper sl\u00e5, smacka, sl\u00e5, tidning, tidskrift, kartong, papper"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPPER",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPPER",
+  "SubCategory": "RIVA",
+  "Synonyms": "riva, slita, strimla, kartong, papper"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPPER",
+  "SubCategory": "TONAL",
+  "Synonyms": "tonal, sjungande, ringande, papper, kartong"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST",
+  "SubCategory": "BRYTA",
+  "Synonyms": "bryta, kn\u00e4cka, slita, slita s\u00f6nder, krossa, krossa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST",
+  "SubCategory": "KRASCH & BITAR",
+  "Synonyms": "faller, kraschar, skr\u00e4p"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST",
+  "SubCategory": "FRIKTION",
+  "Synonyms": "stress, skrapning, knarr, gnissel, gnissel, skrik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST",
+  "SubCategory": "HANTERING",
+  "Synonyms": "hantera, ta tag i, s\u00e4tta, plocka upp, s\u00e4tta ner, kasta, f\u00e5nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "tr\u00e4ffa, sl\u00e4ppa, sl\u00e5, sl\u00e5 till"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "dra, rulla, skramla, skaka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST",
+  "SubCategory": "TONAL",
+  "Synonyms": "tonal, sjungande, ringande"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGN",
+  "SubCategory": "TYG",
+  "Synonyms": "regn, tyg, jacka, paraply, bomull"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGN",
+  "SubCategory": "BETONG",
+  "Synonyms": "regn, cement, asfalt, asfalt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGN",
+  "SubCategory": "ALLM\u00c4NT",
+  "Synonyms": "regn, regnstorm, skyfall"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGN",
+  "SubCategory": "GLAS",
+  "Synonyms": "regn, glas, takf\u00f6nster, f\u00f6nster, soltak, v\u00e4xthus"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGN",
+  "SubCategory": "INTERI\u00d6R",
+  "Synonyms": "regn, regnstorm, inomhusregn, vindsk\u00e4rmregn, regn p\u00e5 tak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGN",
+  "SubCategory": "METALL",
+  "Synonyms": "regn, metall, bil, burk, pl\u00e5t, tak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGN",
+  "SubCategory": "PLAST",
+  "Synonyms": "regn, plast, vinyl, plexiglas"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGN",
+  "SubCategory": "V\u00c4XTLIGHET",
+  "Synonyms": "Regn p\u00e5 en metallyta, allts\u00e5 regn p\u00e5 en bil, eller pl\u00e5t etc."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGN",
+  "SubCategory": "VATTEN",
+  "Synonyms": "regn, p\u00f6l, sj\u00f6, damm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REGN",
+  "SubCategory": "TR\u00c4BL\u00c5S",
+  "Synonyms": "regn, tr\u00e4, d\u00e4ck, tak, skjul, golv"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ROBOTAR",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "automat, droid, bot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ROBOTAR",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "servo, solenoid, mekanism, pneumatisk, hydraulisk, droid, bot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ROBOTAR",
+  "SubCategory": "R\u00d6ST",
+  "Synonyms": "droid, pip, pip, visselpip, bot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEN & BERG",
+  "SubCategory": "BRYTA",
+  "Synonyms": "Bryter, spricker, sliter, krossar, krossar, krossar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEN & BERG",
+  "SubCategory": "KRASCH & BITAR",
+  "Synonyms": "Fall, skr\u00e4p"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEN & BERG",
+  "SubCategory": "FRIKTION",
+  "Synonyms": "Stress, skrapor, kryp, gnissel, gnissel, skrik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEN & BERG",
+  "SubCategory": "HANTERING",
+  "Synonyms": "hantera, gripa, s\u00e4tta, plocka upp, s\u00e4tta ner, kasta, f\u00e5nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEN & BERG",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "Sl\u00e5, falla, sl\u00e5, krascha, sm\u00e4lla, sm\u00e4lla, sm\u00e4lla, sm\u00e4lla, sm\u00e4lla, hugga."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEN & BERG",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEN & BERG",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "Dra, rulla, skramla, skaka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STEN & BERG",
+  "SubCategory": "TONAL",
+  "Synonyms": "B\u00f6jd, Ring, Wronk, Shing, Warp"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REP",
+  "SubCategory": "KNARR",
+  "Synonyms": "str\u00e4cka, sp\u00e4nna, dra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REP",
+  "SubCategory": "HANTERING",
+  "Synonyms": "hantera, ta tag i, st\u00e4lla in, plocka upp, st\u00e4lla ner, kasta, f\u00e5nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REP",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "tr\u00e4ffa, sl\u00e4ppa, sl\u00e5 till, sl\u00e5 till, sl\u00e5 till, sl\u00e5 till"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REP",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "REP",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "zuzz, zipline, zip, zip, knut, slips"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GUMMI",
+  "SubCategory": "KRASCH & BITAR",
+  "Synonyms": "skr\u00e4p, spridning, plop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GUMMI",
+  "SubCategory": "FRIKTION",
+  "Synonyms": "gnissel, kn\u00e4ppning, sl\u00e4p, gnidning, skrapning, st\u00f6n."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GUMMI",
+  "SubCategory": "HANTERING",
+  "Synonyms": "hantera, ta tag i, s\u00e4tta, plocka upp, s\u00e4tta ner, kasta, f\u00e5nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GUMMI",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "sm\u00e4ll, slag, tr\u00e4ff, studsa, falla."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GUMMI",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GUMMI",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "R\u00f6relse, dra, flaxa, floppa, floppa."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GUMMI",
+  "SubCategory": "TONAL",
+  "Synonyms": "tonal, gummi, s\u00e5ng"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCI-FI",
+  "SubCategory": "LARM",
+  "Synonyms": "sci-fi larm, varning, varning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCI-FI",
+  "SubCategory": "DATOR",
+  "Synonyms": "dator, konsol, gr\u00e4nssnitt, holosk\u00e4rm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCI-FI",
+  "SubCategory": "D\u00d6RR",
+  "Synonyms": "sci-fi-d\u00f6rr, luftsluss"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCI-FI",
+  "SubCategory": "ENERGI",
+  "Synonyms": "Partikel, virvel, transport\u00f6r, hologram, kraftf\u00e4lt."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCI-FI",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "Energislag, energiv\u00e5g, kraftf\u00e4lt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCI-FI",
+  "SubCategory": "MASKIN",
+  "Synonyms": "teleporter, matreplikatorer, holod\u00e4ck"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCI-FI",
+  "SubCategory": "MEKANISM",
+  "Synonyms": "tricorder, scifi-apparat, pryl"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCI-FI",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCI-FI",
+  "SubCategory": "RETRO",
+  "Synonyms": "gammal sci-fi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCI-FI",
+  "SubCategory": "RYMDSKEPP",
+  "Synonyms": "rymdskepp, ufo, moderskepp, slagskepp, stj\u00e4rnskepp"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCI-FI",
+  "SubCategory": "FORDON",
+  "Synonyms": "m\u00e5nrover, landspeeder, speederbike, hoverboard, podracer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCI-FI",
+  "SubCategory": "VAPEN",
+  "Synonyms": "Ljusstavar, exotiska vapen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SN\u00d6",
+  "SubCategory": "KRASCH & RAS",
+  "Synonyms": "sn\u00f6boll, sn\u00f6krasch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SN\u00d6",
+  "SubCategory": "FRIKTION",
+  "Synonyms": "stress, skrapning, knarr, gnissel, gnissel, skrik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SN\u00d6",
+  "SubCategory": "HANTERING",
+  "Synonyms": "hantera, ta tag i, s\u00e4tta, plocka upp, s\u00e4tta ner, kasta, f\u00e5nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SN\u00d6",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "sn\u00f6boll, sn\u00f6drift, sn\u00f6, sn\u00f6, sn\u00f6, sn\u00f6, sn\u00f6, sn\u00f6, sn\u00f6, sn\u00f6, sn\u00f6"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SN\u00d6",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SN\u00d6",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "vada, sl\u00e4pa, pl\u00f6ja, fumla"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "PLAN",
+  "Synonyms": "basket, tennis, f\u00e4ktning, volleyboll, racketboll, badminton, n\u00e4tboll, squash, dodgeball, shuffleboard, handboll"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "F\u00c4LT",
+  "Synonyms": "Fotboll, fotboll, baseball, ishockey, cricket, rugby, polo, lacrosse."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "GYM",
+  "Synonyms": "Boxning, brottning, gymnastik, styrketr\u00e4ning, kampsport, karate, judo, tae kwon do, dojo, kung fu."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "HALL",
+  "Synonyms": "Bowling, biljard, pingis, dart."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Golf"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "SKRIDSKOR",
+  "Synonyms": "Skateboard, rullskridskor, rullskridskor, rullskridskor, skoter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "FRIIDROTT",
+  "Synonyms": "l\u00e4ngdhopp, l\u00f6pning, stavhopp, kulst\u00f6tning, spjutkastning, spjutkast"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "VATTEN",
+  "Synonyms": "Simning, vattenpolo, vattenvolleyboll, dykning, vattenskid\u00e5kning, surfing, kiteboarding, dykning, snorkling."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "VINTER",
+  "Synonyms": "Skid\u00e5kning, snowboarding, bobslide, skridsko\u00e5kning, pulka\u00e5kning, curling, ishockey, rodel, hastighets\u00e5kning."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SVISCHAR",
+  "SubCategory": "SVISCH",
+  "Synonyms": "svaj, kungfu, whizby, fladdrar, sv\u00e4nger"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SVISCHAR",
+  "SubCategory": "WHOOSH",
+  "Synonyms": "woosh"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VERKTYG",
+  "SubCategory": "TR\u00c4DG\u00c5RD",
+  "Synonyms": "Kratta, hack, spade, spade, spackel, kvast, besk\u00e4rningssax, tr\u00e4dg\u00e5rdsgaffel, markberedare, hackspade, spade, ogr\u00e4srensare."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VERKTYG",
+  "SubCategory": "HANDVERKTYG",
+  "Synonyms": "hammare, skruvmejsel, t\u00e5ng, skiftnyckel, skiftnyckel, skiftnyckel, hands\u00e5g, kl\u00e4mma, sk\u00e4rare, brytj\u00e4rn, mejsel, skrapa, h\u00e4ftpistol, fil, sax"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VERKTYG",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VERKTYG",
+  "SubCategory": "TRYCKLYFT",
+  "Synonyms": "Jackhammer, tryckluftsverktyg, tryckluftskratsch, spikpistoler."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VERKTYG",
+  "SubCategory": "ELVERKTYG",
+  "Synonyms": "borrmaskin, motors\u00e5g, cirkels\u00e5g, sticks\u00e5g, slipmaskin, bandslipmaskin, \u00f6verfr\u00e4sare, skruvmejsel, v\u00e4rmepistol, borrmaskin, bordss\u00e5g"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LEKSAKER",
+  "SubCategory": "ELEKTRONISK",
+  "Synonyms": "fj\u00e4rrstyrd bil, spelautomat, tala och stava, furby"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LEKSAKER",
+  "SubCategory": "MEKANISK",
+  "Synonyms": "Upprullningsleksak, leksaksrobot, lindande leksak."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LEKSAKER",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Actionfigur, docka, uppstoppat djur."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u00c5G",
+  "SubCategory": "BROMSA",
+  "Synonyms": "g\u00e5r s\u00f6nder, skriker, gnisslar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u00c5G",
+  "SubCategory": "SKENSKARVAR",
+  "Synonyms": "klack"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u00c5G",
+  "SubCategory": "D\u00d6RR",
+  "Synonyms": "T\u00e5gd\u00f6rr, tunnelbaned\u00f6rr"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u00c5G",
+  "SubCategory": "DIESEL",
+  "Synonyms": "dieselt\u00e5g"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u00c5G",
+  "SubCategory": "EL",
+  "Synonyms": "pendelt\u00e5g, regionalt\u00e5g, stadslinje, intercityt\u00e5g, l\u00e4tt j\u00e4rnv\u00e4g"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u00c5G",
+  "SubCategory": "H\u00d6GHASTIGHETST\u00c5G",
+  "Synonyms": "h\u00f6gteknologiskt t\u00e5g, maglev, monorail, hyperloop, bullet train"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u00c5G",
+  "SubCategory": "TUTA",
+  "Synonyms": "T\u00e5ghorn, tunnelbanehorn."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u00c5G",
+  "SubCategory": "INTERI\u00d6R",
+  "Synonyms": "pendelt\u00e5g, regionalt\u00e5g, stadslinje, intercityt\u00e5g, l\u00e4tt j\u00e4rnv\u00e4g, godst\u00e5g, tunnelbana, monorail"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u00c5G",
+  "SubCategory": "MEKANISM",
+  "Synonyms": "shunt, frikoppling"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u00c5G",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u00c5G",
+  "SubCategory": "\u00c5NGA",
+  "Synonyms": "\u00c5ngt\u00e5g, kolt\u00e5g"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u00c5G",
+  "SubCategory": "TUNNELBANA",
+  "Synonyms": "tunnelbana, tunnelbana, tunnelbana, rer, rer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u00c5G",
+  "SubCategory": "SP\u00c5RVAGN",
+  "Synonyms": "sp\u00e5rvagn, tr\u00e5dvagn, linbana, linbana, bergbana, gripbil"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ANV\u00c4NDARGR\u00c4NSSNITT",
+  "SubCategory": "LARM",
+  "Synonyms": "varning, ton, textmeddelande, anm\u00e4lan, start"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ANV\u00c4NDARGR\u00c4NSSNITT",
+  "SubCategory": "PIP",
+  "Synonyms": "dator pip, telefon pip"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ANV\u00c4NDARGR\u00c4NSSNITT",
+  "SubCategory": "KLICK",
+  "Synonyms": "klicka, trycka, skriva"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ANV\u00c4NDARGR\u00c4NSSNITT",
+  "SubCategory": "DATA",
+  "Synonyms": "data, bearbetning, information, t\u00e4nkande"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ANV\u00c4NDARGR\u00c4NSSNITT",
+  "SubCategory": "GLAPP",
+  "Synonyms": "glitch, fel, fel, fel, k\u00e4rnpanik, guru meditationsfel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ANV\u00c4NDARGR\u00c4NSSNITT",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ANV\u00c4NDARGR\u00c4NSSNITT",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "svepa, bl\u00e4ddra, zooma, sida"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "V\u00c4XTLIGHET",
+  "SubCategory": "GR\u00c4S",
+  "Synonyms": "gr\u00e4s som prasslar, g\u00e5r igenom, h\u00f6, vete"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "V\u00c4XTLIGHET",
+  "SubCategory": "L\u00d6V",
+  "Synonyms": "l\u00f6vvirvel, l\u00f6vfall, fallande l\u00f6v, l\u00f6vh\u00f6g"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "V\u00c4XTLIGHET",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "l\u00f6vverk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "V\u00c4XTLIGHET",
+  "SubCategory": "TR\u00c4D",
+  "Synonyms": "Tr\u00e4d faller, grenar kn\u00e4cks, grenar bryts, kvist"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "LARM",
+  "Synonyms": "bil, auto, bil, bilalarm, larm, pip, pip, avv\u00e4pning, fob"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "ANTIK",
+  "Synonyms": "bil, auto, bil, bil, oldsmobile, modell a, modell t"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "ATV",
+  "Synonyms": "quad, trehjuling, fyrhjuling, fyrhjuling, fyrhjuling, dune buggy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "CYKEL",
+  "Synonyms": "cykel, cykel, liggcykel, enhjuling, tandem, bmx"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "BROMS",
+  "Synonyms": "bromsar som gnisslar, gnisslar, gnisslar."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "BUS",
+  "Synonyms": "stadsbuss, skolbuss, greyhoundbuss, buss, turistbuss, dubbeld\u00e4ckare"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "BIL",
+  "Synonyms": "bil, auto, automobil"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "BYGGE",
+  "Synonyms": "kran, bulldozer, gr\u00e4vmaskin, gr\u00e4vmaskin, gr\u00e4vmaskin, gr\u00e4vmaskin, gaffeltruck"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "D\u00d6RR",
+  "Synonyms": "bil, auto, bil, bild\u00f6rr, d\u00f6rr till bil, d\u00f6rr till sk\u00e5pbil, d\u00f6rr till lastbil"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "ELETRISK",
+  "Synonyms": "Segway, golfbil, elektrisk skoter, elbil, elektrisk motorcykel, tesla, elektrisk gokart."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "N\u00d6DSITUATION",
+  "Synonyms": "brandbil, brandbil, ambulans, polisbil, SWAT-bil"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "LANTBRUK",
+  "Synonyms": "Traktor, sk\u00f6rdetr\u00f6ska, skalare, sk\u00f6rdare."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "FRAKT",
+  "Synonyms": "stora lastbilar, lastbilar, halvlastbilar, u-haul-lastbilar, penske-lastbilar, l\u00e5dbilar, godstransportbilar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "PASSERING",
+  "Synonyms": "bil, bil, bil, bil, passerar f\u00f6rbi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "TUTA",
+  "Synonyms": "bil, auto, bil, bil, bilhorn"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "INTERI\u00d6R",
+  "Synonyms": "bil, lastbil, sk\u00e5pbil, interi\u00f6r, k\u00f6rning, ombord, buss"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "SKROTIG",
+  "Synonyms": "bil, auto, bil, hoopty, clunker, junker, false start, misfiring, malfunctioning, misfire, backfire"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "MEKANISM",
+  "Synonyms": "f\u00f6nstervev, handskfack, vindruta, torkare, bagageutrymme, s\u00e4kerhetsb\u00e4lte, s\u00e4kerhetsb\u00e4lte, blinkers, v\u00e4xelspak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "MILIT\u00c4R",
+  "Synonyms": "stridsvagn, APC, pansarfordon, humvee, jeep"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "Sn\u00f6skoter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "MOTORCYKEL",
+  "Synonyms": "skoter, motorcykel, motorcykel, vespa, motocross, dirt bike"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "RACING",
+  "Synonyms": "bil, auto, bil, racerbil, dragracingbil, indy, formel 1, nascar, grand prix, monster truck"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "SIREN",
+  "Synonyms": "ambulans, polis, siren, brandbil, brandman"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "D\u00c4CKSKRIK",
+  "Synonyms": "d\u00e4ck som glider, peel out, chuff, burnout"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "FJ\u00c4DRING",
+  "Synonyms": "fj\u00e4dring, st\u00f6tfj\u00e4drar, gnissel, skrammel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "D\u00c4CK",
+  "Synonyms": "d\u00e4ck, d\u00e4ck, rulla"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "FAMILJEBUSS & SUV",
+  "Synonyms": "bil, auto, bil, personbil, personbil, pickup, sk\u00e5pbil, suv, platta, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "HJ\u00c4LPMEDEL",
+  "Synonyms": "UTV, SXS, side by side, RZR, Ranger, Cushman, Gator"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "VAGN",
+  "Synonyms": "vagn, dilettant, vagn, vagn, vagn, tr\u00e4k\u00e4rra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FORDON",
+  "SubCategory": "F\u00d6NSTER",
+  "Synonyms": "bil, bil, bil, bil, automatisk f\u00f6nster, elektrisk f\u00f6nster"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "RYMDVARELSE",
+  "Synonyms": "fr\u00e4mmande spr\u00e5k, chewbacca"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "BEBIS",
+  "Synonyms": "kuska, babbla, br\u00e5ka, snusa, snusa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "JUBEL",
+  "Synonyms": "klappa, bua, heja, j\u00e4rva, ropa, woohoo, ropa."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "BARN",
+  "Synonyms": "barn, ton\u00e5ring, ton\u00e5ring"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "GR\u00c5T",
+  "Synonyms": "gr\u00e5ter, puttar, snyftar, gn\u00e4ller, b\u00f6lar, br\u00e5kar, \u00e4r ledsen, s\u00e5rad"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "ANSTR\u00c4NGNING",
+  "Synonyms": "anstr\u00e4ngning, grymta, k\u00e4mpa, anstr\u00e4nga sig, anstr\u00e4nga sig"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "KVINNLIG",
+  "Synonyms": "kvinna, kvinnlig"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "TELEFON",
+  "Synonyms": "h\u00f6gtalare, talare, offentlig talare, tillk\u00e4nnagivande"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "HISTORISK",
+  "Synonyms": "tal, f\u00f6rel\u00e4sning, s\u00e4ndning, nyheter, historisk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "SKRATT",
+  "Synonyms": "fnissa, skratta, skratta, hojta, hojta, maniakalisk, hysterisk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "MANLIG",
+  "Synonyms": "man, man"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "REAKTION",
+  "Synonyms": "oh, ooh, ooo, ah, ahh, ahhh, er, em, hmm, hm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "SKRIK",
+  "Synonyms": "ropa, skrika, skrika, d\u00f6d, falla"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "S\u00c5NG",
+  "Synonyms": "sjunga, nynna, dikt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00d6STER",
+  "SubCategory": "VISKA",
+  "Synonyms": "viskar, mumlar, tystar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "BUBBLOR",
+  "Synonyms": "bubbla, koka, sjuda, blub, glub, kittel, potion"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "AVLOPP",
+  "Synonyms": "avlopp, gurgla, b\u00f6la, kloak, dusch, diskb\u00e4nk, stormdr\u00e4nering."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "DROPPS",
+  "Synonyms": "dropp, plip, plop, trickle, l\u00e4ckage, grotta"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "SPRUDLA",
+  "Synonyms": "bubbla, s\u00f6rja, seltzer, skum, v\u00e4sande"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "RINNA",
+  "Synonyms": "flod, str\u00f6m, b\u00e4ck, str\u00f6m, vattendrag, bifl\u00f6de, b\u00e4ck, r\u00e4nnil, b\u00e4ck, k\u00e4lla, k\u00e4lla"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "FONT\u00c4N",
+  "Synonyms": "font\u00e4n, spray, rinnande, v\u00e4sande"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "TR\u00c4FF",
+  "Synonyms": "st\u00e4nk, buksplash, kanonkula, djupladdning, sploosh"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "SKVALP",
+  "Synonyms": "krusning, skvalp, skrov, slag, slush"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "slampa, vada, st\u00e4nk, svepa, trampa, trampa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "R\u00d6RLEDNING",
+  "Synonyms": "toalettspolning, handfat, dusch,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "H\u00c4LLA",
+  "Synonyms": "h\u00e4lla, fylla, dumpa, t\u00f6mma"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "PLASK",
+  "Synonyms": "st\u00e4nka, simma, vada, dyka, kasta sig ner, skvalpa, dr\u00e4nka sig ner"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "SPRUTA",
+  "Synonyms": "spraya, spruta, spruta, spruta, spruta, spruta, spruta."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "\u00c5NGA",
+  "Synonyms": "spruta, dimma, \u00e5nga, v\u00e5t v\u00e4sande, spruta"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "BR\u00c4NNINGAR",
+  "Synonyms": "kustlinje, strandlinje, havskust, strand, tv\u00e4tt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "TURBULENT",
+  "Synonyms": "bubbelpool, v\u00e5gbass\u00e4ng, forsar, str\u00f6m, virvel, virvel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "UNDERVATTEN",
+  "Synonyms": "undervatten, fl\u00f6de, turbulent"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "VATTENFALL",
+  "Synonyms": "vattenfall, kaskad, damm, forsr\u00e4nning, niagara"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VATTEN",
+  "SubCategory": "V\u00c5G",
+  "Synonyms": "v\u00e5g, v\u00e5gbrytare, tidvatten, havskust, brygga, skvalpning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAPEN",
+  "SubCategory": "RUSTNING",
+  "Synonyms": "rustning, kedjepansar, hj\u00e4lm, skalpansar, br\u00f6stpl\u00e5t, kusar, domaru, skenor, haramaki, sk\u00f6ld"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAPEN",
+  "SubCategory": "PIL",
+  "Synonyms": "pil, bult, fletch, koger"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAPEN",
+  "SubCategory": "YXA",
+  "Synonyms": "yxa, yxa, hugg, kastyxa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAPEN",
+  "SubCategory": "TRUBBIG",
+  "Synonyms": "klubba, slagtr\u00e4, klubba, klubba, kula och kedja, nunchuck, krigshammare, krigshammare, stav, m\u00e4ssingsknoglar, stridsgissel, tonfa, nattklubba, k\u00e4ppar."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAPEN",
+  "SubCategory": "B\u00c5GE",
+  "Synonyms": "l\u00e5ngb\u00e5ge, sammansatt box, armborst"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAPEN",
+  "SubCategory": "KNIV",
+  "Synonyms": "knivblad, jackkniv, fj\u00e4rilskniv, jaktkniv, verktygskniv, klyvare, slaktarkniv, skyttegravskniv, kockkniv"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAPEN",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "slunga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAPEN",
+  "SubCategory": "SPJUT",
+  "Synonyms": "Spjut, spjut, spets, harpun, hillebard, spjut, st\u00e5ngax, pollaxe."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAPEN",
+  "SubCategory": "SLUNGA",
+  "Synonyms": "Katapult, trebuchet, slagtr\u00e4, ballista, bel\u00e4gringstorn."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAPEN",
+  "SubCategory": "SV\u00c4RD",
+  "Synonyms": "falchion, krumsabel, bredsv\u00e4rd, rapir, l\u00e5ngsv\u00e4rd, samurajsv\u00e4rd, huggblad, f\u00e4ktningssv\u00e4rd, kattana, machete, sabel, vikingasv\u00e4rd, florett."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAPEN",
+  "SubCategory": "PISKA",
+  "Synonyms": "piska, h\u00e4stpiska, pisk, piskrapp, piskspark"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "V\u00c4DER",
+  "SubCategory": "HAGEL",
+  "Synonyms": "hagel, is, sn\u00f6"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "V\u00c4DER",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "V\u00c4DER",
+  "SubCategory": "STORM",
+  "Synonyms": "Orkan, \u00e5skv\u00e4der, tyfon, sn\u00f6, sandstorm, tornado, cyklon, hagelstorm,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "V\u00c4DER",
+  "SubCategory": "\u00c5SKA",
+  "Synonyms": "\u00e5skv\u00e4der, blixt, \u00e5skknall, \u00e5skvigg, blixt, \u00e5ska, kn\u00e4ppning, rullning, mullrande"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VISSLINGAR",
+  "SubCategory": "M\u00c4NSKLIG",
+  "Synonyms": "visselpipa, jubel, m\u00e4nsklig visselpipa, vargvisselpipa, signal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VISSLINGAR",
+  "SubCategory": "MEKANISK",
+  "Synonyms": "\u00e5ngb\u00e5t, domare, tut, polisvisselpipa, tekanna, t\u00e5gvisselpipa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VISSLINGAR",
+  "SubCategory": "DIESEL",
+  "Synonyms": "ref, n\u00e4sfl\u00f6jt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VIND",
+  "SubCategory": "DESIGNAD",
+  "Synonyms": "bl\u00e5smaskin, syntetisk, artificiell, tonal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VIND",
+  "SubCategory": "ALLM\u00c4NT",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VIND",
+  "SubCategory": "VINDBYAR",
+  "Synonyms": "vindst\u00f6t, bl\u00e5st, vindpuff, bris, buff\u00e9, vift, storm, bl\u00e5st, bl\u00e5st."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VIND",
+  "SubCategory": "INOMHUS",
+  "Synonyms": "interi\u00f6r, f\u00f6nsterlucka, skrammel, st\u00f6n, drag"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VIND",
+  "SubCategory": "TONAL",
+  "Synonyms": "ylle, visselpipa, st\u00f6n, tonal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VIND",
+  "SubCategory": "TURBULENT",
+  "Synonyms": "buff\u00e9, turbulent vind, stark vind, v\u00e5ldsam vind, buff\u00e9"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VIND",
+  "SubCategory": "V\u00c4XTLIGHET",
+  "Synonyms": "l\u00f6vverk, vegetation, gr\u00e4s, tr\u00e4d, blad, v\u00e4xt, prassel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00d6NSTER",
+  "SubCategory": "LUCKA",
+  "Synonyms": "gardin, persienn, jalusi, m\u00f6rkl\u00e4ggning, persienner"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00d6NSTER",
+  "SubCategory": "BESLAG",
+  "Synonyms": "f\u00f6nsterl\u00e5s, f\u00f6nsterkranar, f\u00f6nsterl\u00e5s, f\u00f6nstert\u00e4tning"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00d6NSTER",
+  "SubCategory": "KNACKA",
+  "Synonyms": "knacka, ruta, skramla"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00d6NSTER",
+  "SubCategory": "METALL",
+  "Synonyms": "metallram"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00d6NSTER",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00d6NSTER",
+  "SubCategory": "PLAST",
+  "Synonyms": "plastram"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "F\u00d6NSTER",
+  "SubCategory": "TR\u00c4",
+  "Synonyms": "Tr\u00e4ram"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VINGAR",
+  "SubCategory": "F\u00c5GEL",
+  "Synonyms": "f\u00e5gelvinge, flax, fladdrar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VINGAR",
+  "SubCategory": "VARELSE",
+  "Synonyms": "drakvinge, \u00e4lvvinge, greifvinge, sfinxvinge, \u00e4ngelvinge, fenixvinge, j\u00e4ttef\u00e5gelvinge"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VINGAR",
+  "SubCategory": "INSEKT",
+  "Synonyms": "fluga, bi, trollsl\u00e4nda, nattfj\u00e4ril, fj\u00e4ril, skalbagge, skarab\u00e9, geting, geting, gr\u00e4shoppa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VINGAR",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TR\u00c4",
+  "SubCategory": "BRYTA",
+  "Synonyms": "g\u00e5r s\u00f6nder, spricker, slits, krossas, krossas, splittras"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TR\u00c4",
+  "SubCategory": "KRASCH & BR\u00c5TE",
+  "Synonyms": "fall, spillror, krasch, fall, timmer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TR\u00c4",
+  "SubCategory": "FRIKTION",
+  "Synonyms": "stress, skrapningar, kn\u00e4ppningar, gnissel, gnissel, skrik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TR\u00c4",
+  "SubCategory": "HANTERING",
+  "Synonyms": "hantera, ta tag i, s\u00e4tta, plocka upp, s\u00e4tta ner, kasta, f\u00e5nga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TR\u00c4",
+  "SubCategory": "SM\u00c4LL",
+  "Synonyms": "tr\u00e4ffa, falla, sl\u00e5, sl\u00e5, krascha, klunk, klang, klink, hugga."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TR\u00c4",
+  "SubCategory": "DIVERSE",
+  "Synonyms": "diverse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TR\u00c4",
+  "SubCategory": "R\u00d6RELSE",
+  "Synonyms": "dra, rulla, skramla, skaka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TR\u00c4",
+  "SubCategory": "TONAL",
+  "Synonyms": "b\u00f6jd, ring, wronk, shing, varp, varp"
+ }
+]

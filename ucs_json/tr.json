@@ -1,0 +1,4514 @@
+[
+ {
+  "version": "8.2.1",
+  "Category": "HAVA",
+  "SubCategory": "P\u00dcSK\u00dcRME",
+  "Synonyms": "hava patlamas\u0131, hava pufu, \u00e7uf, f\u0131\u015fk\u0131rma, patlama"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAVA",
+  "SubCategory": "TISLAMA",
+  "Synonyms": "hava tahliyesi, egzoz, d\u0131\u015far\u0131 atma, s\u0131z\u0131nt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAVA",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAVA",
+  "SubCategory": "EMME",
+  "Synonyms": "vakum, emmek, emme"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "U\u00c7AK",
+  "SubCategory": "KAPI",
+  "Synonyms": "kokpit kap\u0131s\u0131, u\u00e7ak kap\u0131s\u0131, ambar, acil \u00e7\u0131k\u0131\u015f"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "U\u00c7AK",
+  "SubCategory": "HEL\u0130KOPTER",
+  "Synonyms": "gyrocopter, whirlybird, chopper, ghetto bird, bellcopter, polis helikopteri, huey, helikopter, blackhawk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "U\u00c7AK",
+  "SubCategory": "\u0130\u00c7",
+  "Synonyms": "jet, u\u00e7ak, u\u00e7ak, yolcu jeti, plan\u00f6r, zeplin, airliner, jetliner, jumbo jet, learjet, airbus, boeing, bombardier, 737, 747, 777, A310, DC-10, A310, A330, A350, A380, sava\u015f u\u00e7a\u011f\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "U\u00c7AK",
+  "SubCategory": "JET",
+  "Synonyms": "airliner, jetliner, jumbo jet, learjet, airbus, boeing, bombardier, 737, 747, 777, A310, DC-10, A310, A330, A350, A380"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "U\u00c7AK",
+  "SubCategory": "MEKAN\u0130ZMA",
+  "Synonyms": "ini\u015f tak\u0131m\u0131, kokpit kolu, d\u00fcmen, flap"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "U\u00c7AK",
+  "SubCategory": "ASKER\u0130",
+  "Synonyms": "sava\u015f u\u00e7a\u011f\u0131, bombard\u0131man u\u00e7a\u011f\u0131, hayalet bombard\u0131man u\u00e7a\u011f\u0131, mavi melekler, thunderbirds, lockheed, mig, F18, F16, F35, F22, A10, P52"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "U\u00c7AK",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "zeplin, plan\u00f6r, s\u0131cak hava balonu, ultralight, yelken kanat, zeplin, zeplin"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "U\u00c7AK",
+  "SubCategory": "PERVANEL\u0130",
+  "Synonyms": "\u00e7ift kanatl\u0131, \u00fc\u00e7 kanatl\u0131, turboprop, dubl\u00f6r u\u00e7ak, crop duster, piper cub, pervaneli, \u00e7ift pervaneli, pervaneli jet, hava vidas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "U\u00c7AK",
+  "SubCategory": "UZAKTAN KUMANDALI",
+  "Synonyms": "quadcopterler, \u0130HA, insans\u0131z hava arac\u0131, rc jet, rc helikopter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "U\u00c7AK",
+  "SubCategory": "ROKET",
+  "Synonyms": "roket, f\u00fcze, jetpack, uzay meki\u011fi, spacex, nasa, icbm, n\u00fckleer roket, sava\u015f ba\u015fl\u0131\u011f\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "Z\u0130L",
+  "Synonyms": "yang\u0131n zili, okul zili, demiryolu ge\u00e7idi zili, alarm zili"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "BUZZER & \u0130KAZ C\u0130HAZI",
+  "Synonyms": "kap\u0131 zili, oyun g\u00f6sterisi zili, \u00f6n kap\u0131 zili, giri\u015f zili, interkom zili"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "SAAT",
+  "Synonyms": "dijital \u00e7alar saat, \u00e7alar saat, \u00e7alar saat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "ELEKTRON\u0130K",
+  "Synonyms": "yang\u0131n dedekt\u00f6r\u00fc, duman dedekt\u00f6r\u00fc, CO2 dedekt\u00f6r\u00fc, araba alarm\u0131, ev alarm\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "S\u0130REN",
+  "Synonyms": "klakson, ahooga kornas\u0131, hava sald\u0131r\u0131s\u0131 sireni, kas\u0131rga sireni"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "HAVA",
+  "Synonyms": "\u00e7\u00f6l, k\u0131\u015f, sessiz hava, gece havas\u0131, da\u011f havas\u0131, gece havas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "DA\u011eLAR",
+  "Synonyms": "alpler, da\u011flar, kayal\u0131klar, tetonlar, da\u011fc\u0131l\u0131k, da\u011fl\u0131k, karla kapl\u0131, da\u011f kenar\u0131, zirve"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "LUNAPARK",
+  "Synonyms": "disneyland, six-flags, tema park\u0131, e\u011flence park\u0131, karnaval, fuar, il\u00e7e fuar\u0131, midway, gezici fuar, festival, perili ev, lunapark, atari salonu, lang\u0131rt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "KU\u015e \u015eAKIMA",
+  "Synonyms": "\u015fafak korosu, sabah korosu, g\u00fczel ku\u015f, s\u00fcr\u00fcler, c\u0131v\u0131lt\u0131, c\u0131v\u0131ldama, g\u00f6zetleme"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "KUTLAMA",
+  "Synonyms": "halk toplant\u0131s\u0131, etkinlik, parti, gala, karnaval, \u015fenlik, fiesta, festival"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "\u0130N\u015eAAT",
+  "Synonyms": "yol yap\u0131m\u0131, in\u015faat, marangozluk, tadilat, ev yenileme, yol onar\u0131m\u0131, yeniden in\u015fa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "\u00c7\u00d6L",
+  "Synonyms": "\u00e7\u00f6l, takla, vaha, \u00e7orak, \u00e7orak arazi, sahara, kurak, kum tepeleri, \u0131ss\u0131z"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "TASARIM",
+  "Synonyms": "yapay, tasarlanm\u0131\u015f"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "AC\u0130L",
+  "Synonyms": "olay yeri, yang\u0131nla m\u00fccadele, polis, sa\u011fl\u0131k g\u00f6revlileri, kan\u0131t, do\u011fal afet, vurulma, kaza, felaket, yaralanma, y\u0131\u011f\u0131lma kazazede"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "FANTAST\u0130K",
+  "Synonyms": "peri, fantezi, b\u00fcy\u00fcl\u00fc, diyar, r\u00fcya, orta d\u00fcnya, pandora"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "\u00c7\u0130FTL\u0130K",
+  "Synonyms": "\u00e7iftlik, hasat, toprak i\u015fleme, \u00e7iftlik, \u00e7iftlik evi, grange, plantasyon, tar\u0131m arazisi, a\u011f\u0131l, ah\u0131r, mera, mand\u0131ra, \u00fcz\u00fcm ba\u011f\u0131, a\u011f\u0131l, pastoral"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "ORMAN",
+  "Synonyms": "orman, ormanlar, kerestelik alan, boreal orman\u0131, ya\u011fmur orman\u0131, \u0131l\u0131man ya\u011fmur orman\u0131, bulut orman\u0131, yaprak d\u00f6ken, kozalakl\u0131 a\u011fa\u00e7"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "\u00c7AYIR",
+  "Synonyms": "\u00e7ay\u0131r, tar\u0131m arazisi, \u00e7imen, \u00e7ay\u0131r, otlak, mera, ova"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "TAR\u0130H\u0130",
+  "Synonyms": "hayalet kasaba, eski bat\u0131, alt\u0131na h\u00fccum, antik roma, antik yunanistan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "TEKNOLOJ\u0130K",
+  "Synonyms": "laboratuvar, makine odas\u0131, sunucu, veri merkezi, kontrol odas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "HASTANE",
+  "Synonyms": "acil servis, ameliyathane, bekleme odas\u0131, revir, klinik, sanatoryum, revir"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "SANAY\u0130",
+  "Synonyms": "fabrika, imalat, tesis, de\u011firmen, depo, at\u00f6lye"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "B\u00d6CEK",
+  "Synonyms": "c\u0131rc\u0131r b\u00f6cekleri, a\u011fustos b\u00f6cekleri, katididler, swam, \u00e7ekirgeler"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "G\u00d6L KENARI",
+  "Synonyms": "g\u00f6ller, g\u00f6l kenar\u0131, al\u0131\u015ft\u0131rma, y\u00fczme, rezervuar, g\u00f6let, loch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "PAZARYER\u0130",
+  "Synonyms": "pazar, pazar yeri, sat\u0131c\u0131, al\u0131\u015fveri\u015f b\u00f6lgesi, \u00e7ar\u015f\u0131, mart, borsa, bit pazar\u0131, meydan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "DEN\u0130Z",
+  "Synonyms": "denizcilik, tersane, g\u00fcverte, k\u0131\u00e7, ba\u015f, k\u0131\u00e7, denizcilik, denizcilik, okyanus, denizcilik, marina"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "OF\u0130S",
+  "Synonyms": "ofis, kabin, i\u015fyeri, b\u00f6l\u00fcm, istasyon, \u015fube, i\u015f istasyonu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "PARK",
+  "Synonyms": "park, oyun alan\u0131, bah\u00e7eler, botanik bah\u00e7eleri, \u015fehir park\u0131, banliy\u00f6 park\u0131, top sahas\u0131, park alan\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "HAP\u0130SHANE",
+  "Synonyms": "hapishane, hapishane, hapishane avlusu, cezaevi, hapishane, g\u00f6zalt\u0131, h\u00fccre hapsi, ceza infaz kurumu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "PROTESTO",
+  "Synonyms": "protesto, miting, mitingler, isyan, slogan atmak, ba\u011f\u0131rmak, \u00e7\u0131\u011fl\u0131k atmak, \u00f6fkeli kalabal\u0131k, y\u00fcr\u00fcy\u00fc\u015fler, g\u00f6steri, karga\u015fa, isyan, devrim, k\u0131zg\u0131n"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "UMUM\u0130",
+  "Synonyms": "ma\u011fazalar, lobiler, oteller, al\u0131\u015fveri\u015f merkezleri, m\u00fczeler, halka a\u00e7\u0131k meydanlar, avlular, spor salonlar\u0131, fitness merkezi, motel, k\u00fct\u00fcphane, adliye, mahkeme"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "D\u0130N\u0130",
+  "Synonyms": "kilise, tap\u0131nak, cami, \u015fapel, derasar, katedral"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "MESKUN",
+  "Synonyms": "ev, daire, k\u0131namak, konak, ev, \u015fehir evi, kabin, ev, konut"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "RESTORAN & BAR",
+  "Synonyms": "restoran, bar, pub, gastropub, foodcart, diner, cafe, kafeterya, kantin, \u00e7ay salonu, salon, kahve d\u00fckkan\u0131, pizzac\u0131, fast-food, \u015farap bar\u0131, otomat, kantin, taverna, gece kul\u00fcb\u00fc, \u015fark\u00fcteri, eatery, brasserie, drive-in"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "ODA SES\u0130",
+  "Synonyms": "oda sesi, \u00f6l\u00fc hava, sessiz hava"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "KIRSAL",
+  "Synonyms": "k\u0131rsal alan, ova, \u00e7ay\u0131r, otlak, da\u011f, ini\u015fli \u00e7\u0131k\u0131\u015fl\u0131 tepe, savan, tundra, \u00e7ay\u0131r, kanyon, kanyon, \u00e7al\u0131l\u0131k, \u00e7al\u0131l\u0131k alan, plato"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "OKUL",
+  "Synonyms": "ilkokul, ortaokul, lise, \u00fcniversite, okul \u00f6ncesi, \u00fcniversite, s\u0131n\u0131f, montaj"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "B\u0130L\u0130MKURGU",
+  "Synonyms": "uzay gemisi, teknoloji merkezi, komuta merkezi, scifi, f\u00fct\u00fcristik, y\u00fcksek teknoloji, hi-tec"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "SAH\u0130L",
+  "Synonyms": "plaj, deniz kenar\u0131, sahil, k\u0131y\u0131, k\u0131y\u0131 \u015feridi, sahil, sahil \u015feridi, tahta kald\u0131r\u0131m, sahil tesisi, sahil, set, r\u0131ht\u0131m, iskele, liman, liman"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "SPOR",
+  "Synonyms": "nfl, futbol, nba, basketbol, mlb, beyzbol, tenis, spor etkinli\u011fi, k\u00fc\u00e7\u00fckler ligi, antrenman"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "BANL\u0130Y\u00d6",
+  "Synonyms": "banliy\u00f6, yerle\u015fim, mahalle, \u00e7\u0131kmaz sokak, k\u00f6y, varo\u015f, kenar mahalle, mezra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "BATAKLIK",
+  "Synonyms": "kurba\u011fa, batakl\u0131k, batakl\u0131k, everglade, sulak alan, nehir k\u0131y\u0131s\u0131, g\u00f6l kenar\u0131, g\u00f6l, mangrov"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "K\u00d6Y & KASABA",
+  "Synonyms": "kasaba, k\u00f6y, mezra, k\u00fc\u00e7\u00fck kasaba, topluluk, yerle\u015fim"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "TRAF\u0130K",
+  "Synonyms": "araba, otoban, otoyol, bulvar, cadde, otoyol"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "ULA\u015eIM",
+  "Synonyms": "tren istasyonu, havaalan\u0131, otob\u00fcs istasyonu, metro istasyonu, metro istasyonu, terminal, depo, terminus"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "TROP\u0130K",
+  "Synonyms": "orman, \u00e7al\u0131l\u0131k, tropikal ya\u011fmur orman\u0131, bulut orman\u0131, tropikal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "ARKT\u0130K",
+  "Synonyms": "artik, antartik, plato, kuzey kutbu, g\u00fcney kutbu, kutup, buzul, kar, buz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "YERALTI",
+  "Synonyms": "ma\u011fara, damlalar, yank\u0131lar, kanalizasyon, s\u0131\u011f\u0131nak, t\u00fcnel, zindan, lav t\u00fcp\u00fc, mahzen, yeralt\u0131, bat\u0131k, g\u00f6m\u00fcl\u00fc, yer alt\u0131, bodrum, \u015faft, maden, ge\u00e7it, ge\u00e7it yolu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "SUALTI",
+  "Synonyms": "sualt\u0131, resif, mercan, okyanus \u00e7ukuru, bat\u0131k, denizalt\u0131, subaquatic, gemi enkaz\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "\u015eEH\u0130R",
+  "Synonyms": "metropolis, yo\u011fun \u015fehir, \u015fehir, \u015fehir merkezi, \u015fehir i\u00e7i, metropolitan, kalabal\u0131k, yo\u011fun saat, t\u0131kan\u0131kl\u0131k, \u015fehir merkezi, gecekondu, skid row, getto, finans b\u00f6lgesi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AMB\u0130YANS",
+  "SubCategory": "HARP",
+  "Synonyms": "sava\u015f, harp, muharebe, \u00e7arp\u0131\u015fma, d\u00f6v\u00fc\u015f, angajman, sald\u0131r\u0131, h\u00fccum, y\u0131ld\u0131r\u0131m, hava sald\u0131r\u0131s\u0131, bask\u0131n, bombard\u0131man, baraj, f\u00fczilade, y\u0131ld\u0131r\u0131m sava\u015f\u0131, salvo, flak, borda, top\u00e7u ate\u015fi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAYVAN",
+  "SubCategory": "AMF\u0130B\u0130",
+  "Synonyms": "kurba\u011fa, kurba\u011fa, bo\u011fa kurba\u011fas\u0131, semender, semender, koro kurba\u011fas\u0131, peeper, croaker, axolotl"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAYVAN",
+  "SubCategory": "SUCUL",
+  "Synonyms": "balina, yunus, domuzbal\u0131\u011f\u0131, deniz aslan\u0131, fok, katil balina, orka, denizay\u0131s\u0131, mors, fil foku, deniz samuru, su samuru, beluga, deniz gergedan\u0131, dugong, k\u00f6pekbal\u0131\u011f\u0131, vatoz, denizanas\u0131, kalamar, ahtapot, yenge\u00e7, \u0131stakoz, y\u0131lanbal\u0131\u011f\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAYVAN",
+  "SubCategory": "YARASA",
+  "Synonyms": "u\u00e7an tilki, vampir yarasalar, meyve yarasas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAYVAN",
+  "SubCategory": "EVC\u0130L KED\u0130",
+  "Synonyms": "miyavlamak, m\u0131rlamak, kedi yavrusu, kedicik, sokak kedisi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAYVAN",
+  "SubCategory": "VAH\u015e\u0130 KED\u0130",
+  "Synonyms": "aslan, kaplan, puma, puma, leopar, jaguar, kar leopar\u0131, \u00e7ita, va\u015fak, va\u015fak, karakulak, ocelot, panter, serval"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAYVAN",
+  "SubCategory": "K\u00d6PEK",
+  "Synonyms": "k\u00f6pek, taz\u0131, havlamak, k\u00f6pek yavrusu, k\u00f6pek\u00e7ik, kucak k\u00f6pe\u011fi, it, pooch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAYVAN",
+  "SubCategory": "VAH\u015e\u0130 K\u00d6PEK",
+  "Synonyms": "kurt, tilki, \u00e7akal, dingo, lupus, canid"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAYVAN",
+  "SubCategory": "\u00c7\u0130FTL\u0130K",
+  "Synonyms": "inek, koyun, ke\u00e7i, domuz, s\u0131\u011f\u0131r, lama, alpaka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAYVAN",
+  "SubCategory": "AT",
+  "Synonyms": "e\u015fek, kat\u0131r, e\u015fek, zebra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAYVAN",
+  "SubCategory": "B\u00d6CEK",
+  "Synonyms": "\u00e7ekirge, c\u0131rc\u0131r b\u00f6ce\u011fi, a\u011fustos b\u00f6ce\u011fi, sinek, ar\u0131, yaban ar\u0131s\u0131, e\u015fek ar\u0131s\u0131, weta, kozalak ba\u015f\u0131, \u00e7ekirge, b\u00f6cek, hamamb\u00f6ce\u011fi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAYVAN",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAYVAN",
+  "SubCategory": "MAYMUNG\u0130L",
+  "Synonyms": "\u015fempanze, maymun, goril, lemur, orangutan, kapu\u00e7in, marmoset, maymun, gibbon, bonobo, babun"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAYVAN",
+  "SubCategory": "S\u00dcR\u00dcNGEN",
+  "Synonyms": "y\u0131lan, kertenkele, timsah, kaplumba\u011fa, gharial, caiman, gecko"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAYVAN",
+  "SubCategory": "KEM\u0130RGEN",
+  "Synonyms": "fare, fareler, s\u0131\u00e7an, sincap, k\u00f6stebek, kirpi, kobay, sincap, kunduz, sincap, rakun, \u00e7ay\u0131r k\u00f6pe\u011fi, gerbil, hamster, da\u011f s\u0131\u00e7an\u0131, lemming, misk s\u0131\u00e7an\u0131, \u00e7in\u00e7illa, kemirgen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAYVAN",
+  "SubCategory": "VAH\u015e\u0130",
+  "Synonyms": "ay\u0131, z\u00fcrafa, su ayg\u0131r\u0131, fil, geyik, ceylan, porsuk, kar\u0131ncayiyen, ornitorenk, tembel hayvan, wolverine, yaban domuzu, vombat, koala, kanguru, wallaby, antilop, panda, antilop, rakun, geyik, ren geyi\u011fi, gergedan, aardvark, yaban domuzu, impala, hipopotam, bal porsu\u011fu, bufalo, geyik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AR\u015e\u0130V",
+  "SubCategory": "ADR",
+  "Synonyms": "adr, d\u00f6ng\u00fc, de\u011fi\u015ftirme diyalo\u011fu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AR\u015e\u0130V",
+  "SubCategory": "MAL",
+  "Synonyms": "varl\u0131k, kaynak, etiket"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AR\u015e\u0130V",
+  "SubCategory": "BOUNCE & \u00c7IKI\u015e ALMAK",
+  "Synonyms": "s\u0131\u00e7rama, \u00e7arp\u0131\u015fma"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AR\u015e\u0130V",
+  "SubCategory": "IMPULSE RESPONSE",
+  "Synonyms": "impulse response, IR, altiverb, reverb sample, convolution reverb"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AR\u015e\u0130V",
+  "SubCategory": "RABARBA (SAHNEYE \u00d6ZEL KAYIT)",
+  "Synonyms": "loop group, walla"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AR\u015e\u0130V",
+  "SubCategory": "M\u0130KS",
+  "Synonyms": "premix, final mix, stem, M&E, mixdown, printmaster"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AR\u015e\u0130V",
+  "SubCategory": "PFX & PROD\u00dcKS\u0130YON EFEKTLER",
+  "Synonyms": "\u00dcRET\u0130M"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AR\u015e\u0130V",
+  "SubCategory": "PROD\u00dcKS\u0130YON",
+  "Synonyms": "\u00fcretim al\u0131m\u0131, diyalog hatt\u0131, dx"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AR\u015e\u0130V",
+  "SubCategory": "HAM",
+  "Synonyms": "veri band\u0131, ham dosyalar, i\u015flenmemi\u015f"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AR\u015e\u0130V",
+  "SubCategory": "REFERANS",
+  "Synonyms": "referans, ilham"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AR\u015e\u0130V",
+  "SubCategory": "SAHNE",
+  "Synonyms": "haz\u0131r yap\u0131m, \u00f6nceden in\u015fa edilmi\u015f"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AR\u015e\u0130V",
+  "SubCategory": "TEST TONU",
+  "Synonyms": "adr bip sesleri, test sesleri, bip sesi, 2pops, beyaz g\u00fcr\u00fclt\u00fc, pembe g\u00fcr\u00fclt\u00fc, sin\u00fcs dalgas\u0131 taramalar\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AR\u015e\u0130V",
+  "SubCategory": "T\u0130CAR\u0130 MARKA",
+  "Synonyms": "ticari marka, telif hakk\u0131, \u00fcr\u00fcn sesi, lisansl\u0131, tescilli, yasal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AR\u015e\u0130V",
+  "SubCategory": "\u00c7ALI\u015eMA A\u015eAMASINDA",
+  "Synonyms": "devam eden \u00e7al\u0131\u015fma, wip, bitmemi\u015f"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AR\u015e\u0130V",
+  "SubCategory": "BUNEAMK",
+  "Synonyms": "kategorize edilemeyen, bilinmeyen, \u015fakalar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130PLEME",
+  "SubCategory": "BEYAZ E\u015eYA",
+  "Synonyms": "mikrodalga, bula\u015f\u0131k makinesi, \u00e7ama\u015f\u0131r makinesi, kurutucu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130PLEME",
+  "SubCategory": "GENEL",
+  "Synonyms": "Bip"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130PLEME",
+  "SubCategory": "LOFI & D\u00dc\u015e\u00dcK KAL\u0130TE",
+  "Synonyms": "atari, famicom, colecovision"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130PLEME",
+  "SubCategory": "TIBB\u0130",
+  "Synonyms": "EKG, EKG, KDC, kalp monit\u00f6r\u00fc, flatline, ultrason"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130PLEME",
+  "SubCategory": "ZAMANLAYICI",
+  "Synonyms": "mikrodalga, f\u0131r\u0131n zamanlay\u0131c\u0131s\u0131, dijital saat, telefon zamanlay\u0131c\u0131s\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130PLEME",
+  "SubCategory": "TA\u015eIT",
+  "Synonyms": "forklift bip sesi, yedek bip sesi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "Z\u0130L",
+  "SubCategory": "HAYVAN",
+  "Synonyms": "inek \u00e7an\u0131, \u015fahin \u00e7an\u0131, yaka \u00e7an\u0131, koyun \u00e7an\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "Z\u0130L",
+  "SubCategory": "KAPI Z\u0130L\u0130",
+  "Synonyms": "kap\u0131 zili, kap\u0131 zili, ding dong, tring"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "Z\u0130L",
+  "SubCategory": "GONG",
+  "Synonyms": "gong, gamelan, agung, \u00e7anak gong, tam-tam"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "Z\u0130L",
+  "SubCategory": "\u00c7AN & EL \u00c7ANI ",
+  "Synonyms": "el zili, yemek zili, okul zili, alter zili, k\u0131zak zili, jinglebells, u\u015fak zili"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "Z\u0130L",
+  "SubCategory": "B\u00dcY\u00dcK \u00c7AN",
+  "Synonyms": "tap\u0131nak \u00e7an\u0131, kilise \u00e7an\u0131, peal, kule \u00e7an\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "Z\u0130L",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "bisiklet zili, servis zili, \u00e7a\u011fr\u0131 zili"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KU\u015e",
+  "SubCategory": "YIRTICI",
+  "Synonyms": "\u015fahin, kartal, do\u011fan, bayku\u015f, akbaba, akbaba, akbaba, u\u00e7urtma, bal\u0131kkartal\u0131, harrier, kerkenez, karakara"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KU\u015e",
+  "SubCategory": "KARGAG\u0130L",
+  "Synonyms": "karga, kuzgun, alakarga, mavi alakarga, saksa\u011fan, f\u0131nd\u0131kk\u0131ran"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KU\u015e",
+  "SubCategory": "K\u00dcMES",
+  "Synonyms": "tavuk, s\u00fcl\u00fcn, hindi, kaz, kaz, orman tavu\u011fu, \u00f6rdek, ku\u011fu, keklik, \u00e7aylak, ye\u015filba\u015f, \u00f6rdek, guans, chachalacas, curassow, b\u0131ld\u0131rc\u0131n, grebe, chukar, ptarmigan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KU\u015e",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "ani, roadrunner, guguk ku\u015fu, a\u011fa\u00e7kakan, b\u00fclb\u00fcl, b\u00fclb\u00fcl ku\u015fu, sinek ku\u015fu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KU\u015e",
+  "SubCategory": "DEN\u0130ZKU\u015eU",
+  "Synonyms": "mart\u0131, s\u00fcms\u00fck ku\u015fu, albatros, karabatak, pelikan, penguen, mart\u0131, sumru, f\u0131rkateyn ku\u015fu, s\u00fcms\u00fck ku\u015fu, istiridye ku\u015fu, ya\u011fmurcun, \u00e7ulluk, dunlin, auk, puffin, murrelet, auklet"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KU\u015e",
+  "SubCategory": "\u00d6T\u00dcC\u00dc KU\u015e",
+  "Synonyms": "g\u00fcvercin, sinekkapan, grosbeak, alayc\u0131 ku\u015f, s\u0131vac\u0131 ku\u015fu, g\u00fcvercin, robin, ser\u00e7e, k\u0131rlang\u0131\u00e7, tanager, pamuk\u00e7uk, vireo, \u00f6tle\u011fen, \u00e7al\u0131ku\u015fu, ba\u015ftankara, chickadee, ba\u015ftankara, penduline, toygar, kinglet, s\u00fcr\u00fcngen, a\u011fa\u00e7kakan, gnatcatcher, kep\u00e7e, s\u0131\u011f\u0131rc\u0131k, karatavuk, thrasher, waxwing, chat, troupial, kardinal, kiraz ku\u015fu, karatavuk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KU\u015e",
+  "SubCategory": "TROP\u0130K",
+  "Synonyms": "papa\u011fan, tukan, kookaburra, lir ku\u015fu, tavus ku\u015fu, macaw, hornbill, kakadu, muhabbet ku\u015fu, ibis, ka\u015f\u0131k gagas\u0131, flamingo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KU\u015e",
+  "SubCategory": "YA\u011eMUR KU\u015eU",
+  "Synonyms": "turna, ak bal\u0131k\u00e7\u0131l, flamingo, ibis, ray, ka\u015f\u0131k\u00e7\u0131, leylek, bal\u0131k\u00e7\u0131l, ray, sora, sakarmeke, turna, bal\u0131k\u00e7\u0131l, ak bal\u0131k\u00e7\u0131l, ak bal\u0131k\u00e7\u0131l, leylek, \u00e7ulluk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "BATAKLIK TEKNES\u0130",
+  "Synonyms": "yelpaze bot, hava botu, hovercraft"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "PRUVA DALGASI",
+  "Synonyms": "yay y\u0131kama, uyand\u0131rma"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "KAPI",
+  "Synonyms": "kapak, feribot kap\u0131s\u0131, tekne kap\u0131s\u0131, su ge\u00e7irmez kap\u0131, gemi kap\u0131s\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "ELEKTR\u0130KL\u0130",
+  "Synonyms": "trolling motoru"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "BALIK\u00c7I",
+  "Synonyms": "yenge\u00e7 tekneleri, trol tekneleri, g\u0131rg\u0131r teknesi, hat gemisi, tarak gemisi, gillnetter, ara\u015ft\u0131rma gemisi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "KORNA",
+  "Synonyms": "gemi kornas\u0131, r\u00f6mork\u00f6r kornas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "\u0130\u00c7",
+  "Synonyms": "gemi, feribot, feribotlar, yolcu gemisi, donanma, askeri tekne, r\u00f6mork\u00f6r, yelkenli, yat, petrol tankeri, kargo gemisi, y\u00fck gemisi, denizalt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "MEKAN\u0130ZMA",
+  "Synonyms": "arma, makara, halat, gemi \u00e7ark\u0131, gaz kelebe\u011fi, a\u011f, kafes, tuzak, \u00e7apa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "ASKER\u0130",
+  "Synonyms": "devriye botu, destroyer, kruvaz\u00f6r, sava\u015f kruvaz\u00f6r\u00fc, f\u0131rkateyn, korvet, h\u0131zl\u0131 sald\u0131r\u0131 botu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "k\u00fcrek teknesi, k\u00fcrek tahtas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "MOTORBOT",
+  "Synonyms": "k\u00fc\u00e7\u00fck tekne, ki\u015fisel bal\u0131k\u00e7\u0131 teknesi, s\u00fcrat teknesi, duba tekne, \u00f6rdek botu, sandal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "S\u00dcRAT TEKNES\u0130",
+  "Synonyms": "hydroplane, hydrofoil, jet boat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "SANDAL",
+  "Synonyms": "kano, sandal, kay\u0131k, k\u00fcrek, k\u00fcrek \u00e7ekmek, ejderha botu, k\u00fcrek \u00e7ekmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "YELKENL\u0130",
+  "Synonyms": "yelkenli, schooner, yawl, sloop, ketch, motorsailer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "GEM\u0130",
+  "Synonyms": "b\u00fcy\u00fck gemi, yolcu gemisi, petrol tankeri, kargo gemisi, y\u00fck gemisi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "BUHARLI",
+  "Synonyms": "buharl\u0131 k\u00fcrekli gemi, k\u00fcrekli vapur, buhar makinesi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "DEN\u0130ZALTI",
+  "Synonyms": "denizalt\u0131, sonar, dalg\u0131\u00e7, u-bot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TEKNE",
+  "SubCategory": "SUALTI",
+  "Synonyms": "tekne, gemi, sualt\u0131, tanker, bal\u0131k\u00e7\u0131 teknesi, motorlu tekne, sualt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MERM\u0130",
+  "SubCategory": "ISKA",
+  "Synonyms": "mermi v\u0131z\u0131lt\u0131s\u0131, fwip"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MERM\u0130",
+  "SubCategory": "DARBE",
+  "Synonyms": "mermi \u00e7arpmas\u0131, mermi isabeti"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MERM\u0130",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MERM\u0130",
+  "SubCategory": "SEKME",
+  "Synonyms": "ricos, ricochet, deflect"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MERM\u0130",
+  "SubCategory": "KOVAN",
+  "Synonyms": "mermi, kovan, f\u0131rlatma"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "HAYVAN",
+  "Synonyms": "sahte hayvan, av \u00e7a\u011fr\u0131s\u0131, \u00f6rdek \u00e7a\u011fr\u0131s\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "DO\u0130NK",
+  "Synonyms": "\u00e7ene arp\u0131, a\u011f\u0131z arp\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "\u015eANGIRTI",
+  "Synonyms": "clang, metalik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "GICIRTI",
+  "Synonyms": "kau\u00e7uk, ah\u015fap"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "KORNA",
+  "Synonyms": "ampul kornas\u0131, korna, palya\u00e7o kornas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "DARBE",
+  "Synonyms": "bonk, boink, doink"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "MAK\u0130NE",
+  "Synonyms": "mekanizma, komik makine, rube goldberg makinesi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "toon, squanch, blorb, flump"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "M\u00dcZ\u0130KAL",
+  "Synonyms": "gliss, y\u00fckselmek, al\u00e7almak,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "\u015eELPE & PARMAK ST\u0130L\u0130 & P\u0130ZZ\u0130KATO",
+  "Synonyms": "tel koparma"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "POP",
+  "Synonyms": "patlatma tabancas\u0131, a\u011f\u0131z patlatma, vantuz, baloncuk patlatma"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "\u00c7ALKALAMA",
+  "Synonyms": "\u00c7\u0131ng\u0131rak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "\u015eAPIRTI",
+  "Synonyms": "splat, splort, squish"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "C\u0130YAKLAMA",
+  "Synonyms": "G\u0131c\u0131rt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "GERME",
+  "Synonyms": "zorlanma"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "VIZLAMA",
+  "Synonyms": "burgu, girdap"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "YAYLANMA",
+  "Synonyms": "cetvel, a\u011f\u0131z arp\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "TA\u015eIT",
+  "Synonyms": "jetsons, contraption. \u00c7akmakta\u015flar arabas\u0131, geri tepme"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "SESLEND\u0130RME",
+  "Synonyms": "m\u0131r\u0131ldanma, aptal ses, \u00e7izgi film sesi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "DALGALANMA",
+  "Synonyms": "yalpalama"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "ISLIK",
+  "Synonyms": "slayt d\u00fcd\u00fc\u011f\u00fc"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7\u0130ZG\u0130F\u0130LM",
+  "SubCategory": "FERMUAR",
+  "Synonyms": "zip, rico, siren, d\u00fcd\u00fck"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SERAM\u0130K",
+  "SubCategory": "KIRMA",
+  "Synonyms": "k\u0131r\u0131lmak, \u00e7atlamak, par\u00e7alanmak, \u00e7at\u0131rdamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SERAM\u0130K",
+  "SubCategory": "\u00c7\u00d6KME & MOLOZ",
+  "Synonyms": "d\u00fc\u015fme, enkaz, k\u0131r\u0131klar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SERAM\u0130K",
+  "SubCategory": "S\u00dcRT\u00dcNME",
+  "Synonyms": "stres, s\u0131yr\u0131k, g\u0131c\u0131rt\u0131, g\u0131c\u0131rt\u0131, g\u0131c\u0131rt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SERAM\u0130K",
+  "SubCategory": "KULLANMAK & TUTMAK",
+  "Synonyms": "tutmak, kapmak, ayarlamak, almak, indirmek, f\u0131rlatmak, yakalamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SERAM\u0130K",
+  "SubCategory": "DARBE",
+  "Synonyms": "vurmak, d\u00fc\u015f\u00fcrmek, \u00e7arpmak, \u00e7arp\u0131\u015fmak, clunk, clink"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SERAM\u0130K",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SERAM\u0130K",
+  "SubCategory": "HAREKET",
+  "Synonyms": "s\u00fcr\u00fcklemek, yuvarlamak, tak\u0131rdatmak, sallamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SERAM\u0130K",
+  "SubCategory": "TONAL",
+  "Synonyms": "e\u011fildi, halka, shing, ping"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "Z\u0130NC\u0130R",
+  "SubCategory": "KIRMA",
+  "Synonyms": "kopmak, k\u0131r\u0131lmak, b\u00fck\u00fclmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "Z\u0130NC\u0130R",
+  "SubCategory": "KULLANMAK & TUTMAK",
+  "Synonyms": "tutmak, kapmak, ayarlamak, almak, indirmek, f\u0131rlatmak, yakalamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "Z\u0130NC\u0130R",
+  "SubCategory": "DARBE",
+  "Synonyms": "d\u00fc\u015fme, vurma, \u00e7arpma, \u00e7arpma, gerilim kopmas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "Z\u0130NC\u0130R",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "Z\u0130NC\u0130R",
+  "SubCategory": "HAREKET",
+  "Synonyms": "s\u00fcr\u00fckleme, kelep\u00e7e, hapishane zinciri, k\u00f6pek zinciri"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "K\u0130MYASAL",
+  "SubCategory": "AS\u0130T",
+  "Synonyms": "c\u0131z\u0131rdamak, erimek, k\u00f6p\u00fcrmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "K\u0130MYASAL",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "K\u0130MYASAL",
+  "SubCategory": "TEPK\u0130ME",
+  "Synonyms": "kabarc\u0131klanma, k\u00f6p\u00fcrme, reaksiyon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAAT",
+  "SubCategory": "\u00c7AN",
+  "Synonyms": "\u00e7an, zil, dede saati"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAAT",
+  "SubCategory": "MEKAN\u0130K",
+  "Synonyms": "kurmal\u0131, saat di\u015flileri, guguklu saat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAAT",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SAAT",
+  "SubCategory": "T\u0130K TOK",
+  "Synonyms": "tik, klik, kuvars, tik tak, kronometre, yumurta zamanlay\u0131c\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KUMA\u015e",
+  "SubCategory": "\u00c7IRPMA",
+  "Synonyms": "kanat, bayrak, h\u0131\u015f\u0131rt\u0131, para\u015f\u00fct, pelerin, yelken bezi, yelken, \u00e7ar\u015faf"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KUMA\u015e",
+  "SubCategory": "KULLANMAK & TUTMAK",
+  "Synonyms": "tutmak, kapmak, ayarlamak, almak, indirmek, f\u0131rlatmak, yakalamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KUMA\u015e",
+  "SubCategory": "DARBE",
+  "Synonyms": "vurmak, d\u00fc\u015f\u00fcrmek, \u00e7arpmak, tokatlamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KUMA\u015e",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KUMA\u015e",
+  "SubCategory": "HAREKET",
+  "Synonyms": "v\u0131z\u0131lt\u0131, \u00e7alkalanma, h\u0131\u015f\u0131rt\u0131, f\u0131rf\u0131r, ezme, mvmt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KUMA\u015e",
+  "SubCategory": "YIRTMA",
+  "Synonyms": "y\u0131rtma, y\u0131rt\u0131lma, c\u0131rt c\u0131rt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130LET\u0130\u015e\u0130M",
+  "SubCategory": "G\u00d6RSEL \u0130\u015e\u0130TSEL",
+  "Synonyms": "sinema kameras\u0131, makara, film kameras\u0131, projekt\u00f6r, teyp, nagra, walkman, CD \u00e7alar, makaradan makaraya, vcr, laserdisc oynat\u0131c\u0131, betamax, slayt projekt\u00f6r\u00fc, beamer, ipod, bolex, 8mm, 16mm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130LET\u0130\u015e\u0130M",
+  "SubCategory": "KAMERA",
+  "Synonyms": "kamera deklan\u015f\u00f6r\u00fc, sarma, fla\u015f ampul\u00fc, kodak, nikon, canon, olympus, kodak, fuji, fujifilm, mamiya, hasselblad, leica, 35mm, 120mm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130LET\u0130\u015e\u0130M",
+  "SubCategory": "CEP TELEFONU",
+  "Synonyms": "cep telefonu, ak\u0131ll\u0131 telefon, iphone, blackberry, kapakl\u0131 telefon, android"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130LET\u0130\u015e\u0130M",
+  "SubCategory": "M\u0130KROFON",
+  "Synonyms": "mikrofon kullan\u0131m\u0131, mikrofon muslu\u011fu, larsen, megafon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130LET\u0130\u015e\u0130M",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130LET\u0130\u015e\u0130M",
+  "SubCategory": "GRAMOFON",
+  "Synonyms": "pikap, victrola, fonograf, stylus, vinil plak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130LET\u0130\u015e\u0130M",
+  "SubCategory": "RADYO",
+  "Synonyms": "ayarlama, radyo, k\u0131sa dalga, susturucu, futz, radyo yay\u0131n\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130LET\u0130\u015e\u0130M",
+  "SubCategory": "CIZIRTI",
+  "Synonyms": "statik, fuzz, scramble"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130LET\u0130\u015e\u0130M",
+  "SubCategory": "TELEMETR\u0130",
+  "Synonyms": "mors kodu, telgraf, telemetri, okuma, sos"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130LET\u0130\u015e\u0130M",
+  "SubCategory": "TELEFON",
+  "Synonyms": "\u00e7evirmeli, ankes\u00f6rl\u00fc telefon, d\u00f6ner kadran, tu\u015f tak\u0131m\u0131, sabit hat, kablolu telefon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130LET\u0130\u015e\u0130M",
+  "SubCategory": "TELEV\u0130ZYON",
+  "Synonyms": "tv, uzaktan, kadran, g\u00f6steri, program, futz, TV program\u0131, yay\u0131n"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130LET\u0130\u015e\u0130M",
+  "SubCategory": "ALICI VER\u0130C\u0130",
+  "Synonyms": "telsizler, cb, amat\u00f6r telsizler, al\u0131c\u0131-verici, susturucu, interkom, sevk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130LET\u0130\u015e\u0130M",
+  "SubCategory": "DAKT\u0130LO",
+  "Synonyms": "daktilo, teleprinter, sat\u0131r ba\u015f\u0131, merdane d\u00fc\u011fmesi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130LG\u0130SAYAR",
+  "SubCategory": "SAB\u0130T D\u0130SK",
+  "Synonyms": "atlama, arama, \u00f6\u011f\u00fctme, sabit disk, sabit disk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130LG\u0130SAYAR",
+  "SubCategory": "KLAYVE & FARE",
+  "Synonyms": "klavye, fare, mouse, trackpad"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130LG\u0130SAYAR",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "palm pilot, cep bilgisayar\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARLIK",
+  "SubCategory": "SUCUL",
+  "Synonyms": "kraken, denizk\u0131z\u0131, dev kalamar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARLIK",
+  "SubCategory": "KANATLI",
+  "Synonyms": "uzayl\u0131 ku\u015flar, d\u00fcnya d\u0131\u015f\u0131 ku\u015flar, fantastik ku\u015flar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARLIK",
+  "SubCategory": "YARATIK",
+  "Synonyms": "Y\u00fcnl\u00fc mamut, mumakil, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARLIK",
+  "SubCategory": "BLOB",
+  "Synonyms": "blob, gloop, goop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARLIK",
+  "SubCategory": "D\u0130NOZOR",
+  "Synonyms": "brontosaurus, velociraptor, triceratops, stegosaurus, tyrannosaurus, allosaurus, spinosaurus, brachiosaurus, archaeopteryx, pterosaurs, pterodactyl"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARLIK",
+  "SubCategory": "EJDERHA",
+  "Synonyms": "ejderha, drake, wyvern"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARLIK",
+  "SubCategory": "D\u00d6RT ELEMENT",
+  "Synonyms": "kaya canavar\u0131, ate\u015f canavar\u0131, buz canavar\u0131, kaya devi, buz devi, golem"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARLIK",
+  "SubCategory": "SEMAV\u0130",
+  "Synonyms": "hayaletler, ruhlar, eterik, wispy, spectre, ruh, hayalet, spectral, poltergeist, phantom, wraith"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARLIK",
+  "SubCategory": "\u0130NSANSI",
+  "Synonyms": "zombi, ya\u015fayan \u00f6l\u00fc, hortlak, vampir, elf, orklar, ogre, trol, tengu, leprikon, kocaayak, batakl\u0131k \u015feyi, kurt adam, frankenstein, mumya"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARLIK",
+  "SubCategory": "B\u00d6CEKS\u0130",
+  "Synonyms": "dev kar\u0131nca, dev \u00f6r\u00fcmcek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARLIK",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARLIK",
+  "SubCategory": "CANAVAR",
+  "Synonyms": "godzilla, king kong, rancor, behemoth, xenomorph, chupacabra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARLIK",
+  "SubCategory": "S\u00dcR\u00dcNGENS\u0130",
+  "Synonyms": "serpent, serpentine, dev kertenkele, dev y\u0131lan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARLIK",
+  "SubCategory": "K\u00dc\u00c7\u00dcK",
+  "Synonyms": "peri, peri, gremlin, \u015feytan, fraggle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VARLIK",
+  "SubCategory": "KAYNAK KAYIT",
+  "Synonyms": "havlamak, nefes almak, \u00e7a\u011f\u0131rmak, gaklamak, ciyaklamak, t\u0131k\u0131rdamak, a\u011flamak, \u00e7abalamak, homurdanmak, t\u0131slamak, ulumak, h\u0131rlamak, g\u0131rtlaktan, inlemek, inlemek, a\u011f\u0131zdan, k\u00fckremek, \u00e7\u0131\u011fl\u0131k atmak, \u00e7\u0131\u011fl\u0131k atmak, ciyaklamak, s\u0131zlanmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "\u00d6FKEL\u0130",
+  "Synonyms": "holigan, isyan, protesto, ba\u011f\u0131rmak, kabaday\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "ALKI\u015e",
+  "Synonyms": "alk\u0131\u015f, tezah\u00fcrat, alk\u0131\u015flama, bis"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "SAVA\u015e",
+  "Synonyms": "sava\u015f \u00e7\u0131\u011fl\u0131klar\u0131, ba\u011f\u0131rmak, h\u00fccum, toplanmak, ordu, muharebe, iti\u015f kak\u0131\u015f, sava\u015f, \u00e7\u0131\u011fl\u0131k atmak, \u00f6lmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "KUTLAMA",
+  "Synonyms": "kutlama, tatil, parti, g\u00fcr\u00fclt\u00fcl\u00fc, do\u011fum g\u00fcn\u00fc, yeni y\u0131l, noel, ge\u00e7it t\u00f6reni"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "TEZAH\u00dcRAT",
+  "Synonyms": "tezah\u00fcrat, konser, stadyum, seyirci, bo\u011fmaca, kabarmalar, tezah\u00fcratlar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "\u00c7OCUKLAR",
+  "Synonyms": "oyun alan\u0131, teneff\u00fcs, oynayan \u00e7ocuklar, park, oyun, etiket"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "D\u0130YALOG",
+  "Synonyms": "chatter, chat, talk, sparse walla, converse, conversation"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "KAHKAHA",
+  "Synonyms": "tv \u015fovu, konserve kahkaha, komedi kul\u00fcb\u00fc, laugh track"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "RABARBA (SAHNEYE \u00d6ZEL KAYIT)",
+  "Synonyms": "d\u00f6ng\u00fc grubu, adr, konserve"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "PAN\u0130K",
+  "Synonyms": "panik, kaos, ba\u011f\u0131rmak, \u00e7\u0131\u011fl\u0131k atmak, a\u011flamak, s\u0131k\u0131nt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "FISILTI",
+  "Synonyms": "m\u0131r\u0131ldanma, f\u0131s\u0131ldama, susma, m\u0131r\u0131ldanma"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "TEPK\u0130",
+  "Synonyms": "boo, ahh, ooh, st\u00fcdyo tepkisi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "\u015eARKI S\u00d6YLEME",
+  "Synonyms": "ilahi, koro, koral, carol"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "SPOR",
+  "Synonyms": "alk\u0131\u015f, alk\u0131\u015flamak, yuhalamak, tezah\u00fcrat, stadyum, yay, seyirci, olimpiyatlar, ba\u011f\u0131rmak, woohoo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KALABALIK",
+  "SubCategory": "RABARBA (RASTGELE KAYIT)",
+  "Synonyms": "sesler, konu\u015fma, walla, sohbet"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "BASS DALI\u015eI",
+  "Synonyms": "bas dal\u0131\u015f\u0131, d\u00fc\u015f\u00fc\u015f, bas d\u00fc\u015f\u00fc\u015f\u00fc, d\u00fc\u015f\u00fc\u015f"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "BUM",
+  "Synonyms": "bom, derin vuru\u015f, d\u00fc\u015f\u00fck sokma, r\u00f6mork"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "BRAAM",
+  "Synonyms": "bramm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "D\u0130STORS\u0130YON",
+  "Synonyms": "bozulma, karelenmi\u015f, \u00e7arp\u0131t\u0131lm\u0131\u015f"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "DRON",
+  "Synonyms": "ped, drone, doku, u\u011fursuz, gerilim"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "\u00dcRK\u00dcN\u00c7",
+  "Synonyms": "\u00fcrk\u00fct\u00fcc\u00fc, gergin, garip, \u00fcrpertici, korkutucu, \u00fcrpertici, musallat, \u00fcrk\u00fct\u00fcc\u00fc, korkun\u00e7, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "SEMAV\u0130",
+  "Synonyms": "ruhani, g\u00f6ksel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "GRAN\u00dcL",
+  "Synonyms": "taneli, paulstretch, taneler, dilimler"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "DARBE",
+  "Synonyms": "\u00e7arpmak, vurmak, \u00e7arpmak, \u00e7arp\u0131\u015fmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "D\u00d6N\u00dc\u015eME & GE\u00c7\u0130\u015e",
+  "Synonyms": "morph, blend, transition"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "Y\u00dcKSEL\u0130\u015e",
+  "Synonyms": "ters, kre\u015fendo, rizer, y\u00fckseltici, gerilim"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "G\u00dcMB\u00dcRT\u00dc",
+  "Synonyms": "alt harmonik, g\u00fcmb\u00fcrt\u00fc, sars\u0131nt\u0131, deprem"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "R\u0130TM\u0130K",
+  "Synonyms": "stutter, glitch, pulse, stattaco"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "KAYNAK KAYIT",
+  "Synonyms": "kaynak, ham, malzeme, ham kay\u0131t"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "KESK\u0130N \u00c7IKI\u015e & M\u00dcZ\u0130KAL \u0130\u011eNE",
+  "Synonyms": "sting, irkilme, fragman, sinematik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "SENTEZ & SYNTH",
+  "Synonyms": "sentezlenmi\u015f, synth, mod synth, mod\u00fcler synth, gran\u00fcler, analog synth, mod\u00fcler synth"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "TONAL",
+  "Synonyms": "kulak \u00e7\u0131nlamas\u0131, \u00e7\u0131nlama, mermi \u015foku, subjektif"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "SESLEND\u0130RME",
+  "Synonyms": "b\u00fcy\u00fc, b\u00fcy\u00fc, i\u015flenmi\u015f, vokal, f\u0131s\u0131lt\u0131, hayalet"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TASARIM",
+  "SubCategory": "WHOOSH (GE\u00c7\u0130\u015e EFEKT\u0130)",
+  "Synonyms": "whoosh, trailer swish, swish"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "YIKIM",
+  "SubCategory": "YIKILMA",
+  "Synonyms": "\u00e7\u00f6kmek, devrilmek, d\u00fc\u015fmek, patlamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "YIKIM",
+  "SubCategory": "\u00c7\u00d6KME & MOLOZ",
+  "Synonyms": "\u00e7\u00f6kmek, y\u0131rt\u0131lmak, patlamak, par\u00e7alanmak, k\u0131r\u0131lmak, parampar\u00e7a olmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "YIKIM",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOPRAK & KUM",
+  "SubCategory": "\u00c7\u00d6KME & MOLOZ",
+  "Synonyms": "enkaz, kum, kir, damlama, p\u00fcsk\u00fcrtme, par\u00e7alama"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOPRAK & KUM",
+  "SubCategory": "TOZ",
+  "Synonyms": "ince, par\u00e7ac\u0131k, tortu, silt, toz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOPRAK & KUM",
+  "SubCategory": "KULLANMAK & TUTMAK",
+  "Synonyms": "tutmak, kapmak, kazmak, yakalamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOPRAK & KUM",
+  "SubCategory": "DARBE",
+  "Synonyms": "bo\u015faltmak, g\u00fcmb\u00fcrdetmek, bo\u015faltmak, d\u00fc\u015f\u00fcrmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOPRAK & KUM",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOPRAK & KUM",
+  "SubCategory": "HAREKET",
+  "Synonyms": "d\u00f6kmek, bo\u015faltmak, akmak, d\u00f6kmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TOPRAK & KUM",
+  "SubCategory": "TONAL",
+  "Synonyms": "kum tepeleri, \u015fark\u0131 s\u00f6yleyen kumlar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "ANT\u0130KA",
+  "Synonyms": "kale, abby, kilise, eski, antik, antika"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "BEYAZ E\u015eYA",
+  "Synonyms": "f\u0131r\u0131n, mikrodalga, buzdolab\u0131, bula\u015f\u0131k makinesi, \u00e7ama\u015f\u0131r makinesi, kurutucu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "DOLAP",
+  "Synonyms": "dolap, mutfak dolab\u0131, alet dolab\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "KOMPOZ\u0130T & KARMA",
+  "Synonyms": "fiberglas, kap\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "GICIRTI",
+  "Synonyms": "g\u0131c\u0131rt\u0131, kap\u0131, zindan, kiler, kale, ah\u015fap kap\u0131, metal kap\u0131, kap\u0131 g\u0131c\u0131rt\u0131s\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "Z\u0130NDAN",
+  "Synonyms": "kale, zindan, b\u00fcy\u00fck, kiler"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "ELEKTR\u0130KL\u0130",
+  "Synonyms": "elektrikli kap\u0131, garaj kap\u0131s\u0131, seslendirme kap\u0131s\u0131, otomatik kap\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "GE\u00c7\u0130T",
+  "Synonyms": "bah\u00e7e kap\u0131s\u0131, \u00e7it kap\u0131s\u0131, park kap\u0131s\u0131, demiryolu ge\u00e7idi, s\u0131\u011f\u0131r kap\u0131s\u0131, \u00e7iftlik kap\u0131s\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "CAM",
+  "Synonyms": "cam kap\u0131, ma\u011faza kap\u0131s\u0131, cumba kap\u0131s\u0131, frans\u0131z kap\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "MEKAN\u0130ZMA",
+  "Synonyms": "kap\u0131 tokma\u011f\u0131, s\u00fcrg\u00fc, itme \u00e7ubu\u011fu, zincir kilit, mente\u015fe, mandal, tutamak, donan\u0131m, kilit a\u00e7ma, sallama"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "TEKNOLOJ\u0130K",
+  "Synonyms": "laboratuvar kap\u0131s\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "BASIN\u00c7LI & H\u0130DROL\u0130K",
+  "Synonyms": "kap\u0131 kapat\u0131c\u0131, pn\u00f6matik, hidrolik, motorlu kapak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "VURMA",
+  "Synonyms": "tak, rap, tokmak, bang, thud, thump"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "METAL",
+  "Synonyms": "a\u00e7\u0131l\u0131r kapan\u0131r, kasa, kasa, kapak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "PLAST\u0130K",
+  "Synonyms": "porta john, porta let, porta pottie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "HAP\u0130SHANE",
+  "Synonyms": "hapishane kap\u0131s\u0131, hapishane kap\u0131s\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "D\u00d6NER",
+  "Synonyms": "d\u00f6nmek, d\u00f6nd\u00fcrmek, d\u00f6ner kap\u0131, otel, havaalan\u0131, al\u0131\u015fveri\u015f merkezi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "KAYAR",
+  "Synonyms": "s\u00fcrg\u00fcl\u00fc cam kap\u0131, veranda kap\u0131s\u0131, du\u015f kap\u0131s\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "TA\u015e",
+  "Synonyms": "mezar, mahzen, tap\u0131nak, t\u00fcrbe, gizli giri\u015f"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "\u00c7\u0130FT Y\u00d6NL\u00dc",
+  "Synonyms": "salon kap\u0131s\u0131, trafik kap\u0131s\u0131, restoran kap\u0131s\u0131, kilise minber kap\u0131s\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAPI",
+  "SubCategory": "TAHTA",
+  "Synonyms": "giri\u015f, \u00f6n kap\u0131, dolap"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7EKMECE",
+  "SubCategory": "METAL",
+  "Synonyms": "alet kutusu, raf \u00e7ekmecesi, dosya dolab\u0131, yazar kasa, g\u00fcvenlik \u00e7ekmecesi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7EKMECE",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7EKMECE",
+  "SubCategory": "PLAST\u0130K",
+  "Synonyms": "par\u00e7a kutusu, masa d\u00fczenleyici"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u00c7EKMECE",
+  "SubCategory": "TAHTA",
+  "Synonyms": "mutfak \u00e7ekmecesi, banyo \u00e7ekmecesi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTR\u0130K",
+  "SubCategory": "ARK",
+  "Synonyms": "jacob'un merdiveni, tesla bobini, ark, kemer, elektrik santrali, elektrik \u00e7arpmas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTR\u0130K",
+  "SubCategory": "VIZILTI & U\u011eULTU",
+  "Synonyms": "topraklama u\u011fultusu, amfi u\u011fultusu, amfi v\u0131z\u0131lt\u0131s\u0131, hoparl\u00f6r u\u011fultusu, hoparl\u00f6r v\u0131z\u0131lt\u0131s\u0131, u\u011fultu, v\u0131z\u0131lt\u0131, ind\u00fcksiyon u\u011fultusu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTR\u0130K",
+  "SubCategory": "ELEKTROMANYET\u0130K",
+  "Synonyms": "emf, bobin, pikap, ind\u00fcksiyon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTR\u0130K",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTR\u0130K",
+  "SubCategory": "KIVILCIM",
+  "Synonyms": "k\u0131v\u0131lc\u0131m, kaynak, s\u0131\u00e7rama, k\u0131sa devre"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTR\u0130K",
+  "SubCategory": "ZAP",
+  "Synonyms": "de\u015farj, \u015fok, \u015fok tabancas\u0131, elektro\u015fok"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TE\u00c7H\u0130ZAT",
+  "SubCategory": "D\u0130ZG\u0130N",
+  "Synonyms": "dizgin, dizginler, tasma, ko\u015fum tak\u0131m\u0131, k\u00f6pek tasmas\u0131, eyer kay\u0131\u015f\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TE\u00c7H\u0130ZAT",
+  "SubCategory": "TEKNOLOJ\u0130K",
+  "Synonyms": "uzay giysisi, yard\u0131mc\u0131 kemer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TE\u00c7H\u0130ZAT",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TE\u00c7H\u0130ZAT",
+  "SubCategory": "GEZ\u0130",
+  "Synonyms": "s\u0131rt \u00e7antas\u0131, y\u00fcr\u00fcy\u00fc\u015f, y\u00fcr\u00fcy\u00fc\u015f, da\u011fc\u0131l\u0131k, t\u0131rman\u0131\u015f, kaya t\u0131rman\u0131\u015f\u0131, kamp, \u00e7ad\u0131r"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TE\u00c7H\u0130ZAT",
+  "SubCategory": "SPOR",
+  "Synonyms": "omuzluk, dizlik, inciklik, sporcu ask\u0131s\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TE\u00c7H\u0130ZAT",
+  "SubCategory": "TAKT\u0130K",
+  "Synonyms": "kemer, taktik, g\u00f6rev kemeri, cephane kemeri, polis, askeri, bandoleer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PATLAMA",
+  "SubCategory": "TASARIM",
+  "Synonyms": "\u015fok dalgas\u0131, tatland\u0131r\u0131c\u0131, yank\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PATLAMA",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "Patlama"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PATLAMA",
+  "SubCategory": "GER\u00c7EK",
+  "Synonyms": "Patlama, patlama, \u00e7atlama, patlama"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OSURMA",
+  "SubCategory": "TASARIM",
+  "Synonyms": "macun, razzberry, ahududu, whoopie yast\u0131k, flarp, koltuk alt\u0131, fartbag, balon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OSURMA",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "hayvan osuru\u011fu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OSURMA",
+  "SubCategory": "GER\u00c7EK",
+  "Synonyms": "insan osuru\u011fu, gaz, poot, toot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAVGA",
+  "SubCategory": "YUVARLANMA & D\u00dc\u015eME",
+  "Synonyms": "bodyfall, body drag, scuffle, body slam, tackle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAVGA",
+  "SubCategory": "KIYAFET",
+  "Synonyms": "sava\u015f bezi, yakalama, kapma, bez darbesi, bez vuru\u015fu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAVGA",
+  "SubCategory": "YAKALAMA",
+  "Synonyms": "m\u00fccadele, kapmak, k\u0131ska\u00e7, g\u00fcre\u015f, judo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAVGA",
+  "SubCategory": "DARBE",
+  "Synonyms": "yumruk, tekme, v\u00fccut darbesi, tokat, \u015faplak, kavga, iti\u015f kak\u0131\u015f, \u00e7orap, aparkat, jab"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAVGA",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015e",
+  "SubCategory": "YANMA",
+  "Synonyms": "\u015fenlik ate\u015fi, kamp ate\u015fi, \u00e7al\u0131 yang\u0131n\u0131, yap\u0131 yang\u0131n\u0131, alev, cehennem, yanma, \u00e7\u0131ra, pir"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015e",
+  "SubCategory": "P\u00dcSK\u00dcRME",
+  "Synonyms": "backdraft, ejderha ate\u015fi, yutmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015e",
+  "SubCategory": "\u00c7ATIRDAMA",
+  "Synonyms": "pop, spit, snap, sparkle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015e",
+  "SubCategory": "GAZ",
+  "Synonyms": "gaz \u0131zgaras\u0131, bunsen br\u00fcl\u00f6r\u00fc, f\u0131r\u0131n, kamp oca\u011f\u0131, mutfak oca\u011f\u0131, krematoryum, gaz oca\u011f\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015e",
+  "SubCategory": "TUTU\u015eMA",
+  "Synonyms": "kibrit, \u00e7akmak, zippo, alev almak, patlamak, alevlenmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015e",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015e",
+  "SubCategory": "CIZLAMA",
+  "Synonyms": "ate\u015f ma\u015fas\u0131, sigorta, sigorta yan\u0131\u011f\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015e",
+  "SubCategory": "ME\u015eALE",
+  "Synonyms": "i\u015faret fi\u015fe\u011fi, f\u00fcnye, me\u015fale, ate\u015f \u00e7ubu\u011fu, alevli \u00e7ubuk, cresset"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015e",
+  "SubCategory": "\u00c7ALKANTILI & T\u00dcRB\u00dcLANS",
+  "Synonyms": "yang\u0131n girdab\u0131, \u015fiddetli yang\u0131n, alev at\u0131c\u0131, yang\u0131n kas\u0131rgas\u0131, yutmak, geri tepme"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015e",
+  "SubCategory": "WHOOSH (GE\u00c7\u0130\u015e EFEKT\u0130)",
+  "Synonyms": "ate\u015f topu, alev, molotof, i\u015faret fi\u015fe\u011fi, geri tepme"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAVA\u0130 F\u0130\u015eEK",
+  "SubCategory": "T\u0130CAR\u0130",
+  "Synonyms": "havan, havai fi\u015fek, piroteknik, kaboom, mermi, havai fi\u015fek g\u00f6sterisi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAVA\u0130 F\u0130\u015eEK",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAVA\u0130 F\u0130\u015eEK",
+  "SubCategory": "E\u011eLENCE",
+  "Synonyms": "havai fi\u015fek, m80, maytap, \u015fi\u015fe roketi, sis bombas\u0131, z\u0131playan kriko, roma mumu, popper, kiraz bombas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLEY",
+  "SubCategory": "KIYAFET",
+  "Synonyms": "h\u0131\u015f\u0131rt\u0131, hareket, mvmt, zuzz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLEY",
+  "SubCategory": "ADIM",
+  "Synonyms": "ayak, ayakkab\u0131, ayak izi, y\u00fczey"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLEY",
+  "SubCategory": "ELLER",
+  "Synonyms": "pat, tut, tutamak, set"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLEY",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLEY",
+  "SubCategory": "E\u015eYA",
+  "Synonyms": "sahne, sahne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GIDA",
+  "SubCategory": "P\u0130\u015e\u0130RME",
+  "Synonyms": "do\u011framak, dilimlemek, k\u00fcp k\u00fcp do\u011framak, kar\u0131\u015ft\u0131rmak, harmanlamak, \u00e7\u0131rpmak, sote etmek, k\u0131zartmak, kaynatmak, \u0131zgara yapmak, c\u0131z\u0131rdatmak, buharda pi\u015firmek, g\u00fcve\u00e7 yapmak, kar\u0131\u015ft\u0131rmak, sote etmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GIDA",
+  "SubCategory": "\u0130\u00c7ME",
+  "Synonyms": "sip, slurp, drink, swallow, gulp, beverage, swig, chug, glug"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GIDA",
+  "SubCategory": "YEME",
+  "Synonyms": "yemek, \u00e7\u0131t\u0131rdatmak, \u00e7i\u011fnemek, yutmak, munch, chomp, \u0131s\u0131rmak, yutmak, t\u00fcketmek, ziyafet \u00e7ekmek, beslemek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GIDA",
+  "SubCategory": "Z\u00dcCCAC\u0130YE",
+  "Synonyms": "\u015fi\u015fe, bardak, fincan, s\u00fcrahi, karaf, kutu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GIDA",
+  "SubCategory": "MUHTEVA",
+  "Synonyms": "f\u0131nd\u0131k, tohum, tah\u0131l, sebze, meyve, konserve, tah\u0131l, et, yulaf, m\u0131s\u0131r"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GIDA",
+  "SubCategory": "MUTFAK GEREC\u0130",
+  "Synonyms": "tava, tencere, g\u00fcve\u00e7, tencere, k\u0131zartma tavas\u0131, tencere"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GIDA",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GIDA",
+  "SubCategory": "D\u00d6KMEK & BO\u015eALTMAK",
+  "Synonyms": "d\u00f6kmek, akmak, d\u00f6k\u00fclmek, servis etmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GIDA",
+  "SubCategory": "\u00c7ATAL BI\u00c7AK",
+  "Synonyms": "g\u00fcm\u00fc\u015f tak\u0131mlar, mutfak e\u015fyalar\u0131, bardak \u015f\u0131ng\u0131rt\u0131lar\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ADIM",
+  "SubCategory": "HAYVAN",
+  "Synonyms": "y\u00fcr\u00fcmek, ko\u015fmak, sprint"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ADIM",
+  "SubCategory": "VARLIK",
+  "Synonyms": "dinozor, yarat\u0131k, canavar, ejderha, efsanevi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ADIM",
+  "SubCategory": "AT",
+  "Synonyms": "y\u00fcr\u00fcy\u00fc\u015f, t\u0131r\u0131s, d\u00f6rtnala, toynak, toynaklar, canter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ADIM",
+  "SubCategory": "\u0130NSAN",
+  "Synonyms": "y\u00fcr\u00fcmek, ko\u015fmak, ayak, jog, sprint, atlamak, atlamak, hobble, hike, ad\u0131m, footstep, ayaklar, ad\u0131m, t\u0131rmanmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ADIM",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OYUN",
+  "SubCategory": "ATAR\u0130 SALONU",
+  "Synonyms": "lang\u0131rt, k\u00f6stebek, skeeball, pen\u00e7e makinesi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OYUN",
+  "SubCategory": "MASA OYUNU",
+  "Synonyms": "satran\u00e7, dama, go, tavla"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OYUN",
+  "SubCategory": "KUMARHANE",
+  "Synonyms": "rulet, slot makinesi, barbut, para \u00e7ark\u0131, keno, poker makinesi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OYUN",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "poker, kart, jenga, zar, knucklebone,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OYUN",
+  "SubCategory": "V\u0130DEO OYUN",
+  "Synonyms": "atari, ps4, xbox one, xbox 360, amstrad, famicom, snes, gameboy, nintendo 64, playstation, megadrive, psp"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JEOTERMAL",
+  "SubCategory": "T\u00dcTEN",
+  "Synonyms": "buhar deli\u011fi, jeotermal, fumarole"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JEOTERMAL",
+  "SubCategory": "GAYZER",
+  "Synonyms": "musluk, sprey, kabarc\u0131k, kaynama"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JEOTERMAL",
+  "SubCategory": "LAV",
+  "Synonyms": "lav, ak\u0131\u015f, \u00e7at\u0131rt\u0131, viskoz, parlama, g\u00fcrleme, volkan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JEOTERMAL",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "fokurdayan s\u0131cak havuz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JEOTERMAL",
+  "SubCategory": "\u00c7AMUR HAVUZU",
+  "Synonyms": "mudpot, boya kab\u0131, katran \u00e7ukuru, \u00e7amur, kabarc\u0131k, glop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CAM",
+  "SubCategory": "KIRMA",
+  "Synonyms": "cam k\u0131r\u0131lmas\u0131, par\u00e7alanmas\u0131, parampar\u00e7a olmas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CAM",
+  "SubCategory": "\u00c7\u00d6KME & MOLOZ",
+  "Synonyms": "par\u00e7a, par\u00e7a, \u00e7arpma, enkaz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CAM",
+  "SubCategory": "S\u00dcRT\u00dcNME",
+  "Synonyms": "stres, s\u0131yr\u0131k, g\u0131c\u0131rt\u0131, g\u0131c\u0131rt\u0131, g\u0131c\u0131rt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CAM",
+  "SubCategory": "KULLANMAK & TUTMAK",
+  "Synonyms": "tutmak, kapmak, ayarlamak, almak, indirmek, f\u0131rlatmak, yakalamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CAM",
+  "SubCategory": "DARBE",
+  "Synonyms": "vurmak, d\u00fc\u015f\u00fcrmek, \u00e7arpmak, \u00e7\u0131nlamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CAM",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CAM",
+  "SubCategory": "HAREKET",
+  "Synonyms": "\u00e7\u0131ng\u0131rak, yuvarlanma, ping, tak\u0131rt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CAM",
+  "SubCategory": "TONAL",
+  "Synonyms": "rezonans, halka, tonal, cam armonika, kristal kase"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAH\u015eET",
+  "SubCategory": "KAN",
+  "Synonyms": "damlamak, akmak, f\u0131\u015fk\u0131rmak, p\u00fcsk\u00fcrmek, p\u00fcsk\u00fcrtmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAH\u015eET",
+  "SubCategory": "KEM\u0130K",
+  "Synonyms": "kemik k\u0131r\u0131lmas\u0131, kemik k\u0131r\u0131lmas\u0131, kemik par\u00e7alanmas\u0131, \u00e7ene k\u0131r\u0131lmas\u0131, \u00e7eneler"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAH\u015eET",
+  "SubCategory": "YANIK",
+  "Synonyms": "c\u0131z\u0131rdatmak, da\u011flamak, g\u00f6rmek, damgalamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAH\u015eET",
+  "SubCategory": "ET",
+  "Synonyms": "y\u0131rtmak, soymak, y\u0131rtmak, par\u00e7alamak, ba\u011f\u0131rsak, et, yara"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAH\u015eET",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAH\u015eET",
+  "SubCategory": "AKINTI",
+  "Synonyms": "s\u0131z\u0131nt\u0131, bal\u00e7\u0131k, ak\u0131\u015f, jelatin"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAH\u015eET",
+  "SubCategory": "KAYNAK KAYIT",
+  "Synonyms": "goosh, squish, goop, slime, ooze, glop, organ, ba\u011f\u0131rsak, juicy, goo, splat, ooze, rip, peel, stab, tear, rend, intestine, meat, wound, slice, impale, juicy, splat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAH\u015eET",
+  "SubCategory": "\u015eAPIRTI",
+  "Synonyms": "goosh, squish, goop, slime, ooze, glop, organ, ba\u011f\u0131rsak, sulu, goo, splat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAH\u015eET",
+  "SubCategory": "\u00c7\u0130\u011eNEME",
+  "Synonyms": "ezmek, et, organ, goosh, ba\u011f\u0131rsak, sulu, splat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "VAH\u015eET",
+  "SubCategory": "SAPLAMA",
+  "Synonyms": "dilimlemek, kaz\u0131\u011fa oturtmak, b\u0131\u00e7aklamak, kesmek, vorpal, par\u00e7alamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015eL\u0130 S\u0130LAH",
+  "SubCategory": "ANT\u0130KA",
+  "Synonyms": "a\u011f\u0131zdan dolma t\u00fcfek, misket t\u00fcfe\u011fi, kara barut, \u00e7akmakl\u0131 t\u00fcfek, uzun namlulu t\u00fcfek, ate\u015f m\u0131zra\u011f\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015eL\u0130 S\u0130LAH",
+  "SubCategory": "A\u011eIR TOP",
+  "Synonyms": "ob\u00fcs, u\u00e7aksavar topu, f\u00fcze f\u0131rlat\u0131c\u0131, bazuka, havan, roket, deniz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015eL\u0130 S\u0130LAH",
+  "SubCategory": "OTOMAT\u0130K",
+  "Synonyms": "ak-47, m16, makineli t\u00fcfek, tommy gun, uzi, m249, M1919, gatling gun, minigun, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015eL\u0130 S\u0130LAH",
+  "SubCategory": "TOP",
+  "Synonyms": "blunderbuss, handcannon, cannon, black powder"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015eL\u0130 S\u0130LAH",
+  "SubCategory": "KULLANMAK & TUTMAK",
+  "Synonyms": "k\u0131l\u0131f, silah, silah tutma, silah yakalama, silah d\u00fc\u015f\u00fcrme, silah doldurma"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015eL\u0130 S\u0130LAH",
+  "SubCategory": "TEKNOLOJ\u0130K",
+  "Synonyms": "rayl\u0131 silah, casus silah\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015eL\u0130 S\u0130LAH",
+  "SubCategory": "MEKAN\u0130ZMA",
+  "Synonyms": "\u015farj\u00f6r, horoz, silah tak\u0131rt\u0131s\u0131, s\u00fcrg\u00fc, \u015farj\u00f6r, mermi doldurma, silah horozu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015eL\u0130 S\u0130LAH",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "i\u015faret fi\u015fe\u011fi tabancas\u0131, hava tabancas\u0131, paintball tabancas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015eL\u0130 S\u0130LAH",
+  "SubCategory": "TABANCA",
+  "Synonyms": "9mm, tabanca, revolver, glock, tabanca, colt, smith & wesson, sig sauer, luger, walther ppk, browning, ruger, beretta"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015eL\u0130 S\u0130LAH",
+  "SubCategory": "T\u00dcFEK",
+  "Synonyms": "t\u00fcfek, mauser, casull, arisaka, luger, karabina, powell, keskin ni\u015fanc\u0131, avc\u0131l\u0131k, yar\u0131 otomatik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015eL\u0130 S\u0130LAH",
+  "SubCategory": "POMPALI",
+  "Synonyms": "av t\u00fcfe\u011fi, \u00e7ift namlu, mossberg, winchester, coach gun"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATE\u015eL\u0130 S\u0130LAH",
+  "SubCategory": "SUSTURUCULU",
+  "Synonyms": "susturulmu\u015f, susturucu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KORNA",
+  "SubCategory": "HAVALI",
+  "Synonyms": "sis kornas\u0131, haval\u0131 korna, fabrika kornas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KORNA",
+  "SubCategory": "KUTLAMA",
+  "Synonyms": "parti kornas\u0131, vuvuzela"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KORNA",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "av \u00e7a\u011fr\u0131s\u0131, geyik \u00e7a\u011fr\u0131s\u0131, \u00f6rdek \u00e7a\u011fr\u0131s\u0131, tilki borazan\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KORNA",
+  "SubCategory": "GELENEKSEL",
+  "Synonyms": "shofar, konk, konk kabu\u011fu, sava\u015f borusu, alp borusu, alpenhorn"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130NSAN",
+  "SubCategory": "\u00dcFLEME",
+  "Synonyms": "\u00fcfle, nefes ver"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130NSAN",
+  "SubCategory": "NEFES",
+  "Synonyms": "nefes, i\u00e7 \u00e7ekmek, nefes almak, nefes vermek, soluk solu\u011fa kalmak, h\u0131r\u0131lt\u0131, huff, heave, whoop, solunum, inhalasyon, ekshalasyon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130NSAN",
+  "SubCategory": "GE\u011e\u0130RME",
+  "Synonyms": "ge\u011firmek, ge\u011firmek, h\u0131\u00e7k\u0131rmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130NSAN",
+  "SubCategory": "\u00d6KS\u00dcR\u00dcK",
+  "Synonyms": "Hack, ahem, hoarse, clear throat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130NSAN",
+  "SubCategory": "KALP ATI\u015eI",
+  "Synonyms": "\u00e7arp\u0131nt\u0131, bumbum"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130NSAN",
+  "SubCategory": "\u00d6P\u00dcC\u00dcK",
+  "Synonyms": "\u00f6p\u00fcc\u00fck, gagalama"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130NSAN",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130NSAN",
+  "SubCategory": "\u00c7\u0130\u015e & \u0130\u015eEMEK",
+  "Synonyms": "i\u015femek, idrar yapmak, \u00e7i\u015f yapmak, idrar yapmak, tinkle, wizz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130NSAN",
+  "SubCategory": "C\u0130LT & TEN",
+  "Synonyms": "s\u00fcrt\u00fcnme, ka\u015f\u0131ma, deri, ka\u015f\u0131nt\u0131, tokat, el tutma, el s\u0131k\u0131\u015fma, ok\u015fama, ovma, s\u0131rt s\u0131vazlama"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130NSAN",
+  "SubCategory": "HAP\u015eURUK",
+  "Synonyms": "hap\u015f\u0131r\u0131k, ah-choo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130NSAN",
+  "SubCategory": "KOKLAMA & BURUN \u00c7EKME",
+  "Synonyms": "koklamak, koklamak, koklamak, burnunu \u00e7ekmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130NSAN",
+  "SubCategory": "HORLAMA",
+  "Synonyms": "horlama, zzz, t\u0131kan\u0131kl\u0131k, a\u011f\u0131r nefes alma, apne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130NSAN",
+  "SubCategory": "T\u00dcK\u00dcRME",
+  "Synonyms": "t\u00fck\u00fcrmek, hock, kusmak, spittoon, drool"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0130NSAN",
+  "SubCategory": "KUSMA",
+  "Synonyms": "kusmak, puke, upchuck, expunge, heave, gag, retch, hurl, spew, seasick"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BUZ",
+  "SubCategory": "KIRMA",
+  "Synonyms": "k\u0131r\u0131lmak, \u00e7atlamak, y\u0131rt\u0131lmak, par\u00e7alanmak, \u00e7at\u0131rdamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BUZ",
+  "SubCategory": "\u00c7\u00d6KME & MOLOZ",
+  "Synonyms": "\u00e7arpma, d\u00fc\u015fme, enkaz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BUZ",
+  "SubCategory": "S\u00dcRT\u00dcNME",
+  "Synonyms": "stres, s\u0131yr\u0131k, g\u0131c\u0131rt\u0131, g\u0131c\u0131rt\u0131, g\u0131c\u0131rt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BUZ",
+  "SubCategory": "KULLANMAK & TUTMAK",
+  "Synonyms": "tutmak, kapmak, ayarlamak, almak, indirmek, f\u0131rlatmak, yakalamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BUZ",
+  "SubCategory": "DARBE",
+  "Synonyms": "vurmak, d\u00fc\u015f\u00fcrmek, \u00e7arpmak, \u00e7arp\u0131\u015fmak, tak\u0131rdamak, \u00e7\u0131nlamak, \u00e7\u0131nlamak, kesmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BUZ",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BUZ",
+  "SubCategory": "HAREKET",
+  "Synonyms": "s\u00fcr\u00fcklemek, yuvarlamak, tak\u0131rdatmak, sallamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BUZ",
+  "SubCategory": "TONAL",
+  "Synonyms": "yay, y\u00fcz\u00fck, shing"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LAZER",
+  "SubCategory": "I\u015eIN",
+  "Synonyms": "\u0131\u015f\u0131n, gama, \u0131\u015f\u0131n"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LAZER",
+  "SubCategory": "S\u0130LAH",
+  "Synonyms": "plazma silah\u0131, blaster, lazer topu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LAZER",
+  "SubCategory": "DARBE",
+  "Synonyms": "lazer, blaster, \u00e7arpma, vurma, c\u0131z\u0131rt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LAZER",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DER\u0130",
+  "SubCategory": "GICIRTI",
+  "Synonyms": "g\u0131c\u0131rt\u0131, stres, gerginlik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DER\u0130",
+  "SubCategory": "KULLANMAK & TUTMAK",
+  "Synonyms": "tutmak, kapmak, ayarlamak, almak, indirmek, f\u0131rlatmak, yakalamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DER\u0130",
+  "SubCategory": "DARBE",
+  "Synonyms": "vurmak, \u00e7arpmak, kapmak, g\u00fcm, g\u00fcm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DER\u0130",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DER\u0130",
+  "SubCategory": "HAREKET",
+  "Synonyms": "flap, flop, rustle, mvmt, slide"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SIVI & \u00c7AMUR",
+  "SubCategory": "BALONCUK",
+  "Synonyms": "kabarc\u0131k, k\u00f6p\u00fck, pop, \u00e7amur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SIVI & \u00c7AMUR",
+  "SubCategory": "DARBE",
+  "Synonyms": "splat, splatter, hit, impact, plop, kerplunk, plunk, mud"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SIVI & \u00c7AMUR",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SIVI & \u00c7AMUR",
+  "SubCategory": "HAREKET",
+  "Synonyms": "s\u0131z\u0131nt\u0131, bal\u00e7\u0131k, yap\u0131\u015fkan, \u00e7amur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SIVI & \u00c7AMUR",
+  "SubCategory": "EMME",
+  "Synonyms": "emme, h\u00f6p\u00fcrdetme, glomp, piston, \u00e7amur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "E\u011eLENCE",
+  "Synonyms": "rollercoaster, atl\u0131kar\u0131nca, scrambler, tilt-a-whirl, kiddy ride, tema park\u0131 yolculu\u011fu, lang\u0131rt, skeeball"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "ANT\u0130KA",
+  "Synonyms": "matbaa, diki\u015f makinesi, zeytin presi, tereya\u011f\u0131 yay\u0131\u011f\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "BEYAZ E\u015eYA",
+  "Synonyms": "f\u0131r\u0131n, buzdolab\u0131, buzdolab\u0131, blender, mutfak robotu, sa\u00e7 kurutma makinesi, buz makinesi, \u00e7ama\u015f\u0131r makinesi, kurutma makinesi, \u00fct\u00fc, kahve makinesi, bula\u015f\u0131k makinesi, elektrikli konserve a\u00e7aca\u011f\u0131, \u00e7\u00f6p \u00f6\u011f\u00fct\u00fcc\u00fc, nemlendirici, nem alma cihaz\u0131, diki\u015f makinesi, ekmek k\u0131zartma makinesi, waffle makinesi, \u0131zgara, ocak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "\u0130N\u015eAAT",
+  "Synonyms": "vin\u00e7, \u00e7imento kar\u0131\u015ft\u0131r\u0131c\u0131, a\u011fa\u00e7 \u00f6\u011f\u00fct\u00fcc\u00fc"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "ASANS\u00d6R",
+  "Synonyms": "paternoster, y\u00fck asans\u00f6r\u00fc, yolcu asans\u00f6r\u00fc, asans\u00f6r"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "Y\u00dcR\u00dcYEN MERD\u0130VEN",
+  "Synonyms": "travelator, hareketli y\u00fcr\u00fcme yolu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "PERVANE",
+  "Synonyms": "vantilat\u00f6r, tavan vantilat\u00f6r\u00fc, kutu vantilat\u00f6r, end\u00fcstriyel vantilat\u00f6r, kanats\u0131z vantilat\u00f6r"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "BAH\u00c7E",
+  "Synonyms": "\u00e7im bi\u00e7me makinesi, ot bi\u00e7me makinesi, kenar d\u00fczeltme makinesi, motorlu testere, d\u00fczeltici, testere, mal\u00e7lama makinesi, k\u00fcltivat\u00f6r"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "SPOR SALONU",
+  "Synonyms": "ko\u015fu band\u0131, eliptical, k\u00fcrek makinesi, egzersiz bisikleti, sabit bisiklet, nordictrack, merdiven t\u0131rman\u0131c\u0131."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "TEKNOLOJ\u0130K",
+  "Synonyms": "alet, dijital, el cihaz\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "HAVALANDIRMA",
+  "Synonyms": "aircon, klima, \u0131s\u0131tma."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "SANAY\u0130",
+  "Synonyms": "hidrolik pres, montaj hatt\u0131, i\u00e7ki fabrikas\u0131, z\u0131mba presi, form presi + F437: F450"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "MEKAN\u0130ZMA",
+  "Synonyms": "bulmaca kutusu, rube goldberg, gizmo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "TIBB\u0130",
+  "Synonyms": "r\u00f6ntgen makineleri, MR, kedi taramas\u0131, evcil hayvan taramas\u0131, tansiyon makinesi, laboratuvar test makinesi, santrif\u00fcj, vantilat\u00f6r, defibrilat\u00f6r"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "OF\u0130S",
+  "Synonyms": "faks makinesi, faksimile makinesi, telefaks, fotokopi makinesi, yaz\u0131c\u0131, \u00f6\u011f\u00fct\u00fcc\u00fc, xerox, fotokopi makinesi, teksir, lazer yaz\u0131c\u0131, m\u00fcrekkep p\u00fcsk\u00fcrtmeli, ka\u011f\u0131t \u00f6\u011f\u00fct\u00fcc\u00fc, \u00e7izici"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAK\u0130NE",
+  "SubCategory": "POMPA",
+  "Synonyms": "su pompas\u0131, karter pompas\u0131, kompres\u00f6r, hava kompres\u00f6r\u00fc"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00dcY\u00dc",
+  "SubCategory": "\u0130LAH\u0130",
+  "Synonyms": "kutsal, g\u00f6ksel, eterik, ilahi, ruhani, y\u00fcce, do\u011fru, aziz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00dcY\u00dc",
+  "SubCategory": "D\u00d6RT ELEMENT",
+  "Synonyms": "ate\u015f, su, toprak, elektrik, hava, r\u00fczgar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00dcY\u00dc",
+  "SubCategory": "\u015eEYTAN\u0130",
+  "Synonyms": "karanl\u0131k, \u015feytan, \u00e7a\u011f\u0131rma, b\u00fcy\u00fcc\u00fcl\u00fck, voodoo, kara b\u00fcy\u00fc, yasak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00dcY\u00dc",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00dcY\u00dc",
+  "SubCategory": "POF",
+  "Synonyms": "chuff, foomp, blast"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00dcY\u00dc",
+  "SubCategory": "PIRILDAMA",
+  "Synonyms": "p\u0131r\u0131lt\u0131, \u0131\u015f\u0131lt\u0131, \u00e7an a\u011fac\u0131, \u00e7an sesi, par\u0131lt\u0131, \u0131\u015f\u0131lt\u0131, par\u0131lt\u0131, par\u0131lt\u0131, par\u0131lt\u0131, par\u0131lt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u00dcY\u00dc",
+  "SubCategory": "S\u0130H\u0130R",
+  "Synonyms": "cad\u0131, b\u00fcy\u00fcc\u00fc, b\u00fcy\u00fcc\u00fc, b\u00fcy\u00fc, b\u00fcy\u00fc, b\u00fcy\u00fc, b\u00fcy\u00fc, b\u00fcy\u00fc, b\u00fcy\u00fcleme, b\u00fcy\u00fc, \u015feytan \u00e7\u0131karma, lanet, trans"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKAN\u0130K",
+  "SubCategory": "KL\u0130K",
+  "Synonyms": "klik, tak, \u00e7\u0131t, ge\u00e7i\u015f, d\u00fc\u011fme"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKAN\u0130K",
+  "SubCategory": "\u00c7ARK",
+  "Synonyms": "di\u015fli, di\u015fli, pinyon, kremayer, \u015fanz\u0131man, di\u015fli \u00e7ark, di\u015fli \u00e7ark, volan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKAN\u0130K",
+  "SubCategory": "BASIN\u00c7LI & H\u0130DROL\u0130K",
+  "Synonyms": "hidrolik, pn\u00f6matik, bas\u0131n\u00e7l\u0131, valf"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKAN\u0130K",
+  "SubCategory": "MANDAL",
+  "Synonyms": "mandal, donan\u0131m, kilit, toka, hasp, c\u0131vata"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKAN\u0130K",
+  "SubCategory": "MAN\u0130VELA",
+  "Synonyms": "kol, anahtar, t\u0131k\u0131rt\u0131, t\u0131k\u0131rt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKAN\u0130K",
+  "SubCategory": "K\u0130L\u0130T",
+  "Synonyms": "asma kilit, s\u00fcrg\u00fc"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKAN\u0130K",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKAN\u0130K",
+  "SubCategory": "KASNAK",
+  "Synonyms": "g\u0131c\u0131rdamak, c\u0131v\u0131ldamak, yuvarlanmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKAN\u0130K",
+  "SubCategory": "CIRCIR",
+  "Synonyms": "c\u0131rc\u0131r, \u00e7\u0131t, klik, r\u00fczgar, krank, vin\u00e7"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKAN\u0130K",
+  "SubCategory": "R\u00d6LE",
+  "Synonyms": "\u00e7evirmek, ge\u00e7i\u015f yapmak, tak\u0131rdatmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKAN\u0130K",
+  "SubCategory": "S\u0130L\u0130ND\u0130R",
+  "Synonyms": "rulo, kay\u0131\u015f, hat mili"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MEKAN\u0130K",
+  "SubCategory": "\u015eALTER & ELEKTR\u0130K D\u00dc\u011eMES\u0130",
+  "Synonyms": "anahtar, klik, t\u0131k\u0131rt\u0131, ge\u00e7i\u015f, d\u00fc\u011fme"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "KIRMA",
+  "Synonyms": "k\u0131r\u0131lmak, \u00e7atlamak, y\u0131rt\u0131lmak, par\u00e7alanmak, \u00e7at\u0131rdamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "\u00c7\u00d6KME & MOLOZ",
+  "Synonyms": "\u00e7arpma, d\u00fc\u015fme, enkaz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "S\u00dcRT\u00dcNME",
+  "Synonyms": "stres, s\u0131yr\u0131k, g\u0131c\u0131rt\u0131, g\u0131c\u0131rt\u0131, g\u0131c\u0131rt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "KULLANMAK & TUTMAK",
+  "Synonyms": "tutmak, kapmak, ayarlamak, almak, indirmek, f\u0131rlatmak, yakalamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "DARBE",
+  "Synonyms": "vurmak, d\u00fc\u015f\u00fcrmek, \u00e7arpmak, \u00e7arp\u0131\u015fmak, tak\u0131rdamak, \u00e7\u0131nlamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "HAREKET",
+  "Synonyms": "s\u00fcr\u00fcklemek, yuvarlamak, tak\u0131rdatmak, sallamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "TONAL",
+  "Synonyms": "yay, \u00e7\u0131nlamak, zonklamak, \u015f\u0131ng\u0131rdamak, b\u00fck\u00fclmek, e\u011filmek, yank\u0131lanmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTOR",
+  "SubCategory": "ANT\u0130KA",
+  "Synonyms": "gazya\u011f\u0131 motoru, parafin motoru"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTOR",
+  "SubCategory": "YANMALI",
+  "Synonyms": "dizel motor, gaz motoru, yanmal\u0131 motor, iki zamanl\u0131 motor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTOR",
+  "SubCategory": "ELEKTR\u0130KL\u0130",
+  "Synonyms": "di\u015f f\u0131r\u00e7as\u0131, elektrikli t\u0131ra\u015f makinesi, elektrikli motor, \u00e7\u00f6p \u00f6\u011f\u00fct\u00fcc\u00fc, di\u015f\u00e7i matkab\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTOR",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTOR",
+  "SubCategory": "SERVO",
+  "Synonyms": "robot, rc araba, kamera oda\u011f\u0131, araba anteni, yaz\u0131c\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MOTOR",
+  "SubCategory": "T\u00dcRB\u0130N",
+  "Synonyms": "yel de\u011firmeni, u\u00e7ak, hava ta\u015f\u0131t\u0131, jenerat\u00f6r"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAREKET",
+  "SubCategory": "FAAL\u0130YET",
+  "Synonyms": "aktivite, ta\u015f\u0131nma, temizlik, al\u0131\u015fveri\u015f, paket a\u00e7ma"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAREKET",
+  "SubCategory": "HAYVAN",
+  "Synonyms": "izdiham, s\u00fcr\u00fc, h\u00fccum, \u00e7i\u011fnemek, kap\u0131\u015fmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAREKET",
+  "SubCategory": "VARLIK",
+  "Synonyms": "kaymak, s\u00fcr\u00fcnmek, kaymak, k\u0131vranmak, k\u0131vr\u0131lmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAREKET",
+  "SubCategory": "KALABALIK",
+  "Synonyms": "y\u00fcr\u00fcmek, ko\u015fmak, y\u00fcr\u00fcmek, de\u011firmen, kar\u0131\u015ft\u0131rmak, iti\u015fmek, oturmak, durmak, yatmak, kaymak, z\u0131plamak, atlamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAREKET",
+  "SubCategory": "\u0130NSAN",
+  "Synonyms": "y\u00fcr\u00fcmek, ko\u015fmak, y\u00fcr\u00fcmek, de\u011firmen, kar\u0131\u015ft\u0131rmak, iti\u015fmek, oturmak, durmak, yatmak, kaymak, z\u0131plamak, atlamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAREKET",
+  "SubCategory": "B\u00d6CEK",
+  "Synonyms": "s\u00fcr\u00fc, kovan, ar\u0131 kovan\u0131, s\u00fcr\u00fcngen, kurt\u00e7uklar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAREKET",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAREKET",
+  "SubCategory": "MEVCUD\u0130YET",
+  "Synonyms": "ayarlamak, kar\u0131\u015ft\u0131rmak, s\u00fcrtmek, hafif hareket, kayd\u0131rmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "Z\u0130L",
+  "Synonyms": "boru \u015feklindeki \u00e7anlar, carillon, gamelan, \u015fark\u0131 s\u00f6yleyen kase, el \u00e7an\u0131, cowbell, gong, gamelan, agung, kase gong, tam-tam"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "BAKIR NEFESL\u0130",
+  "Synonyms": "tuba, frans\u0131z kornosu, trombon, trompet, mellofon, euphorium, sousaphone, flugelhorn, bugle, saksafon, kornet"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "\u00c7AN",
+  "Synonyms": "r\u00fczgar \u00e7an\u0131, \u00e7an a\u011fac\u0131, tinkle, twinkle, shimmer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "KORO",
+  "Synonyms": "koro, koro, gospel, kilise"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "DENEYSEL",
+  "Synonyms": "theremin, cam armonika, pyrophone, stylophone, kristal baschet, elektrikli kakt\u00fcs, aeolian r\u00fczgar arp\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "ENSTR\u00dcMAN",
+  "Synonyms": "enstr\u00fcman"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "TU\u015eLU & KLAVYEL\u0130",
+  "Synonyms": "piyano, org, klavsen, akordeon, melodika, celesta, spinet, klavinet, klavikord, harmonium, dulcitone"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "LOOP",
+  "Synonyms": "m\u00fczik d\u00f6ng\u00fcleri, \u00f6rnek d\u00f6ng\u00fcler, davul d\u00f6ng\u00fcleri"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "muhtelif, armonika, kazoo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "VURMALI & PERK\u00dcSYON",
+  "Synonyms": "timpani, kettle davulu, bas davulu, toms, sava\u015f davullar\u0131, taiko, kick davulu, trampet"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "AKORTLU PERK\u00dcSYON (ORFF)",
+  "Synonyms": "glockenspiel, ksilofon, vibrafon, metalofon, zilli lir, \u00e7elik davul, marimba"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "PERFORMANS",
+  "Synonyms": "grup, sokak m\u00fczisyeni, canl\u0131 konser, g\u00f6steri, gece kul\u00fcb\u00fc, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "TELL\u0130",
+  "Synonyms": "gitar, banjo, ukelele, arp, akustik gitar, bas gitar, mandolin, balalayka, sitar, pipa, parmak piyano, \u00e7ene arp\u0131, kanun, balalayka, autoharp, kora, lute, lir, ud, tambura, karimba"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "SAMPLE",
+  "Synonyms": "\u00f6rnekler, ham \u00f6rnekler, tek \u00e7ekim"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "SALLAMALI PERK\u00dcSYON",
+  "Synonyms": "marakas, tef, \u00e7\u0131ng\u0131rak, ya\u011fmur \u00e7ubu\u011fu, \u015fekere, yumurta \u00e7alkalay\u0131c\u0131, chajchas, maymun \u00e7ubu\u011fu, katsa, sistrum, \u00e7alkalay\u0131c\u0131, cabasa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "\u015eARKI & M\u00dcZ\u0130KAL C\u00dcMLE",
+  "Synonyms": "m\u00fczik, \u00e7alar piyano, zil sesi, m\u00fczikli araba, ifade"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "KESK\u0130N \u00c7IKI\u015e & M\u00dcZ\u0130KAL \u0130\u011eNE",
+  "Synonyms": "m\u00fczik sting, haber sting, ba\u015fl\u0131k"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "YAYLI",
+  "Synonyms": "keman, viyolonsel, viyola, viyolonsel, bas, kontrbas"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "SENTEZLEME & SYNTH",
+  "Synonyms": "synth, moog, casio, roland, arp, synthesizer, oberheim, minimoog, yamaha, korg"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "OYUNCAK",
+  "Synonyms": "m\u00fczik kutusu, kutudaki jack"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "M\u00dcZ\u0130KAL",
+  "SubCategory": "TAHTA NEFESL\u0130",
+  "Synonyms": "fl\u00fct, piccolo, obua, fagot, recorder, klarnet, saksafon, bas klarnet, ney, bansuri, kaval, pan fl\u00fct, xiao, fife, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AFET",
+  "SubCategory": "\u00c7I\u011e",
+  "Synonyms": "toprak kaymas\u0131, \u00e7amur kaymas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AFET",
+  "SubCategory": "DEPREM",
+  "Synonyms": "deprem, g\u00fcmb\u00fcrt\u00fc, \u00e7\u0131ng\u0131rak, \u00e7atlak, lfe"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AFET",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AFET",
+  "SubCategory": "HORTUM",
+  "Synonyms": "kas\u0131rga, girdap, su hortumu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AFET",
+  "SubCategory": "TSUNAM\u0130",
+  "Synonyms": "gelgit dalgas\u0131, tsunami"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AFET",
+  "SubCategory": "TAYFUN",
+  "Synonyms": "tayfun, kas\u0131rga, siklon, tropikal f\u0131rt\u0131na"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "AFET",
+  "SubCategory": "YANARDA\u011e",
+  "Synonyms": "p\u00fcsk\u00fcrme, lav, lav bombalar\u0131, patlamalar, piroklast"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "\u00c7ANTA",
+  "Synonyms": "duffle, s\u0131rt \u00e7antas\u0131, s\u0131rt \u00e7antas\u0131, \u00e7anta, el \u00e7antas\u0131, omuz \u00e7antas\u0131, kamera \u00e7antas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "K\u0130TAP",
+  "Synonyms": "kitap, kapak, dergi, katalog, ders kitab\u0131, s\u00f6zl\u00fck, tome, cilt, incil, yay\u0131n"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "MADEN\u0130",
+  "Synonyms": "toss, flip, ping, dump, spin, piggy bank, clink, coinage, loose change, change, silver dollar, penny, nickel, dime, quarter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "KONTEYNER & KUTU & PAKET",
+  "Synonyms": "kutu, karton kutu, konteyner, paket, m\u00fccevher kutusu, plastik kap, kapak, tupperware, kaps\u00fcl, ekmek kutusu, teneke kutu, alet kutusu, hap kutusu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "BAH\u00c7E",
+  "Synonyms": "ayakkab\u0131, bot, rimel, ruj, makyaj malzemesi, kemer, ku\u015fak, atk\u0131, topuklu ayakkab\u0131, g\u00f6z kalemi, g\u00fcne\u015f g\u00f6zl\u00fc\u011f\u00fc, g\u00f6zl\u00fck, c\u00fczdan, \u015fapka, eldiven, saat, \u015fal, \u00e7orap, bandana, kafa band\u0131, kravat, man\u015fon, pantolon ask\u0131s\u0131, bornoz, mendil"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "SPOR SALONU",
+  "Synonyms": "chesterfield, kanepe, sallanan sandalye, masa, sandalye, loveseat, tabure, dolap, kitapl\u0131k, yatak, kanepe, sand\u0131k"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "MODA",
+  "Synonyms": "saks\u0131, bah\u00e7e heykeli, hortum, musluk, sulama kab\u0131, ku\u015f yemli\u011fi, g\u00fcbrelik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "MOB\u0130LYA",
+  "Synonyms": "a\u011f\u0131rl\u0131k, damb\u0131l, halter, mat, a\u011f\u0131rl\u0131k sehpas\u0131, atlama ipi, egzersiz topu, yoga mat\u0131, a\u011f\u0131rl\u0131k sehpas\u0131, diren\u00e7 band\u0131, kettlebell, fitness topu, egzersiz topu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "MESKEN",
+  "Synonyms": "ev i\u00e7i, ev, ev"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "TAKI",
+  "Synonyms": "bilezik, kolye, ta\u00e7, k\u00fcpe, y\u00fcz\u00fck, nosering, kolye ucu, kravat i\u011fnesi, kol d\u00fc\u011fmesi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "ANAHTAR",
+  "Synonyms": "anahtarl\u0131k, anahtarl\u0131k, kordon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "VAL\u0130Z",
+  "Synonyms": "bavul, bagaj, spor \u00e7antas\u0131, duffel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "TIBB\u0130",
+  "Synonyms": "manuel kan bas\u0131nc\u0131 \u00f6l\u00e7er, stetoskop, lastik eldiven, pens, \u015f\u0131r\u0131nga, forcep"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "OF\u0130S",
+  "Synonyms": "z\u0131mba, ka\u011f\u0131t kesici, delge\u00e7, makas, ka\u011f\u0131t tepsisi, ka\u011f\u0131t a\u011f\u0131rl\u0131\u011f\u0131, klas\u00f6r, ciltleyici, rapor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "PAKETLEME",
+  "Synonyms": "karton, strafor, ambalaj f\u0131st\u0131\u011f\u0131, etiket, ambalaj ka\u011f\u0131d\u0131, balonlu naylon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "BANT",
+  "Synonyms": "bant, c\u0131rt c\u0131rt, sinek ka\u011f\u0131d\u0131, yap\u0131\u015ft\u0131r\u0131c\u0131, ambalaj band\u0131, maskeleme band\u0131, koli band\u0131, gaffer bant, viski band\u0131, \u00e7ift yap\u0131\u015fkanl\u0131 bant"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "\u015eEMS\u0130YE",
+  "Synonyms": "salla, h\u0131\u015f\u0131rda, patla, g\u00fcmle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "TEKERL\u0130",
+  "Synonyms": "\u00e7ocuk arabas\u0131, perambulat\u00f6r, bebek arabas\u0131, tekerlekli sandalye, dolly, bebek arabas\u0131, el arabas\u0131, sedye"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "YAZI",
+  "Synonyms": "kalem, kur\u015fun kalem, ke\u00e7eli kalem, tebe\u015fir, pastel boya, kuru silinebilir tahta, sharpie, imza"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NESNE",
+  "SubCategory": "FERMUAR",
+  "Synonyms": "fermuar, pantolon, ceket, \u00e7ad\u0131r, \u00e7anta"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KA\u011eIT",
+  "SubCategory": "\u00c7IRPMA",
+  "Synonyms": "\u00e7\u0131rp\u0131nmak, kanat \u00e7\u0131rpmak, d\u00fc\u015fmek, konfeti, karton, ka\u011f\u0131t"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KA\u011eIT",
+  "SubCategory": "S\u00dcRT\u00dcNME",
+  "Synonyms": "kayma, kaz\u0131ma, karton, ka\u011f\u0131t"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KA\u011eIT",
+  "SubCategory": "KULLANMAK & TUTMAK",
+  "Synonyms": "\u00e7evirmek, sayfa, \u00e7evirmek, g\u00f6z atmak, incelemek, karton, ka\u011f\u0131t"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KA\u011eIT",
+  "SubCategory": "DARBE",
+  "Synonyms": "ka\u011f\u0131t vurmak, \u015faplak atmak, tokatlamak, gazete, dergi, karton, ka\u011f\u0131t"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KA\u011eIT",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KA\u011eIT",
+  "SubCategory": "YIRTMA",
+  "Synonyms": "y\u0131rtmak, koparmak, par\u00e7alamak, karton, ka\u011f\u0131t"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KA\u011eIT",
+  "SubCategory": "TONAL",
+  "Synonyms": "tonal, \u015fark\u0131, \u00e7\u0131nlama, ka\u011f\u0131t, karton"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST\u0130K",
+  "SubCategory": "KIRMA",
+  "Synonyms": "k\u0131r\u0131lmak, \u00e7atlamak, y\u0131rt\u0131lmak, par\u00e7alanmak, \u00e7at\u0131rdamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST\u0130K",
+  "SubCategory": "\u00c7\u00d6KME & MOLOZ",
+  "Synonyms": "d\u00fc\u015fme, \u00e7arpma, enkaz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST\u0130K",
+  "SubCategory": "S\u00dcRT\u00dcNME",
+  "Synonyms": "stres, s\u0131yr\u0131k, g\u0131c\u0131rt\u0131, g\u0131c\u0131rt\u0131, g\u0131c\u0131rt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST\u0130K",
+  "SubCategory": "KULLANMAK & TUTMAK",
+  "Synonyms": "tutmak, kapmak, ayarlamak, almak, indirmek, f\u0131rlatmak, yakalamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST\u0130K",
+  "SubCategory": "DARBE",
+  "Synonyms": "vurmak, d\u00fc\u015f\u00fcrmek, \u00e7arpmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST\u0130K",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST\u0130K",
+  "SubCategory": "HAREKET",
+  "Synonyms": "s\u00fcr\u00fcklemek, yuvarlamak, tak\u0131rdatmak, sallamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLAST\u0130K",
+  "SubCategory": "TONAL",
+  "Synonyms": "tonal, \u015fark\u0131 s\u00f6yleyen, \u00e7\u0131nlayan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "YA\u011eMUR",
+  "SubCategory": "KUMA\u015e",
+  "Synonyms": "ya\u011fmur, bez, ceket, \u015femsiye, pamuk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "YA\u011eMUR",
+  "SubCategory": "BETON",
+  "Synonyms": "ya\u011fmur, \u00e7imento, kald\u0131r\u0131m, asfalt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "YA\u011eMUR",
+  "SubCategory": "GENEL",
+  "Synonyms": "ya\u011fmur, f\u0131rt\u0131na, sa\u011fanak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "YA\u011eMUR",
+  "SubCategory": "CAM",
+  "Synonyms": "ya\u011fmur, cam, \u00e7at\u0131 penceresi, pencere, sunroof, sera"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "YA\u011eMUR",
+  "SubCategory": "\u0130\u00c7",
+  "Synonyms": "ya\u011fmur, ya\u011fmur f\u0131rt\u0131nas\u0131, i\u00e7 ya\u011fmur, \u00f6n cam ya\u011fmuru, \u00e7at\u0131da ya\u011fmur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "YA\u011eMUR",
+  "SubCategory": "METAL",
+  "Synonyms": "ya\u011fmur, metal, araba, kutu, teneke, \u00e7at\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "YA\u011eMUR",
+  "SubCategory": "PLAST\u0130K",
+  "Synonyms": "ya\u011fmur, plastik, vinil, pleksiglas"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "YA\u011eMUR",
+  "SubCategory": "B\u0130TK\u0130",
+  "Synonyms": "Metal bir y\u00fczey \u00fczerine ya\u011fan ya\u011fmur, yani bir araba veya metal levha \u00fczerine ya\u011fan ya\u011fmur vb."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "YA\u011eMUR",
+  "SubCategory": "SU",
+  "Synonyms": "ya\u011fmur, su birikintisi, g\u00f6l, g\u00f6let"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "YA\u011eMUR",
+  "SubCategory": "TAHTA",
+  "Synonyms": "ya\u011fmur, ah\u015fap, g\u00fcverte, \u00e7at\u0131, kul\u00fcbe, zemin"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ROBOT",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "otomat, droid, bot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ROBOT",
+  "SubCategory": "HAREKET",
+  "Synonyms": "servo, solenoid, mekanizma, pn\u00f6matik, hidrolik, droid, bot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ROBOT",
+  "SubCategory": "SESLEND\u0130RME",
+  "Synonyms": "droid, c\u0131v\u0131lt\u0131, bip, d\u00fcd\u00fck, bot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAYA",
+  "SubCategory": "KIRMA",
+  "Synonyms": "K\u0131r\u0131lmalar, \u00c7atlamalar, Y\u0131rt\u0131lmalar, Par\u00e7alanmalar, \u00c7\u0131t\u0131rdamalar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAYA",
+  "SubCategory": "\u00c7\u00d6KME & MOLOZ",
+  "Synonyms": "D\u00fc\u015fme, Enkaz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAYA",
+  "SubCategory": "S\u00dcRT\u00dcNME",
+  "Synonyms": "Stres, S\u0131yr\u0131klar, G\u0131c\u0131rt\u0131lar, G\u0131c\u0131rt\u0131lar, \u00c7\u0131\u011fl\u0131k"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAYA",
+  "SubCategory": "KULLANMAK & TUTMAK",
+  "Synonyms": "tutmak, kapmak, ayarlamak, almak, indirmek, f\u0131rlatmak, yakalamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAYA",
+  "SubCategory": "DARBE",
+  "Synonyms": "Vurmak, D\u00fc\u015f\u00fcrmek, \u00c7arpmak, \u00c7arpmak, \u00c7\u0131nlamak, \u00c7\u0131nlamak, Kesmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAYA",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAYA",
+  "SubCategory": "HAREKET",
+  "Synonyms": "S\u00fcr\u00fckle, Yuvarla, \u00c7\u0131ng\u0131rak, Salla"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAYA",
+  "SubCategory": "TONAL",
+  "Synonyms": "E\u011fik, Halka, Wronk, Shing, \u00c7\u00f6zg\u00fc"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HALAT & \u0130P",
+  "SubCategory": "GICIRTI",
+  "Synonyms": "germek, germek, \u00e7ekmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HALAT & \u0130P",
+  "SubCategory": "KULLANMAK & TUTMAK",
+  "Synonyms": "tutmak, kapmak, ayarlamak, almak, indirmek, f\u0131rlatmak, yakalamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HALAT & \u0130P",
+  "SubCategory": "DARBE",
+  "Synonyms": "vurmak, d\u00fc\u015f\u00fcrmek, \u00e7arpmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HALAT & \u0130P",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HALAT & \u0130P",
+  "SubCategory": "HAREKET",
+  "Synonyms": "zuzz, zipline, zip, knot, tie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAU\u00c7UK & LAST\u0130K",
+  "SubCategory": "\u00c7\u00d6KME & MOLOZ",
+  "Synonyms": "enkaz, da\u011f\u0131n\u0131kl\u0131k, plop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAU\u00c7UK & LAST\u0130K",
+  "SubCategory": "S\u00dcRT\u00dcNME",
+  "Synonyms": "g\u0131c\u0131rdamak, g\u0131c\u0131rdatmak, s\u00fcr\u00fcklemek, s\u00fcrtmek, kaz\u0131mak, inlemek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAU\u00c7UK & LAST\u0130K",
+  "SubCategory": "KULLANMAK",
+  "Synonyms": "tutmak, kapmak, ayarlamak, almak, indirmek, f\u0131rlatmak, yakalamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAU\u00c7UK & LAST\u0130K",
+  "SubCategory": "DARBE",
+  "Synonyms": "\u015faplak, \u00e7arpma, vurma, s\u0131\u00e7rama, d\u00fc\u015fme"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAU\u00c7UK & LAST\u0130K",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAU\u00c7UK & LAST\u0130K",
+  "SubCategory": "HAREKET",
+  "Synonyms": "hareket, s\u00fcr\u00fckleme, kanat \u00e7\u0131rpma, flop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAU\u00c7UK & LAST\u0130K",
+  "SubCategory": "TONAL",
+  "Synonyms": "tonal, kau\u00e7uk, \u015fark\u0131 s\u00f6yleme"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130L\u0130MKURGU",
+  "SubCategory": "ALARM",
+  "Synonyms": "bilim kurgu alarm\u0131, uyar\u0131, ikaz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130L\u0130MKURGU",
+  "SubCategory": "B\u0130LG\u0130SAYAR",
+  "Synonyms": "bilgisayar, konsol, aray\u00fcz, holoscreen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130L\u0130MKURGU",
+  "SubCategory": "KAPI",
+  "Synonyms": "bilimkurgu kap\u0131s\u0131, hava kilidi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130L\u0130MKURGU",
+  "SubCategory": "ENERJ\u0130",
+  "Synonyms": "par\u00e7ac\u0131k, girdap, ta\u015f\u0131y\u0131c\u0131, hologram, g\u00fc\u00e7 alan\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130L\u0130MKURGU",
+  "SubCategory": "DARBE",
+  "Synonyms": "enerji darbesi, enerji dalgas\u0131, g\u00fc\u00e7 alan\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130L\u0130MKURGU",
+  "SubCategory": "MAK\u0130NE",
+  "Synonyms": "\u0131\u015f\u0131nlay\u0131c\u0131, yiyecek \u00e7o\u011falt\u0131c\u0131lar, sanal g\u00fcverte"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130L\u0130MKURGU",
+  "SubCategory": "MEKAN\u0130ZMA",
+  "Synonyms": "tricorder, scifi cihaz\u0131, gizmo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130L\u0130MKURGU",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130L\u0130MKURGU",
+  "SubCategory": "ESK\u0130 & RETRO",
+  "Synonyms": "eski\u0307 bi\u0307li\u0307mkurgu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130L\u0130MKURGU",
+  "SubCategory": "UZAY GEM\u0130S\u0130",
+  "Synonyms": "uzay gemisi, ufo, ana gemi, sava\u015f kruvaz\u00f6r\u00fc, y\u0131ld\u0131z gemisi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130L\u0130MKURGU",
+  "SubCategory": "TA\u015eIT",
+  "Synonyms": "ay rover, landspeeder, speeder bike, hoverboard, podracer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130L\u0130MKURGU",
+  "SubCategory": "S\u0130LAH",
+  "Synonyms": "\u0131\u015f\u0131n k\u0131l\u0131\u00e7lar\u0131, egzotik silah"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAR",
+  "SubCategory": "\u00c7\u00d6KME & MOLOZ",
+  "Synonyms": "kartopu, kar kazas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAR",
+  "SubCategory": "S\u00dcRT\u00dcNME",
+  "Synonyms": "stres, s\u0131yr\u0131k, g\u0131c\u0131rt\u0131, g\u0131c\u0131rt\u0131, g\u0131c\u0131rt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAR",
+  "SubCategory": "KULLANMAK & TUTMAK",
+  "Synonyms": "tutmak, kapmak, ayarlamak, almak, indirmek, f\u0131rlatmak, yakalamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAR",
+  "SubCategory": "DARBE",
+  "Synonyms": "kartopu, kar s\u00fcr\u00fcklenmesi, devrilme, d\u00fc\u015fme"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAR",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAR",
+  "SubCategory": "HAREKET",
+  "Synonyms": "wade, drag, plow, fumble"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPOR",
+  "SubCategory": "KORT",
+  "Synonyms": "basketbol, tenis, eskrim, voleybol, raketbol, badminton, netbol, squash, yakartop, shuffleboard, hentbol"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPOR",
+  "SubCategory": "SAHA",
+  "Synonyms": "futbol, futbol, beyzbol, \u00e7im hokeyi, kriket, ragbi, polo, lakros"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPOR",
+  "SubCategory": "SPOR SALONU",
+  "Synonyms": "boks, g\u00fcre\u015f, jimnastik, a\u011f\u0131rl\u0131k \u00e7al\u0131\u015fmas\u0131, d\u00f6v\u00fc\u015f sanatlar\u0131, karate, judo, tae kwon do, dojo, kung fu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPOR",
+  "SubCategory": "KAPALI ALAN",
+  "Synonyms": "bowling, bilardo, ping pong, dart"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPOR",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "golf"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPOR",
+  "SubCategory": "KAYKAY",
+  "Synonyms": "kaykay, paten, paten, itmeli scooter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPOR",
+  "SubCategory": "KO\u015eU",
+  "Synonyms": "uzun atlama, ko\u015fu, s\u0131r\u0131kla atlama, g\u00fclle atma, cirit atma"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPOR",
+  "SubCategory": "SU",
+  "Synonyms": "y\u00fczme, su topu, su voleybolu, dal\u0131\u015f, su kaya\u011f\u0131, s\u00f6rf, kiteboard, scuba, \u015fnorkel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPOR",
+  "SubCategory": "KI\u015e",
+  "Synonyms": "kayak, snowboard, k\u0131zak, buz pateni, k\u0131zak, curling, buz hokeyi, luge, s\u00fcrat pateni"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SWOOSHES (GE\u00c7\u0130\u015e EFEKT\u0130, NATUREL)",
+  "SubCategory": "SWISH (K\u00dc\u00c7\u00dcK TINLAYAN NATUREL WHOOSH)",
+  "Synonyms": "swish, kungfu, whizby, flutter, swing"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SWOOSHES (GE\u00c7\u0130\u015e EFEKT\u0130, NATUREL)",
+  "SubCategory": "WHOOSH (B\u00dcY\u00dcK TINLAYAN NATUREL WHOOSH)",
+  "Synonyms": "woosh"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALET",
+  "SubCategory": "BAH\u00c7E",
+  "Synonyms": "t\u0131rm\u0131k, \u00e7apa, k\u00fcrek, mala, s\u00fcp\u00fcrge, budama makas\u0131, bah\u00e7e \u00e7atal\u0131, yeke, budama makas\u0131, k\u00fcrek, ot bi\u00e7me makinesi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALET",
+  "SubCategory": "EL ALET\u0130",
+  "Synonyms": "\u00e7eki\u00e7, tornavida, pense, \u0130ngiliz anahtar\u0131, c\u0131rc\u0131r, lokma, el testeresi, kelep\u00e7e, kesici, levye, keski, kaz\u0131y\u0131c\u0131, z\u0131mba tabancas\u0131, e\u011fe, makas"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALET",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALET",
+  "SubCategory": "BASIN\u00c7LI",
+  "Synonyms": "jackhammer, haval\u0131 alet, haval\u0131 c\u0131rc\u0131r, \u00e7ivi tabancalar\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALET",
+  "SubCategory": "MOTORLU",
+  "Synonyms": "matkap, elektrikli testere, daire testere, dekupaj testeresi, z\u0131mpara, bant z\u0131mpara, y\u00f6nlendirici, elektrikli tornavida, \u0131s\u0131 tabancas\u0131, matkap presi, masa testeresi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OYUNCAK",
+  "SubCategory": "ELEKTRON\u0130K",
+  "Synonyms": "uzaktan kumandal\u0131 araba, slot araba, konu\u015f ve b\u00fcy\u00fc, furby"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OYUNCAK",
+  "SubCategory": "MEKAN\u0130K",
+  "Synonyms": "kurmal\u0131 oyuncak, oyuncak robot, kurmal\u0131 oyuncak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OYUNCAK",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "aksiyon fig\u00fcr\u00fc, oyuncak bebek, doldurulmu\u015f hayvan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREN",
+  "SubCategory": "FREN",
+  "Synonyms": "k\u0131r\u0131lmalar, \u00e7\u0131\u011fl\u0131klar, eziyetler"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREN",
+  "SubCategory": "RAY TIKIRTISI",
+  "Synonyms": "clack"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREN",
+  "SubCategory": "KAPI",
+  "Synonyms": "tren kap\u0131s\u0131, metro kap\u0131s\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREN",
+  "SubCategory": "D\u0130ZEL",
+  "Synonyms": "D\u0130ZEL TREN"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREN",
+  "SubCategory": "ELEKTR\u0130KL\u0130",
+  "Synonyms": "banliy\u00f6 treni, b\u00f6lgesel tren, \u015fehir hatt\u0131, \u015fehirleraras\u0131 tren, hafif rayl\u0131 sistem"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREN",
+  "SubCategory": "Y\u00dcKSEK HIZ",
+  "Synonyms": "y\u00fcksek teknoloji treni, maglev, monoray, hyperloop, h\u0131zl\u0131 tren"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREN",
+  "SubCategory": "KORNA",
+  "Synonyms": "tren kornas\u0131, metro kornas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREN",
+  "SubCategory": "\u0130\u00c7",
+  "Synonyms": "banliy\u00f6 treni, b\u00f6lgesel tren, \u015fehir hatt\u0131, \u015fehirler aras\u0131 tren, hafif rayl\u0131 sistem, y\u00fck treni, metro, monoray"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREN",
+  "SubCategory": "MEKAN\u0130ZMA",
+  "Synonyms": "\u015f\u00f6nt, dekuple"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREN",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREN",
+  "SubCategory": "BUHARLI",
+  "Synonyms": "buharl\u0131 tren, k\u00f6m\u00fcr treni"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREN",
+  "SubCategory": "METRO",
+  "Synonyms": "metro, metro, the tube, rer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TREN",
+  "SubCategory": "TRAMVAY",
+  "Synonyms": "tramvay, tramvay, teleferik, f\u00fcnik\u00fcler, tutma arabas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARAY\u00dcZ",
+  "SubCategory": "UYARI",
+  "Synonyms": "uyar\u0131, ton, k\u0131sa mesaj, bildirim, ba\u015flang\u0131\u00e7"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARAY\u00dcZ",
+  "SubCategory": "B\u0130P",
+  "Synonyms": "bilgisayar bip sesi, telefon bip sesi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARAY\u00dcZ",
+  "SubCategory": "KL\u0130K",
+  "Synonyms": "t\u0131kla, dokun, yaz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARAY\u00dcZ",
+  "SubCategory": "VER\u0130",
+  "Synonyms": "veri, i\u015fleme, bilgi, d\u00fc\u015f\u00fcnme"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARAY\u00dcZ",
+  "SubCategory": "ARIZA",
+  "Synonyms": "aksakl\u0131k, ar\u0131za, ba\u015far\u0131s\u0131zl\u0131k, \u00e7ekirdek pani\u011fi, guru meditasyon hatas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARAY\u00dcZ",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARAY\u00dcZ",
+  "SubCategory": "HAREKET",
+  "Synonyms": "kayd\u0131rma, kayd\u0131rma, yak\u0131nla\u015ft\u0131rma, sayfa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130TK\u0130",
+  "SubCategory": "\u00c7\u0130MEN",
+  "Synonyms": "\u00e7imen h\u0131\u015f\u0131rt\u0131s\u0131, y\u00fcr\u00fcmek, saman, bu\u011fday"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130TK\u0130",
+  "SubCategory": "YAPRAK",
+  "Synonyms": "yaprak girdab\u0131, yaprak d\u00fc\u015fmesi, d\u00fc\u015fen yapraklar, yaprak y\u0131\u011f\u0131n\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130TK\u0130",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "ye\u015fillik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "B\u0130TK\u0130",
+  "SubCategory": "A\u011eA\u00c7",
+  "Synonyms": "a\u011fa\u00e7 d\u00fc\u015fmesi, dal k\u0131r\u0131lmas\u0131, dal k\u0131r\u0131lmas\u0131, dal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "ALARM",
+  "Synonyms": "araba, oto, otomobil, araba alarm\u0131, kurma sesi, devre d\u0131\u015f\u0131 b\u0131rakma sesi, fob"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "ANT\u0130KA",
+  "Synonyms": "araba, oto, otomobil, oldsmobile, model a, model t"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "ATV",
+  "Synonyms": "d\u00f6rt tekerlekli, \u00fc\u00e7 tekerlekli, d\u00f6rt tekerlekli, d\u00f6rt tekerlekli bisiklet, kumul arabas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "B\u0130S\u0130KLET",
+  "Synonyms": "bisiklet, bisiklet, recumbent, tek tekerlekli bisiklet, tandem, bmx"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "FREN",
+  "Synonyms": "fren g\u0131c\u0131rt\u0131s\u0131, g\u0131c\u0131rt\u0131, eziyet"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "OTOB\u00dcS",
+  "Synonyms": "\u015fehir i\u00e7i otob\u00fcs, okul otob\u00fcs\u00fc, greyhound otob\u00fcs, otob\u00fcs otob\u00fcs\u00fc, tur otob\u00fcs\u00fc, \u00e7ift katl\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "ARABA",
+  "Synonyms": "araba, oto, otomobil"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "\u0130N\u015eAAT",
+  "Synonyms": "vin\u00e7, buldozer, beko, ekskavat\u00f6r, kaz\u0131c\u0131, forklift"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "KAPI",
+  "Synonyms": "araba, oto, otomobil, araba kap\u0131s\u0131, kamyonet kap\u0131s\u0131, kamyon kap\u0131s\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "ELEKTR\u0130KL\u0130",
+  "Synonyms": "segway, golf arabas\u0131, elektrikli scooter, elektrikli araba, elektrikli motosiklet, tesla, elektrikli gokart"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "AC\u0130L",
+  "Synonyms": "itfaiye arac\u0131, itfaiye arac\u0131, ambulans, polis arabas\u0131, SWAT minib\u00fcs\u00fc"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "TARIM",
+  "Synonyms": "trakt\u00f6r, bi\u00e7erd\u00f6ver, hasat makinesi, bi\u00e7erd\u00f6ver"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "KAMYON & TIR",
+  "Synonyms": "b\u00fcy\u00fck kamyonlar, kamyon, yar\u0131 kamyon, u-haul kamyonu, penske, kapal\u0131 kasa kamyon, y\u00fck kamyonu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "GE\u00c7\u0130P G\u0130TME",
+  "Synonyms": "araba, oto, otomobil, ge\u00e7mek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "KORNA",
+  "Synonyms": "araba, oto, otomobil, araba kornas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "\u0130\u00c7",
+  "Synonyms": "araba, kamyon, minib\u00fcs, i\u00e7, s\u00fcr\u00fc\u015f, yerle\u015fik, otob\u00fcs"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "K\u00dcL\u00dcST\u00dcR",
+  "Synonyms": "car, auto, automobile, hoopty, clunker, junker, yanl\u0131\u015f \u00e7al\u0131\u015ft\u0131rma, tekleme, ar\u0131zal\u0131, tekleme, geri tepme"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "MEKAN\u0130ZMA",
+  "Synonyms": "pencere kolu, torpido g\u00f6z\u00fc, \u00f6n cam, silecek, bagaj, emniyet kemeri, emniyet kemeri, sinyal, vites"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "ASKER\u0130",
+  "Synonyms": "tank, APC, z\u0131rhl\u0131 personel ta\u015f\u0131y\u0131c\u0131, humvee, jeep"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "kar arabas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "MOTOS\u0130KLET",
+  "Synonyms": "scooter, motosiklet, motorsiklet, vespa, motokros, arazi motosikleti"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "YARI\u015e",
+  "Synonyms": "araba, araba, otomobil, yar\u0131\u015f arabas\u0131, drag yar\u0131\u015f arabas\u0131, indy, formula 1, nascar, grand prix, canavar kamyon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "S\u0130REN",
+  "Synonyms": "ambulans, polis, siren, itfaiye arac\u0131, itfaiyeci"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "KAYDIRMA & PAT\u0130NAJ",
+  "Synonyms": "lastik patinaj\u0131, soyulma, \u00e7uf, yanma"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "S\u00dcSPANS\u0130YON",
+  "Synonyms": "s\u00fcspansiyon, amortis\u00f6r yaylar\u0131, g\u0131c\u0131rt\u0131, t\u0131k\u0131rt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "TEKERLEK",
+  "Synonyms": "lastik, lastik, rulo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "KAMYONET & ARAZ\u0130 & P\u0130KAP",
+  "Synonyms": "araba, oto, otomobil, yolcu kamyonu, kamyonet, minib\u00fcs, suv, a\u00e7\u0131k kasa, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "H\u0130ZMET & YARDIMCI",
+  "Synonyms": "utv, sxs, yan yana, rzr, ranger, cushman, gator"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "VAGON",
+  "Synonyms": "vagon, posta arabas\u0131, at arabas\u0131, at arabas\u0131, tahta araba"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TA\u015eIT",
+  "SubCategory": "PENCERE",
+  "Synonyms": "araba, oto, otomobil, otomatik pencere, elektrikli pencere"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "UZAYLI",
+  "Synonyms": "uzayl\u0131 dili, chewbacca"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "BEBEK",
+  "Synonyms": "coo, babble, fuss, snuffle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "TEZAH\u00dcRAT",
+  "Synonyms": "alk\u0131\u015f, yuh, tezah\u00fcrat, yay, ba\u011f\u0131rmak, woohoo, holler"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "\u00c7OCUK",
+  "Synonyms": "\u00e7ocuk, gen\u00e7, ara"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "A\u011eLAMA",
+  "Synonyms": "a\u011flamak, somurtmak, h\u0131\u00e7k\u0131rmak, s\u0131zlanmak, feryat etmek, yaygara koparmak, yaralanmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "\u00c7ABA",
+  "Synonyms": "\u00e7aba, homurdanma, m\u00fccadele, zorlanma, sarf etme"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "KADIN",
+  "Synonyms": "kad\u0131n, kad\u0131n"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "HOPARL\u00d6R",
+  "Synonyms": "konu\u015fmac\u0131, halka seslenme, duyuru"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "TAR\u0130H\u0130",
+  "Synonyms": "konu\u015fma, konferans, yay\u0131n, haber, tarihi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "G\u00dcLME",
+  "Synonyms": "k\u0131k\u0131rdamak, k\u0131k\u0131rdamak, g\u00fclmek, hoot, holler, manyak\u00e7a, histerik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "ERKEK",
+  "Synonyms": "erkek, adam"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "TEPK\u0130",
+  "Synonyms": "oh, ooh, ooo, ah, ahh, ahhh, er, em, hmm, hm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "\u00c7I\u011eLIK",
+  "Synonyms": "ba\u011f\u0131rmak, ba\u011f\u0131rmak, \u00e7\u0131\u011fl\u0131k atmak, \u00f6l\u00fcm, d\u00fc\u015fmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "\u015eARKI S\u00d6YLEME",
+  "Synonyms": "\u015fark\u0131 s\u00f6ylemek, m\u0131r\u0131ldanmak, ditty"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KONU\u015eMA",
+  "SubCategory": "FISILDAMA",
+  "Synonyms": "f\u0131s\u0131lt\u0131, m\u0131r\u0131lt\u0131, sus"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "BALONCUK",
+  "Synonyms": "kabarc\u0131k, kaynamak, kaynatmak, blub, glub, kazan, iksir"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "G\u0130DER",
+  "Synonyms": "tahliye, gurgle, burble, kanalizasyon, du\u015f, lavabo, f\u0131rt\u0131na gideri"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "DAMLAMA",
+  "Synonyms": "damla, plip, plop, trickle, leak, cave"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "K\u00d6P\u00dcRME",
+  "Synonyms": "fizz, sizzle, seltzer, k\u00f6p\u00fck, t\u0131slama"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "AKI\u015e",
+  "Synonyms": "nehir, dere, ak\u0131nt\u0131, su yolu, kol, dere, ak\u0131nt\u0131, rivulet, kaynak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "MEMBA & \u00c7E\u015eME",
+  "Synonyms": "f\u0131skiye, sprey, damlama, t\u0131slama"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "DARBE",
+  "Synonyms": "s\u0131\u00e7rama, g\u00f6bek atma, g\u00fclle, derinlik sald\u0131r\u0131s\u0131, sploosh"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "K\u00dc\u00c7\u00dcK DALGA",
+  "Synonyms": "dalgalanma, kucak, g\u00f6vde, tokat, slosh"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "HAREKET",
+  "Synonyms": "slosh, wade, splash, sweep, tread"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "TES\u0130SAT",
+  "Synonyms": "tuvalet sifonu, lavabo, du\u015f,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "D\u00d6K\u00dcLME",
+  "Synonyms": "d\u00f6kmek, doldurmak, bo\u015faltmak, bo\u015faltmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "SI\u00c7RATMA",
+  "Synonyms": "s\u0131\u00e7ramak, y\u00fczmek, y\u00fcr\u00fcmek, dalmak, dalmak, batmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "FI\u015eKIRTMA",
+  "Synonyms": "sprey, spritz, f\u0131\u015fk\u0131rtma, f\u0131\u015fk\u0131rma, serpme"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "BUHAR",
+  "Synonyms": "spritz, sis, buhar, \u0131slak t\u0131slama, sputter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "K\u00d6P\u00dcKL\u00dc DALGA",
+  "Synonyms": "k\u0131y\u0131 \u015feridi, sahil \u015feridi, deniz k\u0131y\u0131s\u0131, plaj, y\u0131kama"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "\u00c7ALKANTI & T\u00dcRB\u00dcLANS",
+  "Synonyms": "girdap, dalga havuzu, ak\u0131nt\u0131, girdap, girdap"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "SUALTI",
+  "Synonyms": "su alt\u0131, ak\u0131\u015f, t\u00fcrb\u00fclansl\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "\u015eELALE",
+  "Synonyms": "\u015felale, \u00e7a\u011flayan, baraj, sel, niagara"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SU",
+  "SubCategory": "DALGA",
+  "Synonyms": "dalga, dalgak\u0131ran, gelgit, deniz k\u0131y\u0131s\u0131, iskele, al\u0131\u015ft\u0131rma"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "S\u0130LAH",
+  "SubCategory": "ZIRH",
+  "Synonyms": "z\u0131rh, zincir z\u0131rh, mi\u011ffer, pullu z\u0131rh, g\u00f6\u011f\u00fcs z\u0131rh\u0131, cuirass, domaru, atel, haramaki, kalkan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "S\u0130LAH",
+  "SubCategory": "OK",
+  "Synonyms": "ok, s\u00fcrg\u00fc, fletch, sadak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "S\u0130LAH",
+  "SubCategory": "BALTA",
+  "Synonyms": "balta, balta, pirzola, f\u0131rlatma baltas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "S\u0130LAH",
+  "SubCategory": "K\u00dcNT",
+  "Synonyms": "sopa, topuz, top ve zincir, m\u0131n\u00e7\u0131ka, sava\u015f \u00e7ekici, sava\u015f \u00e7ekici, \u00e7\u0131ta, mu\u015fta, flail, tonfa, cop, cudgel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "S\u0130LAH",
+  "SubCategory": "YAYLI",
+  "Synonyms": "uzun yay, bile\u015fik kutu, tatar yay\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "S\u0130LAH",
+  "SubCategory": "BI\u00c7AK",
+  "Synonyms": "sustal\u0131 b\u0131\u00e7ak, kriko b\u0131\u00e7a\u011f\u0131, kelebek b\u0131\u00e7ak, av b\u0131\u00e7a\u011f\u0131, maket b\u0131\u00e7a\u011f\u0131, sat\u0131r, kasap b\u0131\u00e7a\u011f\u0131, hendek b\u0131\u00e7a\u011f\u0131, \u015fef b\u0131\u00e7a\u011f\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "S\u0130LAH",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "Sapan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "S\u0130LAH",
+  "SubCategory": "MIZRAK",
+  "Synonyms": "m\u0131zrak, karg\u0131, z\u0131pk\u0131n, karg\u0131, cirit, s\u0131r\u0131kl\u0131 balta, pollaxe"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "S\u0130LAH",
+  "SubCategory": "KU\u015eATMA",
+  "Synonyms": "manc\u0131n\u0131k, trebuchet, ko\u00e7ba\u015f\u0131, balista, ku\u015fatma kulesi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "S\u0130LAH",
+  "SubCategory": "KILI\u00c7",
+  "Synonyms": "falchion, pala, geni\u015f k\u0131l\u0131\u00e7, rapier, uzun k\u0131l\u0131\u00e7, samuray, cutlass, eskrim k\u0131l\u0131c\u0131, kattana, pala, k\u0131l\u0131\u00e7, viking k\u0131l\u0131c\u0131, folyo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "S\u0130LAH",
+  "SubCategory": "KIRBA\u00c7",
+  "Synonyms": "kam\u00e7\u0131, at k\u0131rbac\u0131, k\u0131rba\u00e7, k\u0131rba\u00e7 \u015faklamas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAVA DURUMU",
+  "SubCategory": "DOLU",
+  "Synonyms": "dolu, buz, karla kar\u0131\u015f\u0131k ya\u011fmur"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAVA DURUMU",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAVA DURUMU",
+  "SubCategory": "FIRTINA (KOMPOZ\u0130T KAYITLAR)",
+  "Synonyms": "kas\u0131rga, f\u0131rt\u0131na, tayfun, karla kar\u0131\u015f\u0131k ya\u011fmur, kum f\u0131rt\u0131nas\u0131, hortum, siklon, dolu f\u0131rt\u0131nas\u0131,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "HAVA DURUMU",
+  "SubCategory": "YILDIRIM",
+  "Synonyms": "f\u0131rt\u0131na, \u015fim\u015fek, g\u00f6k g\u00fcr\u00fclt\u00fcs\u00fc, \u015fim\u015fek \u00e7akmas\u0131, y\u0131ld\u0131r\u0131m, g\u00f6k g\u00fcr\u00fclt\u00fcs\u00fc, \u00e7atlama, yuvarlanma, g\u00fcmb\u00fcrt\u00fc"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ISLIK",
+  "SubCategory": "\u0130NSAN",
+  "Synonyms": "d\u00fcd\u00fck, tezah\u00fcrat, insan, kurt d\u00fcd\u00fc\u011f\u00fc, i\u015faret"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ISLIK",
+  "SubCategory": "MEKAN\u0130K",
+  "Synonyms": "vapur, hakem, toot, polis d\u00fcd\u00fc\u011f\u00fc, \u00e7aydanl\u0131k, tren d\u00fcd\u00fc\u011f\u00fc"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ISLIK",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "ref, burun fl\u00fct\u00fc"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00dcZGAR",
+  "SubCategory": "TASARIM",
+  "Synonyms": "r\u00fczgar makinesi, sentetik, yapay, tonal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00dcZGAR",
+  "SubCategory": "GENEL",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00dcZGAR",
+  "SubCategory": "BORA",
+  "Synonyms": "bora, bora, esinti, esinti, b\u00fcfe, waft, gale, flurry"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00dcZGAR",
+  "SubCategory": "\u0130\u00c7 MEKAN",
+  "Synonyms": "i\u00e7 mekan, panjur, \u00e7\u0131ng\u0131rak, inilti, cereyan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00dcZGAR",
+  "SubCategory": "TONAL",
+  "Synonyms": "uluma, \u0131sl\u0131k, inilti, tonal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00dcZGAR",
+  "SubCategory": "\u00c7ALKANTI & T\u00dcRB\u00dcLANS",
+  "Synonyms": "b\u00fcfe, t\u00fcrb\u00fclansl\u0131 r\u00fczgar, kuvvetli r\u00fczgar, \u015fiddetli r\u00fczgar, b\u00fcfe"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "R\u00dcZGAR",
+  "SubCategory": "B\u0130TK\u0130",
+  "Synonyms": "ye\u015fillik, bitki \u00f6rt\u00fcs\u00fc, \u00e7imen, a\u011fa\u00e7, yaprak, bitki, h\u0131\u015f\u0131rt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PENCERE",
+  "SubCategory": "\u00d6RT\u00dc",
+  "Synonyms": "perde, jaluzi, panjur, karartma, g\u00f6lgelik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PENCERE",
+  "SubCategory": "DONANIM",
+  "Synonyms": "pencere mandal\u0131, pencere kranklar\u0131, pencere kilidi, pencere contas\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PENCERE",
+  "SubCategory": "TIKLAMA",
+  "Synonyms": "tak, b\u00f6lme, \u00e7\u0131ng\u0131rak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PENCERE",
+  "SubCategory": "METAL",
+  "Synonyms": "metal \u00e7er\u00e7eve"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PENCERE",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PENCERE",
+  "SubCategory": "PLAST\u0130K",
+  "Synonyms": "plastik \u00e7er\u00e7eve"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PENCERE",
+  "SubCategory": "TAHTA",
+  "Synonyms": "ah\u015fap \u00e7er\u00e7eve"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KANAT",
+  "SubCategory": "KU\u015e",
+  "Synonyms": "ku\u015f kanad\u0131, kanat \u00e7\u0131rpmak, \u00e7\u0131rp\u0131nmak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KANAT",
+  "SubCategory": "VARLIK",
+  "Synonyms": "ejderha kanad\u0131, peri kanad\u0131, griffin kanad\u0131, sfenks kanad\u0131, melek kanad\u0131, anka ku\u015fu kanad\u0131, dev ku\u015f kanad\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KANAT",
+  "SubCategory": "B\u00d6CEK",
+  "Synonyms": "sinek, ar\u0131, yusuf\u00e7uk, g\u00fcve, kelebek, b\u00f6cek, bokb\u00f6ce\u011fi, e\u015fek ar\u0131s\u0131, yaban ar\u0131s\u0131, \u00e7ekirge"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KANAT",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TAHTA",
+  "SubCategory": "KIRMA",
+  "Synonyms": "k\u0131r\u0131l\u0131r, \u00e7atlar, y\u0131rt\u0131l\u0131r, par\u00e7alan\u0131r, \u00e7at\u0131rdar, k\u0131ym\u0131klan\u0131r"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TAHTA",
+  "SubCategory": "\u00c7\u00d6KME & MOLOZ",
+  "Synonyms": "d\u00fc\u015fmek, enkaz, kaza, d\u00fc\u015ft\u00fc, kereste"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TAHTA",
+  "SubCategory": "S\u00dcRT\u00dcNME",
+  "Synonyms": "stres, s\u0131yr\u0131klar, g\u0131c\u0131rt\u0131lar, g\u0131c\u0131rt\u0131lar, g\u0131c\u0131rt\u0131"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TAHTA",
+  "SubCategory": "KULLANMAK",
+  "Synonyms": "tutmak, kapmak, ayarlamak, almak, indirmek, f\u0131rlatmak, yakalamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TAHTA",
+  "SubCategory": "DARBE",
+  "Synonyms": "vurmak, d\u00fc\u015f\u00fcrmek, \u00e7arpmak, \u00e7arp\u0131\u015fmak, tak\u0131rdamak, \u00e7\u0131nlamak, \u00e7\u0131nlamak, kesmek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TAHTA",
+  "SubCategory": "D\u0130\u011eER",
+  "Synonyms": "\u00c7E\u015e\u0130TL\u0130"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TAHTA",
+  "SubCategory": "HAREKET",
+  "Synonyms": "s\u00fcr\u00fcklemek, yuvarlamak, tak\u0131rdatmak, sallamak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TAHTA",
+  "SubCategory": "TONAL",
+  "Synonyms": "e\u011filmi\u015f, halka, wronk, shing, \u00e7\u00f6zg\u00fc"
+ }
+]

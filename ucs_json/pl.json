@@ -1,0 +1,4514 @@
+[
+ {
+  "version": "8.2.1",
+  "Category": "POWIETRZE",
+  "SubCategory": "WYBUCH",
+  "Synonyms": "podmuch powietrza, puff, chuff, spurt, wybuch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POWIETRZE",
+  "SubCategory": "SYK",
+  "Synonyms": "wypuszczanie powietrza, wydech, wydalanie, wyciek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POWIETRZE",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POWIETRZE",
+  "SubCategory": "SSANIE",
+  "Synonyms": "pr\u00f3\u017cnia, ssa\u0107, zasysa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LOTNICTWO",
+  "SubCategory": "DRZWI",
+  "Synonyms": "drzwi kokpitu, drzwi samolotu, w\u0142az, wyj\u015bcie awaryjne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LOTNICTWO",
+  "SubCategory": "HELIKOPTER",
+  "Synonyms": "gyrocopter, whirlybird, chopper, ghetto bird, bellcopter, police chopper, huey, chopper, blackhawk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LOTNICTWO",
+  "SubCategory": "WN\u0118TRZE",
+  "Synonyms": "jet, airplane, aircraft, passenger jet, glider, zeppelin, airliner, jetliner, jumbo jet, learjet, airbus, boeing, bombardier, 737, 747, 777, A310, DC-10, A310, A330, A350, A380, fighter jet"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LOTNICTWO",
+  "SubCategory": "SAMOLOT ODRZUTOWY",
+  "Synonyms": "samolot pasa\u017cerski, jetliner, jumbo jet, learjet, airbus, boeing, bombardier, 737, 747, 777, A310, DC-10, A310, A330, A350, A380"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LOTNICTWO",
+  "SubCategory": "MECHANIZM",
+  "Synonyms": "podwozie, d\u017awignia kokpitu, ster, klapa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LOTNICTWO",
+  "SubCategory": "WOJSKOWE",
+  "Synonyms": "odrzutowiec, bombowiec, bombowiec stealth, blue angels, thunderbirds, lockheed, mig, F18, F16, F35, F22, A10, P52"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LOTNICTWO",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "sterowiec, szybowiec, balon na gor\u0105ce powietrze, ultralekki, lotnia, zeppelin, sterowiec"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LOTNICTWO",
+  "SubCategory": "SAMOLOT \u015aMIG\u0141OWY",
+  "Synonyms": "dwup\u0142atowiec, tr\u00f3jp\u0142atowiec, samolot turbo\u015bmig\u0142owy, samolot akrobacyjny, crop duster, piper cub, \u015bmig\u0142o, dwup\u0142atowiec, \u015bmig\u0142o odrzutowe, \u015bmig\u0142o doczepne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LOTNICTWO",
+  "SubCategory": "ZDALNIE STEROWANY",
+  "Synonyms": "quadcoptery, uav, unmanned aerial vehicle, rc jet, rc helicopter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LOTNICTWO",
+  "SubCategory": "RAKIETA",
+  "Synonyms": "rakieta, pocisk, jetpack, prom kosmiczny, spacex, nasa, icbm, rakieta j\u0105drowa, g\u0142owica bojowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "DZWONEK",
+  "Synonyms": "dzwonek po\u017carowy, dzwonek szkolny, dzwonek na przejazd kolejowy, dzwonek alarmowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "BZYCZEK",
+  "Synonyms": "brz\u0119czyk do drzwi, brz\u0119czyk do gier, brz\u0119czyk do drzwi wej\u015bciowych, brz\u0119czyk do wej\u015bcia, brz\u0119czyk do domofonu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "ZEGAR",
+  "Synonyms": "budzik cyfrowy, budzik, budzik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "ELEKRONICZNY",
+  "Synonyms": "czujnik po\u017carowy, czujnik dymu, czujnik CO2, alarm samochodowy, alarm domowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ALARM",
+  "SubCategory": "SYRENA",
+  "Synonyms": "klakson, klakson ahooga, syrena przeciwlotnicza, syrena tornado"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "POWIETRZE",
+  "Synonyms": "pustynia, zima, spokojne powietrze, nocne powietrze, g\u00f3rskie powietrze, nocne powietrze"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "WYSOKOG\u00d3RSKA",
+  "Synonyms": "alpy, g\u00f3ry, rockies, tetony, alpinizm, g\u00f3rskie, o\u015bnie\u017cone, zbocze, szczyt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "WESO\u0141E MIASTECZKO",
+  "Synonyms": "disneyland, six-flags, park tematyczny, park rozrywki, karnawa\u0142, jarmark, jarmark okr\u0119gowy, midway, jarmark objazdowy, festiwal, nawiedzony dom, dom uciech, arkada, pinball"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "\u015aPIEW PTAK\u00d3W",
+  "Synonyms": "ch\u00f3r \u015bwitu, ch\u00f3r poranny, \u0142adny ptak, stada, \u0107wierkanie, tweetowanie, podgl\u0105danie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "UROCZYSTO\u015a\u0106",
+  "Synonyms": "zgromadzenie publiczne, impreza, przyj\u0119cie, gala, karnawa\u0142, festyn, fiesta, festiwal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "BUDOWA",
+  "Synonyms": "budowa drogi, budowa, stolarka, remodel, reno domu, naprawa drogi, przebudowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "PUSTYNIA",
+  "Synonyms": "pustynia, tumbleweed, oaza, barren, wasteland, sahara, arid, sand dunes, desolate"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "DESIGNED",
+  "Synonyms": "sztuczny, zaprojektowany"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "S\u0141U\u017bBY RATOWNICZE",
+  "Synonyms": "miejsce zbrodni, stra\u017c po\u017carna, policja, medycyna, dowody, kl\u0119ska \u017cywio\u0142owa, strzelanina, wypadek, katastrofa, obra\u017cenia, sterta ofiar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "FANTASTYKA",
+  "Synonyms": "wr\u00f3\u017cka, fantasy, magiczny, kr\u00f3lestwo, sen, middle earth, pandora"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "GOSPODARSTWO ROLNE",
+  "Synonyms": "farma, \u017cniwa, orka, ranczo, zagroda, folwark, plantacja, pole uprawne, zagroda, stodo\u0142a, pastwisko, mleczarnia, winnica, corral, pastwisko"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "LAS",
+  "Synonyms": "las, lasy, tereny le\u015bne, las borealny, las deszczowy, umiarkowany las deszczowy, las chmurowy, li\u015bciasty, iglasty"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "\u0141\u0104KA",
+  "Synonyms": "preria, ziemia uprawna, trawa, \u0142\u0105ka, wypas, pastwisko, r\u00f3wnina"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "HISTORYCZNA",
+  "Synonyms": "miasto duch\u00f3w, stary zach\u00f3d, gor\u0105czka z\u0142ota, staro\u017cytny Rzym, staro\u017cytna Grecja"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "HITECH",
+  "Synonyms": "laboratorium, maszynownia, serwer, centrum danych, sterownia"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "SZPITAL",
+  "Synonyms": "pogotowie, gabinet, poczekalnia, izba chorych, klinika, sanatorium, przychodnia"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "PRZEMYS\u0141",
+  "Synonyms": "fabryka, wytw\u00f3rnia, zak\u0142ad, m\u0142yn, magazyn, warsztat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "INSEKT",
+  "Synonyms": "\u015bwierszcze, cykady, kataryniarze, \u015bwistaki, szara\u0144cza"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "NAD JEZIOREM",
+  "Synonyms": "jeziora, brzegi jeziora, docieranie, p\u0142ywanie, zbiornik, staw, loch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "TARG",
+  "Synonyms": "rynek, targowisko, sprzedawca, dzielnica handlowa, bazar, kantor, gie\u0142da, pchli targ, plac"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "\u017bEGLUGA",
+  "Synonyms": "nautyczny, stocznia, poopdek, rufa, dzi\u00f3b, rufa, morski, pe\u0142nomorski, oceaniczny, morski, morski, marina"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "BIURO",
+  "Synonyms": "biuro, boks, miejsce pracy, dzia\u0142, stacja, oddzia\u0142, stanowisko pracy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "PARK",
+  "Synonyms": "park, plac zabaw, ogr\u00f3d, ogr\u00f3d botaniczny, park miejski, park podmiejski, ballpark, parkland"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "WI\u0118ZIENIE",
+  "Synonyms": "wi\u0119zienie, areszt, wi\u0119zienny dziedziniec, zak\u0142ad karny, slammer, areszt \u015bledczy, izolatka, zak\u0142ad karny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "MANIFESTACJA",
+  "Synonyms": "protest, wiec, wiece, zamieszki, skandowanie, wrzask, krzyk, w\u015bciek\u0142y t\u0142um, marsze, demonstracja, zamieszanie, bunt, rewolucja, gniew"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "MIEJSCE PUBLICZNE",
+  "Synonyms": "sklepy, hole, hotele, centra handlowe, muzea, place publiczne, dziedzi\u0144ce, si\u0142ownie, fitness center, motel, biblioteka, gmach s\u0105du, s\u0105d"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "RELIGIJNA",
+  "Synonyms": "ko\u015bci\u00f3\u0142, \u015bwi\u0105tynia, meczet, kaplica, derasar, katedra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "MIESZKANIE",
+  "Synonyms": "dom, mieszkanie, condo, rezydencja, dom, kamienica, domek, dom, rezydencja"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "RESTAURACJA",
+  "Synonyms": "restauracja, bar, pub, gastropub, foodcart, jad\u0142odajnia, kawiarnia, sto\u0142\u00f3wka, herbaciarnia, salon, kawiarnia, pizzeria, fast-food, winiarnia, automat, komisariat, tawerna, klub nocny, delikatesy, jad\u0142odajnia, brasserie, drive-in"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "CISZA POMIESZCZENIA",
+  "Synonyms": "tonacja pomieszczenia, martwe powietrze, ciche powietrze"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "WIE\u015a",
+  "Synonyms": "wie\u015b, r\u00f3wnina, preria, pastwisko, g\u00f3ra, wzg\u00f3rze, sawanna, tundra, \u0142\u0105ka, kanion, w\u0105w\u00f3z, zaro\u015bla, p\u0142askowy\u017c"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "SZKO\u0141A",
+  "Synonyms": "szko\u0142a podstawowa, gimnazjum, liceum, college, przedszkole, uniwersytet, klasa, zgromadzenie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "SCIFI",
+  "Synonyms": "statek kosmiczny, centrum techniczne, centrum dowodzenia, scifi, futurystyczny, high-tech, hi-tec"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "MORSKA",
+  "Synonyms": "pla\u017ca, brzeg morza, pasmo, wybrze\u017ce, linia brzegowa, seashore, seaboard, boardwalk, beach resort, beachfront, embankment, dock, pier, harbour, harbor"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "SPORT",
+  "Synonyms": "nfl, pi\u0142ka no\u017cna, nba, koszyk\u00f3wka, mlb, baseball, tenis, wydarzenie sportowe, ma\u0142a liga, trening"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "PODMIEJSKA",
+  "Synonyms": "przedmie\u015bcie, osiedle, dzielnica, cul-de-sac, wie\u015b, barrio, przedmie\u015bcia, przysi\u00f3\u0142ek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "BAGNO",
+  "Synonyms": "\u017caba, bagno, bagno, everglade, teren podmok\u0142y, teren \u0142\u0119gowy, pojezierze, jezioro, namorzyny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "MIASTECZKO",
+  "Synonyms": "miasto, wie\u015b, przysi\u00f3\u0142ek, ma\u0142e miasto, spo\u0142eczno\u015b\u0107, osada"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "RUCH ULICZNY",
+  "Synonyms": "autostrada, autostrada, autostrada, bulwar, aleja, autostrada"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "TRANSPORT PUBLICZNY",
+  "Synonyms": "dworzec kolejowy, lotnisko, dworzec autobusowy, stacja metra, stacja metra, terminal, zajezdnia, terminus"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "TROPIKALNA",
+  "Synonyms": "d\u017cungla, busz, las tropikalny, las chmurowy, tropikalny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "TUNDRA",
+  "Synonyms": "arktyczny, antarktyczny, p\u0142askowy\u017c, biegun p\u00f3\u0142nocny, biegun po\u0142udniowy, polarny, lodowiec, \u015bnieg, l\u00f3d"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "PODZIEMIA",
+  "Synonyms": "cave, drip, echo, sewer, bunker, tunnel, dungeon, lava tube, cellar, subterranean, sunken, buried, belowground, basement, shaft, mine, passage, passageway"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "PODWODNA",
+  "Synonyms": "podwodny, rafa, koralowiec, r\u00f3w oceaniczny, zanurzony, podmorski, podwodny, wrak statku"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "MIEJSKA",
+  "Synonyms": "metropolia, g\u0119ste miasto, miasto, downtown, inner city, metropolitan, bustling, rush hour, congestion, city center, slum, skid row, ghetto, financial district"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ATMOSFERA",
+  "SubCategory": "WOJENNA",
+  "Synonyms": "wojna, dzia\u0142ania wojenne, bitwa, potyczka, walka, zaanga\u017cowanie, szturm, ofensywa, blitz, nalot, nalot, bombardowanie, zapora, fusylada, blitzkrieg, salwa, flak, broadside, kanonada"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZWIERZ\u0118TA",
+  "SubCategory": "P\u0141AZ",
+  "Synonyms": "\u017caba, ropucha, \u017caba trawna, salamandra, traszka, \u017caba trawna, \u017caba skrzecz\u0105ca, aksolotl"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZWIERZ\u0118TA",
+  "SubCategory": "WODNE",
+  "Synonyms": "wieloryb, delfin, mor\u015bwin, lew morski, foka, wieloryb zab\u00f3jca, orka, manat, mors, foka s\u0142oniowa, wydra morska, beluga, narwal, diugonia, rekin, p\u0142aszczka, meduza, ka\u0142amarnica, o\u015bmiornica, kraby, homary, w\u0119gorze"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZWIERZ\u0118TA",
+  "SubCategory": "NIETOPERZ",
+  "Synonyms": "lataj\u0105cy lis, nietoperze wampiry, nietoperz owocowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZWIERZ\u0118TA",
+  "SubCategory": "KOT DOMOWY",
+  "Synonyms": "miauczenie, mruczenie, kociak, kotek, kotka, kot uliczny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZWIERZ\u0118TA",
+  "SubCategory": "KOT DZIKI",
+  "Synonyms": "lew, tygrys, puma, puma, lampart, jaguar, lampart \u015bnie\u017cny, gepard, ry\u015b, bobcat, karakal, ocelot, pantera, serwal"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZWIERZ\u0118TA",
+  "SubCategory": "PIES",
+  "Synonyms": "pies, piesek, szczeniak, piesek, piesek na kolanach, kundel, piesek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZWIERZ\u0118TA",
+  "SubCategory": "PSOWATE",
+  "Synonyms": "wilk, lis, kojot, szakal, dingo, lupus, canid"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZWIERZ\u0118TA",
+  "SubCategory": "HODOWLANE",
+  "Synonyms": "krowa, owca, koza, \u015bwinia, byd\u0142o, lama, alpaka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZWIERZ\u0118TA",
+  "SubCategory": "KO\u0143",
+  "Synonyms": "osio\u0142, mu\u0142, osio\u0142ek, zebra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZWIERZ\u0118TA",
+  "SubCategory": "INSEKT",
+  "Synonyms": "pasikonik, \u015bwierszcz, cykada, mucha, pszczo\u0142a, osa, szersze\u0144, weta, stonoga, szara\u0144cza, chrz\u0105szcz, karaluch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZWIERZ\u0118TA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZWIERZ\u0118TA",
+  "SubCategory": "SSAK",
+  "Synonyms": "szympans, ma\u0142pa, goryl, lemur, orangutan, kapucyn, marmozeta, ma\u0142pa, gibon, bonobo, pawian"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZWIERZ\u0118TA",
+  "SubCategory": "GAD",
+  "Synonyms": "w\u0105\u017c, jaszczurka, aligator, krokodyl, \u017c\u00f3\u0142w, gharial, kajman, gekon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZWIERZ\u0118TA",
+  "SubCategory": "GRYZO\u0143",
+  "Synonyms": "mysz, szczur, wiewi\u00f3rka, kret, je\u017cozwierz, \u015bwinka morska, wiewi\u00f3rka, b\u00f3br, sus\u0142y, szop pracz, myszoskoczek, chomik, \u015bwistak, leming, pi\u017cmak, szynszyla, gryzo\u0144"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZWIERZ\u0118TA",
+  "SubCategory": "DZIKIE",
+  "Synonyms": "nied\u017awied\u017a, \u017cyrafa, hipopotam, s\u0142o\u0144, \u0142o\u015b, jele\u0144, gazela, borsuk, mr\u00f3wkojad, platfus, leniwiec, rosomak, dzik, wombat, koala, kangur, walabia, gnu, panda, antylopa, szop pracz, \u0142o\u015b, renifer, nosoro\u017cec, aligator, gu\u017ace, impala, hipopotam, borsuk, baw\u00f3\u0142, \u0142o\u015b"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIWA",
+  "SubCategory": "POSTSYNCHRON",
+  "Synonyms": "adr, loop, replacement dialog"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIWA",
+  "SubCategory": "ZAS\u00d3B",
+  "Synonyms": "zas\u00f3b, zas\u00f3b, znacznik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIWA",
+  "SubCategory": "MI\u0118DZYZGRANIE",
+  "Synonyms": "odbicie, rozbicie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIWA",
+  "SubCategory": "ODPOWIED\u0179 IMPULSOWA",
+  "Synonyms": "odpowied\u017a impulsowa, IR, altiverb, pr\u00f3bka pog\u0142osu, convolution reverb"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIWA",
+  "SubCategory": "GWARY",
+  "Synonyms": "grupa p\u0119tli, walla"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIWA",
+  "SubCategory": "MIKS",
+  "Synonyms": "premix, ko\u0144cowy mix, stem, M&E, mixdown, printmaster"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIWA",
+  "SubCategory": "EFEKT Z PLANU",
+  "Synonyms": "produkcja"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIWA",
+  "SubCategory": "SETKA",
+  "Synonyms": "production take, dialog line, dx"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIWA",
+  "SubCategory": "SUROWE",
+  "Synonyms": "ta\u015bma danych, pliki surowe, nieobrobione"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIWA",
+  "SubCategory": "REFERENCJA",
+  "Synonyms": "odniesienie, inspiracja"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIWA",
+  "SubCategory": "SCENA",
+  "Synonyms": "gotowy, zbudowany"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIWA",
+  "SubCategory": "SYGNA\u0141 TESTOWY",
+  "Synonyms": "sygna\u0142y d\u017awi\u0119kowe adr, tony testowe, bleeping tone, 2pops, bia\u0142y szum, r\u00f3\u017cowy szum, przemiatanie sinusoid\u0105"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIWA",
+  "SubCategory": "LOGO",
+  "Synonyms": "znak towarowy, prawo autorskie, d\u017awi\u0119k produktu, licencjonowany, zarejestrowany, legalny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIWA",
+  "SubCategory": "NIESKO\u0143CZONE",
+  "Synonyms": "work in progress, wip, niedoko\u0144czony"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ARCHIWA",
+  "SubCategory": "WTF",
+  "Synonyms": "niekategoryzowalne, nieznane, \u017carty"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIKANIE",
+  "SubCategory": "SPRZ\u0118T DOMOWY",
+  "Synonyms": "mikrofal\u00f3wka, zmywarka, pralka, suszarka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIKANIE",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "beep"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIKANIE",
+  "SubCategory": "LOFI",
+  "Synonyms": "atari, famicom, colecovision"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIKANIE",
+  "SubCategory": "APARATURA MEDYCZNA",
+  "Synonyms": "EKG, EKG, KDC, monitor serca, flatline, USG"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIKANIE",
+  "SubCategory": "MINUTNIK",
+  "Synonyms": "mikrofal\u00f3wka, timer do piekarnika, zegarek cyfrowy, timer do telefonu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIKANIE",
+  "SubCategory": "POJAZD",
+  "Synonyms": "Sygna\u0142 d\u017awi\u0119kowy w\u00f3zka wid\u0142owego, sygna\u0142 d\u017awi\u0119kowy kopii zapasowej"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DZWONY",
+  "SubCategory": "ZWIERZ\u0118CE",
+  "Synonyms": "dzwonek dla krowy, dzwonek dla jastrz\u0119bia, dzwonek dla obro\u017cy, dzwonek dla owcy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DZWONY",
+  "SubCategory": "DZWONEK DO DRZWI",
+  "Synonyms": "dzwonek do drzwi, dzwonek do drzwi, ding dong, tring"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DZWONY",
+  "SubCategory": "GONG",
+  "Synonyms": "gong, gamelan, agung, misa gong, tam-tam"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DZWONY",
+  "SubCategory": "DZWONEK R\u0118CZNY",
+  "Synonyms": "dzwonek r\u0119czny, dzwonek obiadowy, dzwonek szkolny, dzwonek na zmian\u0119, dzwonek na sanie, dzwonki, dzwonek lokaja"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DZWONY",
+  "SubCategory": "DU\u017bE",
+  "Synonyms": "dzwon \u015bwi\u0105tynny, dzwon ko\u015bcielny, dzwonek, dzwonek wie\u017cowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DZWONY",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "dzwonek rowerowy, dzwonek serwisowy, dzwonek na wezwanie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PTAKI",
+  "SubCategory": "DRAPIE\u017bNE",
+  "Synonyms": "jastrz\u0105b, orze\u0142, sok\u00f3\u0142, sowa, s\u0119p, kondor, myszo\u0142\u00f3w, kania, rybo\u0142\u00f3w, b\u0142otniak, pustu\u0142ka, karakara"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PTAKI",
+  "SubCategory": "WRONA",
+  "Synonyms": "wrona, kruk, s\u00f3jka, s\u00f3jka niebieska, sroka, dziadek do orzech\u00f3w"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PTAKI",
+  "SubCategory": "GRZEBI\u0104CE I BLASZKODZIOBE",
+  "Synonyms": "kura, ba\u017cant, indyk, g\u0119\u015b, g\u0119gawa, kaczka, \u0142ab\u0119d\u017a, kuropatwa, teal, krzy\u017c\u00f3wka, edredon, guan, chachu\u0142a, kurasek, przepi\u00f3rka, perkoz, chukar, ptarmigan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PTAKI",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "ani, roadrunner, kuku\u0142ka, dzi\u0119cio\u0142, nighthawk, nightjar, biedronka, koliber"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PTAKI",
+  "SubCategory": "MORSKIE",
+  "Synonyms": "mewa, gannet, albatros, kormoran, pelikan, pingwin, petrel, mewa, rybitwa, fregata, cyraneczka, ostrygojad, sieweczka, sandwicz, dunlin, auk, purchawka, mruczek, auklet"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PTAKI",
+  "SubCategory": "\u015aPIEWAJ\u0104CE",
+  "Synonyms": "go\u0142\u0105b, mucho\u0142\u00f3wka, gaj\u00f3wka, kwoka, kowalik, go\u0142\u0105b, drozd, wr\u00f3bel, jask\u00f3\u0142ka, garbus, drozd, wireo, pokrzewka, jemio\u0142uszka, sikorka, cykora, sikorka, myszka, szczygie\u0142, skowronek, zimorodek, pe\u0142zacz, pe\u0142zacz le\u015bny, strzy\u017cyk, pliszka g\u00f3rska, szpak, kos, drozd, woskownica, czat, trojszyk, kardyna\u0142, trznadel, kos, kos, kwiczo\u0142"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PTAKI",
+  "SubCategory": "TROPIKALNE",
+  "Synonyms": "papuga, tukan, kookaburra, lirabs, paw, makol\u0105gwa, rogacz, kakadu, papu\u017cka, ibis, \u0142y\u017cka, flaming"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PTAKI",
+  "SubCategory": "BRODZ\u0104CE",
+  "Synonyms": "\u017curaw, czapla, flaming, ibis, szyna, \u0142y\u017cka, bocian, czapla, szyna, sora, \u0142yska, \u017curaw, czapla, b\u0105k, czapla, bocian, bekas"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "PODUSZKOWIEC",
+  "Synonyms": "motor\u00f3wka, \u0142\u00f3d\u017a powietrzna, poduszkowiec"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "ROZBRYZG WODY",
+  "Synonyms": "p\u0142ukanie dziobu, wake"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "DRZWI",
+  "Synonyms": "luk, drzwi do promu, drzwi do \u0142odzi, drzwi wodoszczelne, drzwi do statku"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "ELEKTRYCZNA",
+  "Synonyms": "silnik trollingowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "KUTER",
+  "Synonyms": "krabowce, trawlery, sejner, statek z lin\u0105, pog\u0142\u0119biarka, gillnetter, statek badawczy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "SYRENA",
+  "Synonyms": "klakson okr\u0119towy, klakson holownika"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "WN\u0118TRZE",
+  "Synonyms": "statek, prom, promy, statek wycieczkowy, marynarka wojenna, \u0142\u00f3d\u017a wojskowa, holownik, \u017cagl\u00f3wka, jacht, zbiornikowiec, statek towarowy, frachtowiec, \u0142\u00f3d\u017a podwodna"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "MECHANIZM",
+  "Synonyms": "olinowanie, ko\u0142o pasowe, lina, ko\u0142o okr\u0119towe, przepustnica, sie\u0107, klatka, pu\u0142apka, kotwica"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "WOJSKOWA",
+  "Synonyms": "\u0142\u00f3d\u017a patrolowa, niszczyciel, kr\u0105\u017cownik, pancernik, fregata, korweta, szybka \u0142\u00f3d\u017a szturmowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "\u0142\u00f3d\u017a wios\u0142owa, paddleboard"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "MOTOROWA",
+  "Synonyms": "ma\u0142a \u0142\u00f3d\u017a, osobista \u0142\u00f3d\u017a rybacka, motor\u00f3wka, \u0142\u00f3d\u017a pontonowa, kaczka, ponton"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "WY\u015aCIGOWA",
+  "Synonyms": "hydroplan, wodolot, \u0142\u00f3d\u017a odrzutowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "WIOS\u0141OWA",
+  "Synonyms": "kajak, \u0142\u00f3d\u017a wios\u0142owa, kajak, wios\u0142o, smocza \u0142\u00f3d\u017a, wios\u0142o"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "\u017bAGLOWA",
+  "Synonyms": "\u017cagl\u00f3wka, szkuner, jacht, slup, kecz, motor\u00f3wka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "STATEK",
+  "Synonyms": "du\u017cy statek, statek wycieczkowy, tankowiec, statek towarowy, frachtowiec"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "PAROWA",
+  "Synonyms": "parowy statek \u0142opatkowy, parowiec \u0142opatkowy, silnik parowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "PODWODNA",
+  "Synonyms": "okr\u0119t podwodny, sonar, okr\u0119t podwodny, u-boot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141\u00d3D\u0179",
+  "SubCategory": "POD WOD\u0104",
+  "Synonyms": "\u0142\u00f3d\u017a, statek, podwodny, tankowiec, \u0142\u00f3d\u017a rybacka, motor\u00f3wka, podwodny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCISK",
+  "SubCategory": "PRZELOT",
+  "Synonyms": "pocisk - whiz-by, fwip"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCISK",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "uderzenie pocisku, trafienie pocisku"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCISK",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCISK",
+  "SubCategory": "RYKOSZET",
+  "Synonyms": "rykoszet, rykoszet, odchylenie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCISK",
+  "SubCategory": "\u0141USKA",
+  "Synonyms": "\u0142uska, obudowa, wyrzut"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "ZWIERZ\u0118",
+  "Synonyms": "fa\u0142szywe zwierz\u0119, zew my\u015bliwski, zew kaczki"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "BOING",
+  "Synonyms": "harfa szcz\u0119kowa, harfa ustna"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "BRZD\u0118K",
+  "Synonyms": "brz\u0119k, metaliczny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "SKRZYPIENIE",
+  "Synonyms": "guma, drewno"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "TR\u0104BIENIE",
+  "Synonyms": "klakson z \u017car\u00f3wk\u0105, tr\u0105bienie, klakson klauna"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "bonk, boink, doink"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "MASZYNA",
+  "Synonyms": "urz\u0105dzenie, maszyna komiczna, maszyna Rube Goldberga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "toon, squanch, blorb, flump"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "ELEMENTY MUZYCZNE",
+  "Synonyms": "gliss, ascend, descend,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "STRUNA",
+  "Synonyms": "skubanie struny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "WYSTRZA\u0141",
+  "Synonyms": "pistolet, usta, przyssawka, ba\u0144ki"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "TRZ\u0118SIENIE",
+  "Synonyms": "grzechotka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "PLA\u015aNI\u0118CIE",
+  "Synonyms": "splat, splort, squish"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "PISZCZENIE",
+  "Synonyms": "piszcze\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "NACI\u0104GANIE",
+  "Synonyms": "nadwyr\u0119\u017ca\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "SWISH",
+  "Synonyms": "wirowa\u0107, wirowa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "SPR\u0118\u017bYNOWANIE",
+  "Synonyms": "linijka, harfa ustna"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "POJAZD",
+  "Synonyms": "jetsons, contraption. Samoch\u00f3d Flintstones, backfire"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "G\u0141OS",
+  "Synonyms": "mumble, g\u0142upi g\u0142os, g\u0142os z kresk\u00f3wki"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "WYGINANIE",
+  "Synonyms": "wobble"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "GWIZD",
+  "Synonyms": "gwizdek suwakowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KRESK\u00d3WKA",
+  "SubCategory": "\u015aWIST",
+  "Synonyms": "zip, rico, syrena, gwizdek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CERAMIKA",
+  "SubCategory": "\u0141AMANIE",
+  "Synonyms": "z\u0142ama\u0107, p\u0119kn\u0105\u0107, roztrzaska\u0107, chrupn\u0105\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CERAMIKA",
+  "SubCategory": "ROZBICIE I OD\u0141AMKI",
+  "Synonyms": "spa\u015b\u0107, gruz, od\u0142amki"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CERAMIKA",
+  "SubCategory": "TARCIE",
+  "Synonyms": "napr\u0119\u017ca\u0107 si\u0119, skroba\u0107, skrzypie\u0107, piszcze\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CERAMIKA",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "uchwyci\u0107, z\u0142apa\u0107, ustawi\u0107, podnie\u015b\u0107, ustawi\u0107 si\u0119, podrzuci\u0107, z\u0142apa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CERAMIKA",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "uderzenie, upadek, uderzenie, zderzenie, brz\u0119k, brz\u0119k"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CERAMIKA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CERAMIKA",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "ci\u0105gn\u0105\u0107, toczy\u0107, grzechota\u0107, trz\u0105\u015b\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CERAMIKA",
+  "SubCategory": "TONALNE",
+  "Synonyms": "wygi\u0105\u0107 si\u0119, dzwoni\u0107, szumie\u0107, pingowa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141A\u0143CUCHY",
+  "SubCategory": "\u0141AMANIE",
+  "Synonyms": "pstrykni\u0119cie, z\u0142amanie, zgi\u0119cie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141A\u0143CUCHY",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "uchwyci\u0107, z\u0142apa\u0107, ustawi\u0107, podnie\u015b\u0107, ustawi\u0107 w d\u00f3\u0142, podrzuci\u0107, z\u0142apa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141A\u0143CUCHY",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "upuszcza\u0107, uderza\u0107, uderza\u0107, trzaska\u0107, napina\u0107 si\u0119"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141A\u0143CUCHY",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u0141A\u0143CUCHY",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "przeci\u0105ganie, kajdanki, \u0142a\u0144cuch wi\u0119zienny, \u0142a\u0144cuch dla psa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CHEMIKALIA",
+  "SubCategory": "KWAS",
+  "Synonyms": "skwiercze\u0107, topi\u0107 si\u0119, skwiercze\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CHEMIKALIA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "CHEMIKALIA",
+  "SubCategory": "REAKCJA",
+  "Synonyms": "bulgotanie, pienienie, reakcja"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZEGARY",
+  "SubCategory": "TONALNE",
+  "Synonyms": "gong, dzwonek, zegar dziadka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZEGARY",
+  "SubCategory": "MECHANIZM",
+  "Synonyms": "nawijanie, ko\u0142a z\u0119bate zegara, zegar z kuku\u0142k\u0105"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZEGARY",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZEGARY",
+  "SubCategory": "TYKANIE",
+  "Synonyms": "tik, klik, kwarc, tik-tak, stoper, zegar do jajek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TKANINA",
+  "SubCategory": "TRZEPOT",
+  "Synonyms": "klapa, flaga, szmer, spadochron, peleryna, \u017cagl\u00f3wka, \u017cagiel, p\u0142achta"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TKANINA",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "uchwyci\u0107, z\u0142apa\u0107, ustawi\u0107, podnie\u015b\u0107, postawi\u0107, podrzuci\u0107, z\u0142apa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TKANINA",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "uderzenie, upadek, uderzenie, klaps"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TKANINA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TKANINA",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "zuzz, swish, rustle, ruffle, scrunch, mvmt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TKANINA",
+  "SubCategory": "ROZDARCIE",
+  "Synonyms": "rozrywa\u0107, rozdziera\u0107, rzep"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMUNIKACJA",
+  "SubCategory": "AUDIO VIDEO",
+  "Synonyms": "kamera filmowa, szpulowanie, kamera filmowa, projektor, magnetofon, nagra, walkman, odtwarzacz CD, reel to reel, vcr, odtwarzacz laserdisc, betamax, rzutnik slajd\u00f3w, beamer, ipod, bolex, 8mm, 16mm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMUNIKACJA",
+  "SubCategory": "APARAT FOTOGRAFICZNY",
+  "Synonyms": "migawka aparatu, uzwojenie, \u017car\u00f3wka lampy b\u0142yskowej, kodak, nikon, canon, olympus, kodak, fuji, fujifilm, mamiya, hasselblad, leica, 35mm, 120mm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMUNIKACJA",
+  "SubCategory": "TELEFON KOM\u00d3RKOWY",
+  "Synonyms": "telefon kom\u00f3rkowy, smartfon, iphone, blackberry, flip phone, android"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMUNIKACJA",
+  "SubCategory": "MIKROFON",
+  "Synonyms": "obs\u0142uga mikrofonu, mic tap, larsen, megafon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMUNIKACJA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMUNIKACJA",
+  "SubCategory": "GRAMOFON",
+  "Synonyms": "gramofon, victrola, fonograf, rysik, p\u0142yta winylowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMUNIKACJA",
+  "SubCategory": "RADIO",
+  "Synonyms": "strojenie, radio, kr\u00f3tkofal\u00f3wka, squelch, futz, audycja radiowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMUNIKACJA",
+  "SubCategory": "SZUM",
+  "Synonyms": "szum, fuzz, scramble"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMUNIKACJA",
+  "SubCategory": "TRANSMISJA DANYCH",
+  "Synonyms": "kod morse'a, telegraf, telemetria, odczyt, sos"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMUNIKACJA",
+  "SubCategory": "TELEFON STACJONARNY",
+  "Synonyms": "dzwonek, automat, pokr\u0119t\u0142o, klawiatura, telefon stacjonarny, telefon przewodowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMUNIKACJA",
+  "SubCategory": "TELEWIZOR",
+  "Synonyms": "tv, pilot, wybieranie, pokaz, program, futz, program telewizyjny, transmisja"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMUNIKACJA",
+  "SubCategory": "KR\u00d3TKOFAL\u00d3WKA",
+  "Synonyms": "walkie talkies, cb, ham radios, transceiver, squelch, intercom, dispatch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMUNIKACJA",
+  "SubCategory": "MASZYNA DO PISANIA",
+  "Synonyms": "maszyna do pisania, teleprinter, carriage return, platen knob"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMPUTERY",
+  "SubCategory": "DYSK TWARDY",
+  "Synonyms": "pomijanie, wyszukiwanie, mielenie, dysk twardy, twardy dysk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMPUTERY",
+  "SubCategory": "KALWIATURA I MYSZ",
+  "Synonyms": "klawiatura, mysz, myszki, trackpad"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KOMPUTERY",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "palm pilot, pocket pc"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STWORY",
+  "SubCategory": "WODNE",
+  "Synonyms": "kraken, syrena, ka\u0142amarnica olbrzymia"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STWORY",
+  "SubCategory": "LATAJ\u0104CE",
+  "Synonyms": "ptaki obce, ptaki pozaziemskie, ptaki fantastyczne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STWORY",
+  "SubCategory": "BESTIA",
+  "Synonyms": "we\u0142nisty mamut, mumakil, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STWORY",
+  "SubCategory": "BLOB",
+  "Synonyms": "blob, gloop, goop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STWORY",
+  "SubCategory": "DINOZAUR",
+  "Synonyms": "brontozaur, welociraptor, triceratops, stegozaur, tyranozaur, allozaur, spinozaur, brachiozaur, archeopteryks, pterozaury, pterodaktyl"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STWORY",
+  "SubCategory": "SMOK",
+  "Synonyms": "smok, draka, wyvern"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STWORY",
+  "SubCategory": "\u017bYWIO\u0141Y",
+  "Synonyms": "skalny potw\u00f3r, ognisty potw\u00f3r, lodowy potw\u00f3r, skalny olbrzym, lodowy olbrzym, golem"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STWORY",
+  "SubCategory": "DUCH",
+  "Synonyms": "duchy, duchy, eteryczne, wisielcze, widmo, dusza, zjawa, widmowy, poltergeist, upi\u00f3r, upi\u00f3r"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STWORY",
+  "SubCategory": "HUMANOIDALNE",
+  "Synonyms": "zombie, nieumar\u0142y, \u017cywy trup, upi\u00f3r, wampir, elf, orkowie, ogr, troll, tengu, leprechaun, wielka stopa, bagno, wilko\u0142ak, frankenstein, mumia"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STWORY",
+  "SubCategory": "INSEKTOPODOBNE",
+  "Synonyms": "gigantyczna mr\u00f3wka, gigantyczny paj\u0105k"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STWORY",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STWORY",
+  "SubCategory": "POTW\u00d3R",
+  "Synonyms": "godzilla, king kong, rancor, behemoth, xenomorph, chupacabra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STWORY",
+  "SubCategory": "GAD",
+  "Synonyms": "w\u0105\u017c, serpentyn, gigantyczna jaszczurka, gigantyczny w\u0105\u017c"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STWORY",
+  "SubCategory": "MA\u0141E",
+  "Synonyms": "wr\u00f3\u017cka, pixie, gremlin, imp, fraggle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "STWORY",
+  "SubCategory": "MATERIA\u0141Y \u0179R\u00d3D\u0141OWE",
+  "Synonyms": "szczeka\u0107, dysze\u0107, wo\u0142a\u0107, kraka\u0107, \u0107wierka\u0107, klika\u0107, p\u0142aka\u0107, wysila\u0107 si\u0119, chrz\u0105ka\u0107, sycze\u0107, wy\u0107, warcze\u0107, chrapa\u0107, guttural, j\u0119cze\u0107, j\u0119cze\u0107, usta, rycze\u0107, krzycze\u0107, piszcze\u0107, skomle\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "ROZGNIEWANY",
+  "Synonyms": "chuligan, zamieszki, protest, krzyk, awantura"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "BRAWA",
+  "Synonyms": "aplauz, wiwat, klaskanie, bis"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "BITWA",
+  "Synonyms": "okrzyki bojowe, krzyk, szar\u017ca, rajd, armia, bitwa, przepychanka, wojna, krzyk, umieranie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "\u015aWI\u0118TOWANIE",
+  "Synonyms": "\u015bwi\u0119towanie, \u015bwi\u0119to, impreza, szeregowy, urodziny, nowe lata, Bo\u017ce Narodzenie, parada"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "OWACJA",
+  "Synonyms": "wiwatowanie, koncert, stadion, publiczno\u015b\u0107, krzyki, \u015bwisty, \u015bpiewy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "DZIECI",
+  "Synonyms": "plac zabaw, przerwa, graj\u0105ce dzieci, park, zabawa, tag"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "ROZMOWA",
+  "Synonyms": "gadka, czat, rozmowa, sparse walla, converse, conversation"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "\u015aMIECH",
+  "Synonyms": "program telewizyjny, \u015bmiech z puszki, klub komediowy, laugh track"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "GWAR STUDYJNY",
+  "Synonyms": "loop group, adr, canned"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "PANIKA",
+  "Synonyms": "panika, chaos, krzyk, wrzask, p\u0142acz, niepok\u00f3j"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "CICHY",
+  "Synonyms": "szmer, szept, szum, mamrotanie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "REAKCJA",
+  "Synonyms": "buu, ahh, ooh, reakcja studia"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "\u015aPIEW",
+  "Synonyms": "\u015bpiew, ch\u00f3r, chora\u0142, kol\u0119da"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "SPORT",
+  "Synonyms": "aplauz, klaskanie, boo, cheer, stadion, yay, publiczno\u015b\u0107, olimpiada, krzyk, woohoo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "T\u0141UM",
+  "SubCategory": "WALLA",
+  "Synonyms": "g\u0142osy, rozmowa, walla, rozmowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "OPADAJ\u0104CY BAS",
+  "Synonyms": "bass dive, downer, bass drop, fall"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "BOOM",
+  "Synonyms": "boom, deep hit, low sting, trailer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "BRAAM",
+  "Synonyms": "bramm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "PRZESTER",
+  "Synonyms": "distortion, squared off, distorted"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "DRONE",
+  "Synonyms": "pad, drone, tekstura, z\u0142owieszczy, napi\u0119cie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "STRASZNE",
+  "Synonyms": "upiorny, napi\u0119ty, dziwny, creepy, straszny, chilling, nawiedzaj\u0105cy, freaky, przera\u017caj\u0105cy, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "PARANORMALNE",
+  "Synonyms": "eteryczny, niebia\u0144ski"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "GRANULARNY",
+  "Synonyms": "granularny, paulstretch, ziarna, plastry"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "zderzenie, uderzenie, trzask, rozbicie, kolizja"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "MORFING",
+  "Synonyms": "morph, blend, transition"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "NARASTANIE",
+  "Synonyms": "reverse, crescendo, rizer, riser, tension"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "\u0141OSKOT",
+  "Synonyms": "subharmoniczne, dudnienie, dr\u017cenie, trz\u0119sienie ziemi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "RYTMICZNE",
+  "Synonyms": "zacinanie si\u0119, glitch, puls, stattaco"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "MATERIA\u0141Y \u0179R\u00d3D\u0141OWE",
+  "Synonyms": "\u017ar\u00f3d\u0142o, surowy, materia\u0142, surowe nagranie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "\u017c\u0105d\u0142o, startle, trailer, cinematic"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "SYNTETYCZNE",
+  "Synonyms": "syntezator, syntezator, mod synth, modular synth, granular, analog synth, modular synth"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "TONALNE",
+  "Synonyms": "szumy uszne, dzwonienie, szok pocisku, subiektywny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "WOKAL",
+  "Synonyms": "oczarowanie, zakl\u0119cie, przetworzony, wokal, szept, duchowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESIGNED",
+  "SubCategory": "WHOOSH",
+  "Synonyms": "whoosh, \u015bwist przyczepy, \u015bwist"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESTRUKCJA",
+  "SubCategory": "ZAWALENIE",
+  "Synonyms": "zawali\u0107 si\u0119, przewr\u00f3ci\u0107 si\u0119, spa\u015b\u0107, implodowa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESTRUKCJA",
+  "SubCategory": "ROZBICIE I OD\u0141AMKI",
+  "Synonyms": "rozbi\u0107, p\u0119kn\u0105\u0107, implodowa\u0107, rozbi\u0107, z\u0142ama\u0107, roztrzaska\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESTRUKCJA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZIEMIA I PIACH",
+  "SubCategory": "ROZBICIE I OD\u0141AMKI",
+  "Synonyms": "gruz, piasek, brud, stru\u017cka, rozprysk, okruch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZIEMIA I PIACH",
+  "SubCategory": "PY\u0141",
+  "Synonyms": "drobny, cz\u0105stka, osad, mu\u0142, py\u0142"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZIEMIA I PIACH",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "obs\u0142ugiwa\u0107, chwyta\u0107, kopa\u0107, \u0142apa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZIEMIA I PIACH",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "wysypa\u0107, wyrzuci\u0107, roz\u0142adowa\u0107, upu\u015bci\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZIEMIA I PIACH",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZIEMIA I PIACH",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "wylewa\u0107, wy\u0142adowywa\u0107, p\u0142yn\u0105\u0107, rozlewa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZIEMIA I PIACH",
+  "SubCategory": "TONALNE",
+  "Synonyms": "wydmy piaskowe, \u015bpiewaj\u0105ce piaski"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "STARODAWNE",
+  "Synonyms": "zamek, abby, ko\u015bci\u00f3\u0142, stary, staro\u017cytny, antyk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "AGD",
+  "Synonyms": "piekarnik, mikrofal\u00f3wka, lod\u00f3wka, zmywarka, pralka, suszarka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "SZAFKA",
+  "Synonyms": "szafka, szafka kuchenna, szafka na narz\u0119dzia"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "Z\u0141O\u017bONE",
+  "Synonyms": "w\u0142\u00f3kno szklane, drzwi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "SKRZYPIENIE",
+  "Synonyms": "skrzypienie, drzwi, loch, piwnica, zamek, drzwi drewniane, drzwi metalowe, skrzypienie drzwi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "LOCH",
+  "Synonyms": "zamek, loch, du\u017cy, piwnica"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "ELEKTRYCZNE",
+  "Synonyms": "brama elektryczna, brama gara\u017cowa, brama d\u017awi\u0119kowa, brama automatyczna"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "BRAMA",
+  "Synonyms": "brama ogrodowa, brama ogrodzeniowa, brama parkowa, przej\u015bcie kolejowe, brama dla byd\u0142a, brama gospodarcza"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "SZKLANE",
+  "Synonyms": "drzwi szklane, drzwi do sklepu, drzwi wn\u0119kowe, drzwi francuskie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "AKCESORIA",
+  "Synonyms": "ga\u0142ka drzwiowa, klamka, pchacz, zamek \u0142a\u0144cuchowy, zawias, zatrzask, klamka, okucie, wytrych, wytrych"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "HITECH",
+  "Synonyms": "drzwi laboratoryjne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "HYDRAULICZNE I PNEUMATYCZNE",
+  "Synonyms": "samozamykacz, pneumatyczny, hydrauliczny, klapa z nap\u0119dem"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "PUKANIE",
+  "Synonyms": "pukanie, rap, knocker, bang, thud, thump"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "METALOWE",
+  "Synonyms": "rollup, skarbiec, sejf, w\u0142az"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "PLASTIKOWE",
+  "Synonyms": "porta john, porta let, porta pottie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "WI\u0118ZIENIE",
+  "Synonyms": "drzwi do wi\u0119zienia, drzwi wi\u0119zienne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "OBROTOWE",
+  "Synonyms": "obraca\u0107 si\u0119, obraca\u0107 si\u0119, drzwi obrotowe, hotel, lotnisko, centrum handlowe"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "PRZESUWNE",
+  "Synonyms": "drzwi szklane przesuwne, drzwi tarasowe, drzwi prysznicowe"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "KAMIENNE",
+  "Synonyms": "grobowiec, krypta, \u015bwi\u0105tynia, mauzoleum, tajne wej\u015bcie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "WAHAD\u0141OWE",
+  "Synonyms": "drzwi do saloonu, drzwi drogowe, drzwi do restauracji, drzwi do ambony w ko\u015bciele"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DRZWI",
+  "SubCategory": "DREWNIANE",
+  "Synonyms": "wej\u015bcie, drzwi wej\u015bciowe, szafa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SZUFLADY",
+  "SubCategory": "METALOWE",
+  "Synonyms": "skrzynka na narz\u0119dzia, szuflada na rega\u0142y, szafa na dokumenty, kasa fiskalna, szuflada bezpiecze\u0144stwa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SZUFLADY",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SZUFLADY",
+  "SubCategory": "PLASTIKOWE",
+  "Synonyms": "pojemnik na cz\u0119\u015bci, organizer na biurko"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SZUFLADY",
+  "SubCategory": "DREWNIANE",
+  "Synonyms": "szuflada kuchenna, szuflada \u0142azienkowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRYCZNO\u015a\u0106",
+  "SubCategory": "\u0141UK",
+  "Synonyms": "drabina jacoba, cewka tesli, arka, \u0142uk, elektrownia, pora\u017cenie pr\u0105dem"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRYCZNO\u015a\u0106",
+  "SubCategory": "BZYCZENIE I BUCZENIE",
+  "Synonyms": "ground hum, amp hum, amp buzz, speaker hum, speaker buzz, hum, buzz, induction hum"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRYCZNO\u015a\u0106",
+  "SubCategory": "ELEKTROMAGNETYZM",
+  "Synonyms": "emf, cewka, pickup, indukcja"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRYCZNO\u015a\u0106",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRYCZNO\u015a\u0106",
+  "SubCategory": "ISKRZENIE",
+  "Synonyms": "iskrzenie, spawanie, rozpylanie, zwarcie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ELEKTRYCZNO\u015a\u0106",
+  "SubCategory": "ZWARCIE",
+  "Synonyms": "wy\u0142adowanie, tase, taser, pora\u017cenie pr\u0105dem"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "EKWIPUNEK",
+  "SubCategory": "JE\u0179DZIECKI",
+  "Synonyms": "uzda, ko\u0142owrotek, smycz, uprz\u0105\u017c, smycz dla psa, pasek do siod\u0142a"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "EKWIPUNEK",
+  "SubCategory": "HITECH",
+  "Synonyms": "kombinezon kosmiczny, pas bezpiecze\u0144stwa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "EKWIPUNEK",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "EKWIPUNEK",
+  "SubCategory": "TURYSTYCZNY",
+  "Synonyms": "plecak, w\u0119dr\u00f3wka, wspinaczka, wspinaczka g\u00f3rska, ob\u00f3z, namiot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "EKWIPUNEK",
+  "SubCategory": "SPORTOWY",
+  "Synonyms": "ochraniacz na rami\u0119, ochraniacz na kolano, ochraniacz na gole\u0144, pasek do d\u017cokeja"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "EKWIPUNEK",
+  "SubCategory": "WOJSKO I POLICJA",
+  "Synonyms": "pas, pas taktyczny, pas s\u0142u\u017cbowy, pas na amunicj\u0119, policyjny, wojskowy, bandoleer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "EKSPLOZJE",
+  "SubCategory": "DESIGNED",
+  "Synonyms": "fala uderzeniowa, s\u0142odzik, echo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "EKSPLOZJE",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "detonacja"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "EKSPLOZJE",
+  "SubCategory": "PRAWDZIWE",
+  "Synonyms": "huk, implozja, p\u0119kni\u0119cie, pop"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIERDZENIE",
+  "SubCategory": "DESIGNED",
+  "Synonyms": "kit, razzberry, raspberry, whoopie poduszka, flarp, pacha, fartbag, balon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIERDZENIE",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "pierd zwierz\u0119cy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PIERDZENIE",
+  "SubCategory": "PRAWDZIWE",
+  "Synonyms": "pierd ludzki, wzd\u0119cie, poot, toot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WALKA",
+  "SubCategory": "UPADAJ\u0104CE CIA\u0141O",
+  "Synonyms": "bodyfall, body drag, scuffle, body slam, tackle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WALKA",
+  "SubCategory": "UBRANIE",
+  "Synonyms": "combat cloth, grab, snatch, cloth impact, cloth hit"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WALKA",
+  "SubCategory": "CHWYT",
+  "Synonyms": "walka, chwyt, grapple, wrestle, judo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WALKA",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "punch, kick, body blow, slap, smack, brawl, shove, sock, uppercut, jab"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WALKA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OGIE\u0143",
+  "SubCategory": "PALENIE",
+  "Synonyms": "ognisko, ognisko, ogie\u0144, po\u017car, po\u017car budowli, p\u0142omie\u0144, piek\u0142o, spalanie, \u017car, stos"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OGIE\u0143",
+  "SubCategory": "WYBUCH",
+  "Synonyms": "backdraft, smoczy ogie\u0144, poch\u0142oni\u0119cie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OGIE\u0143",
+  "SubCategory": "TRZASKANIE",
+  "Synonyms": "pop, spit, snap, sparkle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OGIE\u0143",
+  "SubCategory": "GAZ",
+  "Synonyms": "grill gazowy, palnik Bunsena, piec, piec kempingowy, piec kuchenny, krematorium, zakres gazowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OGIE\u0143",
+  "SubCategory": "ZAP\u0141ON",
+  "Synonyms": "zapa\u0142ka, zapalniczka, zippo, zapali\u0107 si\u0119, wybuchn\u0105\u0107, zapali\u0107 si\u0119, zapali\u0107 si\u0119"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OGIE\u0143",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OGIE\u0143",
+  "SubCategory": "SKWIERCZENIE",
+  "Synonyms": "pogrzebacz ogniowy, lont, spalanie lontu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OGIE\u0143",
+  "SubCategory": "POCHODNIA",
+  "Synonyms": "flara, lont, pochodnia, firebrand, flaming stick, cresset"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OGIE\u0143",
+  "SubCategory": "NIESPOKOJNY",
+  "Synonyms": "ognisty k\u0142\u0105b, gwa\u0142towny ogie\u0144, miotacz ognia, ogniste tornado, poch\u0142ania\u0107, cofa\u0107 si\u0119"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OGIE\u0143",
+  "SubCategory": "WHOOSH",
+  "Synonyms": "kula ognista, blask, mo\u0142otow, flara, backdraft"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FAJERWERKI",
+  "SubCategory": "PROFESJONALNE",
+  "Synonyms": "mo\u017adzierz, fajerwerk, pirotechnika, kaboom, pocisk, pokaz fajerwerk\u00f3w"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FAJERWERKI",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FAJERWERKI",
+  "SubCategory": "KONSUMENCKIE",
+  "Synonyms": "petarda, m80, iskierka, rakieta w butelce, bomba dymna, skacz\u0105cy jack, \u015bwieca rzymska, popper, bomba wi\u015bniowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLEY",
+  "SubCategory": "UBRANIE",
+  "Synonyms": "szmer, ruch, mvmt, zuzz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLEY",
+  "SubCategory": "KROKI",
+  "Synonyms": "stopa, but, krok, powierzchnia"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLEY",
+  "SubCategory": "R\u0118CE",
+  "Synonyms": "poklepa\u0107, z\u0142apa\u0107, uchwyci\u0107, ustawi\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLEY",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FOLEY",
+  "SubCategory": "REKWIZYT",
+  "Synonyms": "rekwizyt, rekwizyty"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JEDZENIE I PICIE",
+  "SubCategory": "GOTOWANIE",
+  "Synonyms": "siekanie, krojenie, krojenie w kostk\u0119, mieszanie, mieszanie, ubijanie, saute, sma\u017cenie, gotowanie, grillowanie, skwierczenie, gotowanie na parze, duszenie, mieszanie, saute"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JEDZENIE I PICIE",
+  "SubCategory": "PICIE",
+  "Synonyms": "\u0142yka\u0107, siorba\u0107, pi\u0107, po\u0142yka\u0107, gulp, nap\u00f3j, swig, chug, glug"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JEDZENIE I PICIE",
+  "SubCategory": "JEDZENIE",
+  "Synonyms": "je\u015b\u0107, chrupa\u0107, \u017cu\u0107, po\u0142yka\u0107, chrupa\u0107, gry\u017a\u0107, po\u0142yka\u0107, konsumowa\u0107, ucztowa\u0107, karmi\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JEDZENIE I PICIE",
+  "SubCategory": "NACZYNIA SZKLANE",
+  "Synonyms": "butelka, szk\u0142o, fili\u017canka, dzbanek, karafka, puszka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JEDZENIE I PICIE",
+  "SubCategory": "SK\u0141ADNIKI",
+  "Synonyms": "orzech, nasiono, ziarno, warzywo, owoc, konserwa, zbo\u017ce, mi\u0119so, owies, kukurydza"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JEDZENIE I PICIE",
+  "SubCategory": "NACZYNIA KUCHENNE",
+  "Synonyms": "patelnia, garnek, garnek do gotowania, garnek do gotowania na parze, patelnia, rondel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JEDZENIE I PICIE",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JEDZENIE I PICIE",
+  "SubCategory": "NALEWANIE",
+  "Synonyms": "nalewa\u0107, p\u0142yn\u0105\u0107, rozlewa\u0107, podawa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "JEDZENIE I PICIE",
+  "SubCategory": "ZASTAWA STO\u0141OWA",
+  "Synonyms": "srebrne sztu\u0107ce, naczynia, brz\u0119k szk\u0142a"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KROKI",
+  "SubCategory": "ZWIERZ\u0118TA",
+  "Synonyms": "chodzi\u0107, biega\u0107, sprintowa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KROKI",
+  "SubCategory": "POTWORY",
+  "Synonyms": "dinozaur, stw\u00f3r, bestia, smok, mityczny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KROKI",
+  "SubCategory": "KONIE",
+  "Synonyms": "chodzi\u0107, k\u0142usowa\u0107, galopowa\u0107, kopyto, kopyta, kantar"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KROKI",
+  "SubCategory": "LUDZIE",
+  "Synonyms": "chodzi\u0107, biega\u0107, stopa, biega\u0107, sprintowa\u0107, skaka\u0107, przeskakiwa\u0107, chwia\u0107 si\u0119, w\u0119drowa\u0107, kroczy\u0107, stopa, stopa, krok, wspina\u0107 si\u0119"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KROKI",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GRY",
+  "SubCategory": "ZR\u0118CZNO\u015aCIOWE",
+  "Synonyms": "pinball, whack-a-mole, skeeball, maszyna z pazurem"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GRY",
+  "SubCategory": "PLANSZOWE",
+  "Synonyms": "szachy, warcaby, go, backgammon"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GRY",
+  "SubCategory": "KASYNO",
+  "Synonyms": "ruletka, automat do gry, ko\u015bci, ko\u0142o fortuny, keno, maszyna do gry w pokera"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GRY",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "poker, karty, jenga, ko\u015bci, kastet,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GRY",
+  "SubCategory": "VIDEO",
+  "Synonyms": "atari, ps4, xbox one, xbox 360, amstrad, famicom, snes, gameboy, nintendo 64, playstation, megadrive, psp"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEOTERMALNE",
+  "SubCategory": "GAZY",
+  "Synonyms": "uj\u015bcie parowe, geotermalne, fumarol"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEOTERMALNE",
+  "SubCategory": "GEJZER",
+  "Synonyms": "wylew, spray, b\u0105bel, gotowa\u0107 si\u0119"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEOTERMALNE",
+  "SubCategory": "LAWA",
+  "Synonyms": "lawa, przep\u0142yw, trzask, lepko\u015b\u0107, flara, huk, wulkan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEOTERMALNE",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "bulgocz\u0105cy gor\u0105cy basen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GEOTERMALNE",
+  "SubCategory": "\u0179R\u00d3D\u0141A TERMALNE",
+  "Synonyms": "garnek z b\u0142otem, garnek z farb\u0105, d\u00f3\u0142 ze smo\u0142\u0105, b\u0142oto, ba\u0144ka, glina"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SZK\u0141O",
+  "SubCategory": "\u0141AMANIE",
+  "Synonyms": "szk\u0142o p\u0119kn\u0105\u0107, rozbi\u0107, roztrzaska\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SZK\u0141O",
+  "SubCategory": "ROZBICIE I OD\u0141AMKI",
+  "Synonyms": "od\u0142amki, fragmenty, krach, gruz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SZK\u0141O",
+  "SubCategory": "TARCIE",
+  "Synonyms": "napr\u0119\u017cy\u0107 si\u0119, skroba\u0107, skrzypie\u0107, piszcze\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SZK\u0141O",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "uchwyci\u0107, z\u0142apa\u0107, postawi\u0107, podnie\u015b\u0107, postawi\u0107, podrzuci\u0107, z\u0142apa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SZK\u0141O",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "uderzenie, upadek, uderzenie, brz\u0119k"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SZK\u0141O",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SZK\u0141O",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "grzechota\u0107, toczy\u0107, pingowa\u0107, klekota\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SZK\u0141O",
+  "SubCategory": "TONALNE",
+  "Synonyms": "rezonowa\u0107, dzwoni\u0107, tonowa\u0107, szklana harmonijka, kryszta\u0142owa misa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FLAKI",
+  "SubCategory": "KREW",
+  "Synonyms": "kapa\u0107, p\u0142yn\u0105\u0107, tryska\u0107, tryska\u0107, rozpyla\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FLAKI",
+  "SubCategory": "KO\u015a\u0106",
+  "Synonyms": "trzask ko\u015bci, z\u0142amanie ko\u015bci, roztrzaskanie ko\u015bci, trzask szcz\u0119ki, szcz\u0119ki"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FLAKI",
+  "SubCategory": "PALENIE",
+  "Synonyms": "skwiercze\u0107, kauteryzowa\u0107, widzie\u0107, naznacza\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FLAKI",
+  "SubCategory": "MI\u0118SO",
+  "Synonyms": "rozerwa\u0107, obra\u0107, rozerwa\u0107, rozerwa\u0107, jelito, mi\u0119so, rana"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FLAKI",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FLAKI",
+  "SubCategory": "P\u00d3\u0141P\u0141YNNE",
+  "Synonyms": "mu\u0142, szlam, p\u0142yn\u0105\u0107, \u017celatyna"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FLAKI",
+  "SubCategory": "MATERIA\u0141Y \u0179R\u00d3D\u0141OWE",
+  "Synonyms": "goosh, squish, goop, slime, ooze, glop, organ, jelito, juicy, goo, splat, ooze, rip, peel, stab, tear, rend, intestine, meat, wound, slice, impale, juicy, splat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FLAKI",
+  "SubCategory": "PLA\u015aNI\u0118CIE",
+  "Synonyms": "goosh, squish, goop, slime, ooze, glop, organ, jelito, juicy, goo, splat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FLAKI",
+  "SubCategory": "WYCISKANIE",
+  "Synonyms": "squish, cia\u0142o, organ, goosh, jelito, soczysty, splat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "FLAKI",
+  "SubCategory": "D\u0179GNI\u0118CIE",
+  "Synonyms": "slice, impale, stab, cut, vorpal, dismember"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BRO\u0143 PALNA",
+  "SubCategory": "STARODAWNA",
+  "Synonyms": "kaganek, muszkiet, czarnoprochowiec, flintlock, longrifle, lanca ogniowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BRO\u0143 PALNA",
+  "SubCategory": "ARTYLERIA",
+  "Synonyms": "haubica, dzia\u0142o przeciwlotnicze, wyrzutnia rakiet, bazooka, mo\u017adzierz, rakieta, marynarka wojenna"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BRO\u0143 PALNA",
+  "SubCategory": "AUTOMATYCZNA",
+  "Synonyms": "ak-47, m16, pistolet maszynowy, tommy gun, uzi, m249, M1919, gatling gun, minigun, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BRO\u0143 PALNA",
+  "SubCategory": "ARMATA",
+  "Synonyms": "Blunderbuss, handcannon, armata, czarny proch"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BRO\u0143 PALNA",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "kabura, bro\u0144, chwytanie broni, \u0142apanie broni, podrzucanie broni, \u0142adowanie broni"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BRO\u0143 PALNA",
+  "SubCategory": "HITECH",
+  "Synonyms": "bro\u0144 szynowa, bro\u0144 szpiegowska"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BRO\u0143 PALNA",
+  "SubCategory": "MECHANIZM",
+  "Synonyms": "klips, kurek, grzechotanie broni, suwad\u0142o, magazynek, \u0142adowanie pocisk\u00f3w, kurek pistoletu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BRO\u0143 PALNA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "pistolet na flary, pistolet pneumatyczny, pistolet paintballowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BRO\u0143 PALNA",
+  "SubCategory": "PISTOLET",
+  "Synonyms": "9mm, pistolet, rewolwer, glock, pistolet r\u0119czny, colt, smith & wesson, sig sauer, luger, walther ppk, browning, ruger, beretta"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BRO\u0143 PALNA",
+  "SubCategory": "KARABIN",
+  "Synonyms": "karabin, mauser, casull, arisaka, luger, karabinek, powell, snajperski, my\u015bliwski, p\u00f3\u0142automatyczny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BRO\u0143 PALNA",
+  "SubCategory": "STRZELBA",
+  "Synonyms": "strzelba, dwulufowa, mossberg, winchester, coach gun"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "BRO\u0143 PALNA",
+  "SubCategory": "Z T\u0141UMIKIEM",
+  "Synonyms": "wyciszony, t\u0142umik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TR\u0104BY",
+  "SubCategory": "PRZEMYS\u0141OWE",
+  "Synonyms": "klakson przeciwmgielny, klakson powietrzny, klakson fabryczny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TR\u0104BY",
+  "SubCategory": "IMPREZOWE",
+  "Synonyms": "klakson imprezowy, wuwuzela"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TR\u0104BY",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "dzwonek my\u015bliwski, dzwonek na \u0142osia, dzwonek na kaczki, hejna\u0142 na lisa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "TR\u0104BY",
+  "SubCategory": "TRADYCYJNE",
+  "Synonyms": "shofar, koncha, muszla konchy, r\u00f3g bojowy, alphorn, alpine horn, alpenhorn"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUDZIE",
+  "SubCategory": "PODMUCH",
+  "Synonyms": "dmucha\u0107, wydech"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUDZIE",
+  "SubCategory": "ODDECH",
+  "Synonyms": "oddech, westchnienie, wdech, wydech, sapanie, dyszenie, sapanie, chuchanie, sapanie, oddychanie, wdech, wydech"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUDZIE",
+  "SubCategory": "BEKANIE",
+  "Synonyms": "bekni\u0119cie, bekni\u0119cie, czkawka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUDZIE",
+  "SubCategory": "KASZEL",
+  "Synonyms": "hack, ahem, hoarse, clear throat"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUDZIE",
+  "SubCategory": "BICIE SERCA",
+  "Synonyms": "palpitacja, bumbum"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUDZIE",
+  "SubCategory": "POCA\u0141UNEK",
+  "Synonyms": "smooch, peck"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUDZIE",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUDZIE",
+  "SubCategory": "SIKANIE",
+  "Synonyms": "siusianie, oddawanie moczu, sikanie, oddawanie moczu, majstrowanie, wizz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUDZIE",
+  "SubCategory": "SK\u00d3RA",
+  "Synonyms": "rubbing, scratching, skin, itch, slap, hand grab, handshake, caress, rub, backrub"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUDZIE",
+  "SubCategory": "KICHNI\u0118CIE",
+  "Synonyms": "kicha\u0107, ah-choo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUDZIE",
+  "SubCategory": "W\u0104CHANIE",
+  "Synonyms": "sniff, sniffing, smell, sniffle"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUDZIE",
+  "SubCategory": "CHRAPANIE",
+  "Synonyms": "snore, zzz, congested, heavy breathing, apnea"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUDZIE",
+  "SubCategory": "SPLUNI\u0118CIE",
+  "Synonyms": "spit, hock, spew, spittoon, drool"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LUDZIE",
+  "SubCategory": "WYMIOTOWANIE",
+  "Synonyms": "wymiotowa\u0107, rzyga\u0107, wypluwa\u0107, wyrzuca\u0107 z siebie, chucha\u0107, guga\u0107, rechota\u0107, ciska\u0107, plu\u0107, choroba morska"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00d3D",
+  "SubCategory": "\u0141AMANIE",
+  "Synonyms": "\u0142ama\u0107, p\u0119ka\u0107, rozrywa\u0107, roztrzaskiwa\u0107, chrupa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00d3D",
+  "SubCategory": "ROZBICIE I OD\u0141AMKI",
+  "Synonyms": "rozbicie, upadek, gruz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00d3D",
+  "SubCategory": "TARCIE",
+  "Synonyms": "napr\u0119\u017ca\u0107 si\u0119, skroba\u0107, skrzypie\u0107, piszcze\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00d3D",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "uchwyci\u0107, z\u0142apa\u0107, postawi\u0107, podnie\u015b\u0107, postawi\u0107, podrzuci\u0107, z\u0142apa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00d3D",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "uderzenie, upadek, uderzenie, zderzenie, brz\u0119k, brz\u0119k, brz\u0119k, brz\u0119k, brz\u0119k, brz\u0119k"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00d3D",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00d3D",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "ci\u0105gn\u0105\u0107, toczy\u0107, grzechota\u0107, trz\u0105\u015b\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "L\u00d3D",
+  "SubCategory": "TONALNE",
+  "Synonyms": "\u0142uk, pier\u015bcie\u0144, trzask"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LASERY",
+  "SubCategory": "PROMIE\u0143",
+  "Synonyms": "promie\u0144, gamma, ray"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LASERY",
+  "SubCategory": "BRO\u0143",
+  "Synonyms": "bro\u0144 plazmowa, blaster, dzia\u0142o laserowe"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LASERY",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "laser, blaster, uderzenie, trafienie, skwierczenie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LASERY",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SK\u00d3RA",
+  "SubCategory": "SKRZYPIENIE",
+  "Synonyms": "skrzypienie, stres, napi\u0119cie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SK\u00d3RA",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "uchwyt, chwyci\u0107, ustawi\u0107, podnie\u015b\u0107, ustawi\u0107, podrzuci\u0107, z\u0142apa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SK\u00d3RA",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "uderzenie, uderzenie, chwyt, uderzenie, uderzenie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SK\u00d3RA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SK\u00d3RA",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "klapni\u0119cie, klapni\u0119cie, szelest, ruch, \u015blizganie si\u0119"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "P\u0141YNY I B\u0141OTO",
+  "SubCategory": "B\u0104BLE",
+  "Synonyms": "ba\u0144ka, piana, pop, b\u0142oto"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "P\u0141YNY I B\u0141OTO",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "splat, splatter, hit, impact, plop, kerplunk, plunk, mud"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "P\u0141YNY I B\u0141OTO",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "P\u0141YNY I B\u0141OTO",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "mu\u0142, szlam, goo, b\u0142oto"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "P\u0141YNY I B\u0141OTO",
+  "SubCategory": "ZASYSANIE",
+  "Synonyms": "ssanie, siorbanie, glomp, t\u0142ok, b\u0142oto"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "PARK ROZRYWKI",
+  "Synonyms": "rollercoaster, karuzela, scrambler, tilt-a-wirl, kiddy ride, theme park ride, pinball, skeeball"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "STARODAWNE",
+  "Synonyms": "prasa drukarska, maszyna do szycia, prasa do oliwek, maselnica"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "AGD",
+  "Synonyms": "piekarnik, lod\u00f3wka, ch\u0142odziarka, blender, robot kuchenny, suszarka do w\u0142os\u00f3w, kostkarka do lodu, pralka, suszarka, \u017celazko, ekspres do kawy, zmywarka, elektryczny otwieracz do puszek, wyrzucanie \u015bmieci, nawil\u017cacz, osuszacz, maszyna do szycia, toster, gofrownica, ruszt, p\u0142yta grzewcza"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "BUDOWLANE",
+  "Synonyms": "d\u017awig, betoniarka, r\u0119bak do drewna"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "WINDA",
+  "Synonyms": "paternoster, winda towarowa, winda osobowa, winda"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "RUCHOME SCHODY",
+  "Synonyms": "travelator, ruchomy chodnik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "WENTYLATOR",
+  "Synonyms": "wentylator, wentylator sufitowy, wentylator skrzyniowy, wentylator przemys\u0142owy, wentylator bez \u0142opatek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "OGR\u00d3D",
+  "Synonyms": "kosiarka, glebogryzarka, podkaszarka, pi\u0142a \u0142a\u0144cuchowa, podkaszarka, kijanka, mulczer, kultywator"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "SI\u0141OWNIA",
+  "Synonyms": "bie\u017cnia, eliptical, wio\u015blarz, rower treningowy, rower stacjonarny, nordictrack, schodo\u0142az."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "HITECH",
+  "Synonyms": "gad\u017cet, cyfrowy, podr\u0119czny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "KLIMATYZACJA I OGRZEWANIE",
+  "Synonyms": "aircon, klimatyzacja, ogrzewanie."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "PRZEMYS\u0141OWE",
+  "Synonyms": "prasa hydrauliczna, linia monta\u017cowa, gorzelnia, prasa wykrawaj\u0105ca, prasa formuj\u0105ca+F437:F450"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "MECHANIZM",
+  "Synonyms": "puzzle box, rube goldberg, gizmo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "MEDYCZNE",
+  "Synonyms": "aparaty rentgenowskie, rezonans magnetyczny, skanowanie kot\u00f3w, skanowanie zwierz\u0105t, aparat do pomiaru ci\u015bnienia krwi, aparat do bada\u0144 laboratoryjnych, wir\u00f3wka, respirator, defibrylator"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "BIUROWE",
+  "Synonyms": "faks, faks, telefaks, kopiarka, drukarka, niszczarka, ksero, fotokopiarka, pantograf, drukarka laserowa, atramentowa, niszczarka do papieru, ploter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MASZYNY",
+  "SubCategory": "POMPA",
+  "Synonyms": "pompa wodna, pompa studzienna, kompresor, kompresor powietrza"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGIA",
+  "SubCategory": "NIEBIA\u0143SKA",
+  "Synonyms": "\u015bwi\u0119ty, niebia\u0144ski, eteryczny, boski, duchowy, beatyfikacyjny, sprawiedliwy, \u015bwi\u0119ty"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGIA",
+  "SubCategory": "\u017bYWIO\u0141Y",
+  "Synonyms": "ogie\u0144, woda, ziemia, elektryczny, powietrze, wiatr"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGIA",
+  "SubCategory": "Z\u0141O",
+  "Synonyms": "ciemno\u015b\u0107, diabe\u0142, przywo\u0142anie, nekromancja, voodoo, czarna magia, zakazane"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGIA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGIA",
+  "SubCategory": "ZAP\u0141ON",
+  "Synonyms": "chuff, foomp, blast"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGIA",
+  "SubCategory": "L\u015aNIENIE",
+  "Synonyms": "twinkle, sparkle, bell tree, chime, glint, glisten, glitter, scintillation, glow, glimmer, gleam"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MAGIA",
+  "SubCategory": "CZAROWANIE",
+  "Synonyms": "czarownica, czarodziej, czarownik, rzucanie, inkantacja, heks, runa, czary, zaklinanie, inwokacja, zaklinanie, egzorcyzm, kl\u0105twa, trans"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANIZMY",
+  "SubCategory": "KLIK",
+  "Synonyms": "klikni\u0119cie, trzask, pstrykni\u0119cie, prze\u0142\u0105czenie, przycisk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANIZMY",
+  "SubCategory": "KO\u0141O Z\u0118BATE",
+  "Synonyms": "ko\u0142o z\u0119bate, z\u0119batka, z\u0119batka, przek\u0142adnia, ko\u0142o z\u0119bate, ko\u0142o z\u0119bate, ko\u0142o zamachowe"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANIZMY",
+  "SubCategory": "HYDRAULICZNE I PNEUMATYCZNE",
+  "Synonyms": "hydrauliczny, pneumatyczny, pod ci\u015bnieniem, zaw\u00f3r"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANIZMY",
+  "SubCategory": "ZASUWA",
+  "Synonyms": "zatrzask, okucie, zamek, klamra, hasp, rygiel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANIZMY",
+  "SubCategory": "D\u0179WIGNIA",
+  "Synonyms": "d\u017awignia, prze\u0142\u0105cznik, brz\u0119k, brz\u0119k"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANIZMY",
+  "SubCategory": "ZAMEK",
+  "Synonyms": "k\u0142\u00f3dka, zamkni\u0119cie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANIZMY",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANIZMY",
+  "SubCategory": "KR\u0104\u017bEK",
+  "Synonyms": "skrzypienie, \u0107wierkanie, turlanie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANIZMY",
+  "SubCategory": "ZAPADKA",
+  "Synonyms": "grzechotka, pstrykni\u0119cie, klikni\u0119cie, wiatr, korba, wci\u0105garka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANIZMY",
+  "SubCategory": "ZESP\u00d3\u0141 PRZE\u0141\u0104CZNIK\u00d3W",
+  "Synonyms": "flip, toggle, clack"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANIZMY",
+  "SubCategory": "WA\u0141EK",
+  "Synonyms": "rolka, pasek, wa\u0142ek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MECHANIZMY",
+  "SubCategory": "PRZE\u0141\u0104CZNIK",
+  "Synonyms": "prze\u0142\u0105cznik, klikni\u0119cie, klikni\u0119cie, toggle, przycisk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "\u0141AMANIE",
+  "Synonyms": "z\u0142ama\u0107, p\u0119kn\u0105\u0107, rozerwa\u0107, roztrzaska\u0107, chrupn\u0105\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "ROZBICIE I OD\u0141AMKI",
+  "Synonyms": "zderzenie, upadek, od\u0142amki"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "TARCIE",
+  "Synonyms": "napr\u0119\u017cenie, zadrapanie, skrzypienie, pisk, \u0142oskot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "uchwyci\u0107, z\u0142apa\u0107, ustawi\u0107, podnie\u015b\u0107, ustawi\u0107 w d\u00f3\u0142, podrzuci\u0107, z\u0142apa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "uderzenie, upadek, uderzenie, zderzenie, brz\u0119k, brz\u0119k"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "ci\u0105gn\u0105\u0107, toczy\u0107, grzechota\u0107, trz\u0105\u015b\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "METAL",
+  "SubCategory": "TONALNE",
+  "Synonyms": "\u0142uk, pier\u015bcie\u0144, wronk, shing, wypaczenie, zgi\u0119cie, rezonans"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SILNIKI",
+  "SubCategory": "STARODAWNE",
+  "Synonyms": "silnik naftowy, silnik parafinowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SILNIKI",
+  "SubCategory": "SPALINOWE",
+  "Synonyms": "silnik na olej nap\u0119dowy, silnik gazowy, silnik spalinowy, silnik dwusuwowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SILNIKI",
+  "SubCategory": "ELEKTRYCZNE",
+  "Synonyms": "szczoteczka do z\u0119b\u00f3w, maszynka elektryczna, silnik elektryczny, wyrzucanie \u015bmieci, wiert\u0142o dentystyczne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SILNIKI",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SILNIKI",
+  "SubCategory": "SERWOMECHANIZM",
+  "Synonyms": "robot, samoch\u00f3d rc, ostro\u015b\u0107 kamery, antena samochodowa, drukarka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SILNIKI",
+  "SubCategory": "TURBINA",
+  "Synonyms": "wiatrak, samolot, samolot, generator"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RUCH",
+  "SubCategory": "AKTYWNO\u015a\u0106",
+  "Synonyms": "czynno\u015b\u0107, przeprowadzka, sprz\u0105tanie, zakupy, rozpakowywanie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RUCH",
+  "SubCategory": "ZWIERZ\u0118TA",
+  "Synonyms": "stampede, stado, szar\u017ca, depta\u0107, scramble"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RUCH",
+  "SubCategory": "STW\u00d3R",
+  "Synonyms": "\u015blizga\u0107 si\u0119, czo\u0142ga\u0107 si\u0119, \u015blizga\u0107 si\u0119, wierci\u0107 si\u0119, wierci\u0107 si\u0119"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RUCH",
+  "SubCategory": "T\u0141UM",
+  "Synonyms": "chodzi\u0107, biega\u0107, maszerowa\u0107, m\u0142ynkowa\u0107, tasowa\u0107, siedzie\u0107, sta\u0107, le\u017ce\u0107, \u015blizga\u0107 si\u0119, skaka\u0107, przeskakiwa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RUCH",
+  "SubCategory": "LUDZIE",
+  "Synonyms": "chodzi\u0107, biega\u0107, maszerowa\u0107, m\u0142ynkowa\u0107, tasowa\u0107, siada\u0107, sta\u0107, le\u017ce\u0107, \u015blizga\u0107 si\u0119, skaka\u0107, przeskakiwa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RUCH",
+  "SubCategory": "OWAD",
+  "Synonyms": "r\u00f3j, r\u00f3j, ul, pszcz\u00f3\u0142ka, \u015blimak, larwa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RUCH",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RUCH",
+  "SubCategory": "OBECNO\u015a\u0106",
+  "Synonyms": "regulowa\u0107, tasowa\u0107, szura\u0107, lekki ruch, przesuni\u0119cie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "DZWONY",
+  "Synonyms": "dzwony rurowe, carillon, gamelan, \u015bpiewaj\u0105ca misa, dzwonek r\u0119czny, cowbell, gong, gamelan, agung, bowl gong, tam-tam"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "D\u0118TE BLASZANE",
+  "Synonyms": "tuba, waltornia, puzon, tr\u0105bka, mellofon, euforia, suzafon, flugelhorn, bugle, saxhorn, kornet"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "DZWONEK",
+  "Synonyms": "gong wietrzny, dzwonek, dzwoneczek, dzwoneczek, dzwoneczek, dzwoneczek, dzwoneczek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "CH\u00d3R",
+  "Synonyms": "ch\u00f3r, ch\u00f3ralne, gospel, ko\u015bcielne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "EKSPERYMENTALNE",
+  "Synonyms": "theremin, szklana armonica, pirofon, stylofon, cristal baschet, naelektryzowany kaktus, eolska harfa wiatrowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "INSTRUMENT",
+  "Synonyms": "instrument"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "KLAWISZOWE",
+  "Synonyms": "fortepian, organy, klawesyn, akordeon, melodica, czelesta, szpinet, klawikord, harmonium, dulcyton"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "LOOP",
+  "Synonyms": "p\u0119tle muzyczne, p\u0119tle sampli, p\u0119tle perkusyjne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne, harmonijka, kazoo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "PERKUSYJNE",
+  "Synonyms": "timpani, kettle drum, bass drum, toms, b\u0119bny wojenne, taiko, kick drum, snare drum"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "PERKUSJA TONALNA",
+  "Synonyms": "glockenspiel, ksylofon, wibrafon, metalofon, lira dzwonkowa, stalowy b\u0119ben, marimba"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "WYST\u0118P",
+  "Synonyms": "zesp\u00f3\u0142, muzyk uliczny, koncert na \u017cywo, show, klub nocny, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "SZARPANE",
+  "Synonyms": "gitara, banjo, ukelele, harfa, gitara akustyczna, gitara basowa, mandolina, ba\u0142a\u0142ajka, sitar, pipa, pianino kciukowe, harfa szcz\u0119kowa, cytra, ba\u0142a\u0142ajka, autoharp, kora, lutnia, lira, oud, tambura, karimba"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "SAMPLE",
+  "Synonyms": "pr\u00f3bki, surowe pr\u00f3bki, one-shot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "POTRZ\u0104SANE",
+  "Synonyms": "marakasy, tamburyn, grzechotki, kij deszczowy, shekere , eggs shaker, chajchas, monkey stick, katsa, sistrum, shaker, cabasa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "PIOSENKA I FRAZA",
+  "Synonyms": "muzyka, player piano, ringtone, musical car by, phrase"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "AKCENT",
+  "Synonyms": "music sting, news sting, tytu\u0142"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "STRUNOWE",
+  "Synonyms": "skrzypce, wiolonczela, alt\u00f3wka, wiolonczela, bas, kontrabas"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "SYNTEZATOR",
+  "Synonyms": "syntezator, moog, casio, roland, arp, syntezator, oberheim, minimoog, yamaha, korg"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "ZABAWKA",
+  "Synonyms": "pozytywka, jack in the box"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "MUZYCZNE",
+  "SubCategory": "D\u0118TE DREWNIANE",
+  "Synonyms": "flet, piccolo, ob\u00f3j, fagot, rejestrator, klarnet, saksofon, klarnet basowy, ney, bansuri, kaval, fletnia pana, xiao, fife, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KL\u0118SKA \u017bYWIO\u0141OWA",
+  "SubCategory": "LAWINA",
+  "Synonyms": "osuwisko, b\u0142oto"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KL\u0118SKA \u017bYWIO\u0141OWA",
+  "SubCategory": "TRZ\u0118SIENIE ZIEMI",
+  "Synonyms": "trz\u0119sienie ziemi, huk, grzechotka, szczelina, lfe"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KL\u0118SKA \u017bYWIO\u0141OWA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KL\u0118SKA \u017bYWIO\u0141OWA",
+  "SubCategory": "TORNADO",
+  "Synonyms": "tornado, wir, tr\u0105ba powietrzna"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KL\u0118SKA \u017bYWIO\u0141OWA",
+  "SubCategory": "TSUNAMI",
+  "Synonyms": "fala p\u0142ywowa, tsunami"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KL\u0118SKA \u017bYWIO\u0141OWA",
+  "SubCategory": "TAJFUN",
+  "Synonyms": "tajfun, huragan, cyklon, burza tropikalna"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KL\u0118SKA \u017bYWIO\u0141OWA",
+  "SubCategory": "WULKAN",
+  "Synonyms": "erupcja, lawa, bomby lawowe, erupcje, piroklast"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "TORBA",
+  "Synonyms": "duffle, backpack, back pack, purse, handbag, shoulder bag, camera bag"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "KSI\u0104\u017bKA",
+  "Synonyms": "ksi\u0105\u017cka, ok\u0142adka, czasopismo, katalog, podr\u0119cznik, s\u0142ownik, tom, biblia, publikacja"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "MONETA",
+  "Synonyms": "podrzuca\u0107, przerzuca\u0107, pingowa\u0107, wyrzuca\u0107, kr\u0119ci\u0107, skarbonka, brz\u0119k, bilon, lu\u017ana zmiana, reszta, srebrny dolar, penny, nickel, dime, quarter"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "KONTENER",
+  "Synonyms": "pude\u0142ko, pude\u0142ko kartonowe, pojemnik, opakowanie, pude\u0142ko na bi\u017cuteri\u0119, plastikowy pojemnik, pokrywka, tupperware, kapsu\u0142ka, chlebak, kanister, skrzynka na narz\u0119dzia, pude\u0142ko na tabletki"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "OGR\u00d3D",
+  "Synonyms": "buty, buty, tusz do rz\u0119s, szminka, makija\u017c, pasek, szarfa, szalik, buty na wysokich obcasach, eyeliner, okulary przeciws\u0142oneczne, okulary, portfel, kapelusz, r\u0119kawiczki, zegarki, szal, skarpety, bandana, opaska, krawaty, mufki, szelki, szlafrok, chustka do nosa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "SI\u0141OWNIA",
+  "Synonyms": "chesterfield, sofa, fotel bujany, st\u00f3\u0142, krzes\u0142o, loveseat, taboret, szafka, rega\u0142, \u0142\u00f3\u017cko, kanapa, skrzynia"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "MODA",
+  "Synonyms": "donica, rze\u017aba ogrodowa, w\u0105\u017c, kran, konewka, karmnik dla ptak\u00f3w, kompostownik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "MEBLE",
+  "Synonyms": "waga, hantle, sztanga, mata, \u0142awka do \u0107wicze\u0144, skakanka, pi\u0142ka do \u0107wicze\u0144, mata do jogi, \u0142awka do \u0107wicze\u0144, ta\u015bma oporowa, kettlebell, pi\u0142ka fitness, pi\u0142ka do \u0107wicze\u0144"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "DOMOWE",
+  "Synonyms": "dom, dom, dom"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "BI\u017bUTERIA",
+  "Synonyms": "bransoletka, naszyjnik, korona, kolczyk, pier\u015bcionek, noside\u0142ko, wisiorek, spinka do krawata, spinki do mankiet\u00f3w"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "KLUCZE",
+  "Synonyms": "brelok, brelok do kluczy, smycz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "BAGA\u017b",
+  "Synonyms": "walizka, baga\u017c, torba na k\u00f3\u0142kach, duffel"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "MEDYCZNE",
+  "Synonyms": "ci\u015bnieniomierz r\u0119czny, stetoskop, r\u0119kawiczki gumowe, zacisk, strzykawka, kleszcze"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "BIUROWE",
+  "Synonyms": "zszywacz, no\u017cyk do papieru, dziurkacz, no\u017cyczki, podajnik do papieru, przycisk do papieru, teczka, segregator, raport"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "PAKOWANIE",
+  "Synonyms": "karton, styropian, orzeszki ziemne, etykiety, papier pakowy, folia b\u0105belkowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "TA\u015aMA",
+  "Synonyms": "ta\u015bma, rzep, papier toaletowy, klej, ta\u015bma pakowa, ta\u015bma maskuj\u0105ca, ta\u015bma duct tape, ta\u015bma gaffer, ta\u015bma scotch, ta\u015bma double stick"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "PARASOL",
+  "Synonyms": "potrz\u0105sanie, szelest, pop, uderzenie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "NA K\u00d3\u0141KACH",
+  "Synonyms": "w\u00f3zek dzieci\u0119cy, perambulator, w\u00f3zek inwalidzki, lalka, w\u00f3zek spacerowy, w\u00f3zek, nosze"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "PISANIE",
+  "Synonyms": "d\u0142ugopis, o\u0142\u00f3wek, marker, kreda, kredki, tablica sucho\u015bcieralna, sharpie, podpis"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PRZEDMIOTY",
+  "SubCategory": "ZAMEK B\u0141YSKAWICZNY",
+  "Synonyms": "zamek b\u0142yskawiczny, spodnie, kurtka, namiot, torba"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPIER",
+  "SubCategory": "TRZEPOTANIE",
+  "Synonyms": "trzepotanie, klapanie, spadanie, konfetti, karton, papier"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPIER",
+  "SubCategory": "TARCIE",
+  "Synonyms": "przesuwanie, skrobanie, karton, papier"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPIER",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "obraca\u0107, strona, przerzuca\u0107, przegl\u0105da\u0107, przegl\u0105da\u0107, karton, papier"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPIER",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "uderzenie papieru, klaps, spoliczkowanie, gazeta, magazyn, karton, papier"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPIER",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPIER",
+  "SubCategory": "ROZRYWANIE",
+  "Synonyms": "drze\u0107, rozrywa\u0107, strz\u0119pi\u0107, karton, papier"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PAPIER",
+  "SubCategory": "TONALNE",
+  "Synonyms": "tonalny, \u015bpiewaj\u0105cy, dzwoni\u0105cy, papier, karton"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIK",
+  "SubCategory": "\u0141AMANIE",
+  "Synonyms": "\u0142ama\u0107, p\u0119ka\u0107, rozrywa\u0107, rozbija\u0107, chrupa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIK",
+  "SubCategory": "ROZBICIE I OD\u0141AMKI",
+  "Synonyms": "upadek, zderzenie, gruz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIK",
+  "SubCategory": "TARCIE",
+  "Synonyms": "napr\u0119\u017ca\u0107, skroba\u0107, skrzypienie, piszcze\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIK",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "uchwyci\u0107, z\u0142apa\u0107, ustawi\u0107, podnie\u015b\u0107, postawi\u0107, podrzuci\u0107, z\u0142apa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIK",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "uderzenie, upadek, uderzenie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIK",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIK",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "ci\u0105gn\u0105\u0107, toczy\u0107, grzechota\u0107, trz\u0105\u015b\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "PLASTIK",
+  "SubCategory": "TONALNE",
+  "Synonyms": "tonalny, \u015bpiew, dzwonienie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESZCZ",
+  "SubCategory": "TKANINA",
+  "Synonyms": "deszcz, tkanina, kurtka, parasol, bawe\u0142na"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESZCZ",
+  "SubCategory": "BETON",
+  "Synonyms": "deszcz, cement, chodnik, asfalt"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESZCZ",
+  "SubCategory": "OG\u00d3LNE",
+  "Synonyms": "deszcz, burza, ulewa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESZCZ",
+  "SubCategory": "SZK\u0141O",
+  "Synonyms": "deszcz, szk\u0142o, \u015bwietlik, okno, szyberdach, szklarnia"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESZCZ",
+  "SubCategory": "WEWN\u0104TRZ",
+  "Synonyms": "deszcz, ulewa, deszcz wewn\u0119trzny, deszcz na szybie, deszcz na dachu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESZCZ",
+  "SubCategory": "METAL",
+  "Synonyms": "deszcz, metal, samoch\u00f3d, puszka, blaszka, dach"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESZCZ",
+  "SubCategory": "PLASTIK",
+  "Synonyms": "deszcz, plastik, winyl, plexi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESZCZ",
+  "SubCategory": "RO\u015aLINNO\u015a\u0106",
+  "Synonyms": "Deszcz na powierzchni metalowej, a wi\u0119c deszcz na samochodzie, lub blasze itp."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESZCZ",
+  "SubCategory": "WODA",
+  "Synonyms": "deszcz, ka\u0142u\u017ca, jezioro, staw"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DESZCZ",
+  "SubCategory": "DREWNO",
+  "Synonyms": "deszcz, drewno, pok\u0142ad, dach, szopa, pod\u0142oga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ROBOT",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "automat, droid, bot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ROBOT",
+  "SubCategory": "RUCHY",
+  "Synonyms": "serwo, solenoid, mechanizm, pneumatyczny, hydrauliczny, droid, bot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ROBOT",
+  "SubCategory": "G\u0141OS",
+  "Synonyms": "droid, \u0107wierkanie, bip, gwizd, bot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAMIENIE",
+  "SubCategory": "\u0141AMANIE",
+  "Synonyms": "Z\u0142amania, p\u0119kni\u0119cia, rozerwania, rozbicia, zgniecenia"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAMIENIE",
+  "SubCategory": "ROZBICIE I OD\u0141AMKI",
+  "Synonyms": "Upadek, gruz"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAMIENIE",
+  "SubCategory": "TARCIE",
+  "Synonyms": "Stres, zadrapania, skrzypienie, piski, pisk."
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAMIENIE",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "uchwyci\u0107, z\u0142apa\u0107, ustawi\u0107, podnie\u015b\u0107, postawi\u0107, podrzuci\u0107, z\u0142apa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAMIENIE",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "Uderzenie, upadek, uderzenie, zderzenie, brz\u0119k, brz\u0119k, brz\u0119k, brz\u0119k, brz\u0119k, brz\u0119k"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAMIENIE",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAMIENIE",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "Przeci\u0105ganie, toczenie, grzechotanie, potrz\u0105sanie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "KAMIENIE",
+  "SubCategory": "TONALNE",
+  "Synonyms": "Wygi\u0119cie, Pier\u015bcie\u0144, Wronk, Shing, Warp"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LINA",
+  "SubCategory": "SKRZYPIENIE",
+  "Synonyms": "rozci\u0105ga\u0107, napina\u0107, ci\u0105gn\u0105\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LINA",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "uchwyci\u0107, z\u0142apa\u0107, ustawi\u0107, podnie\u015b\u0107, ustawi\u0107 w d\u00f3\u0142, podrzuci\u0107, z\u0142apa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LINA",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "uderzenie, upadek, uderzenie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LINA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "LINA",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "zuzz, zipline, zip, w\u0119ze\u0142, wi\u0105za\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GUMA",
+  "SubCategory": "ROZBICIE I OD\u0141AMKI",
+  "Synonyms": "od\u0142amki, rozsypa\u0107 si\u0119, wypa\u015b\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GUMA",
+  "SubCategory": "TARCIE",
+  "Synonyms": "piszcze\u0107, skrzypie\u0107, ci\u0105gn\u0105\u0107, trze\u0107, skroba\u0107, j\u0119cze\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GUMA",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "uchwyci\u0107, z\u0142apa\u0107, ustawi\u0107, podnie\u015b\u0107, ustawi\u0107, podrzuci\u0107, z\u0142apa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GUMA",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "klaps, uderzenie, trafienie, odbicie, upadek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GUMA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GUMA",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "ruch, przeci\u0105ganie, klapni\u0119cie, klapni\u0119cie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GUMA",
+  "SubCategory": "TONALNE",
+  "Synonyms": "tonalny, gumowy, \u015bpiewny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "ALARM",
+  "Synonyms": "alarm sci-fi, alarm, ostrze\u017cenie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "KOMPUTER",
+  "Synonyms": "komputer, konsola, interfejs, holoscreen"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "DRZWI",
+  "Synonyms": "sci-fi drzwi, \u015bluza powietrzna"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "ENERGIA",
+  "Synonyms": "cz\u0105stka, wir, transporter, hologram, pole si\u0142owe"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "uderzenie energii, fala energii, pole si\u0142owe"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "MASZYNA",
+  "Synonyms": "teleporter, replikatory jedzenia, holodek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "MECHANIZM",
+  "Synonyms": "tricorder, urz\u0105dzenie scifi, gizmo"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "RETRO",
+  "Synonyms": "stare sci-fi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "STATEK KOSMICZNY",
+  "Synonyms": "statek kosmiczny, ufo, statek-matka, kr\u0105\u017cownik, statek kosmiczny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "POJAZD",
+  "Synonyms": "\u0142azik ksi\u0119\u017cycowy, landspeeder, speeder bike, hoverboard, podracer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SCIFI",
+  "SubCategory": "BRO\u0143",
+  "Synonyms": "miecze \u015bwietlne, bro\u0144 egzotyczna"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u015aNIEG",
+  "SubCategory": "ROZBICIE I OD\u0141AMKI",
+  "Synonyms": "\u015bnie\u017cna kula, \u015bnie\u017cna kraksa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u015aNIEG",
+  "SubCategory": "TARCIE",
+  "Synonyms": "napr\u0119\u017cenie, zgrzyt, skrzypienie, pisk, \u0142oskot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u015aNIEG",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "uchwyci\u0107, z\u0142apa\u0107, ustawi\u0107, podnie\u015b\u0107, postawi\u0107, podrzuci\u0107, z\u0142apa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u015aNIEG",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "\u015bnie\u017cna kula, \u015bnie\u017cny dryf, przewr\u00f3cenie, upadek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u015aNIEG",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "\u015aNIEG",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "brodzi\u0107, ci\u0105gn\u0105\u0107, p\u0142ug, fumble"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "KORT I BOISKO UTWARDZONE",
+  "Synonyms": "koszyk\u00f3wka, tenis, szermierka, siatk\u00f3wka, racquetball, badminton, netball, squash, dodgeball, shuffleboard, pi\u0142ka r\u0119czna"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "BOISKO ZIEMNE",
+  "Synonyms": "pi\u0142ka no\u017cna, pi\u0142ka no\u017cna, baseball, hokej, krykiet, rugby, polo, lacrosse"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "SALA GIMNASTYCZNA",
+  "Synonyms": "boks, zapasy, gimnastyka, trening si\u0142owy, sztuki walki, karate, judo, tae kwon do, dojo, kung fu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "WE WN\u0118TRZU",
+  "Synonyms": "kr\u0119gle, bilard, ping pong, rzutki"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "golf"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "NA K\u00d3\u0141KACH",
+  "Synonyms": "jazda na deskorolce, rolkach, wrotkach, hulajnodze"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "LEKKOATLETYKA",
+  "Synonyms": "skok w dal, bieg, skok o tyczce, strza\u0142 w dziesi\u0105tk\u0119, rzut oszczepem"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "WODNY",
+  "Synonyms": "p\u0142ywanie, water polo, siatk\u00f3wka wodna, nurkowanie, narty wodne, surfing, kiteboarding, scuba, snorkeling"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SPORT",
+  "SubCategory": "ZIMOWY",
+  "Synonyms": "narciarstwo, snowboard, bobsleje, \u0142y\u017cwiarstwo, saneczkarstwo, curling, hokej na lodzie, saneczkarstwo, \u0142y\u017cwiarstwo szybkie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SWOOSH",
+  "SubCategory": "SWISH",
+  "Synonyms": "\u015bwist, kungfu, whizby, trzepot, swing"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SWOOSH",
+  "SubCategory": "WHOOSH",
+  "Synonyms": "woosh"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NARZ\u0118DZIA",
+  "SubCategory": "OGR\u00d3D",
+  "Synonyms": "grabie, motyka, szpadel, kielnia, miot\u0142a, sekator, wid\u0142y ogrodowe, rumpel, no\u017cyce do ga\u0142\u0119zi, \u0142opata, chwastownik"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NARZ\u0118DZIA",
+  "SubCategory": "R\u0118CZNE",
+  "Synonyms": "m\u0142otek, \u015brubokr\u0119t, kombinerki, klucz, grzechotka, nasadka, pi\u0142a r\u0119czna, zacisk, przecinak, d\u0142uto, skrobak, zszywacz, pilnik, no\u017cyczki"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NARZ\u0118DZIA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NARZ\u0118DZIA",
+  "SubCategory": "PNEUMATYCZNE",
+  "Synonyms": "m\u0142ot udarowy, narz\u0119dzie pneumatyczne, grzechotka pneumatyczna, pistolet do gwo\u017adzi"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "NARZ\u0118DZIA",
+  "SubCategory": "ELEKTRONARZ\u0118DZIA",
+  "Synonyms": "wiertarka, pi\u0142a elektryczna, pi\u0142a tarczowa, wyrzynarka, szlifierka, szlifierka ta\u015bmowa, frezarka, wkr\u0119tarka elektryczna, pistolet do podgrzewania, prasa wiertnicza, pi\u0142a sto\u0142owa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZABAWKI",
+  "SubCategory": "ELEKTRONICZNE",
+  "Synonyms": "zdalnie sterowany samoch\u00f3d, samoch\u00f3d na k\u00f3\u0142kach, m\u00f3wienie i zaklinanie, furby"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZABAWKI",
+  "SubCategory": "MECHANICZNE",
+  "Synonyms": "zabawka do skr\u0119cania, zabawkowy robot, zabawka do skr\u0119cania"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "ZABAWKI",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "figurka akcji, lalka, wypchane zwierz\u0119"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCI\u0104GI",
+  "SubCategory": "HAMULEC",
+  "Synonyms": "p\u0119kni\u0119cia, piski, zgrzytanie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCI\u0104GI",
+  "SubCategory": "STUKOT",
+  "Synonyms": "clack"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCI\u0104GI",
+  "SubCategory": "DRZWI",
+  "Synonyms": "drzwi poci\u0105gu, drzwi metra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCI\u0104GI",
+  "SubCategory": "DIESEL",
+  "Synonyms": "poci\u0105g spalinowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCI\u0104GI",
+  "SubCategory": "ELEKTRYCZNE",
+  "Synonyms": "poci\u0105g podmiejski, poci\u0105g regionalny, linia miejska, poci\u0105g mi\u0119dzymiastowy, kolej miejska"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCI\u0104GI",
+  "SubCategory": "WYSOKICH PR\u0118DKO\u015aCI",
+  "Synonyms": "poci\u0105g hi-tech, maglev, monorail, hyperloop, bullet train"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCI\u0104GI",
+  "SubCategory": "SYRENA",
+  "Synonyms": "klakson kolejowy, klakson metra"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCI\u0104GI",
+  "SubCategory": "WN\u0118TRZE",
+  "Synonyms": "poci\u0105g podmiejski, poci\u0105g regionalny, linia miejska, poci\u0105g mi\u0119dzymiastowy, kolej lekka, poci\u0105g towarowy, metro, kolej jednoszynowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCI\u0104GI",
+  "SubCategory": "MECHANIZM",
+  "Synonyms": "rozrz\u0105d, roz\u0142\u0105czenie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCI\u0104GI",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCI\u0104GI",
+  "SubCategory": "PAROWE",
+  "Synonyms": "poci\u0105g parowy, poci\u0105g w\u0119glowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCI\u0104GI",
+  "SubCategory": "METRO",
+  "Synonyms": "metro, subway, the tube, rer"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POCI\u0104GI",
+  "SubCategory": "TRAMWAJ",
+  "Synonyms": "tramwaj, trolejbus, kolejka linowa, kolejka linowa, kolejka z\u0119bata"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "INTERFEJS",
+  "SubCategory": "ALARM",
+  "Synonyms": "alarm, sygna\u0142 d\u017awi\u0119kowy, wiadomo\u015b\u0107 tekstowa, powiadomienie, uruchomienie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "INTERFEJS",
+  "SubCategory": "PIKNI\u0118CIE",
+  "Synonyms": "bip komputera, bip telefonu"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "INTERFEJS",
+  "SubCategory": "KLIK",
+  "Synonyms": "klikni\u0119cie, stukni\u0119cie, wpisanie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "INTERFEJS",
+  "SubCategory": "DANE",
+  "Synonyms": "dane, przetwarzanie, informacje, my\u015blenie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "INTERFEJS",
+  "SubCategory": "GLITCH",
+  "Synonyms": "glitch, malfunction, failure, kernel panic, guru meditation error"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "INTERFEJS",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "INTERFEJS",
+  "SubCategory": "RUCH",
+  "Synonyms": "machni\u0119cie, przewijanie, powi\u0119kszanie, strona"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RO\u015aLINNO\u015a\u0106",
+  "SubCategory": "TRAWA",
+  "Synonyms": "szelest trawy, przej\u015b\u0107 przez, siano, pszenica"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RO\u015aLINNO\u015a\u0106",
+  "SubCategory": "LI\u015aCIE",
+  "Synonyms": "wirowanie li\u015bci, opadanie li\u015bci, opadanie li\u015bci, kupa li\u015bci"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RO\u015aLINNO\u015a\u0106",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "li\u015bcie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "RO\u015aLINNO\u015a\u0106",
+  "SubCategory": "DRZEWO",
+  "Synonyms": "upadek drzewa, trzask ga\u0142\u0119zi, z\u0142amanie ga\u0142\u0119zi, ga\u0142\u0105zka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "ALARM",
+  "Synonyms": "samoch\u00f3d, auto, automobil, alarm samochodowy, dzwonek na ramieniu, dzwonek na rozbrajaczu, fob"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "STARODAWNE",
+  "Synonyms": "samoch\u00f3d, auto, samoch\u00f3d, oldsmobile, model a, model t"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "QUAD",
+  "Synonyms": "quad, tr\u00f3jko\u0142owiec, czteroko\u0142owiec, czteroko\u0142owiec, dune buggy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "ROWER",
+  "Synonyms": "rower, rowerek, le\u017canka, rowerek jednoko\u0142owy, tandem, bmx"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "HAMULEC",
+  "Synonyms": "pisk hamulca, piski, zgrzytanie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "AUTOBUS",
+  "Synonyms": "autobus miejski, autobus szkolny, autobus greyhound, autokar, autobus turystyczny, double decker"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "SAMOCH\u00d3D",
+  "Synonyms": "samoch\u00f3d, auto, automobil"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "BUDOWLANE",
+  "Synonyms": "d\u017awig, buldo\u017cer, koparka, koparko\u0142adowarka, koparka, w\u00f3zek wid\u0142owy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "DRZWI",
+  "Synonyms": "samoch\u00f3d, auto, samoch\u00f3d, drzwi samochodu, drzwi furgonetki, drzwi ci\u0119\u017car\u00f3wki"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "ELEKTRYCZNE",
+  "Synonyms": "segway, w\u00f3zek golfowy, skuter elektryczny, samoch\u00f3d elektryczny, motocykl elektryczny, tesla, gokart elektryczny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "S\u0141U\u017bBY RATOWNICZE",
+  "Synonyms": "w\u00f3z stra\u017cacki, w\u00f3z stra\u017cacki, ambulans, samoch\u00f3d policyjny, furgonetka SWAT"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "ROLNICZE",
+  "Synonyms": "traktor, kombajn, \u0142uska, kombajn"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "CI\u0118\u017bAROWE",
+  "Synonyms": "big rigs, ci\u0119\u017car\u00f3wka, semi-truck, u-haul truck, penske, box truck, freight truck"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "PRZEJAZD OG\u00d3LNY",
+  "Synonyms": "samoch\u00f3d, auto, samoch\u00f3d, przeje\u017cd\u017ca\u0107 przez"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "KLAKSON",
+  "Synonyms": "samoch\u00f3d, auto, samoch\u00f3d, klakson samochodowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "WN\u0118TRZE",
+  "Synonyms": "samoch\u00f3d, ci\u0119\u017car\u00f3wka, van, wn\u0119trze, jazda, na pok\u0142adzie, autobus"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "GRUCHOT",
+  "Synonyms": "samoch\u00f3d, auto, samoch\u00f3d, hoopty, clunker, junker, fa\u0142szywy start, b\u0142\u0119dny zap\u0142on, nieprawid\u0142owe dzia\u0142anie, b\u0142\u0119dny ogie\u0144, wsteczny ogie\u0144"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "MECHANIZM",
+  "Synonyms": "korba do szyb, schowek, przednia szyba, wycieraczka, baga\u017cnik, pas bezpiecze\u0144stwa, pasy bezpiecze\u0144stwa, kierunkowskaz, zmiana bieg\u00f3w"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "WOJSKOWE",
+  "Synonyms": "czo\u0142g, APC, transporter opancerzony, humvee, jeep"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "skuter \u015bnie\u017cny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "MOTOCYKL",
+  "Synonyms": "skuter, motocykl, motocykl, vespa, motocross, dirt bike"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "WY\u015aCIGOWE",
+  "Synonyms": "samoch\u00f3d, auto, samoch\u00f3d, samoch\u00f3d wy\u015bcigowy, drag race car, indy, formu\u0142a 1, nascar, grand prix, monster truck"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "SYRENA",
+  "Synonyms": "ambulans, policja, syrena, w\u00f3z stra\u017cacki, stra\u017cak"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "PISK OPON",
+  "Synonyms": "opona po\u015blizg, odklejenie, chuff, burnout"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "ZAWIESZENIE",
+  "Synonyms": "zawieszenie, amortyzatory, skrzypienie, grzechotanie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "OPONY",
+  "Synonyms": "opona, opona, rolka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "PICKUP VAN I SUV",
+  "Synonyms": "samoch\u00f3d, auto, samoch\u00f3d osobowy, pickup, van, suv, flatbed, "
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "SPECJALISTYCZNE",
+  "Synonyms": "utv, sxs, side by side, rzr, ranger, cushman, gator"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "W\u00d3Z",
+  "Synonyms": "wagon, dyli\u017cans, buggy, pow\u00f3z, w\u00f3zek na drewno"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POJAZDY",
+  "SubCategory": "OKNO",
+  "Synonyms": "samoch\u00f3d, auto, samoch\u00f3d, okno automatyczne, okno elektryczne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "KOSMITA",
+  "Synonyms": "j\u0119zyk obcych, chewbacca"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "NIEMOWL\u0118",
+  "Synonyms": "gruchanie, be\u0142kotanie, marudzenie, tabaka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "WIWATY",
+  "Synonyms": "klaskanie, buczenie, wiwat, yay, krzyk, woohoo, holler"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "DZIECKO",
+  "Synonyms": "dziecko, nastolatek, tween"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "P\u0141ACZ",
+  "Synonyms": "p\u0142aka\u0107, d\u0105sa\u0107 si\u0119, szlocha\u0107, skomle\u0107, marudzi\u0107, rani\u0107 si\u0119"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "WYSI\u0141EK",
+  "Synonyms": "wysi\u0142ek, chrz\u0105kanie, walka, wysi\u0142ek, wysi\u0142ek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "KOBIECE",
+  "Synonyms": "kobieta, kobieta"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "PRZETWORZONE ELEKTRONICZNIE",
+  "Synonyms": "m\u00f3wca, przem\u00f3wienie publiczne, og\u0142oszenie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "ARCHIWALNE",
+  "Synonyms": "przem\u00f3wienie, wyk\u0142ad, audycja, wiadomo\u015b\u0107, historyczny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "\u015aMIECH",
+  "Synonyms": "giggle, chuckle, laugh, hoot, holler, maniacal, hysterical"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "M\u0118SKIE",
+  "Synonyms": "m\u0119\u017cczyzna, m\u0119\u017cczyzna"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "REAKCJE",
+  "Synonyms": "oh, ooh, ooo, ah, ahh, ahh, er, em, hmm, hm"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "KRZYK",
+  "Synonyms": "krzycze\u0107, wrzask, krzyk, \u015bmier\u0107, upadek"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "\u015aPIEW",
+  "Synonyms": "\u015bpiewa\u0107, nuci\u0107, ditty"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "G\u0141OSY",
+  "SubCategory": "SZEPT",
+  "Synonyms": "szepta\u0107, szemra\u0107, szumie\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "B\u0104BLE",
+  "Synonyms": "bulgota\u0107, gotowa\u0107, gotowa\u0107 na wolnym ogniu, blub, glub, kocio\u0142ek, mikstura"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "ODP\u0141YW",
+  "Synonyms": "odp\u0142ywa\u0107, bulgota\u0107, burcze\u0107, kana\u0142, prysznic, zlew, kana\u0142 burzowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "KAPANIE",
+  "Synonyms": "kapa\u0107, plip, plop, stru\u017cka, wyciek, jaskinia"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "SYCZENIE",
+  "Synonyms": "fizz, sizzle, seltzer, foam, hiss"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "PRZEP\u0141YW",
+  "Synonyms": "rzeka, strumie\u0144, potok, pr\u0105d, ciek wodny, dop\u0142yw, potok, kana\u0142, ruczaj, \u017ar\u00f3d\u0142o"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "FONTANNA",
+  "Synonyms": "fontanna, spray, stru\u017cka, syczenie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "plusk, brzd\u0119k, kula armatnia, \u0142adunek g\u0142\u0119binowy, sploosh"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "CHLUPOT FAL",
+  "Synonyms": "falowanie, okr\u0105\u017cenie, kad\u0142ub, policzek, chlupotanie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "szumie\u0107, brodzi\u0107, chlapa\u0107, zmiata\u0107, drepta\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "HYDRAULIKA",
+  "Synonyms": "sp\u0142ukiwa\u0107 toalet\u0119, zlew, prysznic,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "WYLEWANIE",
+  "Synonyms": "wyla\u0107, nape\u0142ni\u0107, wyrzuci\u0107, opr\u00f3\u017cni\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "PLUSK",
+  "Synonyms": "pluska\u0107, p\u0142ywa\u0107, brodzi\u0107, nurkowa\u0107, zanurza\u0107 si\u0119, chlupa\u0107, zanurza\u0107 si\u0119"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "ROZPYLANIE",
+  "Synonyms": "rozpyla\u0107, rozpyla\u0107, tryska\u0107, tryska\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "PARA",
+  "Synonyms": "rozpryskiwa\u0107, mg\u0142a, para, mokry syk, plucie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "ODLEG\u0141E FALE",
+  "Synonyms": "linia brzegowa, linia brzegowa, brzeg morski, pla\u017ca, mycie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "NIESPOKOJNE",
+  "Synonyms": "wir, basen z falami, rapid, maelstrom, swirl"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "POD WOD\u0104",
+  "Synonyms": "podwodny, przep\u0142yw, turbulentny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "WODOSPAD",
+  "Synonyms": "wodospad, kaskada, tama, torrent, niagara"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WODA",
+  "SubCategory": "FALE",
+  "Synonyms": "fala, falochron, p\u0142ywy, brzeg morski, molo, docieranie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UZBROJENIE",
+  "SubCategory": "ZBROJA",
+  "Synonyms": "zbroja, kolczuga, he\u0142m, zbroja \u0142uskowa, napier\u015bnik, kirys, domaru, szyna, haramaki, tarcza"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UZBROJENIE",
+  "SubCategory": "STRZA\u0141A",
+  "Synonyms": "strza\u0142a, be\u0142t, flet, ko\u0142czan"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UZBROJENIE",
+  "SubCategory": "TOP\u00d3R",
+  "Synonyms": "top\u00f3r, top\u00f3r, siekiera, top\u00f3r do rzucania"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UZBROJENIE",
+  "SubCategory": "T\u0118PA",
+  "Synonyms": "kij, pa\u0142ka, buzdygan, kula i \u0142a\u0144cuch, nunchuck, m\u0142ot wojenny, klepka, mosi\u0119\u017cne kastety, flak, tonfa, kij nocny, pa\u0142ka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UZBROJENIE",
+  "SubCategory": "\u0141UK",
+  "Synonyms": "longbow, compound box, crossbow"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UZBROJENIE",
+  "SubCategory": "N\u00d3\u017b",
+  "Synonyms": "n\u00f3\u017c spr\u0119\u017cynowy, n\u00f3\u017c typu jack, n\u00f3\u017c motylkowy, n\u00f3\u017c my\u015bliwski, n\u00f3\u017c u\u017cytkowy, tasak, n\u00f3\u017c rze\u017anicki, n\u00f3\u017c do okop\u00f3w, n\u00f3\u017c szefa kuchni"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UZBROJENIE",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "proca"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UZBROJENIE",
+  "SubCategory": "DRZEWCOWA",
+  "Synonyms": "w\u0142\u00f3cznia, szczupak, harpun, halabarda, oszczep, tyczka, polaksa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UZBROJENIE",
+  "SubCategory": "OBL\u0118\u017bNICZA",
+  "Synonyms": "katapulta, trebusz, taran, balista, wie\u017ca obl\u0119\u017cnicza"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UZBROJENIE",
+  "SubCategory": "MIECZE",
+  "Synonyms": "falchion, scimitar, miecz, rapier, miecz d\u0142ugi, samurajski, kordelas, miecz szermierczy, katana, maczeta, szabla, miecz wiking\u00f3w, floret"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "UZBROJENIE",
+  "SubCategory": "BAT",
+  "Synonyms": "bicz, bicz ko\u0144ski, ch\u0142osta, biczownica"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POGODA",
+  "SubCategory": "GRAD",
+  "Synonyms": "grad, l\u00f3d, \u015bnieg"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POGODA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POGODA",
+  "SubCategory": "BURZA",
+  "Synonyms": "huragan, burza, tajfun, \u015bnieg, burza piaskowa, tornado, cyklon, grad,"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "POGODA",
+  "SubCategory": "GRZMOT",
+  "Synonyms": "burza, piorun, klaps, piorun, b\u0142yskawica, grzmot, trzask, walec, huk"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GWIZDANIE",
+  "SubCategory": "LUDZKIE",
+  "Synonyms": "gwizdek, doping, cz\u0142owiek, wilczy gwizdek, sygna\u0142"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GWIZDANIE",
+  "SubCategory": "MECHANICZNE",
+  "Synonyms": "parowiec, s\u0119dzia, z\u0105bek, gwizdek policyjny, dzbanek do herbaty, gwizdek poci\u0105gowy"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "GWIZDANIE",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "ref, fletnia nosowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WIATR",
+  "SubCategory": "DESIGNED",
+  "Synonyms": "d\u0119ty, syntetyczny, sztuczny, tonalny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WIATR",
+  "SubCategory": "OG\u00d3LNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WIATR",
+  "SubCategory": "PODMUCH",
+  "Synonyms": "podmuch, wietrzyk, wiaterek, bryza, bufet, powiew, wichura, flurry"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WIATR",
+  "SubCategory": "WE WN\u0118TRZU",
+  "Synonyms": "wn\u0119trze, okiennica, grzechot, j\u0119k, przeci\u0105g"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WIATR",
+  "SubCategory": "TONALNY",
+  "Synonyms": "wycie, gwizd, j\u0119k, tonalny"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WIATR",
+  "SubCategory": "NIESPOKOJNE",
+  "Synonyms": "bufet, burzliwy wiatr, silny wiatr, gwa\u0142towny wiatr, bufet"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "WIATR",
+  "SubCategory": "RO\u015aLINNO\u015a\u0106",
+  "Synonyms": "li\u015bcie, ro\u015blinno\u015b\u0107, trawa, drzewo, li\u015b\u0107, ro\u015blina, szelest"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OKNA",
+  "SubCategory": "ZAS\u0141ONY",
+  "Synonyms": "zas\u0142ona, \u017caluzja, okiennica, zaciemnienie, \u017caluzje"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OKNA",
+  "SubCategory": "AKCESORIA",
+  "Synonyms": "zatrzask okienny, korby okienne, zamek okienny, uszczelka okienna"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OKNA",
+  "SubCategory": "PUKANIE",
+  "Synonyms": "pukanie, szyba, grzechotka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OKNA",
+  "SubCategory": "METALOWE",
+  "Synonyms": "rama metalowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OKNA",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OKNA",
+  "SubCategory": "PLASTIKOWE",
+  "Synonyms": "rama plastikowa"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "OKNA",
+  "SubCategory": "DREWNIANE",
+  "Synonyms": "ramka drewniana"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKRZYD\u0141A",
+  "SubCategory": "PTAK",
+  "Synonyms": "skrzyd\u0142o ptaka, klapni\u0119cie, trzepotanie"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKRZYD\u0141A",
+  "SubCategory": "STW\u00d3R",
+  "Synonyms": "skrzyd\u0142o smoka, skrzyd\u0142o wr\u00f3\u017cki, skrzyd\u0142o gryfa, skrzyd\u0142o sfinksa, skrzyd\u0142o anio\u0142a, skrzyd\u0142o feniksa, skrzyd\u0142o wielkiego ptaka"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKRZYD\u0141A",
+  "SubCategory": "OWAD",
+  "Synonyms": "mucha, pszczo\u0142a, wa\u017cka, \u0107ma, motyl, \u017cuk, skarabeusz, szersze\u0144, osa, szara\u0144cza"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "SKRZYD\u0141A",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DREWNO",
+  "SubCategory": "\u0141AMANIE",
+  "Synonyms": "\u0142amie si\u0119, p\u0119ka, rozrywa, rozbija, chrupie, drzazga"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DREWNO",
+  "SubCategory": "ROZBICIE I OD\u0141AMKI",
+  "Synonyms": "upadek, od\u0142amki, zderzenie, upadek, drewno"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DREWNO",
+  "SubCategory": "TARCIE",
+  "Synonyms": "napr\u0119\u017cenia, zadrapania, skrzypienia, piski, \u0142oskot"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DREWNO",
+  "SubCategory": "TRZYMANIE",
+  "Synonyms": "chwyta\u0107, chwyta\u0107, ustawia\u0107, podnosi\u0107, odk\u0142ada\u0107, podrzuca\u0107, \u0142apa\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DREWNO",
+  "SubCategory": "UDERZENIE",
+  "Synonyms": "uderzenie, upadek, uderzenie, zderzenie, brz\u0119k, brz\u0119k, brz\u0119k, brz\u0119k, brz\u0119k, brz\u0119k"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DREWNO",
+  "SubCategory": "R\u00d3\u017bNE",
+  "Synonyms": "r\u00f3\u017cne"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DREWNO",
+  "SubCategory": "PORUSZANIE",
+  "Synonyms": "ci\u0105gn\u0105\u0107, toczy\u0107, grzechota\u0107, trz\u0105\u015b\u0107"
+ },
+ {
+  "version": "8.2.1",
+  "Category": "DREWNO",
+  "SubCategory": "TONALNE",
+  "Synonyms": "wygi\u0119ty, dzwonek, wronk, shing, warp"
+ }
+]
