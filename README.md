@@ -15,13 +15,14 @@ Some items of interest are:
     all available languages.
     - The [tool](tools/ucsxls2json.py) used to make these JSON files from the
       original XLS file.
-  - Transcriptions of core UCS documentation into ReStructuredText
-    - Tim Nielsen's original [*UCS File Naming Convention*](docs/ucs_file_naming_convention.rst) document.
+  - Transcriptions of core UCS documentation into ReStructuredText:
+    - Tim Nielsen's original [*UCS File Naming Convention*][ucs_fns] document.
   - Zipped [UCS Category-SubCategory directory trees](dirs) in all of the
     available languages.
     - The [directory-creation tool](tools/ucsdirs.py) that was used to create 
       these trees from the JSON UCS schedules.
-  
+ 
+ [ucs_fns]:docs/ucs_file_naming_convention.rst
 
 ## Who maintains this?
 
