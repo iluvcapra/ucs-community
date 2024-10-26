@@ -15,9 +15,9 @@ Some items of interest are:
     - The [tool](tools/ucsxls2json.py) used to make these JSON files from the
       original XLS file.
   - Zipped [UCS Category-SubCategory directory trees](dirs) in all of the
-    supported languages.
+    available languages.
     - The [directory-creation tool](tools/ucsdirs.py) that was used to create 
-      these trees.
+      these trees from the JSON UCS schedules.
 
 ## Who maintains this?
 
