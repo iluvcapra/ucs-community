@@ -34,7 +34,7 @@
   "CatID": "AIRMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -106,13 +106,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
+   "a310",
+   "a330",
+   "a350",
+   "a380",
    "sava\u015f",
    "u\u00e7a\u011f\u0131"
   ]
@@ -134,13 +134,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380"
+   "a310",
+   "a330",
+   "a350",
+   "a380"
   ]
  },
  {
@@ -175,12 +175,12 @@
    "thunderbirds",
    "lockheed",
    "mig",
-   "F18",
-   "F16",
-   "F35",
-   "F22",
-   "A10",
-   "P52"
+   "f18",
+   "f16",
+   "f35",
+   "f22",
+   "a10",
+   "p52"
   ]
  },
  {
@@ -234,7 +234,7 @@
   "SubCategory": "UZAKTAN KUMANDALI",
   "Synonyms": [
    "quadcopterler",
-   "\u0130HA",
+   "i\u0307ha",
    "insans\u0131z",
    "hava",
    "arac\u0131",
@@ -326,7 +326,7 @@
    "dedekt\u00f6r\u00fc",
    "duman",
    "dedekt\u00f6r\u00fc",
-   "CO2",
+   "co2",
    "dedekt\u00f6r\u00fc",
    "araba",
    "alarm\u0131",
@@ -340,7 +340,7 @@
   "CatID": "ALRMMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -738,7 +738,7 @@
   "CatID": "AMBMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -1489,7 +1489,7 @@
   "CatID": "ANMLMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -1641,7 +1641,7 @@
   "Synonyms": [
    "impulse",
    "response",
-   "IR",
+   "ir",
    "altiverb",
    "reverb",
    "sample",
@@ -1670,8 +1670,8 @@
    "final",
    "mix",
    "stem",
-   "M",
-   "E",
+   "m",
+   "e",
    "mixdown",
    "printmaster"
   ]
@@ -1682,7 +1682,7 @@
   "CatID": "PFX",
   "SubCategory": "PFX & PROD\u00dcKS\u0130YON EFEKTLER",
   "Synonyms": [
-   "\u00dcRET\u0130M"
+   "\u00fcreti\u0307m"
   ]
  },
  {
@@ -1819,7 +1819,7 @@
   "CatID": "BEEP",
   "SubCategory": "GENEL",
   "Synonyms": [
-   "Bip"
+   "bip"
   ]
  },
  {
@@ -1839,9 +1839,9 @@
   "CatID": "BEEPMed",
   "SubCategory": "TIBB\u0130",
   "Synonyms": [
-   "EKG",
-   "EKG",
-   "KDC",
+   "ekg",
+   "ekg",
+   "kdc",
    "kalp",
    "monit\u00f6r\u00fc",
    "flatline",
@@ -2497,7 +2497,7 @@
   "CatID": "BLLTMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -2661,7 +2661,7 @@
   "CatID": "TOONShake",
   "SubCategory": "\u00c7ALKALAMA",
   "Synonyms": [
-   "\u00c7\u0131ng\u0131rak"
+   "\u00e7\u0131ng\u0131rak"
   ]
  },
  {
@@ -2681,7 +2681,7 @@
   "CatID": "TOONSqk",
   "SubCategory": "C\u0130YAKLAMA",
   "Synonyms": [
-   "G\u0131c\u0131rt\u0131"
+   "g\u0131c\u0131rt\u0131"
   ]
  },
  {
@@ -2722,7 +2722,7 @@
   "Synonyms": [
    "jetsons",
    "contraption",
-   "\u00c7akmakta\u015flar",
+   "\u00e7akmakta\u015flar",
    "arabas\u0131",
    "geri",
    "tepme"
@@ -2844,7 +2844,7 @@
   "CatID": "CERMMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -2917,7 +2917,7 @@
   "CatID": "CHAINMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -2951,7 +2951,7 @@
   "CatID": "CHEMMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -2996,7 +2996,7 @@
   "CatID": "CLOCKMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -3065,7 +3065,7 @@
   "CatID": "CLOTHMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -3109,7 +3109,7 @@
    "teyp",
    "nagra",
    "walkman",
-   "CD",
+   "cd",
    "\u00e7alar",
    "makaradan",
    "makaraya",
@@ -3188,7 +3188,7 @@
   "CatID": "COMMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -3277,7 +3277,7 @@
    "g\u00f6steri",
    "program",
    "futz",
-   "TV",
+   "tv",
    "program\u0131",
    "yay\u0131n"
   ]
@@ -3385,7 +3385,7 @@
   "CatID": "CREABeast",
   "SubCategory": "YARATIK",
   "Synonyms": [
-   "Y\u00fcnl\u00fc",
+   "y\u00fcnl\u00fc",
    "mamut",
    "mumakil",
    ""
@@ -3514,7 +3514,7 @@
   "CatID": "CREAMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -3736,7 +3736,7 @@
   "CatID": "CRWDMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -3940,7 +3940,7 @@
   "CatID": "DSGNMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -4109,7 +4109,7 @@
   "CatID": "DESTRMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -4169,7 +4169,7 @@
   "CatID": "DIRTMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -4412,7 +4412,7 @@
   "CatID": "DOORMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -4539,7 +4539,7 @@
   "CatID": "DRWRMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -4625,7 +4625,7 @@
   "CatID": "ELECMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -4689,7 +4689,7 @@
   "CatID": "EQUIPMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -4758,7 +4758,7 @@
   "CatID": "EXPLMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "Patlama"
+   "patlama"
   ]
  },
  {
@@ -4767,7 +4767,7 @@
   "CatID": "EXPLReal",
   "SubCategory": "GER\u00c7EK",
   "Synonyms": [
-   "Patlama",
+   "patlama",
    "patlama",
    "\u00e7atlama",
    "patlama"
@@ -4884,7 +4884,7 @@
   "CatID": "FGHTMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -4973,7 +4973,7 @@
   "CatID": "FIREMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -5064,7 +5064,7 @@
   "CatID": "FRWKMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -5133,7 +5133,7 @@
   "CatID": "FOLYMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -5266,7 +5266,7 @@
   "CatID": "FOODMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -5362,7 +5362,7 @@
   "CatID": "FEETMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -5581,7 +5581,7 @@
   "CatID": "GLASMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -5674,7 +5674,7 @@
   "CatID": "GOREMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -5824,7 +5824,7 @@
    "gun",
    "uzi",
    "m249",
-   "M1919",
+   "m1919",
    "gatling",
    "gun",
    "minigun",
@@ -6088,7 +6088,7 @@
   "CatID": "HMNCough",
   "SubCategory": "\u00d6KS\u00dcR\u00dcK",
   "Synonyms": [
-   "Hack",
+   "hack",
    "ahem",
    "hoarse",
    "clear",
@@ -6121,7 +6121,7 @@
   "CatID": "HMNMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -6306,7 +6306,7 @@
   "CatID": "ICEMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -6375,7 +6375,7 @@
   "CatID": "LASRMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -6423,7 +6423,7 @@
   "CatID": "LETHRMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -6473,7 +6473,7 @@
   "CatID": "LIQMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -6724,8 +6724,8 @@
    "presi",
    "form",
    "presi",
-   "F437",
-   "F450"
+   "f437",
+   "f450"
   ]
  },
  {
@@ -6749,7 +6749,7 @@
   "Synonyms": [
    "r\u00f6ntgen",
    "makineleri",
-   "MR",
+   "mr",
    "kedi",
    "taramas\u0131",
    "evcil",
@@ -6771,7 +6771,7 @@
   "CatID": "MACHMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -6869,7 +6869,7 @@
   "CatID": "MAGMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -7011,7 +7011,7 @@
   "CatID": "MECHMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -7148,7 +7148,7 @@
   "CatID": "METLMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -7232,7 +7232,7 @@
   "CatID": "MOTRMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -7365,7 +7365,7 @@
   "CatID": "MOVEMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -7780,7 +7780,7 @@
   "CatID": "NATDMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -8113,7 +8113,7 @@
   "CatID": "OBJMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -8313,7 +8313,7 @@
   "CatID": "PAPRMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -8411,7 +8411,7 @@
   "CatID": "PLASMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -8539,7 +8539,7 @@
   "CatID": "RAINVege",
   "SubCategory": "B\u0130TK\u0130",
   "Synonyms": [
-   "Metal",
+   "metal",
    "bir",
    "y\u00fczey",
    "\u00fczerine",
@@ -8630,11 +8630,11 @@
   "CatID": "ROCKBrk",
   "SubCategory": "KIRMA",
   "Synonyms": [
-   "K\u0131r\u0131lmalar",
-   "\u00c7atlamalar",
-   "Y\u0131rt\u0131lmalar",
-   "Par\u00e7alanmalar",
-   "\u00c7\u0131t\u0131rdamalar"
+   "k\u0131r\u0131lmalar",
+   "\u00e7atlamalar",
+   "y\u0131rt\u0131lmalar",
+   "par\u00e7alanmalar",
+   "\u00e7\u0131t\u0131rdamalar"
   ]
  },
  {
@@ -8643,8 +8643,8 @@
   "CatID": "ROCKCrsh",
   "SubCategory": "\u00c7\u00d6KME & MOLOZ",
   "Synonyms": [
-   "D\u00fc\u015fme",
-   "Enkaz"
+   "d\u00fc\u015fme",
+   "enkaz"
   ]
  },
  {
@@ -8653,11 +8653,11 @@
   "CatID": "ROCKFric",
   "SubCategory": "S\u00dcRT\u00dcNME",
   "Synonyms": [
-   "Stres",
-   "S\u0131yr\u0131klar",
-   "G\u0131c\u0131rt\u0131lar",
-   "G\u0131c\u0131rt\u0131lar",
-   "\u00c7\u0131\u011fl\u0131k"
+   "stres",
+   "s\u0131yr\u0131klar",
+   "g\u0131c\u0131rt\u0131lar",
+   "g\u0131c\u0131rt\u0131lar",
+   "\u00e7\u0131\u011fl\u0131k"
   ]
  },
  {
@@ -8681,13 +8681,13 @@
   "CatID": "ROCKImpt",
   "SubCategory": "DARBE",
   "Synonyms": [
-   "Vurmak",
-   "D\u00fc\u015f\u00fcrmek",
-   "\u00c7arpmak",
-   "\u00c7arpmak",
-   "\u00c7\u0131nlamak",
-   "\u00c7\u0131nlamak",
-   "Kesmek"
+   "vurmak",
+   "d\u00fc\u015f\u00fcrmek",
+   "\u00e7arpmak",
+   "\u00e7arpmak",
+   "\u00e7\u0131nlamak",
+   "\u00e7\u0131nlamak",
+   "kesmek"
   ]
  },
  {
@@ -8696,7 +8696,7 @@
   "CatID": "ROCKMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -8705,10 +8705,10 @@
   "CatID": "ROCKMvmt",
   "SubCategory": "HAREKET",
   "Synonyms": [
-   "S\u00fcr\u00fckle",
-   "Yuvarla",
-   "\u00c7\u0131ng\u0131rak",
-   "Salla"
+   "s\u00fcr\u00fckle",
+   "yuvarla",
+   "\u00e7\u0131ng\u0131rak",
+   "salla"
   ]
  },
  {
@@ -8717,11 +8717,11 @@
   "CatID": "ROCKTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "E\u011fik",
-   "Halka",
-   "Wronk",
-   "Shing",
-   "\u00c7\u00f6zg\u00fc"
+   "e\u011fik",
+   "halka",
+   "wronk",
+   "shing",
+   "\u00e7\u00f6zg\u00fc"
   ]
  },
  {
@@ -8767,7 +8767,7 @@
   "CatID": "ROPEMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -8842,7 +8842,7 @@
   "CatID": "RUBRMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -8966,7 +8966,7 @@
   "CatID": "SCIMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -9083,7 +9083,7 @@
   "CatID": "SNOWMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -9304,7 +9304,7 @@
    "\u00e7eki\u00e7",
    "tornavida",
    "pense",
-   "\u0130ngiliz",
+   "i\u0307ngiliz",
    "anahtar\u0131",
    "c\u0131rc\u0131r",
    "lokma",
@@ -9327,7 +9327,7 @@
   "CatID": "TOOLMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -9455,8 +9455,8 @@
   "CatID": "TRNDiesl",
   "SubCategory": "D\u0130ZEL",
   "Synonyms": [
-   "D\u0130ZEL",
-   "TREN"
+   "di\u0307zel",
+   "tren"
   ]
  },
  {
@@ -9546,7 +9546,7 @@
   "CatID": "TRNMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -9661,7 +9661,7 @@
   "CatID": "UIMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -9908,7 +9908,7 @@
    "ambulans",
    "polis",
    "arabas\u0131",
-   "SWAT",
+   "swat",
    "minib\u00fcs\u00fc"
   ]
  },
@@ -10037,7 +10037,7 @@
   "SubCategory": "ASKER\u0130",
   "Synonyms": [
    "tank",
-   "APC",
+   "apc",
    "z\u0131rhl\u0131",
    "personel",
    "ta\u015f\u0131y\u0131c\u0131",
@@ -10358,7 +10358,7 @@
   "CatID": "VOXMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -10538,7 +10538,7 @@
   "CatID": "WATRMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -10805,7 +10805,7 @@
   "CatID": "WEAPMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "Sapan"
+   "sapan"
   ]
  },
  {
@@ -10896,7 +10896,7 @@
   "CatID": "WTHR",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -11000,7 +11000,7 @@
   "CatID": "WIND",
   "SubCategory": "GENEL",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -11133,7 +11133,7 @@
   "CatID": "WNDWMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -11219,7 +11219,7 @@
   "CatID": "WINGMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {
@@ -11299,7 +11299,7 @@
   "CatID": "WOODMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "\u00c7E\u015e\u0130TL\u0130"
+   "\u00e7e\u015fi\u0307tli\u0307"
   ]
  },
  {

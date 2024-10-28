@@ -30,7 +30,7 @@
   "CatID": "AIRMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -97,13 +97,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
+   "a310",
+   "a330",
+   "a350",
+   "a380",
    "jagerfly"
   ]
  },
@@ -123,13 +123,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380"
+   "a310",
+   "a330",
+   "a350",
+   "a380"
   ]
  },
  {
@@ -159,12 +159,12 @@
    "thunderbirds",
    "lockheed",
    "mig",
-   "F18",
-   "F16",
-   "F35",
-   "F22",
-   "A10",
-   "P52"
+   "f18",
+   "f16",
+   "f35",
+   "f22",
+   "a10",
+   "p52"
   ]
  },
  {
@@ -281,7 +281,7 @@
   "Synonyms": [
    "branndetektor",
    "r\u00f8ykvarsler",
-   "CO2",
+   "co2",
    "detektor",
    "bilalarm",
    "boligalarm"
@@ -293,7 +293,7 @@
   "CatID": "ALRMMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -543,9 +543,9 @@
    "vesten",
    "gullrushet",
    "antikkens",
-   "Roma",
+   "roma",
    "antikkens",
-   "Hellas"
+   "hellas"
   ]
  },
  {
@@ -641,7 +641,7 @@
   "CatID": "AMBMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -1004,11 +1004,11 @@
    "togstasjon",
    "flyplass",
    "busstasjon",
-   "T",
+   "t",
    "banestasjon",
-   "T",
+   "t",
    "banestasjon",
-   "T",
+   "t",
    "banestasjon",
    "terminal",
    "depot",
@@ -1321,7 +1321,7 @@
   "CatID": "ANMLMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -1464,7 +1464,7 @@
   "SubCategory": "IMPULS RESPONS",
   "Synonyms": [
    "impulsrespons",
-   "IR",
+   "ir",
    "altiverb",
    "romklangspr\u00f8ve",
    "konvolusjonsreverb"
@@ -1489,8 +1489,8 @@
    "premix",
    "sluttmiks",
    "stamme",
-   "M",
-   "E",
+   "m",
+   "e",
    "mixdown",
    "printmaster"
   ]
@@ -1641,9 +1641,9 @@
   "CatID": "BEEPMed",
   "SubCategory": "MEDISINSK",
   "Synonyms": [
-   "EKG",
-   "EKG",
-   "KDC",
+   "ekg",
+   "ekg",
+   "kdc",
    "hjertemonitor",
    "flatline",
    "ultralyd"
@@ -2214,7 +2214,7 @@
   "CatID": "BLLTMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -2432,7 +2432,7 @@
   "Synonyms": [
    "jetsons",
    "innretning",
-   "Flintstones",
+   "flintstones",
    "bil",
    "sl\u00e5r",
    "tilbake"
@@ -2553,7 +2553,7 @@
   "CatID": "CERMMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -2626,7 +2626,7 @@
   "CatID": "CHAINMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -2658,7 +2658,7 @@
   "CatID": "CHEMMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -2700,7 +2700,7 @@
   "CatID": "CLOCKMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -2768,7 +2768,7 @@
   "CatID": "CLOTHMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -2809,7 +2809,7 @@
    "b\u00e5ndopptaker",
    "nagra",
    "walkman",
-   "CD",
+   "cd",
    "spiller",
    "spole",
    "til",
@@ -2881,7 +2881,7 @@
   "CatID": "COMMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -3184,7 +3184,7 @@
   "CatID": "CREAMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -3394,7 +3394,7 @@
   "CatID": "CRWDMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -3460,7 +3460,7 @@
    "stadion",
    "yay",
    "publikum",
-   "OL",
+   "ol",
    "roping",
    "woohoo"
   ]
@@ -3598,7 +3598,7 @@
   "CatID": "DSGNMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -3760,7 +3760,7 @@
   "CatID": "DESTRMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -3820,7 +3820,7 @@
   "CatID": "DIRTMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -4037,7 +4037,7 @@
   "CatID": "DOORMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -4147,7 +4147,7 @@
   "CatID": "DRWRMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -4220,7 +4220,7 @@
   "CatID": "ELECMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -4277,7 +4277,7 @@
   "CatID": "EQUIPMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -4462,7 +4462,7 @@
   "CatID": "FGHTMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -4543,7 +4543,7 @@
   "CatID": "FIREMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -4622,7 +4622,7 @@
   "CatID": "FRWKMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -4684,7 +4684,7 @@
   "CatID": "FOLYMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -4809,7 +4809,7 @@
   "CatID": "FOODMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -4903,7 +4903,7 @@
   "CatID": "FEETMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -5120,7 +5120,7 @@
   "CatID": "GLASMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -5213,7 +5213,7 @@
   "CatID": "GOREMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -5353,7 +5353,7 @@
    "gun",
    "uzi",
    "m249",
-   "M1919",
+   "m1919",
    "gatling",
    "gun",
    "minigun",
@@ -5619,7 +5619,7 @@
   "CatID": "HMNMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -5797,7 +5797,7 @@
   "CatID": "ICEMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -5864,7 +5864,7 @@
   "CatID": "LASRMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -5913,7 +5913,7 @@
   "CatID": "LETHRMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -5963,7 +5963,7 @@
   "CatID": "LIQMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -6174,8 +6174,8 @@
    "destilleri",
    "stansepresse",
    "formpresse",
-   "F437",
-   "F450"
+   "f437",
+   "f450"
   ]
  },
  {
@@ -6213,7 +6213,7 @@
   "CatID": "MACHMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -6301,7 +6301,7 @@
   "CatID": "MAGMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -6439,7 +6439,7 @@
   "CatID": "MECHMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -6575,7 +6575,7 @@
   "CatID": "METLMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -6648,7 +6648,7 @@
   "CatID": "MOTRMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -6779,7 +6779,7 @@
   "CatID": "MOVEMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -7164,7 +7164,7 @@
   "CatID": "NATDMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -7453,7 +7453,7 @@
   "CatID": "OBJMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -7628,7 +7628,7 @@
   "CatID": "PAPRMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -7727,7 +7727,7 @@
   "CatID": "PLASMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -7850,7 +7850,7 @@
   "CatID": "RAINVege",
   "SubCategory": "VEGETASJON",
   "Synonyms": [
-   "Regn",
+   "regn",
    "p\u00e5",
    "en",
    "metalloverflate",
@@ -7936,7 +7936,7 @@
   "CatID": "ROCKBrk",
   "SubCategory": "KNUSE",
   "Synonyms": [
-   "Brudd",
+   "brudd",
    "sprekker",
    "rifter",
    "knuser",
@@ -7949,7 +7949,7 @@
   "CatID": "ROCKCrsh",
   "SubCategory": "KR\u00c6SJ OG FRAGMENTER",
   "Synonyms": [
-   "Fall",
+   "fall",
    "rusk"
   ]
  },
@@ -7959,7 +7959,7 @@
   "CatID": "ROCKFric",
   "SubCategory": "FRIKSJON",
   "Synonyms": [
-   "Stress",
+   "stress",
    "skraper",
    "knirker",
    "knirker",
@@ -7988,14 +7988,14 @@
   "CatID": "ROCKImpt",
   "SubCategory": "TREFF",
   "Synonyms": [
-   "Hit",
-   "Drop",
-   "Impact",
-   "Crash",
-   "Clunk",
-   "Clang",
-   "Clink",
-   "Chop"
+   "hit",
+   "drop",
+   "impact",
+   "crash",
+   "clunk",
+   "clang",
+   "clink",
+   "chop"
   ]
  },
  {
@@ -8004,7 +8004,7 @@
   "CatID": "ROCKMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -8013,7 +8013,7 @@
   "CatID": "ROCKMvmt",
   "SubCategory": "BEVEGELSE",
   "Synonyms": [
-   "Dra",
+   "dra",
    "rull",
    "skrangle",
    "rist"
@@ -8025,11 +8025,11 @@
   "CatID": "ROCKTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "Bukket",
-   "Ring",
-   "Wronk",
-   "Shing",
-   "Warp"
+   "bukket",
+   "ring",
+   "wronk",
+   "shing",
+   "warp"
   ]
  },
  {
@@ -8076,7 +8076,7 @@
   "CatID": "ROPEMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -8152,7 +8152,7 @@
   "CatID": "RUBRMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -8268,7 +8268,7 @@
   "CatID": "SCIMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -8378,7 +8378,7 @@
   "CatID": "SNOWMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -8600,7 +8600,7 @@
   "CatID": "TOOLMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -8783,7 +8783,7 @@
   "CatID": "TRNMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -8888,7 +8888,7 @@
   "CatID": "UIMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -9103,7 +9103,7 @@
    "brannbil",
    "ambulanse",
    "politibil",
-   "SWAT",
+   "swat",
    "varebil"
   ]
  },
@@ -9222,7 +9222,7 @@
   "SubCategory": "MILIT\u00c6RT",
   "Synonyms": [
    "tank",
-   "APC",
+   "apc",
    "pansret",
    "personellvogn",
    "humvee",
@@ -9531,7 +9531,7 @@
   "CatID": "VOXMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -9706,7 +9706,7 @@
   "CatID": "WATRMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -10036,7 +10036,7 @@
   "CatID": "WTHR",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -10128,7 +10128,7 @@
   "CatID": "WIND",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -10255,7 +10255,7 @@
   "CatID": "WNDWMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -10327,7 +10327,7 @@
   "CatID": "WINGMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -10408,7 +10408,7 @@
   "CatID": "WOODMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {

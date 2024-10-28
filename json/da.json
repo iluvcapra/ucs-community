@@ -98,14 +98,14 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
+   "a310",
+   "a310",
+   "a330",
+   "a350",
+   "a380",
    "jagerfly"
   ]
  },
@@ -125,14 +125,14 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A310",
-   "A330",
-   "A350",
-   "A380"
+   "a310",
+   "a310",
+   "a330",
+   "a350",
+   "a380"
   ]
  },
  {
@@ -162,12 +162,12 @@
    "thunderbirds",
    "lockheed",
    "mig",
-   "F18",
-   "F16",
-   "F35",
-   "F22",
-   "A10",
-   "P52"
+   "f18",
+   "f16",
+   "f35",
+   "f22",
+   "a10",
+   "p52"
   ]
  },
  {
@@ -292,7 +292,7 @@
   "Synonyms": [
    "branddetektor",
    "r\u00f8gdetektor",
-   "CO2",
+   "co2",
    "detektor",
    "bilalarm",
    "husalarm"
@@ -361,7 +361,7 @@
   "CatID": "AMBAmus",
   "SubCategory": "FORLYSTELSE",
   "Synonyms": [
-   "Disneyland",
+   "disneyland",
    "six",
    "flags",
    "forlystelsespark",
@@ -570,10 +570,10 @@
    "guldfeber",
    "det",
    "gamle",
-   "Rom",
+   "rom",
    "det",
    "gamle",
-   "Gr\u00e6kenland"
+   "gr\u00e6kenland"
   ]
  },
  {
@@ -1543,7 +1543,7 @@
   "SubCategory": "IMPULS RESPONS",
   "Synonyms": [
    "impulsrespons",
-   "IR",
+   "ir",
    "altiverb",
    "reverb",
    "sample",
@@ -1572,8 +1572,8 @@
    "final",
    "mix",
    "stamme",
-   "M",
-   "E",
+   "m",
+   "e",
    "mixdown",
    "printmaster"
   ]
@@ -1727,9 +1727,9 @@
   "CatID": "BEEPMed",
   "SubCategory": "MEDICINSK",
   "Synonyms": [
-   "EKG",
-   "EKG",
-   "KDC",
+   "ekg",
+   "ekg",
+   "kdc",
    "hjertemonitor",
    "flatline",
    "ultralyd"
@@ -2546,7 +2546,7 @@
   "Synonyms": [
    "jetsons",
    "kontraption",
-   "Flintstones",
+   "flintstones",
    "bil",
    "backfire"
   ]
@@ -3313,7 +3313,7 @@
    "bigfoot",
    "sumpting",
    "varulv",
-   "Frankenstein",
+   "frankenstein",
    "mumie"
   ]
  },
@@ -5047,7 +5047,7 @@
   "CatID": "FOODTware",
   "SubCategory": "SERVICE",
   "Synonyms": [
-   "S\u00f8lvbestik",
+   "s\u00f8lvbestik",
    "redskaber",
    "glas",
    "klirrer"
@@ -5592,7 +5592,7 @@
    "gun",
    "uzi",
    "m249",
-   "M1919",
+   "m1919",
    "gatling",
    "gun",
    "minigun",
@@ -6460,8 +6460,8 @@
    "destilleri",
    "stansepresse",
    "formpresser",
-   "F437",
-   "F450"
+   "f437",
+   "f450"
   ]
  },
  {
@@ -8197,7 +8197,7 @@
   "CatID": "RAINVege",
   "SubCategory": "VEGETATION",
   "Synonyms": [
-   "Regn",
+   "regn",
    "p\u00e5",
    "en",
    "metaloverflade",
@@ -8283,7 +8283,7 @@
   "CatID": "ROCKBrk",
   "SubCategory": "BR\u00c6KKE",
   "Synonyms": [
-   "Kn\u00e6kker",
+   "kn\u00e6kker",
    "revner",
    "fl\u00e6nger",
    "revner",
@@ -8297,7 +8297,7 @@
   "CatID": "ROCKCrsh",
   "SubCategory": "SMADRE/NEDSLAGSRESTER",
   "Synonyms": [
-   "Fald",
+   "fald",
    "affald"
   ]
  },
@@ -8307,7 +8307,7 @@
   "CatID": "ROCKFric",
   "SubCategory": "FRIKTION",
   "Synonyms": [
-   "Stress",
+   "stress",
    "skrammer",
    "knirker",
    "knirker",
@@ -8339,7 +8339,7 @@
   "CatID": "ROCKImpt",
   "SubCategory": "AT RAMME/NEDSLAG",
   "Synonyms": [
-   "Ramme",
+   "ramme",
    "falde",
    "st\u00f8d",
    "kollision",
@@ -8356,7 +8356,7 @@
   "CatID": "ROCKMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -8365,7 +8365,7 @@
   "CatID": "ROCKMvmt",
   "SubCategory": "BEV\u00c6GELSE",
   "Synonyms": [
-   "Tr\u00e6kke",
+   "tr\u00e6kke",
    "rulle",
    "rasle",
    "ryste",
@@ -8378,11 +8378,11 @@
   "CatID": "ROCKTonl",
   "SubCategory": "TONALE",
   "Synonyms": [
-   "B\u00f8jes",
-   "Ring",
-   "Wronk",
-   "Shing",
-   "Warp"
+   "b\u00f8jes",
+   "ring",
+   "wronk",
+   "shing",
+   "warp"
   ]
  },
  {
@@ -9125,7 +9125,7 @@
   "CatID": "TRNInt",
   "SubCategory": "INTERI\u00d8R",
   "Synonyms": [
-   "S",
+   "s",
    "tog",
    "regionaltog",
    "bylinje",
@@ -9492,7 +9492,7 @@
    "brandbil",
    "ambulance",
    "politibil",
-   "SWAT",
+   "swat",
    "vogn"
   ]
  },
@@ -9613,7 +9613,7 @@
   "SubCategory": "MILIT\u00c6R",
   "Synonyms": [
    "kampvogn",
-   "APC",
+   "apc",
    "pansret",
    "mandskabsvogn",
    "humvee",
@@ -9733,7 +9733,7 @@
    "pickup",
    "truck",
    "varevogne",
-   "SUV",
+   "suv",
    "flatbed",
    ""
   ]

@@ -114,13 +114,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
+   "a310",
+   "a330",
+   "a350",
+   "a380",
    "avion",
    "de",
    "chasse"
@@ -145,13 +145,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380"
+   "a310",
+   "a330",
+   "a350",
+   "a380"
   ]
  },
  {
@@ -187,12 +187,12 @@
    "thunderbirds",
    "lockheed",
    "mig",
-   "F18",
-   "F16",
-   "F35",
-   "F22",
-   "A10",
-   "P52"
+   "f18",
+   "f16",
+   "f35",
+   "f22",
+   "a10",
+   "p52"
   ]
  },
  {
@@ -242,15 +242,15 @@
   "SubCategory": "T\u00c9L\u00c9COMMAND\u00c9",
   "Synonyms": [
    "quadcopt\u00e8res",
-   "UAV",
+   "uav",
    "v\u00e9hicules",
    "a\u00e9riens",
    "sans",
    "pilote",
    "jet",
-   "RC",
+   "rc",
    "h\u00e9licopt\u00e8re",
-   "RC"
+   "rc"
   ]
  },
  {
@@ -345,7 +345,7 @@
    "fum\u00e9e",
    "d\u00e9tecteur",
    "de",
-   "CO2",
+   "co2",
    "alarme",
    "voiture",
    "alarme",
@@ -661,9 +661,9 @@
    "l",
    "or",
    "ancienne",
-   "Rome",
+   "rome",
    "ancienne",
-   "Gr\u00e8ce"
+   "gr\u00e8ce"
   ]
  },
  {
@@ -1612,7 +1612,7 @@
    "\u00e9pic",
    "cochon",
    "d",
-   "Inde",
+   "inde",
    "tamia",
    "castor",
    "spermophile",
@@ -1715,7 +1715,7 @@
   "Synonyms": [
    "r\u00e9ponse",
    "impulsionnelle",
-   "IR",
+   "ir",
    "altiverb",
    "\u00e9chantillon",
    "de",
@@ -1747,8 +1747,8 @@
    "mix",
    "final",
    "stem",
-   "M",
-   "E",
+   "m",
+   "e",
    "mixdown",
    "printmaster"
   ]
@@ -1920,9 +1920,9 @@
   "CatID": "BEEPMed",
   "SubCategory": "M\u00c9DICAL",
   "Synonyms": [
-   "EKG",
-   "ECG",
-   "KDC",
+   "ekg",
+   "ecg",
+   "kdc",
    "moniteur",
    "cardiaque",
    "flatline",
@@ -2171,7 +2171,7 @@
    "mouette",
    "fou",
    "de",
-   "Bassan",
+   "bassan",
    "albatros",
    "cormoran",
    "p\u00e9lican",
@@ -2688,7 +2688,7 @@
   "CatID": "TOONBoing",
   "SubCategory": "BOING",
   "Synonyms": [
-   "Guimbarde",
+   "guimbarde",
    "guimbarde"
   ]
  },
@@ -2748,8 +2748,8 @@
    "machine",
    "comique",
    "machine",
-   "Rube",
-   "Goldberg"
+   "rube",
+   "goldberg"
   ]
  },
  {
@@ -2875,7 +2875,7 @@
    "jetsons",
    "engin",
    "voiture",
-   "Pierrafeu",
+   "pierrafeu",
    "p\u00e9tarade"
   ]
  },
@@ -3277,7 +3277,7 @@
    "walkman",
    "lecteur",
    "de",
-   "CD",
+   "cd",
    "bobine",
    "\u00e0",
    "bobine",
@@ -3833,7 +3833,7 @@
    "anniversaire",
    "nouvel",
    "an",
-   "No\u00ebl",
+   "no\u00ebl",
    "d\u00e9fil\u00e9"
   ]
  },
@@ -6124,7 +6124,7 @@
    "gun",
    "uzi",
    "m249",
-   "M1919",
+   "m1919",
    "gatling",
    "gun",
    "minigun",
@@ -6362,13 +6362,13 @@
    "combat",
    "cor",
    "des",
-   "Alpes",
+   "alpes",
    "cor",
    "des",
-   "Alpes",
+   "alpes",
    "cor",
    "des",
-   "Alpes"
+   "alpes"
   ]
  },
  {
@@ -7089,8 +7089,8 @@
    "presse",
    "\u00e0",
    "coffrage",
-   "F437",
-   "F450"
+   "f437",
+   "f450"
   ]
  },
  {
@@ -7116,8 +7116,8 @@
    "appareils",
    "\u00e0",
    "rayons",
-   "X",
-   "IRM",
+   "x",
+   "irm",
    "scanner",
    "pour",
    "chats",
@@ -9025,7 +9025,7 @@
   "CatID": "RAINVege",
   "SubCategory": "V\u00c9G\u00c9TATION",
   "Synonyms": [
-   "Pluie",
+   "pluie",
    "sur",
    "une",
    "surface",
@@ -9114,7 +9114,7 @@
   "CatID": "ROCKBrk",
   "SubCategory": "CASSE",
   "Synonyms": [
-   "Casse",
+   "casse",
    "fissure",
    "d\u00e9chirure",
    "\u00e9clatement",
@@ -9127,8 +9127,8 @@
   "CatID": "ROCKCrsh",
   "SubCategory": "CRASH & D\u00c9BRIS",
   "Synonyms": [
-   "Chute",
-   "D\u00e9bris"
+   "chute",
+   "d\u00e9bris"
   ]
  },
  {
@@ -9137,7 +9137,7 @@
   "CatID": "ROCKFric",
   "SubCategory": "FRICTION",
   "Synonyms": [
-   "Stress",
+   "stress",
    "\u00e9raflures",
    "craquements",
    "grincements",
@@ -9168,7 +9168,7 @@
   "CatID": "ROCKImpt",
   "SubCategory": "IMPACT",
   "Synonyms": [
-   "Frapper",
+   "frapper",
    "laisser",
    "tomber",
    "impacter",
@@ -9202,7 +9202,7 @@
   "CatID": "ROCKMvmt",
   "SubCategory": "MOUVEMENT",
   "Synonyms": [
-   "Tra\u00eener",
+   "tra\u00eener",
    "rouler",
    "secouer",
    "agiter"
@@ -9214,7 +9214,7 @@
   "CatID": "ROCKTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "S",
+   "s",
    "incliner",
    "sonner",
    "se",
@@ -9915,7 +9915,7 @@
   "CatID": "TOYElec",
   "SubCategory": "\u00c9LECTRONIQUE",
   "Synonyms": [
-   "Voiture",
+   "voiture",
    "t\u00e9l\u00e9command\u00e9e",
    "voiture",
    "\u00e0",
@@ -10380,7 +10380,7 @@
    "de",
    "la",
    "compagnie",
-   "Greyhound",
+   "greyhound",
    "autocar",
    "autobus",
    "touristique",
@@ -10477,7 +10477,7 @@
    "police",
    "fourgon",
    "du",
-   "SWAT"
+   "swat"
   ]
  },
  {
@@ -10613,7 +10613,7 @@
   "SubCategory": "MILITAIRE",
   "Synonyms": [
    "tank",
-   "APC",
+   "apc",
    "v\u00e9hicule",
    "blind\u00e9",
    "de",
@@ -10738,7 +10738,7 @@
    "passagers",
    "camionnette",
    "fourgonnette",
-   "SUV",
+   "suv",
    "plateau",
    ""
   ]

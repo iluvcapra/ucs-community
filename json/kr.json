@@ -104,13 +104,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
+   "a310",
+   "a330",
+   "a350",
+   "a380",
    "\uc804\ud22c\uae30"
   ]
  },
@@ -132,13 +132,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380"
+   "a310",
+   "a330",
+   "a350",
+   "a380"
   ]
  },
  {
@@ -169,12 +169,12 @@
    "\uc36c\ub354\ubc84\ub4dc",
    "\ub85d\ud788\ub4dc",
    "\ubbf8\uadf8",
-   "F18",
-   "F16",
-   "F35",
-   "F22",
-   "A10",
-   "P52"
+   "f18",
+   "f16",
+   "f35",
+   "f22",
+   "a10",
+   "p52"
   ]
  },
  {
@@ -243,8 +243,8 @@
    "\uc655\ubcf5\uc120",
    "\uc2a4\ud398\uc774\uc2a4",
    "\uc5d1\uc2a4",
-   "NASA",
-   "ICBM",
+   "nasa",
+   "icbm",
    "\ud575",
    "\ub85c\ucf13",
    "\ud0c4\ub450"
@@ -310,7 +310,7 @@
    "\uac10\uc9c0\uae30",
    "\uc5f0\uae30",
    "\uac10\uc9c0\uae30",
-   "CO2",
+   "co2",
    "\uac10\uc9c0\uae30",
    "\uc790\ub3d9\ucc28",
    "\uacbd\ubcf4\uae30",
@@ -997,7 +997,7 @@
   "Synonyms": [
    "nfl",
    "\ucd95\uad6c",
-   "NBA",
+   "nba",
    "\ub18d\uad6c",
    "mlb",
    "\uc57c\uad6c",
@@ -1564,7 +1564,7 @@
   "Synonyms": [
    "\uc784\ud384\uc2a4",
    "\uc751\ub2f5",
-   "IR",
+   "ir",
    "altiverb",
    "\ub9ac\ubc84\ube0c",
    "\uc0d8\ud50c",
@@ -1593,8 +1593,8 @@
    "\ud30c\uc774\ub110",
    "\ubbf9\uc2a4",
    "\uc2a4\ud15c",
-   "M",
-   "E",
+   "m",
+   "e",
    "\ubbf9\uc2a4\ub2e4\uc6b4",
    "\ud504\ub9b0\ud2b8\ub9c8\uc2a4\ud130"
   ]
@@ -1627,7 +1627,7 @@
   "CatID": "RAW",
   "SubCategory": "\uc0dd",
   "Synonyms": [
-   "DAT",
+   "dat",
    "\ud14c\uc774\ud504",
    "\uc6d0\uc2dc",
    "\ud30c\uc77c",
@@ -1761,9 +1761,9 @@
   "CatID": "BEEPMed",
   "SubCategory": "\uc758\ub8cc\uae30\uad6c",
   "Synonyms": [
-   "EKG",
-   "ECG",
-   "KDC",
+   "ekg",
+   "ecg",
+   "kdc",
    "\uc2ec\uc7a5",
    "\ubaa8\ub2c8\ud130",
    "\ud50c\ub7ab\ub77c\uc778",
@@ -2595,7 +2595,7 @@
   "Synonyms": [
    "jetsons",
    "\uc7a5\uce58",
-   "Flintstones",
+   "flintstones",
    "\uc790\ub3d9\ucc28",
    "\uc5ed\ud6a8\uacfc"
   ]
@@ -2997,7 +2997,7 @@
    "\ub808\ucf54\ub354",
    "\ub098\uadf8\ub77c",
    "\uc6cc\ud06c\ub9e8",
-   "CD",
+   "cd",
    "\ud50c\ub808\uc774\uc5b4",
    "\ub9b4",
    "\ub300",
@@ -3136,7 +3136,7 @@
    "\uc6d0\uaca9",
    "\uce21\uc815",
    "\ud310\ub3c5\uac12",
-   "SOS"
+   "sos"
   ]
  },
  {
@@ -3166,7 +3166,7 @@
    "\uc1fc",
    "\ud504\ub85c\uadf8\ub7a8",
    "futz",
-   "TV",
+   "tv",
    "\uc1fc",
    "\ubc29\uc1a1"
   ]
@@ -3237,7 +3237,7 @@
    "\ud31c",
    "\ud30c\uc77c\ub7ff",
    "\ud3ec\ucf13",
-   "PC"
+   "pc"
   ]
  },
  {
@@ -3606,7 +3606,7 @@
   "CatID": "CRWDLaff",
   "SubCategory": "\uc6c3\uc74c",
   "Synonyms": [
-   "TV",
+   "tv",
    "\uc1fc",
    "\ud1b5\uc870\ub9bc",
    "\uc6c3\uc74c",
@@ -5735,7 +5735,7 @@
    "\uac74",
    "uzi",
    "m249",
-   "M1919",
+   "m1919",
    "\uac1c\ud2c0\ub9c1",
    "\uac74",
    "\ubbf8\ub2c8\uac74",
@@ -6608,8 +6608,8 @@
    "\ud504\ub808\uc2a4",
    "\ud3fc",
    "\ud504\ub808\uc2a4",
-   "F437",
-   "F450"
+   "f437",
+   "f450"
   ]
  },
  {
@@ -7131,7 +7131,7 @@
   "SubCategory": "\uc11c\ubcf4 \uae30\uad6c",
   "Synonyms": [
    "\ub85c\ubd07",
-   "RC\uce74",
+   "rc\uce74",
    "\uce74\uba54\ub77c",
    "\ud3ec\ucee4\uc2a4",
    "\uc790\ub3d9\ucc28",
@@ -8534,14 +8534,14 @@
   "CatID": "ROCKImpt",
   "SubCategory": "\uc784\ud329\ud2b8",
   "Synonyms": [
-   "Hit",
-   "Drop",
-   "Impact",
-   "Crash",
-   "Clunk",
-   "Clang",
-   "Clink",
-   "Chop"
+   "hit",
+   "drop",
+   "impact",
+   "crash",
+   "clunk",
+   "clang",
+   "clink",
+   "chop"
   ]
  },
  {
@@ -9403,7 +9403,7 @@
    "\uc9c0\ud558\ucca0",
    "\uc9c0\ud558\ucca0",
    "\ud29c\ube0c",
-   "RER"
+   "rer"
   ]
  },
  {
@@ -9719,7 +9719,7 @@
    "\uc18c\ubc29\ucc28",
    "\uad6c\uae09\ucc28",
    "\uacbd\ucc30\ucc28",
-   "SWAT",
+   "swat",
    "\ubc34"
   ]
  },
@@ -9847,7 +9847,7 @@
   "SubCategory": "\uad70\uc6a9",
   "Synonyms": [
    "\ud0f1\ud06c",
-   "APC",
+   "apc",
    "\uc7a5\uac11\ucc28",
    "\ud5d8\ube44",
    "\uc9c0\ud504"

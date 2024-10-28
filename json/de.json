@@ -5,11 +5,11 @@
   "CatID": "AIRBrst",
   "SubCategory": "STOSS",
   "Synonyms": [
-   "Luftstoss",
-   "Luftpuff",
-   "Chuff",
-   "Spurt",
-   "Explosion"
+   "luftstoss",
+   "luftpuff",
+   "chuff",
+   "spurt",
+   "explosion"
   ]
  },
  {
@@ -18,7 +18,7 @@
   "CatID": "AIRHiss",
   "SubCategory": "ZISCHEN",
   "Synonyms": [
-   "Luft",
+   "luft",
    "ablassen",
    "ausblasen",
    "aussto\u00dfen",
@@ -31,7 +31,7 @@
   "CatID": "AIRMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -40,7 +40,7 @@
   "CatID": "AIRSuck",
   "SubCategory": "SOG",
   "Synonyms": [
-   "Vakuum",
+   "vakuum",
    "saugen",
    "saugen"
   ]
@@ -51,10 +51,10 @@
   "CatID": "AERODoor",
   "SubCategory": "T\u00dcR",
   "Synonyms": [
-   "Cockpitt\u00fcr",
-   "Flugzeugt\u00fcr",
-   "Luke",
-   "Notausgang"
+   "cockpitt\u00fcr",
+   "flugzeugt\u00fcr",
+   "luke",
+   "notausgang"
   ]
  },
  {
@@ -63,16 +63,16 @@
   "CatID": "AEROHeli",
   "SubCategory": "HUBSCHRAUBER",
   "Synonyms": [
-   "Gyrocopter",
-   "Whirlybird",
-   "Hubschrauber",
-   "Ghetto",
-   "Bird",
-   "Bellcopter",
-   "Polizeihubschrauber",
-   "Huey",
-   "Helikopter",
-   "Blackhawk"
+   "gyrocopter",
+   "whirlybird",
+   "hubschrauber",
+   "ghetto",
+   "bird",
+   "bellcopter",
+   "polizeihubschrauber",
+   "huey",
+   "helikopter",
+   "blackhawk"
   ]
  },
  {
@@ -81,31 +81,31 @@
   "CatID": "AEROInt",
   "SubCategory": "INNEN",
   "Synonyms": [
-   "Jet",
-   "Flugzeug",
-   "Flugzeug",
-   "Passagierflugzeug",
-   "Segelflugzeug",
-   "Zeppelin",
-   "Verkehrsflugzeug",
-   "Jetliner",
-   "Jumbo",
-   "Jet",
-   "Learjet",
-   "Airbus",
-   "Boeing",
-   "Bombardier",
+   "jet",
+   "flugzeug",
+   "flugzeug",
+   "passagierflugzeug",
+   "segelflugzeug",
+   "zeppelin",
+   "verkehrsflugzeug",
+   "jetliner",
+   "jumbo",
+   "jet",
+   "learjet",
+   "airbus",
+   "boeing",
+   "bombardier",
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
-   "Kampfjet"
+   "a310",
+   "a330",
+   "a350",
+   "a380",
+   "kampfjet"
   ]
  },
  {
@@ -114,23 +114,23 @@
   "CatID": "AEROJet",
   "SubCategory": "JET",
   "Synonyms": [
-   "Verkehrsflugzeug",
-   "D\u00fcsenflugzeug",
-   "Jumbojet",
-   "Learjet",
-   "Airbus",
-   "Boeing",
-   "Bombardier",
+   "verkehrsflugzeug",
+   "d\u00fcsenflugzeug",
+   "jumbojet",
+   "learjet",
+   "airbus",
+   "boeing",
+   "bombardier",
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380"
+   "a310",
+   "a330",
+   "a350",
+   "a380"
   ]
  },
  {
@@ -139,10 +139,10 @@
   "CatID": "AEROMech",
   "SubCategory": "MECHANISMUS",
   "Synonyms": [
-   "Fahrwerk",
-   "Cockpithebel",
-   "Seitenruder",
-   "Klappe"
+   "fahrwerk",
+   "cockpithebel",
+   "seitenruder",
+   "klappe"
   ]
  },
  {
@@ -151,20 +151,20 @@
   "CatID": "AEROMil",
   "SubCategory": "MILIT\u00c4R",
   "Synonyms": [
-   "Kampfjet",
-   "Bomber",
-   "Tarnkappenbomber",
-   "Blue",
-   "Angels",
-   "Thunderbirds",
-   "Lockheed",
-   "Mig",
-   "F18",
-   "F16",
-   "F35",
-   "F22",
-   "A10",
-   "P52"
+   "kampfjet",
+   "bomber",
+   "tarnkappenbomber",
+   "blue",
+   "angels",
+   "thunderbirds",
+   "lockheed",
+   "mig",
+   "f18",
+   "f16",
+   "f35",
+   "f22",
+   "a10",
+   "p52"
   ]
  },
  {
@@ -173,13 +173,13 @@
   "CatID": "AEROMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Luftschiff",
-   "Segelflugzeug",
-   "Hei\u00dfluftballon",
-   "Ultraleicht",
-   "H\u00e4ngegleiter",
-   "Zeppelin",
-   "Luftschiff"
+   "luftschiff",
+   "segelflugzeug",
+   "hei\u00dfluftballon",
+   "ultraleicht",
+   "h\u00e4ngegleiter",
+   "zeppelin",
+   "luftschiff"
   ]
  },
  {
@@ -188,19 +188,19 @@
   "CatID": "AEROProp",
   "SubCategory": "PROPELLER",
   "Synonyms": [
-   "Doppeldecker",
-   "Dreidecker",
-   "Turboprop",
-   "Stuntflugzeug",
-   "Crop",
-   "Duster",
-   "Piper",
-   "Cub",
-   "Propeller",
-   "Twin",
-   "Prop",
-   "Propjet",
-   "Luftschraube"
+   "doppeldecker",
+   "dreidecker",
+   "turboprop",
+   "stuntflugzeug",
+   "crop",
+   "duster",
+   "piper",
+   "cub",
+   "propeller",
+   "twin",
+   "prop",
+   "propjet",
+   "luftschraube"
   ]
  },
  {
@@ -209,14 +209,14 @@
   "CatID": "AERORadio",
   "SubCategory": "FERNGESTEUERT",
   "Synonyms": [
-   "Quadcopter",
-   "UAV",
+   "quadcopter",
+   "uav",
    "unbemanntes",
-   "Luftfahrzeug",
-   "RC",
-   "Jet",
-   "RC",
-   "Hubschrauber"
+   "luftfahrzeug",
+   "rc",
+   "jet",
+   "rc",
+   "hubschrauber"
   ]
  },
  {
@@ -243,12 +243,12 @@
   "CatID": "ALRMBell",
   "SubCategory": "GLOCKE",
   "Synonyms": [
-   "Feuerglocke",
-   "Schulglocke",
-   "Glocke",
+   "feuerglocke",
+   "schulglocke",
+   "glocke",
    "an",
-   "Bahn\u00fcberg\u00e4ngen",
-   "Alarmglocke"
+   "bahn\u00fcberg\u00e4ngen",
+   "alarmglocke"
   ]
  },
  {
@@ -257,13 +257,13 @@
   "CatID": "ALRMBuzr",
   "SubCategory": "SUMMER",
   "Synonyms": [
-   "T\u00fcrsummer",
-   "Spielshow",
-   "Buzzer",
-   "Haust\u00fcrsummer",
-   "Eingangssummer",
-   "Gegensprechanlagen",
-   "Summer"
+   "t\u00fcrsummer",
+   "spielshow",
+   "buzzer",
+   "haust\u00fcrsummer",
+   "eingangssummer",
+   "gegensprechanlagen",
+   "summer"
   ]
  },
  {
@@ -272,10 +272,10 @@
   "CatID": "ALRMClok",
   "SubCategory": "UHR",
   "Synonyms": [
-   "Digitaler",
-   "Wecker",
-   "Wecker",
-   "Wecker"
+   "digitaler",
+   "wecker",
+   "wecker",
+   "wecker"
   ]
  },
  {
@@ -284,12 +284,12 @@
   "CatID": "ALRMElec",
   "SubCategory": "ELEKTRONISCH",
   "Synonyms": [
-   "Brandmelder",
-   "Rauchmelder",
-   "CO2",
-   "Melder",
-   "Autoalarm",
-   "Hausalarm"
+   "brandmelder",
+   "rauchmelder",
+   "co2",
+   "melder",
+   "autoalarm",
+   "hausalarm"
   ]
  },
  {
@@ -298,7 +298,7 @@
   "CatID": "ALRMMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -307,10 +307,10 @@
   "CatID": "ALRMSirn",
   "SubCategory": "SIRENE",
   "Synonyms": [
-   "Sirene",
-   "Hupen",
-   "Luftschutzsirene",
-   "Tornadosirene"
+   "sirene",
+   "hupen",
+   "luftschutzsirene",
+   "tornadosirene"
   ]
  },
  {
@@ -319,13 +319,13 @@
   "CatID": "AMBAir",
   "SubCategory": "LUFT",
   "Synonyms": [
-   "W\u00fcste",
-   "Winter",
+   "w\u00fcste",
+   "winter",
    "ruhige",
-   "Luft",
-   "Nachtluft",
-   "Bergluft",
-   "Nachtluft"
+   "luft",
+   "nachtluft",
+   "bergluft",
+   "nachtluft"
   ]
  },
  {
@@ -334,15 +334,15 @@
   "CatID": "AMBAlpn",
   "SubCategory": "GEBIRGE",
   "Synonyms": [
-   "Alpen",
-   "Gebirge",
-   "Rockies",
-   "Tetons",
-   "Bergsteigen",
+   "alpen",
+   "gebirge",
+   "rockies",
+   "tetons",
+   "bergsteigen",
    "bergig",
    "schneebedeckt",
-   "Berghang",
-   "Gipfel"
+   "berghang",
+   "gipfel"
   ]
  },
  {
@@ -354,18 +354,18 @@
    "disneyland",
    "six",
    "flags",
-   "Freizeitpark",
-   "Vergn\u00fcgungspark",
-   "Jahrmarkt",
-   "Kirmes",
-   "Jahrmarkt",
-   "Midway",
-   "Jahrmarkt",
-   "Festival",
-   "Spukhaus",
-   "Funhouse",
-   "Arcade",
-   "Flipper"
+   "freizeitpark",
+   "vergn\u00fcgungspark",
+   "jahrmarkt",
+   "kirmes",
+   "jahrmarkt",
+   "midway",
+   "jahrmarkt",
+   "festival",
+   "spukhaus",
+   "funhouse",
+   "arcade",
+   "flipper"
   ]
  },
  {
@@ -374,17 +374,17 @@
   "CatID": "AMBBird",
   "SubCategory": "VOGELGESANG",
   "Synonyms": [
-   "Chor",
+   "chor",
    "in",
    "der",
-   "Morgend\u00e4mmerung",
-   "Morgenchor",
+   "morgend\u00e4mmerung",
+   "morgenchor",
    "h\u00fcbscher",
-   "Vogel",
-   "Schw\u00e4rme",
-   "Zwitschern",
-   "Zwitschern",
-   "Piepsen"
+   "vogel",
+   "schw\u00e4rme",
+   "zwitschern",
+   "zwitschern",
+   "piepsen"
   ]
  },
  {
@@ -394,14 +394,14 @@
   "SubCategory": "FEIER",
   "Synonyms": [
    "\u00f6ffentliche",
-   "Versammlung",
-   "Veranstaltung",
-   "Party",
-   "Gala",
-   "Karneval",
-   "Fest",
-   "Fiesta",
-   "Festival"
+   "versammlung",
+   "veranstaltung",
+   "party",
+   "gala",
+   "karneval",
+   "fest",
+   "fiesta",
+   "festival"
   ]
  },
  {
@@ -410,13 +410,13 @@
   "CatID": "AMBCnst",
   "SubCategory": "BAUSTELLE",
   "Synonyms": [
-   "Stra\u00dfenbau",
-   "Geb\u00e4ude",
-   "Zimmerei",
-   "Renovierung",
-   "Hausrenovierung",
-   "Stra\u00dfenreparatur",
-   "Wiederaufbau"
+   "stra\u00dfenbau",
+   "geb\u00e4ude",
+   "zimmerei",
+   "renovierung",
+   "hausrenovierung",
+   "stra\u00dfenreparatur",
+   "wiederaufbau"
   ]
  },
  {
@@ -425,14 +425,14 @@
   "CatID": "AMBDsrt",
   "SubCategory": "W\u00dcSTE",
   "Synonyms": [
-   "W\u00fcste",
-   "W\u00fcstenei",
-   "Oase",
+   "w\u00fcste",
+   "w\u00fcstenei",
+   "oase",
    "\u00f6de",
-   "\u00d6dland",
-   "Sahara",
+   "\u00f6dland",
+   "sahara",
    "d\u00fcrr",
-   "Sandd\u00fcnen",
+   "sandd\u00fcnen",
    "trostlos"
   ]
  },
@@ -452,17 +452,17 @@
   "CatID": "AMBEmrg",
   "SubCategory": "NOTFALL",
   "Synonyms": [
-   "Tatort",
-   "Brandbek\u00e4mpfung",
-   "Polizei",
-   "Sanit\u00e4ter",
-   "Beweismittel",
-   "Naturkatastrophe",
-   "Schie\u00dferei",
-   "Unfall",
-   "Katastrophe",
-   "Verletzung",
-   "Massenkarambolage"
+   "tatort",
+   "brandbek\u00e4mpfung",
+   "polizei",
+   "sanit\u00e4ter",
+   "beweismittel",
+   "naturkatastrophe",
+   "schie\u00dferei",
+   "unfall",
+   "katastrophe",
+   "verletzung",
+   "massenkarambolage"
   ]
  },
  {
@@ -471,13 +471,13 @@
   "CatID": "AMBFant",
   "SubCategory": "FANTASTISCH",
   "Synonyms": [
-   "Fee",
-   "Fantasie",
+   "fee",
+   "fantasie",
    "magisch",
-   "Reich",
-   "Traum",
-   "Mittelerde",
-   "Pandora"
+   "reich",
+   "traum",
+   "mittelerde",
+   "pandora"
   ]
  },
  {
@@ -486,20 +486,20 @@
   "CatID": "AMBFarm",
   "SubCategory": "LANDWIRTSCHAFT",
   "Synonyms": [
-   "Bauernhof",
-   "Ernte",
-   "Ackerbau",
-   "Ranch",
-   "Geh\u00f6ft",
-   "Grange",
-   "Plantage",
-   "Ackerland",
-   "Pferch",
-   "Scheune",
-   "Weide",
-   "Molkerei",
-   "Weinberg",
-   "Korral",
+   "bauernhof",
+   "ernte",
+   "ackerbau",
+   "ranch",
+   "geh\u00f6ft",
+   "grange",
+   "plantage",
+   "ackerland",
+   "pferch",
+   "scheune",
+   "weide",
+   "molkerei",
+   "weinberg",
+   "korral",
    "pastoral"
   ]
  },
@@ -509,17 +509,17 @@
   "CatID": "AMBForst",
   "SubCategory": "WALD",
   "Synonyms": [
-   "Wald",
-   "H\u00f6lzer",
-   "Holzland",
+   "wald",
+   "h\u00f6lzer",
+   "holzland",
    "borealer",
-   "Wald",
-   "Regenwald",
+   "wald",
+   "regenwald",
    "gem\u00e4\u00dfigter",
-   "Regenwald",
-   "Nebelwald",
-   "Laubwald",
-   "Nadelbaum"
+   "regenwald",
+   "nebelwald",
+   "laubwald",
+   "nadelbaum"
   ]
  },
  {
@@ -528,13 +528,13 @@
   "CatID": "AMBGras",
   "SubCategory": "GRASLAND",
   "Synonyms": [
-   "Pr\u00e4rie",
-   "Ackerland",
-   "Gras",
-   "Wiese",
-   "Weide",
-   "Weideland",
-   "Steppe"
+   "pr\u00e4rie",
+   "ackerland",
+   "gras",
+   "wiese",
+   "weide",
+   "weideland",
+   "steppe"
   ]
  },
  {
@@ -543,14 +543,14 @@
   "CatID": "AMBHist",
   "SubCategory": "HISTORISCH",
   "Synonyms": [
-   "Geisterstadt",
+   "geisterstadt",
    "alter",
-   "Westen",
-   "Goldrausch",
+   "westen",
+   "goldrausch",
    "antikes",
-   "Rom",
+   "rom",
    "antikes",
-   "Griechenland"
+   "griechenland"
   ]
  },
  {
@@ -559,11 +559,11 @@
   "CatID": "AMBTech",
   "SubCategory": "HI-TECH",
   "Synonyms": [
-   "Labor",
-   "Maschinenraum",
-   "Server",
-   "Rechenzentrum",
-   "Kontrollraum"
+   "labor",
+   "maschinenraum",
+   "server",
+   "rechenzentrum",
+   "kontrollraum"
   ]
  },
  {
@@ -572,13 +572,13 @@
   "CatID": "AMBHosp",
   "SubCategory": "KRANKENHAUS",
   "Synonyms": [
-   "Notaufnahme",
-   "Chirurgie",
-   "Wartezimmer",
-   "Krankenzimmer",
-   "Klinik",
-   "Sanatorium",
-   "Krankenstation"
+   "notaufnahme",
+   "chirurgie",
+   "wartezimmer",
+   "krankenzimmer",
+   "klinik",
+   "sanatorium",
+   "krankenstation"
   ]
  },
  {
@@ -587,12 +587,12 @@
   "CatID": "AMBInd",
   "SubCategory": "INDUSTRIE",
   "Synonyms": [
-   "Fabrik",
-   "Fertigung",
-   "Werk",
-   "M\u00fchle",
-   "Lager",
-   "Werkstatt"
+   "fabrik",
+   "fertigung",
+   "werk",
+   "m\u00fchle",
+   "lager",
+   "werkstatt"
   ]
  },
  {
@@ -601,12 +601,12 @@
   "CatID": "AMBInsc",
   "SubCategory": "INSEKT",
   "Synonyms": [
-   "Grillen",
-   "Heuschrecken",
-   "Zikaden",
-   "Katzentiere",
+   "grillen",
+   "heuschrecken",
+   "zikaden",
+   "katzentiere",
    "schwimmen",
-   "Heuschrecken"
+   "heuschrecken"
   ]
  },
  {
@@ -615,13 +615,13 @@
   "CatID": "AMBLake",
   "SubCategory": "SEEUFER",
   "Synonyms": [
-   "Seen",
-   "Seeufer",
-   "Pl\u00e4tschern",
-   "Schwimmen",
-   "Stausee",
-   "Teich",
-   "Loch"
+   "seen",
+   "seeufer",
+   "pl\u00e4tschern",
+   "schwimmen",
+   "stausee",
+   "teich",
+   "loch"
   ]
  },
  {
@@ -630,15 +630,15 @@
   "CatID": "AMBMrkt",
   "SubCategory": "MARKT",
   "Synonyms": [
-   "Markt",
-   "Marktplatz",
-   "Verk\u00e4ufer",
-   "Einkaufsviertel",
-   "Basar",
-   "Markt",
-   "B\u00f6rse",
-   "Flohmarkt",
-   "Platz"
+   "markt",
+   "marktplatz",
+   "verk\u00e4ufer",
+   "einkaufsviertel",
+   "basar",
+   "markt",
+   "b\u00f6rse",
+   "flohmarkt",
+   "platz"
   ]
  },
  {
@@ -647,7 +647,7 @@
   "CatID": "AMBMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -657,17 +657,17 @@
   "SubCategory": "NAUTISCH",
   "Synonyms": [
    "nautisch",
-   "Schiffswerft",
-   "Poopdeck",
-   "Heck",
-   "Bug",
-   "Heck",
-   "Seefahrt",
-   "Seefahrt",
+   "schiffswerft",
+   "poopdeck",
+   "heck",
+   "bug",
+   "heck",
+   "seefahrt",
+   "seefahrt",
    "ozeanisch",
-   "Marine",
+   "marine",
    "maritim",
-   "Yachthafen"
+   "yachthafen"
   ]
  },
  {
@@ -676,13 +676,13 @@
   "CatID": "AMBOffc",
   "SubCategory": "B\u00dcRO",
   "Synonyms": [
-   "B\u00fcro",
-   "Kabine",
-   "Arbeitsplatz",
-   "Abteilung",
-   "Station",
-   "Filiale",
-   "Arbeitsstelle"
+   "b\u00fcro",
+   "kabine",
+   "arbeitsplatz",
+   "abteilung",
+   "station",
+   "filiale",
+   "arbeitsstelle"
   ]
  },
  {
@@ -691,15 +691,15 @@
   "CatID": "AMBPark",
   "SubCategory": "PARK",
   "Synonyms": [
-   "Park",
-   "Spielplatz",
-   "G\u00e4rten",
-   "Botanischer",
-   "Garten",
-   "Stadtpark",
-   "Vorstadtpark",
-   "Ballspielplatz",
-   "Parklandschaft"
+   "park",
+   "spielplatz",
+   "g\u00e4rten",
+   "botanischer",
+   "garten",
+   "stadtpark",
+   "vorstadtpark",
+   "ballspielplatz",
+   "parklandschaft"
   ]
  },
  {
@@ -708,14 +708,14 @@
   "CatID": "AMBPrisn",
   "SubCategory": "GEF\u00c4NGNIS",
   "Synonyms": [
-   "Gef\u00e4ngnis",
-   "Knast",
-   "Gef\u00e4ngnishof",
-   "Zuchthaus",
-   "Knasthaus",
-   "Arrest",
-   "Einzelhaft",
-   "Strafvollzugsanstalt"
+   "gef\u00e4ngnis",
+   "knast",
+   "gef\u00e4ngnishof",
+   "zuchthaus",
+   "knasthaus",
+   "arrest",
+   "einzelhaft",
+   "strafvollzugsanstalt"
   ]
  },
  {
@@ -724,20 +724,20 @@
   "CatID": "AMBPrtst",
   "SubCategory": "DEMONSTRATION",
   "Synonyms": [
-   "Protest",
-   "Kundgebung",
-   "Kundgebungen",
-   "Aufruhr",
+   "protest",
+   "kundgebung",
+   "kundgebungen",
+   "aufruhr",
    "skandieren",
    "schreien",
    "schreien",
    "w\u00fctende",
-   "Menge",
-   "M\u00e4rsche",
-   "Demonstration",
-   "Aufruhr",
-   "Revolte",
-   "Revolution",
+   "menge",
+   "m\u00e4rsche",
+   "demonstration",
+   "aufruhr",
+   "revolte",
+   "revolution",
    "w\u00fctend"
   ]
  },
@@ -747,20 +747,20 @@
   "CatID": "AMBPubl",
   "SubCategory": "\u00d6FFENTLICH",
   "Synonyms": [
-   "Gesch\u00e4fte",
-   "Lobbys",
-   "Hotels",
-   "Einkaufszentren",
-   "Museen",
+   "gesch\u00e4fte",
+   "lobbys",
+   "hotels",
+   "einkaufszentren",
+   "museen",
    "\u00f6ffentliche",
-   "Pl\u00e4tze",
-   "H\u00f6fe",
-   "Fitnessstudios",
-   "Fitnesscenter",
-   "Motel",
-   "Bibliothek",
-   "Gerichtsgeb\u00e4ude",
-   "Gericht"
+   "pl\u00e4tze",
+   "h\u00f6fe",
+   "fitnessstudios",
+   "fitnesscenter",
+   "motel",
+   "bibliothek",
+   "gerichtsgeb\u00e4ude",
+   "gericht"
   ]
  },
  {
@@ -769,12 +769,12 @@
   "CatID": "AMBRlgn",
   "SubCategory": "RELIGION",
   "Synonyms": [
-   "Kirche",
-   "Tempel",
-   "Moschee",
-   "Kapelle",
-   "Derasar",
-   "Kathedrale"
+   "kirche",
+   "tempel",
+   "moschee",
+   "kapelle",
+   "derasar",
+   "kathedrale"
   ]
  },
  {
@@ -783,15 +783,15 @@
   "CatID": "AMBHome",
   "SubCategory": "WOHN",
   "Synonyms": [
-   "Haus",
-   "Wohnung",
-   "Eigentumswohnung",
-   "Villa",
-   "Haus",
-   "Stadthaus",
-   "H\u00fctte",
-   "Haus",
-   "Residenz"
+   "haus",
+   "wohnung",
+   "eigentumswohnung",
+   "villa",
+   "haus",
+   "stadthaus",
+   "h\u00fctte",
+   "haus",
+   "residenz"
   ]
  },
  {
@@ -800,29 +800,29 @@
   "CatID": "AMBRest",
   "SubCategory": "RESTAURANT",
   "Synonyms": [
-   "Restaurant",
-   "Bar",
-   "Kneipe",
-   "Gastst\u00e4tte",
-   "Imbisswagen",
-   "Diner",
-   "Caf\u00e9",
-   "Cafeteria",
-   "Kantine",
-   "Teestube",
-   "Salon",
-   "Caf\u00e9",
-   "Pizzeria",
-   "Schnellimbiss",
-   "Weinstube",
-   "Automat",
-   "Kommissariat",
-   "Taverne",
-   "Nachtclub",
-   "Delikatessenladen",
-   "Esslokal",
-   "Brasserie",
-   "Drive",
+   "restaurant",
+   "bar",
+   "kneipe",
+   "gastst\u00e4tte",
+   "imbisswagen",
+   "diner",
+   "caf\u00e9",
+   "cafeteria",
+   "kantine",
+   "teestube",
+   "salon",
+   "caf\u00e9",
+   "pizzeria",
+   "schnellimbiss",
+   "weinstube",
+   "automat",
+   "kommissariat",
+   "taverne",
+   "nachtclub",
+   "delikatessenladen",
+   "esslokal",
+   "brasserie",
+   "drive",
    "in"
   ]
  },
@@ -832,11 +832,11 @@
   "CatID": "AMBRoom",
   "SubCategory": "RAUMTON",
   "Synonyms": [
-   "Raumklang",
+   "raumklang",
    "tote",
-   "Luft",
+   "luft",
    "ruhige",
-   "Luft"
+   "luft"
   ]
  },
  {
@@ -845,20 +845,20 @@
   "CatID": "AMBRurl",
   "SubCategory": "L\u00c4NDLICH",
   "Synonyms": [
-   "Landschaft",
-   "Ebene",
-   "Pr\u00e4rie",
-   "Grasland",
-   "Berg",
-   "H\u00fcgel",
-   "Savanne",
-   "Tundra",
-   "Wiese",
-   "Schlucht",
-   "Tal",
-   "Gestr\u00fcpp",
-   "Buschland",
-   "Plateau"
+   "landschaft",
+   "ebene",
+   "pr\u00e4rie",
+   "grasland",
+   "berg",
+   "h\u00fcgel",
+   "savanne",
+   "tundra",
+   "wiese",
+   "schlucht",
+   "tal",
+   "gestr\u00fcpp",
+   "buschland",
+   "plateau"
   ]
  },
  {
@@ -867,14 +867,14 @@
   "CatID": "AMBSchl",
   "SubCategory": "SCHULE",
   "Synonyms": [
-   "Grundschule",
-   "Mittelschule",
-   "Oberschule",
-   "Hochschule",
-   "Vorschule",
-   "Universit\u00e4t",
-   "Klassenzimmer",
-   "Versammlung"
+   "grundschule",
+   "mittelschule",
+   "oberschule",
+   "hochschule",
+   "vorschule",
+   "universit\u00e4t",
+   "klassenzimmer",
+   "versammlung"
   ]
  },
  {
@@ -883,14 +883,14 @@
   "CatID": "AMBSci",
   "SubCategory": "SCIFI",
   "Synonyms": [
-   "Raumschiff",
-   "Technikzentrale",
-   "Kommandozentrale",
-   "Scifi",
+   "raumschiff",
+   "technikzentrale",
+   "kommandozentrale",
+   "scifi",
    "futuristisch",
-   "Hightech",
-   "Hi",
-   "Tech"
+   "hightech",
+   "hi",
+   "tech"
   ]
  },
  {
@@ -899,21 +899,21 @@
   "CatID": "AMBSea",
   "SubCategory": "K\u00dcSTE",
   "Synonyms": [
-   "Strand",
-   "Strand",
-   "K\u00fcste",
-   "Ufer",
-   "K\u00fcste",
-   "Meeresk\u00fcste",
-   "Uferpromenade",
-   "Badeort",
-   "Strandpromenade",
-   "Uferpromenade",
-   "Dock",
-   "Pier",
-   "Hafen",
-   "Hafenbecken",
-   "Hafen"
+   "strand",
+   "strand",
+   "k\u00fcste",
+   "ufer",
+   "k\u00fcste",
+   "meeresk\u00fcste",
+   "uferpromenade",
+   "badeort",
+   "strandpromenade",
+   "uferpromenade",
+   "dock",
+   "pier",
+   "hafen",
+   "hafenbecken",
+   "hafen"
   ]
  },
  {
@@ -930,10 +930,10 @@
    "baseball",
    "tennis",
    "sportliche",
-   "Veranstaltung",
+   "veranstaltung",
    "kleine",
-   "Liga",
-   "Training"
+   "liga",
+   "training"
   ]
  },
  {
@@ -942,14 +942,14 @@
   "CatID": "AMBSubn",
   "SubCategory": "VORORT",
   "Synonyms": [
-   "Vorort",
-   "Wohngebiet",
-   "Nachbarschaft",
-   "Sackgasse",
-   "Dorf",
-   "Barrio",
-   "Au\u00dfenbezirk",
-   "Weiler"
+   "vorort",
+   "wohngebiet",
+   "nachbarschaft",
+   "sackgasse",
+   "dorf",
+   "barrio",
+   "au\u00dfenbezirk",
+   "weiler"
   ]
  },
  {
@@ -958,15 +958,15 @@
   "CatID": "AMBSwmp",
   "SubCategory": "SUMPF",
   "Synonyms": [
-   "Frosch",
-   "Moor",
-   "Sumpf",
-   "Everglade",
-   "Feuchtgebiet",
-   "Ufergebiet",
-   "See",
-   "See",
-   "Mangrove"
+   "frosch",
+   "moor",
+   "sumpf",
+   "everglade",
+   "feuchtgebiet",
+   "ufergebiet",
+   "see",
+   "see",
+   "mangrove"
   ]
  },
  {
@@ -975,12 +975,12 @@
   "CatID": "AMBTown",
   "SubCategory": "KLEINSTADT",
   "Synonyms": [
-   "Stadt",
-   "Dorf",
-   "Weiler",
-   "Kleinstadt",
-   "Gemeinde",
-   "Siedlung"
+   "stadt",
+   "dorf",
+   "weiler",
+   "kleinstadt",
+   "gemeinde",
+   "siedlung"
   ]
  },
  {
@@ -989,12 +989,12 @@
   "CatID": "AMBTraf",
   "SubCategory": "VERKEHR",
   "Synonyms": [
-   "Autostra\u00dfe",
-   "Autobahn",
-   "Schnellstra\u00dfe",
-   "Boulevard",
-   "Allee",
-   "Autobahn"
+   "autostra\u00dfe",
+   "autobahn",
+   "schnellstra\u00dfe",
+   "boulevard",
+   "allee",
+   "autobahn"
   ]
  },
  {
@@ -1003,18 +1003,18 @@
   "CatID": "AMBTran",
   "SubCategory": "VERKEHRSMITTEL",
   "Synonyms": [
-   "Bahnhof",
-   "Flughafen",
-   "Busbahnhof",
-   "U",
-   "Bahn",
-   "Station",
-   "U",
-   "Bahn",
-   "Station",
-   "Terminal",
-   "Depot",
-   "Endstation"
+   "bahnhof",
+   "flughafen",
+   "busbahnhof",
+   "u",
+   "bahn",
+   "station",
+   "u",
+   "bahn",
+   "station",
+   "terminal",
+   "depot",
+   "endstation"
   ]
  },
  {
@@ -1023,11 +1023,11 @@
   "CatID": "AMBTrop",
   "SubCategory": "TROPEN",
   "Synonyms": [
-   "Dschungel",
-   "Busch",
+   "dschungel",
+   "busch",
    "tropischer",
-   "Regenwald",
-   "Nebelwald",
+   "regenwald",
+   "nebelwald",
    "tropisch"
   ]
  },
@@ -1037,15 +1037,15 @@
   "CatID": "AMBTndra",
   "SubCategory": "TUNDRA",
   "Synonyms": [
-   "Arktis",
-   "Antarktis",
-   "Hochebene",
-   "Nordpol",
-   "S\u00fcdpol",
-   "Polar",
-   "Gletscher",
-   "Schnee",
-   "Eis"
+   "arktis",
+   "antarktis",
+   "hochebene",
+   "nordpol",
+   "s\u00fcdpol",
+   "polar",
+   "gletscher",
+   "schnee",
+   "eis"
   ]
  },
  {
@@ -1054,24 +1054,24 @@
   "CatID": "AMBUndr",
   "SubCategory": "UNTERIRDISCH",
   "Synonyms": [
-   "H\u00f6hle",
-   "Tropf",
-   "Echo",
-   "Kanalisation",
-   "Bunker",
-   "Tunnel",
-   "Verlies",
-   "Lavar\u00f6hre",
-   "Keller",
+   "h\u00f6hle",
+   "tropf",
+   "echo",
+   "kanalisation",
+   "bunker",
+   "tunnel",
+   "verlies",
+   "lavar\u00f6hre",
+   "keller",
    "unterirdisch",
    "versunken",
    "begraben",
    "unterirdisch",
-   "Keller",
-   "Schacht",
-   "Bergwerk",
-   "Durchgang",
-   "Durchfahrt"
+   "keller",
+   "schacht",
+   "bergwerk",
+   "durchgang",
+   "durchfahrt"
   ]
  },
  {
@@ -1080,14 +1080,14 @@
   "CatID": "AMBUndwtr",
   "SubCategory": "UNTERWASSER",
   "Synonyms": [
-   "Unterwasser",
-   "Riff",
-   "Koralle",
-   "Ozeangraben",
+   "unterwasser",
+   "riff",
+   "koralle",
+   "ozeangraben",
    "untergetaucht",
    "unterseeisch",
    "subaquatisch",
-   "Schiffswrack"
+   "schiffswrack"
   ]
  },
  {
@@ -1096,20 +1096,20 @@
   "CatID": "AMBUrbn",
   "SubCategory": "STADT",
   "Synonyms": [
-   "Metropole",
+   "metropole",
    "dichte",
-   "Stadt",
-   "Stadt",
-   "Innenstadt",
+   "stadt",
+   "stadt",
+   "innenstadt",
    "innerst\u00e4dtisch",
    "gro\u00dfst\u00e4dtisch",
    "gesch\u00e4ftig",
-   "Rushhour",
-   "Stau",
-   "Stadtzentrum",
-   "Slum",
-   "Ghetto",
-   "Finanzviertel"
+   "rushhour",
+   "stau",
+   "stadtzentrum",
+   "slum",
+   "ghetto",
+   "finanzviertel"
   ]
  },
  {
@@ -1118,25 +1118,25 @@
   "CatID": "AMBWar",
   "SubCategory": "KRIEG",
   "Synonyms": [
-   "Krieg",
-   "Kriegsf\u00fchrung",
-   "Schlacht",
-   "Scharm\u00fctzel",
-   "Kampf",
-   "Gefecht",
-   "Angriff",
-   "Offensive",
-   "Blitz",
-   "Luftangriff",
-   "\u00dcberfall",
-   "Bombardierung",
-   "Sperrfeuer",
-   "Fusillade",
-   "Blitzkrieg",
-   "Salve",
-   "Flak",
-   "Breitseite",
-   "Kanonade"
+   "krieg",
+   "kriegsf\u00fchrung",
+   "schlacht",
+   "scharm\u00fctzel",
+   "kampf",
+   "gefecht",
+   "angriff",
+   "offensive",
+   "blitz",
+   "luftangriff",
+   "\u00fcberfall",
+   "bombardierung",
+   "sperrfeuer",
+   "fusillade",
+   "blitzkrieg",
+   "salve",
+   "flak",
+   "breitseite",
+   "kanonade"
   ]
  },
  {
@@ -1145,15 +1145,15 @@
   "CatID": "ANMLAmph",
   "SubCategory": "AMPHIBIE",
   "Synonyms": [
-   "Frosch",
-   "Kr\u00f6te",
-   "Ochsenfrosch",
-   "Salamander",
-   "Molch",
-   "Chorfrosch",
-   "Pieper",
-   "Quappe",
-   "Axolotl"
+   "frosch",
+   "kr\u00f6te",
+   "ochsenfrosch",
+   "salamander",
+   "molch",
+   "chorfrosch",
+   "pieper",
+   "quappe",
+   "axolotl"
   ]
  },
  {
@@ -1162,29 +1162,29 @@
   "CatID": "ANMLAqua",
   "SubCategory": "MEER",
   "Synonyms": [
-   "Wal",
-   "Delphin",
-   "T\u00fcmmler",
-   "Seel\u00f6we",
-   "Robbe",
-   "Killerwal",
-   "Orca",
-   "Seekuh",
-   "Walross",
-   "See",
-   "Elefant",
-   "Seeotter",
-   "Beluga",
-   "Narwal",
-   "Dugong",
-   "Hai",
-   "Rochen",
-   "Qualle",
-   "Tintenfisch",
-   "Krake",
-   "Krabben",
-   "Hummer",
-   "Aal"
+   "wal",
+   "delphin",
+   "t\u00fcmmler",
+   "seel\u00f6we",
+   "robbe",
+   "killerwal",
+   "orca",
+   "seekuh",
+   "walross",
+   "see",
+   "elefant",
+   "seeotter",
+   "beluga",
+   "narwal",
+   "dugong",
+   "hai",
+   "rochen",
+   "qualle",
+   "tintenfisch",
+   "krake",
+   "krabben",
+   "hummer",
+   "aal"
   ]
  },
  {
@@ -1193,9 +1193,9 @@
   "CatID": "ANMLBat",
   "SubCategory": "FLEDERMAUS",
   "Synonyms": [
-   "Flughund",
-   "Vampirfledermaus",
-   "Flughund"
+   "flughund",
+   "vampirfledermaus",
+   "flughund"
   ]
  },
  {
@@ -1204,12 +1204,12 @@
   "CatID": "ANMLCat",
   "SubCategory": "HAUSKATZE",
   "Synonyms": [
-   "Miau",
-   "Schnurren",
-   "K\u00e4tzchen",
-   "Kitty",
-   "Katze",
-   "Gassenkatze"
+   "miau",
+   "schnurren",
+   "k\u00e4tzchen",
+   "kitty",
+   "katze",
+   "gassenkatze"
   ]
  },
  {
@@ -1218,20 +1218,20 @@
   "CatID": "ANMLWcat",
   "SubCategory": "RAUBKATZE",
   "Synonyms": [
-   "L\u00f6we",
-   "Tiger",
-   "Puma",
-   "Puma",
-   "Leopard",
-   "Jaguar",
-   "Schneeleopard",
-   "Gepard",
-   "Luchs",
-   "Rotluchs",
-   "Karakal",
-   "Ozelot",
-   "Panther",
-   "Serval"
+   "l\u00f6we",
+   "tiger",
+   "puma",
+   "puma",
+   "leopard",
+   "jaguar",
+   "schneeleopard",
+   "gepard",
+   "luchs",
+   "rotluchs",
+   "karakal",
+   "ozelot",
+   "panther",
+   "serval"
   ]
  },
  {
@@ -1240,14 +1240,14 @@
   "CatID": "ANMLDog",
   "SubCategory": "HUND",
   "Synonyms": [
-   "Hund",
-   "Jagdhund",
-   "Bellen",
-   "Welpe",
-   "H\u00fcndchen",
-   "Scho\u00dfhund",
-   "K\u00f6ter",
-   "K\u00f6terchen"
+   "hund",
+   "jagdhund",
+   "bellen",
+   "welpe",
+   "h\u00fcndchen",
+   "scho\u00dfhund",
+   "k\u00f6ter",
+   "k\u00f6terchen"
   ]
  },
  {
@@ -1256,13 +1256,13 @@
   "CatID": "ANMLWdog",
   "SubCategory": "WILDHUNDE",
   "Synonyms": [
-   "Wolf",
-   "Fuchs",
-   "Kojote",
-   "Schakal",
-   "Dingo",
-   "Lupus",
-   "Canide"
+   "wolf",
+   "fuchs",
+   "kojote",
+   "schakal",
+   "dingo",
+   "lupus",
+   "canide"
   ]
  },
  {
@@ -1271,13 +1271,13 @@
   "CatID": "ANMLFarm",
   "SubCategory": "LANDWIRTSCHAFT",
   "Synonyms": [
-   "Kuh",
-   "Schaf",
-   "Ziege",
-   "Schwein",
-   "Rind",
-   "Lama",
-   "Alpaka"
+   "kuh",
+   "schaf",
+   "ziege",
+   "schwein",
+   "rind",
+   "lama",
+   "alpaka"
   ]
  },
  {
@@ -1286,10 +1286,10 @@
   "CatID": "ANMLHors",
   "SubCategory": "PFERD",
   "Synonyms": [
-   "Esel",
-   "Maultier",
-   "Esel",
-   "Zebra"
+   "esel",
+   "maultier",
+   "esel",
+   "zebra"
   ]
  },
  {
@@ -1298,18 +1298,18 @@
   "CatID": "ANMLInsc",
   "SubCategory": "INSEKT",
   "Synonyms": [
-   "Heuschrecke",
-   "Grille",
-   "Zikade",
-   "Fliege",
-   "Biene",
-   "Wespe",
-   "Hornisse",
-   "Wanze",
-   "Kegelkopf",
-   "Heuschrecke",
-   "K\u00e4fer",
-   "Kakerlake"
+   "heuschrecke",
+   "grille",
+   "zikade",
+   "fliege",
+   "biene",
+   "wespe",
+   "hornisse",
+   "wanze",
+   "kegelkopf",
+   "heuschrecke",
+   "k\u00e4fer",
+   "kakerlake"
   ]
  },
  {
@@ -1318,7 +1318,7 @@
   "CatID": "ANMLMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -1327,18 +1327,18 @@
   "CatID": "ANMLPrim",
   "SubCategory": "PRIMAT",
   "Synonyms": [
-   "Schimpanse",
-   "Affe",
-   "Gorilla",
-   "Lemur",
-   "Orang",
-   "Utan",
-   "Kapuzineraffe",
-   "Seiden\u00e4ffchen",
-   "Affe",
-   "Gibbon",
-   "Bonobo",
-   "Pavian"
+   "schimpanse",
+   "affe",
+   "gorilla",
+   "lemur",
+   "orang",
+   "utan",
+   "kapuzineraffe",
+   "seiden\u00e4ffchen",
+   "affe",
+   "gibbon",
+   "bonobo",
+   "pavian"
   ]
  },
  {
@@ -1347,14 +1347,14 @@
   "CatID": "ANMLRept",
   "SubCategory": "REPTIL",
   "Synonyms": [
-   "Schlange",
-   "Eidechse",
-   "Alligator",
-   "Krokodil",
-   "Schildkr\u00f6te",
-   "Gharial",
-   "Kaiman",
-   "Gecko"
+   "schlange",
+   "eidechse",
+   "alligator",
+   "krokodil",
+   "schildkr\u00f6te",
+   "gharial",
+   "kaiman",
+   "gecko"
   ]
  },
  {
@@ -1363,25 +1363,25 @@
   "CatID": "ANMLRdnt",
   "SubCategory": "NAGER",
   "Synonyms": [
-   "Maus",
-   "M\u00e4use",
-   "Ratte",
-   "Eichh\u00f6rnchen",
-   "Maulwurf",
-   "Stachelschwein",
-   "Meerschweinchen",
-   "Streifenh\u00f6rnchen",
-   "Biber",
-   "Gopher",
-   "Waschb\u00e4r",
-   "Pr\u00e4riehund",
-   "Rennmaus",
-   "Hamster",
-   "Murmeltier",
-   "Lemming",
-   "Bisamratte",
-   "Chinchilla",
-   "Nagetier"
+   "maus",
+   "m\u00e4use",
+   "ratte",
+   "eichh\u00f6rnchen",
+   "maulwurf",
+   "stachelschwein",
+   "meerschweinchen",
+   "streifenh\u00f6rnchen",
+   "biber",
+   "gopher",
+   "waschb\u00e4r",
+   "pr\u00e4riehund",
+   "rennmaus",
+   "hamster",
+   "murmeltier",
+   "lemming",
+   "bisamratte",
+   "chinchilla",
+   "nagetier"
   ]
  },
  {
@@ -1390,37 +1390,37 @@
   "CatID": "ANMLWild",
   "SubCategory": "WILDTIERE",
   "Synonyms": [
-   "B\u00e4r",
-   "Giraffe",
-   "Flusspferd",
-   "Elefant",
-   "Elch",
-   "Hirsch",
-   "Gazelle",
-   "Dachs",
-   "Ameisenb\u00e4r",
-   "Schnabeltier",
-   "Faultier",
-   "Vielfra\u00df",
-   "Wildschwein",
-   "Wombat",
-   "Koala",
-   "K\u00e4nguru",
-   "Wallaby",
-   "Gnu",
-   "Panda",
-   "Antilope",
-   "Waschb\u00e4r",
-   "Elch",
-   "Rentier",
-   "Nashorn",
-   "Erdferkel",
-   "Warzenschwein",
-   "Impala",
-   "Nilpferd",
-   "Honigdachs",
-   "B\u00fcffel",
-   "Elch"
+   "b\u00e4r",
+   "giraffe",
+   "flusspferd",
+   "elefant",
+   "elch",
+   "hirsch",
+   "gazelle",
+   "dachs",
+   "ameisenb\u00e4r",
+   "schnabeltier",
+   "faultier",
+   "vielfra\u00df",
+   "wildschwein",
+   "wombat",
+   "koala",
+   "k\u00e4nguru",
+   "wallaby",
+   "gnu",
+   "panda",
+   "antilope",
+   "waschb\u00e4r",
+   "elch",
+   "rentier",
+   "nashorn",
+   "erdferkel",
+   "warzenschwein",
+   "impala",
+   "nilpferd",
+   "honigdachs",
+   "b\u00fcffel",
+   "elch"
   ]
  },
  {
@@ -1430,8 +1430,8 @@
   "SubCategory": "ADR",
   "Synonyms": [
    "adr",
-   "Schleife",
-   "Ersetzungsdialog"
+   "schleife",
+   "ersetzungsdialog"
   ]
  },
  {
@@ -1440,9 +1440,9 @@
   "CatID": "ASSET",
   "SubCategory": "ELEMENT",
   "Synonyms": [
-   "Asset",
-   "Ressource",
-   "Tag"
+   "asset",
+   "ressource",
+   "tag"
   ]
  },
  {
@@ -1451,8 +1451,8 @@
   "CatID": "BNCE",
   "SubCategory": "BOUNCE",
   "Synonyms": [
-   "Abprall",
-   "Crashdown"
+   "abprall",
+   "crashdown"
   ]
  },
  {
@@ -1461,11 +1461,11 @@
   "CatID": "IR",
   "SubCategory": "IR",
   "Synonyms": [
-   "Impulsantwort",
-   "IR",
-   "Altiverb",
-   "Hallsample",
-   "Faltungshall"
+   "impulsantwort",
+   "ir",
+   "altiverb",
+   "hallsample",
+   "faltungshall"
   ]
  },
  {
@@ -1474,8 +1474,8 @@
   "CatID": "LPGRP",
   "SubCategory": "LOOP GROUP",
   "Synonyms": [
-   "Schleifengruppe",
-   "Walla"
+   "schleifengruppe",
+   "walla"
   ]
  },
  {
@@ -1484,13 +1484,13 @@
   "CatID": "MIX",
   "SubCategory": "MIX",
   "Synonyms": [
-   "Vormischung",
-   "Endmischung",
-   "Stem",
-   "M",
-   "E",
-   "Mixdown",
-   "Druckmaster"
+   "vormischung",
+   "endmischung",
+   "stem",
+   "m",
+   "e",
+   "mixdown",
+   "druckmaster"
   ]
  },
  {
@@ -1499,7 +1499,7 @@
   "CatID": "PFX",
   "SubCategory": "PFX",
   "Synonyms": [
-   "Produktion"
+   "produktion"
   ]
  },
  {
@@ -1508,8 +1508,8 @@
   "CatID": "PROD",
   "SubCategory": "ORIGINALTON DIALOG",
   "Synonyms": [
-   "Produktionsaufnahme",
-   "Dialogzeile",
+   "produktionsaufnahme",
+   "dialogzeile",
    "dx"
   ]
  },
@@ -1521,7 +1521,7 @@
   "Synonyms": [
    "dat",
    "tape",
-   "Rohdateien",
+   "rohdateien",
    "unbearbeitet"
   ]
  },
@@ -1531,8 +1531,8 @@
   "CatID": "REF",
   "SubCategory": "REFERENZ",
   "Synonyms": [
-   "Referenz",
-   "Inspiration"
+   "referenz",
+   "inspiration"
   ]
  },
  {
@@ -1553,16 +1553,16 @@
   "SubCategory": "TESTTON",
   "Synonyms": [
    "adr",
-   "Piepst\u00f6ne",
-   "Testt\u00f6ne",
-   "Piepst\u00f6ne",
+   "piepst\u00f6ne",
+   "testt\u00f6ne",
+   "piepst\u00f6ne",
    "2pops",
    "wei\u00dfes",
-   "Rauschen",
+   "rauschen",
    "rosa",
-   "Rauschen",
-   "Sinuswellen",
-   "Sweeps"
+   "rauschen",
+   "sinuswellen",
+   "sweeps"
   ]
  },
  {
@@ -1571,9 +1571,9 @@
   "CatID": "TMARK",
   "SubCategory": "MARKENZEICHEN",
   "Synonyms": [
-   "Markenzeichen",
-   "Copyright",
-   "Produktsound",
+   "markenzeichen",
+   "copyright",
+   "produktsound",
    "lizenziert",
    "registriert",
    "legal"
@@ -1586,7 +1586,7 @@
   "SubCategory": "IN BEARBEITUNG",
   "Synonyms": [
    "unfertige",
-   "Arbeit",
+   "arbeit",
    "wip",
    "unvollendet"
   ]
@@ -1600,7 +1600,7 @@
    "nicht",
    "kategorisierbar",
    "unbekannt",
-   "Witze"
+   "witze"
   ]
  },
  {
@@ -1609,10 +1609,10 @@
   "CatID": "BEEPAppl",
   "SubCategory": "HAUSHALTSGER\u00c4T",
   "Synonyms": [
-   "Mikrowelle",
-   "Geschirrsp\u00fcler",
-   "Waschmaschine",
-   "Trockner"
+   "mikrowelle",
+   "geschirrsp\u00fcler",
+   "waschmaschine",
+   "trockner"
   ]
  },
  {
@@ -1621,7 +1621,7 @@
   "CatID": "BEEP",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Piepsen"
+   "piepsen"
   ]
  },
  {
@@ -1630,9 +1630,9 @@
   "CatID": "BEEPLofi",
   "SubCategory": "LO-FI",
   "Synonyms": [
-   "Atari",
-   "Famicom",
-   "Colecovision"
+   "atari",
+   "famicom",
+   "colecovision"
   ]
  },
  {
@@ -1641,12 +1641,12 @@
   "CatID": "BEEPMed",
   "SubCategory": "MEDIZIN",
   "Synonyms": [
-   "EKG",
-   "EKG",
-   "KDC",
-   "Herzmonitor",
-   "Flatline",
-   "Ultraschall"
+   "ekg",
+   "ekg",
+   "kdc",
+   "herzmonitor",
+   "flatline",
+   "ultraschall"
   ]
  },
  {
@@ -1655,12 +1655,12 @@
   "CatID": "BEEPTimer",
   "SubCategory": "TIMER",
   "Synonyms": [
-   "Mikrowelle",
-   "Backofen",
-   "Timer",
-   "Digitaluhr",
-   "Telefon",
-   "Timer"
+   "mikrowelle",
+   "backofen",
+   "timer",
+   "digitaluhr",
+   "telefon",
+   "timer"
   ]
  },
  {
@@ -1669,10 +1669,10 @@
   "CatID": "BEEPVeh",
   "SubCategory": "FAHRZEUG",
   "Synonyms": [
-   "Gabelstapler",
-   "Piep",
-   "Backup",
-   "Piep"
+   "gabelstapler",
+   "piep",
+   "backup",
+   "piep"
   ]
  },
  {
@@ -1681,10 +1681,10 @@
   "CatID": "BELLAnml",
   "SubCategory": "TIER",
   "Synonyms": [
-   "Kuhglocke",
-   "Hawkbell",
-   "Halsbandglocke",
-   "Schafsglocke"
+   "kuhglocke",
+   "hawkbell",
+   "halsbandglocke",
+   "schafsglocke"
   ]
  },
  {
@@ -1693,11 +1693,11 @@
   "CatID": "BELLDoor",
   "SubCategory": "T\u00dcR",
   "Synonyms": [
-   "T\u00fcrklingel",
-   "T\u00fcrglocke",
-   "Ding",
-   "Dong",
-   "Tring"
+   "t\u00fcrklingel",
+   "t\u00fcrglocke",
+   "ding",
+   "dong",
+   "tring"
   ]
  },
  {
@@ -1706,12 +1706,12 @@
   "CatID": "BELLGong",
   "SubCategory": "GONG",
   "Synonyms": [
-   "Gong",
-   "Gamelan",
-   "Agung",
-   "Schalengong",
-   "Tam",
-   "Tam"
+   "gong",
+   "gamelan",
+   "agung",
+   "schalengong",
+   "tam",
+   "tam"
   ]
  },
  {
@@ -1720,14 +1720,14 @@
   "CatID": "BELLHand",
   "SubCategory": "HANDGLOCKE",
   "Synonyms": [
-   "Handglocke",
-   "Essensglocke",
-   "Schulglocke",
-   "Altarglocke",
-   "Schlittenglocke",
-   "Jingle",
-   "Bells",
-   "Butlerglocke"
+   "handglocke",
+   "essensglocke",
+   "schulglocke",
+   "altarglocke",
+   "schlittenglocke",
+   "jingle",
+   "bells",
+   "butlerglocke"
   ]
  },
  {
@@ -1736,10 +1736,10 @@
   "CatID": "BELLLrg",
   "SubCategory": "GROSS",
   "Synonyms": [
-   "Tempelglocke",
-   "Kirchenglocke",
-   "Gel\u00e4ut",
-   "Turmglocke"
+   "tempelglocke",
+   "kirchenglocke",
+   "gel\u00e4ut",
+   "turmglocke"
   ]
  },
  {
@@ -1748,9 +1748,9 @@
   "CatID": "BELLMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Fahrradglocke",
-   "Dienstglocke",
-   "Rufglocke"
+   "fahrradglocke",
+   "dienstglocke",
+   "rufglocke"
   ]
  },
  {
@@ -1759,18 +1759,18 @@
   "CatID": "BIRDPrey",
   "SubCategory": "RAUBVOGEL",
   "Synonyms": [
-   "Habicht",
-   "Adler",
-   "Falke",
-   "Eule",
-   "Geier",
-   "Kondor",
-   "M\u00e4usebussard",
-   "Milan",
-   "Fischadler",
-   "Rohrweihe",
-   "Turmfalke",
-   "Karakara"
+   "habicht",
+   "adler",
+   "falke",
+   "eule",
+   "geier",
+   "kondor",
+   "m\u00e4usebussard",
+   "milan",
+   "fischadler",
+   "rohrweihe",
+   "turmfalke",
+   "karakara"
   ]
  },
  {
@@ -1779,12 +1779,12 @@
   "CatID": "BIRDCrow",
   "SubCategory": "KR\u00c4HE",
   "Synonyms": [
-   "Kr\u00e4he",
-   "Rabe",
-   "Eichelh\u00e4her",
-   "Blauh\u00e4her",
-   "Elster",
-   "Nussknacker"
+   "kr\u00e4he",
+   "rabe",
+   "eichelh\u00e4her",
+   "blauh\u00e4her",
+   "elster",
+   "nussknacker"
   ]
  },
  {
@@ -1793,24 +1793,24 @@
   "CatID": "BIRDFowl",
   "SubCategory": "GEFL\u00dcGEL",
   "Synonyms": [
-   "Huhn",
-   "Fasan",
-   "Truthahn",
-   "G\u00e4nse",
-   "Gans",
-   "Schneehuhn",
-   "Ente",
-   "Schwan",
-   "Rebhuhn",
-   "Krickente",
-   "Stockente",
-   "Eiderente",
-   "G\u00e4nse",
-   "Steinbei\u00dfer",
-   "Wachtel",
-   "Haubentaucher",
-   "Chukar",
-   "Schneehuhn"
+   "huhn",
+   "fasan",
+   "truthahn",
+   "g\u00e4nse",
+   "gans",
+   "schneehuhn",
+   "ente",
+   "schwan",
+   "rebhuhn",
+   "krickente",
+   "stockente",
+   "eiderente",
+   "g\u00e4nse",
+   "steinbei\u00dfer",
+   "wachtel",
+   "haubentaucher",
+   "chukar",
+   "schneehuhn"
   ]
  },
  {
@@ -1819,14 +1819,14 @@
   "CatID": "BIRDMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Ani",
-   "Roadrunner",
-   "Kuckuck",
-   "Specht",
-   "Nachtschwalbe",
-   "Ziegenmelker",
-   "Armseliger",
-   "Kolibri"
+   "ani",
+   "roadrunner",
+   "kuckuck",
+   "specht",
+   "nachtschwalbe",
+   "ziegenmelker",
+   "armseliger",
+   "kolibri"
   ]
  },
  {
@@ -1835,26 +1835,26 @@
   "CatID": "BIRDSea",
   "SubCategory": "MEER",
   "Synonyms": [
-   "M\u00f6we",
-   "Basst\u00f6lpel",
-   "Albatros",
-   "Kormoran",
-   "Pelikan",
-   "Pinguin",
-   "Sturmvogel",
-   "M\u00f6we",
-   "Seeschwalbe",
-   "Fregattvogel",
-   "T\u00f6lpel",
-   "Austernfischer",
-   "Regenpfeifer",
-   "Flussuferl\u00e4ufer",
-   "Alpenstrandl\u00e4ufer",
-   "Alpenstrandl\u00e4ufer",
-   "Auk",
-   "Papageientaucher",
-   "Murrelet",
-   "Aalk"
+   "m\u00f6we",
+   "basst\u00f6lpel",
+   "albatros",
+   "kormoran",
+   "pelikan",
+   "pinguin",
+   "sturmvogel",
+   "m\u00f6we",
+   "seeschwalbe",
+   "fregattvogel",
+   "t\u00f6lpel",
+   "austernfischer",
+   "regenpfeifer",
+   "flussuferl\u00e4ufer",
+   "alpenstrandl\u00e4ufer",
+   "alpenstrandl\u00e4ufer",
+   "auk",
+   "papageientaucher",
+   "murrelet",
+   "aalk"
   ]
  },
  {
@@ -1863,38 +1863,38 @@
   "CatID": "BIRDSong",
   "SubCategory": "SINGVOGEL",
   "Synonyms": [
-   "Taube",
-   "Fliegenschn\u00e4pper",
-   "Kernbei\u00dfer",
-   "Spottdrossel",
-   "Kleiber",
-   "Taube",
-   "Rotkehlchen",
-   "Spatz",
-   "Schwalbe",
-   "Tangare",
-   "Drossel",
-   "Vireo",
-   "Grasm\u00fccke",
-   "Zaunk\u00f6nig",
-   "Meise",
-   "Meisenmaus",
-   "H\u00e4nfling",
-   "Lerche",
-   "K\u00f6nigskerze",
-   "Bauml\u00e4ufer",
-   "Gartenbauml\u00e4ufer",
-   "Grauschn\u00e4pper",
-   "Wasseramsel",
-   "Star",
-   "Amsel",
-   "Spottdrossel",
-   "Wacholderdrossel",
-   "Schw\u00e4tzer",
-   "Troupial",
-   "Kardinal",
-   "Ammer",
-   "Amsel"
+   "taube",
+   "fliegenschn\u00e4pper",
+   "kernbei\u00dfer",
+   "spottdrossel",
+   "kleiber",
+   "taube",
+   "rotkehlchen",
+   "spatz",
+   "schwalbe",
+   "tangare",
+   "drossel",
+   "vireo",
+   "grasm\u00fccke",
+   "zaunk\u00f6nig",
+   "meise",
+   "meisenmaus",
+   "h\u00e4nfling",
+   "lerche",
+   "k\u00f6nigskerze",
+   "bauml\u00e4ufer",
+   "gartenbauml\u00e4ufer",
+   "grauschn\u00e4pper",
+   "wasseramsel",
+   "star",
+   "amsel",
+   "spottdrossel",
+   "wacholderdrossel",
+   "schw\u00e4tzer",
+   "troupial",
+   "kardinal",
+   "ammer",
+   "amsel"
   ]
  },
  {
@@ -1903,18 +1903,18 @@
   "CatID": "BIRDTrop",
   "SubCategory": "TROPISCH",
   "Synonyms": [
-   "Papagei",
-   "Tukan",
-   "Kookaburra",
-   "Leierschwanz",
-   "Pfau",
-   "Ara",
-   "Nashornvogel",
-   "Kakadu",
-   "Sittich",
-   "Ibis",
-   "L\u00f6ffelreiher",
-   "Flamingo"
+   "papagei",
+   "tukan",
+   "kookaburra",
+   "leierschwanz",
+   "pfau",
+   "ara",
+   "nashornvogel",
+   "kakadu",
+   "sittich",
+   "ibis",
+   "l\u00f6ffelreiher",
+   "flamingo"
   ]
  },
  {
@@ -1923,23 +1923,23 @@
   "CatID": "BIRDWade",
   "SubCategory": "WATVOGEL",
   "Synonyms": [
-   "Kranich",
-   "Reiher",
-   "Flamingo",
-   "Ibis",
-   "Ralle",
-   "L\u00f6ffler",
-   "Storch",
-   "Reiher",
-   "Ralle",
-   "Sora",
-   "Bl\u00e4sshuhn",
-   "Kranich",
-   "Reiher",
-   "Rohrdommel",
-   "Reiher",
-   "Storch",
-   "Schnepfe"
+   "kranich",
+   "reiher",
+   "flamingo",
+   "ibis",
+   "ralle",
+   "l\u00f6ffler",
+   "storch",
+   "reiher",
+   "ralle",
+   "sora",
+   "bl\u00e4sshuhn",
+   "kranich",
+   "reiher",
+   "rohrdommel",
+   "reiher",
+   "storch",
+   "schnepfe"
   ]
  },
  {
@@ -1948,9 +1948,9 @@
   "CatID": "BOATAir",
   "SubCategory": "LUFTKISSEN & PROPELLER",
   "Synonyms": [
-   "F\u00e4cherboot",
-   "Luftboot",
-   "Hovercraft"
+   "f\u00e4cherboot",
+   "luftboot",
+   "hovercraft"
   ]
  },
  {
@@ -1959,8 +1959,8 @@
   "CatID": "BOATWash",
   "SubCategory": "BUGWELLE",
   "Synonyms": [
-   "Bugwelle",
-   "Kielwasser"
+   "bugwelle",
+   "kielwasser"
   ]
  },
  {
@@ -1969,12 +1969,12 @@
   "CatID": "BOATDoor",
   "SubCategory": "T\u00dcR",
   "Synonyms": [
-   "Luke",
-   "F\u00e4hrt\u00fcr",
-   "Bootst\u00fcr",
+   "luke",
+   "f\u00e4hrt\u00fcr",
+   "bootst\u00fcr",
    "wasserdichte",
-   "T\u00fcr",
-   "Schiffst\u00fcr"
+   "t\u00fcr",
+   "schiffst\u00fcr"
   ]
  },
  {
@@ -1983,8 +1983,8 @@
   "CatID": "BOATElec",
   "SubCategory": "ELEKTRISCH",
   "Synonyms": [
-   "Trolling",
-   "Motor"
+   "trolling",
+   "motor"
   ]
  },
  {
@@ -1993,13 +1993,13 @@
   "CatID": "BOATFish",
   "SubCategory": "FISCHFANG",
   "Synonyms": [
-   "Krabbenkutter",
-   "Trawler",
-   "Wadenf\u00e4nger",
-   "Linienschiffe",
-   "Bagger",
-   "Kiemennetzfischer",
-   "Forschungsschiffe"
+   "krabbenkutter",
+   "trawler",
+   "wadenf\u00e4nger",
+   "linienschiffe",
+   "bagger",
+   "kiemennetzfischer",
+   "forschungsschiffe"
   ]
  },
  {
@@ -2008,8 +2008,8 @@
   "CatID": "BOATHorn",
   "SubCategory": "HORN",
   "Synonyms": [
-   "Schiffshorn",
-   "Schlepperhorn"
+   "schiffshorn",
+   "schlepperhorn"
   ]
  },
  {
@@ -2018,20 +2018,20 @@
   "CatID": "BOATInt",
   "SubCategory": "INNEN",
   "Synonyms": [
-   "Schiff",
-   "F\u00e4hre",
-   "F\u00e4hren",
-   "Kreuzfahrtschiff",
-   "Marine",
-   "Milit\u00e4rboot",
-   "Schlepper",
-   "Segelboot",
-   "Jacht",
-   "\u00d6ltanker",
-   "Frachtschiff",
-   "Frachter",
-   "U",
-   "Boot"
+   "schiff",
+   "f\u00e4hre",
+   "f\u00e4hren",
+   "kreuzfahrtschiff",
+   "marine",
+   "milit\u00e4rboot",
+   "schlepper",
+   "segelboot",
+   "jacht",
+   "\u00f6ltanker",
+   "frachtschiff",
+   "frachter",
+   "u",
+   "boot"
   ]
  },
  {
@@ -2040,15 +2040,15 @@
   "CatID": "BOATMech",
   "SubCategory": "MECHANISMUS",
   "Synonyms": [
-   "Takelage",
-   "Riemenscheibe",
-   "Seil",
-   "Schiffsrad",
-   "Drossel",
-   "Netz",
-   "K\u00e4fig",
-   "Falle",
-   "Anker"
+   "takelage",
+   "riemenscheibe",
+   "seil",
+   "schiffsrad",
+   "drossel",
+   "netz",
+   "k\u00e4fig",
+   "falle",
+   "anker"
   ]
  },
  {
@@ -2057,14 +2057,14 @@
   "CatID": "BOATMil",
   "SubCategory": "MILIT\u00c4R",
   "Synonyms": [
-   "Patrouillenboot",
-   "Zerst\u00f6rer",
-   "Kreuzer",
-   "Schlachtkreuzer",
-   "Fregatte",
-   "Korvette",
+   "patrouillenboot",
+   "zerst\u00f6rer",
+   "kreuzer",
+   "schlachtkreuzer",
+   "fregatte",
+   "korvette",
    "schnelles",
-   "Angriffsboot"
+   "angriffsboot"
   ]
  },
  {
@@ -2073,8 +2073,8 @@
   "CatID": "BOATMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Paddelboot",
-   "Paddelbrett"
+   "paddelboot",
+   "paddelbrett"
   ]
  },
  {
@@ -2084,13 +2084,13 @@
   "SubCategory": "MOTORBOOT",
   "Synonyms": [
    "kleines",
-   "Boot",
+   "boot",
    "pers\u00f6nliches",
-   "Fischerboot",
-   "Schnellboot",
-   "Pontonboot",
-   "Entenboot",
-   "Beiboot"
+   "fischerboot",
+   "schnellboot",
+   "pontonboot",
+   "entenboot",
+   "beiboot"
   ]
  },
  {
@@ -2099,9 +2099,9 @@
   "CatID": "BOATRace",
   "SubCategory": "RENNBOOT",
   "Synonyms": [
-   "Wasserflugzeug",
-   "Tragfl\u00e4chenboot",
-   "Jetboot"
+   "wasserflugzeug",
+   "tragfl\u00e4chenboot",
+   "jetboot"
   ]
  },
  {
@@ -2110,13 +2110,13 @@
   "CatID": "BOATRow",
   "SubCategory": "RUDERN",
   "Synonyms": [
-   "Kanu",
-   "Ruderboot",
-   "Kajak",
-   "Ruder",
-   "Paddel",
-   "Drachenboot",
-   "Rudern"
+   "kanu",
+   "ruderboot",
+   "kajak",
+   "ruder",
+   "paddel",
+   "drachenboot",
+   "rudern"
   ]
  },
  {
@@ -2125,12 +2125,12 @@
   "CatID": "BOATSail",
   "SubCategory": "SEGELN",
   "Synonyms": [
-   "Segelboot",
-   "Schoner",
-   "Jolle",
-   "Schaluppe",
-   "Ketsch",
-   "Motorsegler"
+   "segelboot",
+   "schoner",
+   "jolle",
+   "schaluppe",
+   "ketsch",
+   "motorsegler"
   ]
  },
  {
@@ -2139,12 +2139,12 @@
   "CatID": "BOATShip",
   "SubCategory": "SCHIFF",
   "Synonyms": [
-   "Gro\u00dfes",
-   "Schiff",
-   "Kreuzfahrtschiff",
-   "\u00d6ltanker",
-   "Frachtschiff",
-   "Frachter"
+   "gro\u00dfes",
+   "schiff",
+   "kreuzfahrtschiff",
+   "\u00f6ltanker",
+   "frachtschiff",
+   "frachter"
   ]
  },
  {
@@ -2153,9 +2153,9 @@
   "CatID": "BOATStm",
   "SubCategory": "DAMPF",
   "Synonyms": [
-   "Raddampfer",
-   "Schaufelraddampfer",
-   "Dampfmaschine"
+   "raddampfer",
+   "schaufelraddampfer",
+   "dampfmaschine"
   ]
  },
  {
@@ -2164,12 +2164,12 @@
   "CatID": "BOATSub",
   "SubCategory": "TAUCHF\u00c4HIG",
   "Synonyms": [
-   "U",
-   "Boot",
-   "Sonar",
-   "Unterwasserfahrzeug",
-   "U",
-   "Boot"
+   "u",
+   "boot",
+   "sonar",
+   "unterwasserfahrzeug",
+   "u",
+   "boot"
   ]
  },
  {
@@ -2178,13 +2178,13 @@
   "CatID": "BOATUndwtr",
   "SubCategory": "UNTERWASSER",
   "Synonyms": [
-   "Boot",
-   "Schiff",
-   "Unterwasser",
-   "Tanker",
-   "Fischerboot",
-   "Motorboot",
-   "Unterwasser"
+   "boot",
+   "schiff",
+   "unterwasser",
+   "tanker",
+   "fischerboot",
+   "motorboot",
+   "unterwasser"
   ]
  },
  {
@@ -2193,7 +2193,7 @@
   "CatID": "BLLTBy",
   "SubCategory": "VORBEIFLUG",
   "Synonyms": [
-   "Gewehrkugel",
+   "gewehrkugel",
    "vorbeiziehen",
    "fwip"
   ]
@@ -2204,8 +2204,8 @@
   "CatID": "BLLTImpt",
   "SubCategory": "EINSCHLAG",
   "Synonyms": [
-   "Geschosseinschlag",
-   "Geschosstreffer"
+   "geschosseinschlag",
+   "geschosstreffer"
   ]
  },
  {
@@ -2214,7 +2214,7 @@
   "CatID": "BLLTMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -2223,9 +2223,9 @@
   "CatID": "BLLTRico",
   "SubCategory": "QUERSCHL\u00c4GER",
   "Synonyms": [
-   "Abpraller",
-   "Abprallen",
-   "Ablenken"
+   "abpraller",
+   "abprallen",
+   "ablenken"
   ]
  },
  {
@@ -2234,8 +2234,8 @@
   "CatID": "BLLTShel",
   "SubCategory": "H\u00dcLSE",
   "Synonyms": [
-   "Granate",
-   "Geh\u00e4use",
+   "granate",
+   "geh\u00e4use",
    "auswerfen"
   ]
  },
@@ -2245,9 +2245,9 @@
   "CatID": "TOONAnml",
   "SubCategory": "TIER",
   "Synonyms": [
-   "Tierattrappe",
-   "Jagdruf",
-   "Entenruf"
+   "tierattrappe",
+   "jagdruf",
+   "entenruf"
   ]
  },
  {
@@ -2256,8 +2256,8 @@
   "CatID": "TOONBoing",
   "SubCategory": "BOING",
   "Synonyms": [
-   "Maultrommel",
-   "Mundharmonika"
+   "maultrommel",
+   "mundharmonika"
   ]
  },
  {
@@ -2266,7 +2266,7 @@
   "CatID": "TOONClang",
   "SubCategory": "METALL",
   "Synonyms": [
-   "Klirren",
+   "klirren",
    "metallisch"
   ]
  },
@@ -2276,8 +2276,8 @@
   "CatID": "TOONCreak",
   "SubCategory": "KNARTZ",
   "Synonyms": [
-   "Gummi",
-   "Holz"
+   "gummi",
+   "holz"
   ]
  },
  {
@@ -2286,9 +2286,9 @@
   "CatID": "TOONHorn",
   "SubCategory": "HORN",
   "Synonyms": [
-   "Zwiebelhorn",
-   "Hupen",
-   "Clownshorn"
+   "zwiebelhorn",
+   "hupen",
+   "clownshorn"
   ]
  },
  {
@@ -2308,12 +2308,12 @@
   "CatID": "TOONMach",
   "SubCategory": "MASCHINE",
   "Synonyms": [
-   "Apparat",
+   "apparat",
    "komische",
-   "Maschine",
-   "Rube",
-   "Goldberg",
-   "Maschine"
+   "maschine",
+   "rube",
+   "goldberg",
+   "maschine"
   ]
  },
  {
@@ -2346,7 +2346,7 @@
   "CatID": "TOONPluk",
   "SubCategory": "ZUPFEN",
   "Synonyms": [
-   "Saite",
+   "saite",
    "zupfen"
   ]
  },
@@ -2356,13 +2356,13 @@
   "CatID": "TOONPop",
   "SubCategory": "PLOPP",
   "Synonyms": [
-   "Pop",
-   "Gun",
-   "Mund",
-   "Pop",
-   "Saugnapf",
-   "Bubble",
-   "Pops"
+   "pop",
+   "gun",
+   "mund",
+   "pop",
+   "saugnapf",
+   "bubble",
+   "pops"
   ]
  },
  {
@@ -2371,7 +2371,7 @@
   "CatID": "TOONShake",
   "SubCategory": "SCH\u00dcTTELN",
   "Synonyms": [
-   "Rassel"
+   "rassel"
   ]
  },
  {
@@ -2391,7 +2391,7 @@
   "CatID": "TOONSqk",
   "SubCategory": "QUIETSCHEN",
   "Synonyms": [
-   "Quietschen"
+   "quietschen"
   ]
  },
  {
@@ -2409,8 +2409,8 @@
   "CatID": "TOONSwsh",
   "SubCategory": "SWISH",
   "Synonyms": [
-   "Wirbel",
-   "Strudel"
+   "wirbel",
+   "strudel"
   ]
  },
  {
@@ -2419,8 +2419,8 @@
   "CatID": "TOONTwang",
   "SubCategory": "ZUPF",
   "Synonyms": [
-   "Lineal",
-   "Mundharmonika"
+   "lineal",
+   "mundharmonika"
   ]
  },
  {
@@ -2429,11 +2429,11 @@
   "CatID": "TOONVeh",
   "SubCategory": "FAHRZEUG",
   "Synonyms": [
-   "Jetsons",
-   "Apparat",
-   "Feuerstein",
-   "Auto",
-   "Fehlz\u00fcndung"
+   "jetsons",
+   "apparat",
+   "feuerstein",
+   "auto",
+   "fehlz\u00fcndung"
   ]
  },
  {
@@ -2444,9 +2444,9 @@
   "Synonyms": [
    "murmeln",
    "alberne",
-   "Stimme",
-   "Cartoon",
-   "Stimme"
+   "stimme",
+   "cartoon",
+   "stimme"
   ]
  },
  {
@@ -2455,7 +2455,7 @@
   "CatID": "TOONWarb",
   "SubCategory": "SCHWURBELN",
   "Synonyms": [
-   "Wackeln"
+   "wackeln"
   ]
  },
  {
@@ -2464,7 +2464,7 @@
   "CatID": "TOONWhis",
   "SubCategory": "PFEIFE",
   "Synonyms": [
-   "Schiebepfeife"
+   "schiebepfeife"
   ]
  },
  {
@@ -2498,8 +2498,8 @@
   "SubCategory": "CRASH & TR\u00dcMMER",
   "Synonyms": [
    "fallen",
-   "Tr\u00fcmmer",
-   "Scherben"
+   "tr\u00fcmmer",
+   "scherben"
   ]
  },
  {
@@ -2551,7 +2551,7 @@
   "CatID": "CERMMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -2595,7 +2595,7 @@
   "CatID": "CHAINHndl",
   "SubCategory": "HANTIEREN",
   "Synonyms": [
-   "Griff",
+   "griff",
    "greifen",
    "setzen",
    "aufheben",
@@ -2615,7 +2615,7 @@
    "treffen",
    "aufschlagen",
    "zuschlagen",
-   "Spannung",
+   "spannung",
    "schnappen"
   ]
  },
@@ -2625,7 +2625,7 @@
   "CatID": "CHAINMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -2635,9 +2635,9 @@
   "SubCategory": "BEWEGUNG",
   "Synonyms": [
    "ziehen",
-   "Handschellen",
-   "Gef\u00e4ngniskette",
-   "Hundekette"
+   "handschellen",
+   "gef\u00e4ngniskette",
+   "hundekette"
   ]
  },
  {
@@ -2657,7 +2657,7 @@
   "CatID": "CHEMMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -2666,9 +2666,9 @@
   "CatID": "CHEMReac",
   "SubCategory": "REAKTION",
   "Synonyms": [
-   "Blubbern",
-   "Sch\u00e4umen",
-   "Reaktion"
+   "blubbern",
+   "sch\u00e4umen",
+   "reaktion"
   ]
  },
  {
@@ -2677,9 +2677,9 @@
   "CatID": "CLOCKChim",
   "SubCategory": "GLOCKE",
   "Synonyms": [
-   "Glockenspiel",
-   "Glocke",
-   "Gro\u00dfvateruhr"
+   "glockenspiel",
+   "glocke",
+   "gro\u00dfvateruhr"
   ]
  },
  {
@@ -2688,9 +2688,9 @@
   "CatID": "CLOCKMech",
   "SubCategory": "MECHANISMUS",
   "Synonyms": [
-   "Aufziehen",
-   "Zahnr\u00e4der",
-   "Kuckucksuhr"
+   "aufziehen",
+   "zahnr\u00e4der",
+   "kuckucksuhr"
   ]
  },
  {
@@ -2699,7 +2699,7 @@
   "CatID": "CLOCKMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -2710,11 +2710,11 @@
   "Synonyms": [
    "ticken",
    "klicken",
-   "Quarz",
+   "quarz",
    "tick",
    "tock",
-   "Stoppuhr",
-   "Eieruhr"
+   "stoppuhr",
+   "eieruhr"
   ]
  },
  {
@@ -2724,13 +2724,13 @@
   "SubCategory": "FLATTERN",
   "Synonyms": [
    "flattern",
-   "Flagge",
+   "flagge",
    "rascheln",
-   "Fallschirm",
-   "Umhang",
-   "Segeltuch",
-   "Segel",
-   "Schot"
+   "fallschirm",
+   "umhang",
+   "segeltuch",
+   "segel",
+   "schot"
   ]
  },
  {
@@ -2767,7 +2767,7 @@
   "CatID": "CLOTHMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -2801,26 +2801,26 @@
   "CatID": "COMAv",
   "SubCategory": "AV-GER\u00c4T",
   "Synonyms": [
-   "Filmkamera",
-   "Spulen",
-   "Filmkamera",
-   "Projektor",
-   "Tonbandger\u00e4t",
-   "Nagra",
-   "Walkman",
-   "CD",
-   "Player",
-   "Reel",
+   "filmkamera",
+   "spulen",
+   "filmkamera",
+   "projektor",
+   "tonbandger\u00e4t",
+   "nagra",
+   "walkman",
+   "cd",
+   "player",
+   "reel",
    "to",
-   "Reel",
-   "Videorecorder",
-   "Laserdisc",
-   "Player",
-   "Betamax",
-   "Diaprojektor",
-   "Beamer",
-   "iPod",
-   "Bolex",
+   "reel",
+   "videorecorder",
+   "laserdisc",
+   "player",
+   "betamax",
+   "diaprojektor",
+   "beamer",
+   "ipod",
+   "bolex",
    "8mm",
    "16mm"
   ]
@@ -2881,7 +2881,7 @@
   "CatID": "COMMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -2890,11 +2890,11 @@
   "CatID": "COMPhono",
   "SubCategory": "SCHALLPLATTE",
   "Synonyms": [
-   "Plattenspieler",
-   "Victrola",
-   "Phonograph",
-   "Griffel",
-   "Schallplatte"
+   "plattenspieler",
+   "victrola",
+   "phonograph",
+   "griffel",
+   "schallplatte"
   ]
  },
  {
@@ -2903,12 +2903,12 @@
   "CatID": "COMRadio",
   "SubCategory": "RADIO",
   "Synonyms": [
-   "Abstimmung",
-   "Radio",
-   "Kurzwelle",
-   "Rauschsperre",
-   "Futz",
-   "Radiosendung"
+   "abstimmung",
+   "radio",
+   "kurzwelle",
+   "rauschsperre",
+   "futz",
+   "radiosendung"
   ]
  },
  {
@@ -2917,9 +2917,9 @@
   "CatID": "COMStatic",
   "SubCategory": "ST\u00d6RGER\u00c4USCH",
   "Synonyms": [
-   "Rauschen",
-   "Fuzz",
-   "Scramble"
+   "rauschen",
+   "fuzz",
+   "scramble"
   ]
  },
  {
@@ -2928,11 +2928,11 @@
   "CatID": "COMTelm",
   "SubCategory": "SIGNALE",
   "Synonyms": [
-   "Morsezeichen",
-   "Telegraf",
-   "Telemetrie",
-   "Auslesen",
-   "Sos"
+   "morsezeichen",
+   "telegraf",
+   "telemetrie",
+   "auslesen",
+   "sos"
   ]
  },
  {
@@ -2941,12 +2941,12 @@
   "CatID": "COMTelph",
   "SubCategory": "TELEFON",
   "Synonyms": [
-   "W\u00e4hlscheibe",
-   "M\u00fcnztelefon",
-   "W\u00e4hlscheibe",
-   "Tastenfeld",
-   "Festnetztelefon",
-   "Schnurtelefon"
+   "w\u00e4hlscheibe",
+   "m\u00fcnztelefon",
+   "w\u00e4hlscheibe",
+   "tastenfeld",
+   "festnetztelefon",
+   "schnurtelefon"
   ]
  },
  {
@@ -2955,15 +2955,15 @@
   "CatID": "COMTv",
   "SubCategory": "FERNSEHER",
   "Synonyms": [
-   "Fernseher",
-   "Fernbedienung",
-   "W\u00e4hlscheibe",
-   "Sendung",
-   "Programm",
-   "Futz",
-   "TV",
-   "Sendung",
-   "Sendung"
+   "fernseher",
+   "fernbedienung",
+   "w\u00e4hlscheibe",
+   "sendung",
+   "programm",
+   "futz",
+   "tv",
+   "sendung",
+   "sendung"
   ]
  },
  {
@@ -2975,11 +2975,11 @@
    "walkie",
    "talkies",
    "cb",
-   "Amateurfunkger\u00e4te",
-   "Transceiver",
-   "Squelch",
-   "Gegensprechanlage",
-   "Versand"
+   "amateurfunkger\u00e4te",
+   "transceiver",
+   "squelch",
+   "gegensprechanlage",
+   "versand"
   ]
  },
  {
@@ -2988,10 +2988,10 @@
   "CatID": "COMType",
   "SubCategory": "SCHREIBMASCHINE",
   "Synonyms": [
-   "Schreibmaschine",
-   "Fernschreiber",
-   "Wagenr\u00fccklauf",
-   "Walzenknopf"
+   "schreibmaschine",
+   "fernschreiber",
+   "wagenr\u00fccklauf",
+   "walzenknopf"
   ]
  },
  {
@@ -3000,11 +3000,11 @@
   "CatID": "CMPTDriv",
   "SubCategory": "FESTPLATTE",
   "Synonyms": [
-   "\u00dcberspringen",
-   "Suchen",
-   "Schleifen",
-   "Festplatte",
-   "Festplattenlaufwerk"
+   "\u00fcberspringen",
+   "suchen",
+   "schleifen",
+   "festplatte",
+   "festplattenlaufwerk"
   ]
  },
  {
@@ -3013,10 +3013,10 @@
   "CatID": "CMPTKey",
   "SubCategory": "TASTATUR & MAUS",
   "Synonyms": [
-   "Tastatur",
-   "Maus",
-   "M\u00e4use",
-   "Trackpad"
+   "tastatur",
+   "maus",
+   "m\u00e4use",
+   "trackpad"
   ]
  },
  {
@@ -3025,10 +3025,10 @@
   "CatID": "CMPTMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Palm",
-   "Pilot",
-   "Pocket",
-   "PC"
+   "palm",
+   "pilot",
+   "pocket",
+   "pc"
   ]
  },
  {
@@ -3037,9 +3037,9 @@
   "CatID": "CREAAqua",
   "SubCategory": "MEER",
   "Synonyms": [
-   "Krake",
-   "Meerjungfrau",
-   "Riesenkrake"
+   "krake",
+   "meerjungfrau",
+   "riesenkrake"
   ]
  },
  {
@@ -3048,11 +3048,11 @@
   "CatID": "CREAAvian",
   "SubCategory": "FLUGF\u00c4HIG",
   "Synonyms": [
-   "Au\u00dferirdische",
-   "V\u00f6gel",
+   "au\u00dferirdische",
+   "v\u00f6gel",
    "extraterrestrische",
-   "V\u00f6gel",
-   "Fantasiev\u00f6gel"
+   "v\u00f6gel",
+   "fantasiev\u00f6gel"
   ]
  },
  {
@@ -3061,8 +3061,8 @@
   "CatID": "CREABeast",
   "SubCategory": "BIEST",
   "Synonyms": [
-   "Wollhaarmammut",
-   "Mumakil",
+   "wollhaarmammut",
+   "mumakil",
    ""
   ]
  },
@@ -3072,9 +3072,9 @@
   "CatID": "CREABlob",
   "SubCategory": "BLOB",
   "Synonyms": [
-   "Klecks",
-   "Glibber",
-   "Glibber"
+   "klecks",
+   "glibber",
+   "glibber"
   ]
  },
  {
@@ -3083,17 +3083,17 @@
   "CatID": "CREADino",
   "SubCategory": "DINOSAURIER",
   "Synonyms": [
-   "Brontosaurus",
-   "Velociraptor",
-   "Triceratops",
-   "Stegosaurus",
-   "Tyrannosaurus",
-   "Allosaurus",
-   "Spinosaurus",
-   "Brachiosaurus",
-   "Archaeopteryx",
-   "Pterosaurier",
-   "Pterodactylus"
+   "brontosaurus",
+   "velociraptor",
+   "triceratops",
+   "stegosaurus",
+   "tyrannosaurus",
+   "allosaurus",
+   "spinosaurus",
+   "brachiosaurus",
+   "archaeopteryx",
+   "pterosaurier",
+   "pterodactylus"
   ]
  },
  {
@@ -3102,9 +3102,9 @@
   "CatID": "CREADrgn",
   "SubCategory": "DRACHEN",
   "Synonyms": [
-   "Drache",
-   "Erpel",
-   "Wyvern"
+   "drache",
+   "erpel",
+   "wyvern"
   ]
  },
  {
@@ -3113,12 +3113,12 @@
   "CatID": "CREAElem",
   "SubCategory": "ELEMENTAR",
   "Synonyms": [
-   "Felsmonster",
-   "Feuermonster",
-   "Eismonster",
-   "Felsriese",
-   "Eisriese",
-   "Golem"
+   "felsmonster",
+   "feuermonster",
+   "eismonster",
+   "felsriese",
+   "eisriese",
+   "golem"
   ]
  },
  {
@@ -3127,17 +3127,17 @@
   "CatID": "CREAEthr",
   "SubCategory": "GEIST",
   "Synonyms": [
-   "Geister",
-   "Gespenster",
+   "geister",
+   "gespenster",
    "\u00e4therisch",
-   "Irrlicht",
-   "Gespenst",
-   "Seele",
-   "Erscheinung",
-   "Gespenst",
-   "Poltergeist",
-   "Phantom",
-   "Gespenst"
+   "irrlicht",
+   "gespenst",
+   "seele",
+   "erscheinung",
+   "gespenst",
+   "poltergeist",
+   "phantom",
+   "gespenst"
   ]
  },
  {
@@ -3146,23 +3146,23 @@
   "CatID": "CREAHmn",
   "SubCategory": "HUMANOID",
   "Synonyms": [
-   "Zombie",
-   "Untoter",
+   "zombie",
+   "untoter",
    "lebender",
-   "Toter",
-   "Ghul",
-   "Vampir",
-   "Elf",
-   "Orks",
-   "Oger",
-   "Troll",
-   "Tengu",
-   "Kobold",
-   "Bigfoot",
-   "Sumpfwesen",
-   "Werwolf",
-   "Frankenstein",
-   "Mumie"
+   "toter",
+   "ghul",
+   "vampir",
+   "elf",
+   "orks",
+   "oger",
+   "troll",
+   "tengu",
+   "kobold",
+   "bigfoot",
+   "sumpfwesen",
+   "werwolf",
+   "frankenstein",
+   "mumie"
   ]
  },
  {
@@ -3171,8 +3171,8 @@
   "CatID": "CREAInsc",
   "SubCategory": "INSEKTOID",
   "Synonyms": [
-   "Riesenameise",
-   "Riesenspinne"
+   "riesenameise",
+   "riesenspinne"
   ]
  },
  {
@@ -3181,7 +3181,7 @@
   "CatID": "CREAMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -3205,10 +3205,10 @@
   "CatID": "CREARept",
   "SubCategory": "REPTILARTIG",
   "Synonyms": [
-   "Schlange",
-   "Serpentine",
-   "Rieseneidechse",
-   "Riesenschlange"
+   "schlange",
+   "serpentine",
+   "rieseneidechse",
+   "riesenschlange"
   ]
  },
  {
@@ -3217,11 +3217,11 @@
   "CatID": "CREASmall",
   "SubCategory": "KLEIN",
   "Synonyms": [
-   "Fee",
-   "Kobold",
-   "Gremlin",
-   "Wichtel",
-   "Fraggle"
+   "fee",
+   "kobold",
+   "gremlin",
+   "wichtel",
+   "fraggle"
   ]
  },
  {
@@ -3248,7 +3248,7 @@
    "guttural",
    "st\u00f6hnen",
    "\u00e4chzen",
-   "Mund",
+   "mund",
    "br\u00fcllen",
    "schreien",
    "kreischen",
@@ -3262,7 +3262,7 @@
   "CatID": "CRWDAngr",
   "SubCategory": "W\u00dcTEND",
   "Synonyms": [
-   "Hooligan",
+   "hooligan",
    "randalieren",
    "protestieren",
    "schreien",
@@ -3275,10 +3275,10 @@
   "CatID": "CRWDApls",
   "SubCategory": "APPLAUS",
   "Synonyms": [
-   "Beifall",
-   "Jubel",
-   "Klatschen",
-   "Zugabe"
+   "beifall",
+   "jubel",
+   "klatschen",
+   "zugabe"
   ]
  },
  {
@@ -3287,15 +3287,15 @@
   "CatID": "CRWDBatl",
   "SubCategory": "KAMPF",
   "Synonyms": [
-   "Schlachtrufe",
+   "schlachtrufe",
    "schreien",
    "angreifen",
    "sich",
    "versammeln",
-   "Armee",
-   "Kampf",
-   "Handgemenge",
-   "Krieg",
+   "armee",
+   "kampf",
+   "handgemenge",
+   "krieg",
    "schreien",
    "sterben"
   ]
@@ -3322,13 +3322,13 @@
   "CatID": "CRWDCheer",
   "SubCategory": "JUBEL",
   "Synonyms": [
-   "Jubel",
-   "Konzert",
-   "Stadion",
-   "Publikum",
-   "Johlen",
-   "Schwellen",
-   "Ges\u00e4nge"
+   "jubel",
+   "konzert",
+   "stadion",
+   "publikum",
+   "johlen",
+   "schwellen",
+   "ges\u00e4nge"
   ]
  },
  {
@@ -3337,11 +3337,11 @@
   "CatID": "CRWDChld",
   "SubCategory": "KINDER",
   "Synonyms": [
-   "Spielplatz",
-   "Pause",
+   "spielplatz",
+   "pause",
    "spielende",
-   "Kinder",
-   "Park",
+   "kinder",
+   "park",
    "spielen",
    "fangen"
   ]
@@ -3358,7 +3358,7 @@
    "sp\u00e4rlich",
    "walla",
    "konversieren",
-   "Gespr\u00e4ch"
+   "gespr\u00e4ch"
   ]
  },
  {
@@ -3367,15 +3367,15 @@
   "CatID": "CRWDLaff",
   "SubCategory": "LACHEN",
   "Synonyms": [
-   "TV",
-   "Show",
-   "Lachen",
+   "tv",
+   "show",
+   "lachen",
    "aus",
    "der",
-   "Konserve",
-   "Comedy",
-   "Club",
-   "Lachnummer"
+   "konserve",
+   "comedy",
+   "club",
+   "lachnummer"
   ]
  },
  {
@@ -3384,11 +3384,11 @@
   "CatID": "CRWDLoop",
   "SubCategory": "LOOP GROUP",
   "Synonyms": [
-   "Schleifengruppe",
+   "schleifengruppe",
    "adr",
    "aus",
    "der",
-   "Konserve"
+   "konserve"
   ]
  },
  {
@@ -3397,7 +3397,7 @@
   "CatID": "CRWDMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -3406,8 +3406,8 @@
   "CatID": "CRWDPanic",
   "SubCategory": "PANIK",
   "Synonyms": [
-   "Panik",
-   "Chaos",
+   "panik",
+   "chaos",
    "schreien",
    "schreien",
    "weinen",
@@ -3435,7 +3435,7 @@
    "boo",
    "ahh",
    "ooh",
-   "Studioreaktion"
+   "studioreaktion"
   ]
  },
  {
@@ -3444,10 +3444,10 @@
   "CatID": "CRWDSing",
   "SubCategory": "SINGEN",
   "Synonyms": [
-   "Gesang",
-   "Chor",
-   "Choral",
-   "Weihnachtslied"
+   "gesang",
+   "chor",
+   "choral",
+   "weihnachtslied"
   ]
  },
  {
@@ -3456,14 +3456,14 @@
   "CatID": "CRWDSprt",
   "SubCategory": "SPORT",
   "Synonyms": [
-   "Applaus",
-   "Klatschen",
-   "Buh",
-   "Jubel",
-   "Stadion",
+   "applaus",
+   "klatschen",
+   "buh",
+   "jubel",
+   "stadion",
    "juhu",
-   "Publikum",
-   "Olympiade",
+   "publikum",
+   "olympiade",
    "schreien",
    "woohoo"
   ]
@@ -3474,10 +3474,10 @@
   "CatID": "CRWDWalla",
   "SubCategory": "WALLA",
   "Synonyms": [
-   "Stimmen",
-   "Gespr\u00e4ch",
-   "Walla",
-   "Konversation"
+   "stimmen",
+   "gespr\u00e4ch",
+   "walla",
+   "konversation"
   ]
  },
  {
@@ -3500,10 +3500,10 @@
   "CatID": "DSGNBoom",
   "SubCategory": "BOOM",
   "Synonyms": [
-   "Boom",
-   "Tiefschlag",
-   "Tiefstich",
-   "Anh\u00e4nger"
+   "boom",
+   "tiefschlag",
+   "tiefstich",
+   "anh\u00e4nger"
   ]
  },
  {
@@ -3521,7 +3521,7 @@
   "CatID": "DSGNDist",
   "SubCategory": "VERZERRUNG",
   "Synonyms": [
-   "Verzerrung",
+   "verzerrung",
    "abgewinkelt",
    "verzerrt"
   ]
@@ -3532,11 +3532,11 @@
   "CatID": "DSGNDron",
   "SubCategory": "DRONE",
   "Synonyms": [
-   "Pad",
-   "Drone",
-   "Textur",
+   "pad",
+   "drone",
+   "textur",
    "bedrohlich",
-   "Spannung"
+   "spannung"
   ]
  },
  {
@@ -3585,11 +3585,11 @@
   "CatID": "DSGNImpt",
   "SubCategory": "EINSCHLAG",
   "Synonyms": [
-   "Aufprall",
+   "aufprall",
    "treffen",
    "zuschlagen",
    "zerschmettern",
-   "Zusammensto\u00df"
+   "zusammensto\u00df"
   ]
  },
  {
@@ -3598,7 +3598,7 @@
   "CatID": "DSGNMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -3609,7 +3609,7 @@
   "Synonyms": [
    "morphen",
    "\u00fcberblenden",
-   "\u00dcbergang"
+   "\u00fcbergang"
   ]
  },
  {
@@ -3618,11 +3618,11 @@
   "CatID": "DSGNRise",
   "SubCategory": "ANSCHWELLEN",
   "Synonyms": [
-   "Reverse",
-   "Crescendo",
-   "Rizer",
-   "Riser",
-   "Spannung"
+   "reverse",
+   "crescendo",
+   "rizer",
+   "riser",
+   "spannung"
   ]
  },
  {
@@ -3631,10 +3631,10 @@
   "CatID": "DSGNRmbl",
   "SubCategory": "RUMPELN",
   "Synonyms": [
-   "Subharmonisch",
-   "Rumpeln",
-   "Sch\u00fctteln",
-   "Erdbeben"
+   "subharmonisch",
+   "rumpeln",
+   "sch\u00fctteln",
+   "erdbeben"
   ]
  },
  {
@@ -3655,10 +3655,10 @@
   "CatID": "DSGNSrce",
   "SubCategory": "EINZELELEMENT",
   "Synonyms": [
-   "Quelle",
+   "quelle",
    "roh",
-   "Material",
-   "Rohaufnahme"
+   "material",
+   "rohaufnahme"
   ]
  },
  {
@@ -3679,17 +3679,17 @@
   "CatID": "DSGNSynth",
   "SubCategory": "SYNTHETISCH",
   "Synonyms": [
-   "Synthesizer",
-   "Synthesizer",
-   "Mod",
-   "Synthesizer",
+   "synthesizer",
+   "synthesizer",
+   "mod",
+   "synthesizer",
    "modularer",
-   "Synthesizer",
+   "synthesizer",
    "granularer",
    "analoger",
-   "Synthesizer",
+   "synthesizer",
    "modularer",
-   "Synthesizer"
+   "synthesizer"
   ]
  },
  {
@@ -3698,10 +3698,10 @@
   "CatID": "DSGNTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "Tinnitus",
-   "Klingeln",
-   "Shell",
-   "Shock",
+   "tinnitus",
+   "klingeln",
+   "shell",
+   "shock",
    "subjektiv"
   ]
  },
@@ -3711,8 +3711,8 @@
   "CatID": "DSGNVocl",
   "SubCategory": "STIMME",
   "Synonyms": [
-   "Verzauberung",
-   "Zauber",
+   "verzauberung",
+   "zauber",
    "verarbeitet",
    "vokal",
    "fl\u00fcstern",
@@ -3726,7 +3726,7 @@
   "SubCategory": "WHOOSH",
   "Synonyms": [
    "whoosh",
-   "Anh\u00e4nger",
+   "anh\u00e4nger",
    "zischen",
    "schwirren"
   ]
@@ -3763,7 +3763,7 @@
   "CatID": "DESTRMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -3772,9 +3772,9 @@
   "CatID": "DIRTCrsh",
   "SubCategory": "CRASH & TR\u00dcMMER",
   "Synonyms": [
-   "Tr\u00fcmmer",
-   "Sand",
-   "Schmutz",
+   "tr\u00fcmmer",
+   "sand",
+   "schmutz",
    "rieseln",
    "spritzen",
    "br\u00f6ckeln"
@@ -3787,10 +3787,10 @@
   "SubCategory": "STAUB",
   "Synonyms": [
    "fein",
-   "Partikel",
-   "Sediment",
-   "Schlick",
-   "Staub"
+   "partikel",
+   "sediment",
+   "schlick",
+   "staub"
   ]
  },
  {
@@ -3824,7 +3824,7 @@
   "CatID": "DIRTMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -3845,9 +3845,9 @@
   "CatID": "DIRTTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "Sandd\u00fcnen",
+   "sandd\u00fcnen",
    "singende",
-   "Sande"
+   "sande"
   ]
  },
  {
@@ -3856,9 +3856,9 @@
   "CatID": "DOORAntq",
   "SubCategory": "ANTIK",
   "Synonyms": [
-   "Schloss",
-   "Abby",
-   "Kirche",
+   "schloss",
+   "abby",
+   "kirche",
    "alt",
    "uralt",
    "antik"
@@ -3870,12 +3870,12 @@
   "CatID": "DOORAppl",
   "SubCategory": "HAUSHALTSGER\u00c4T",
   "Synonyms": [
-   "Ofen",
-   "Mikrowelle",
-   "K\u00fchlschrank",
-   "Geschirrsp\u00fcler",
-   "Waschmaschine",
-   "Trockner"
+   "ofen",
+   "mikrowelle",
+   "k\u00fchlschrank",
+   "geschirrsp\u00fcler",
+   "waschmaschine",
+   "trockner"
   ]
  },
  {
@@ -3884,9 +3884,9 @@
   "CatID": "DOORCab",
   "SubCategory": "SCHRANK",
   "Synonyms": [
-   "Schrank",
-   "K\u00fcchenschrank",
-   "Werkzeugschrank"
+   "schrank",
+   "k\u00fcchenschrank",
+   "werkzeugschrank"
   ]
  },
  {
@@ -3895,8 +3895,8 @@
   "CatID": "DOORComp",
   "SubCategory": "ZUSAMMENSETZUNG",
   "Synonyms": [
-   "Glasfaser",
-   "T\u00fcr"
+   "glasfaser",
+   "t\u00fcr"
   ]
  },
  {
@@ -3905,14 +3905,14 @@
   "CatID": "DOORCreak",
   "SubCategory": "KNARZEN",
   "Synonyms": [
-   "Knarren",
-   "T\u00fcr",
-   "Kerker",
-   "Keller",
-   "Schloss",
-   "Holzt\u00fcr",
-   "Metallt\u00fcr",
-   "T\u00fcrknarren"
+   "knarren",
+   "t\u00fcr",
+   "kerker",
+   "keller",
+   "schloss",
+   "holzt\u00fcr",
+   "metallt\u00fcr",
+   "t\u00fcrknarren"
   ]
  },
  {
@@ -3921,10 +3921,10 @@
   "CatID": "DOORDungn",
   "SubCategory": "VERLIESS",
   "Synonyms": [
-   "Schloss",
-   "Kerker",
+   "schloss",
+   "kerker",
    "gro\u00df",
-   "Keller"
+   "keller"
   ]
  },
  {
@@ -3934,11 +3934,11 @@
   "SubCategory": "ELEKTRISCH",
   "Synonyms": [
    "elektrische",
-   "T\u00fcr",
-   "Garagentor",
-   "Tonb\u00fchnent\u00fcr",
+   "t\u00fcr",
+   "garagentor",
+   "tonb\u00fchnent\u00fcr",
    "automatische",
-   "T\u00fcr"
+   "t\u00fcr"
   ]
  },
  {
@@ -3947,12 +3947,12 @@
   "CatID": "DOORGate",
   "SubCategory": "TOR",
   "Synonyms": [
-   "Gartentor",
-   "Zauntor",
-   "Parktor",
-   "Bahn\u00fcbergang",
-   "Viehgatter",
-   "Hoftor"
+   "gartentor",
+   "zauntor",
+   "parktor",
+   "bahn\u00fcbergang",
+   "viehgatter",
+   "hoftor"
   ]
  },
  {
@@ -3961,10 +3961,10 @@
   "CatID": "DOORGlas",
   "SubCategory": "GLAS",
   "Synonyms": [
-   "Glast\u00fcr",
-   "Ladent\u00fcr",
-   "Erkert\u00fcr",
-   "Fenstert\u00fcr"
+   "glast\u00fcr",
+   "ladent\u00fcr",
+   "erkert\u00fcr",
+   "fenstert\u00fcr"
   ]
  },
  {
@@ -3973,16 +3973,16 @@
   "CatID": "DOORHdwr",
   "SubCategory": "BESCHL\u00c4GE",
   "Synonyms": [
-   "T\u00fcrknauf",
-   "Riegel",
-   "Schubstange",
-   "Kettenschloss",
-   "Scharnier",
-   "Falle",
-   "Griff",
-   "Beschlag",
-   "Lockpicking",
-   "Wackeln"
+   "t\u00fcrknauf",
+   "riegel",
+   "schubstange",
+   "kettenschloss",
+   "scharnier",
+   "falle",
+   "griff",
+   "beschlag",
+   "lockpicking",
+   "wackeln"
   ]
  },
  {
@@ -3991,7 +3991,7 @@
   "CatID": "DOORTech",
   "SubCategory": "HI-TECH",
   "Synonyms": [
-   "Labort\u00fcr"
+   "labort\u00fcr"
   ]
  },
  {
@@ -4000,11 +4000,11 @@
   "CatID": "DOORHydr",
   "SubCategory": "HYDRAULISCH & PNEUMATISCH",
   "Synonyms": [
-   "T\u00fcrschlie\u00dfer",
+   "t\u00fcrschlie\u00dfer",
    "pneumatisch",
    "hydraulisch",
    "angetriebene",
-   "Klappe"
+   "klappe"
   ]
  },
  {
@@ -4027,10 +4027,10 @@
   "CatID": "DOORMetl",
   "SubCategory": "METALL",
   "Synonyms": [
-   "Rollup",
-   "Tresor",
-   "Tresor",
-   "Luke"
+   "rollup",
+   "tresor",
+   "tresor",
+   "luke"
   ]
  },
  {
@@ -4039,7 +4039,7 @@
   "CatID": "DOORMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -4048,12 +4048,12 @@
   "CatID": "DOORPlas",
   "SubCategory": "PLASTIK",
   "Synonyms": [
-   "Porta",
-   "John",
-   "Porta",
-   "Let",
-   "Porta",
-   "Pottie"
+   "porta",
+   "john",
+   "porta",
+   "let",
+   "porta",
+   "pottie"
   ]
  },
  {
@@ -4062,8 +4062,8 @@
   "CatID": "DOORPrisn",
   "SubCategory": "GEF\u00c4NGNIS",
   "Synonyms": [
-   "Knastt\u00fcr",
-   "Gef\u00e4ngnist\u00fcr"
+   "knastt\u00fcr",
+   "gef\u00e4ngnist\u00fcr"
   ]
  },
  {
@@ -4072,12 +4072,12 @@
   "CatID": "DOORRevl",
   "SubCategory": "DREHT\u00dcR",
   "Synonyms": [
-   "Drehen",
+   "drehen",
    "rotieren",
-   "Dreht\u00fcr",
-   "Hotel",
-   "Flughafen",
-   "Einkaufszentrum"
+   "dreht\u00fcr",
+   "hotel",
+   "flughafen",
+   "einkaufszentrum"
   ]
  },
  {
@@ -4086,9 +4086,9 @@
   "CatID": "DOORSlid",
   "SubCategory": "SCHIEBET\u00dcR",
   "Synonyms": [
-   "Glasschiebet\u00fcr",
-   "Terrassent\u00fcr",
-   "Duscht\u00fcr"
+   "glasschiebet\u00fcr",
+   "terrassent\u00fcr",
+   "duscht\u00fcr"
   ]
  },
  {
@@ -4097,11 +4097,11 @@
   "CatID": "DOORSton",
   "SubCategory": "STEIN",
   "Synonyms": [
-   "Gruft",
-   "Krypta",
-   "Tempel",
-   "Mausoleum",
-   "Geheimeingang"
+   "gruft",
+   "krypta",
+   "tempel",
+   "mausoleum",
+   "geheimeingang"
   ]
  },
  {
@@ -4110,14 +4110,14 @@
   "CatID": "DOORSwng",
   "SubCategory": "SCHWINGT\u00dcR",
   "Synonyms": [
-   "Saloon",
-   "T\u00fcr",
-   "Verkehrst\u00fcr",
-   "Restaurant",
-   "T\u00fcr",
-   "Kirchen",
-   "Kanzel",
-   "T\u00fcr"
+   "saloon",
+   "t\u00fcr",
+   "verkehrst\u00fcr",
+   "restaurant",
+   "t\u00fcr",
+   "kirchen",
+   "kanzel",
+   "t\u00fcr"
   ]
  },
  {
@@ -4126,9 +4126,9 @@
   "CatID": "DOORWood",
   "SubCategory": "HOLZ",
   "Synonyms": [
-   "Eingang",
-   "Haust\u00fcr",
-   "Kleiderschrank"
+   "eingang",
+   "haust\u00fcr",
+   "kleiderschrank"
   ]
  },
  {
@@ -4137,11 +4137,11 @@
   "CatID": "DRWRMetl",
   "SubCategory": "METALL",
   "Synonyms": [
-   "Werkzeugkasten",
-   "Regalschublade",
-   "Aktenschrank",
-   "Registrierkasse",
-   "Sicherheitsschublade"
+   "werkzeugkasten",
+   "regalschublade",
+   "aktenschrank",
+   "registrierkasse",
+   "sicherheitsschublade"
   ]
  },
  {
@@ -4150,7 +4150,7 @@
   "CatID": "DRWRMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -4159,9 +4159,9 @@
   "CatID": "DRWRPlas",
   "SubCategory": "KUNSTSTOFF",
   "Synonyms": [
-   "Teilebeh\u00e4lter",
-   "Schreibtisch",
-   "Organizer"
+   "teilebeh\u00e4lter",
+   "schreibtisch",
+   "organizer"
   ]
  },
  {
@@ -4170,8 +4170,8 @@
   "CatID": "DRWRWood",
   "SubCategory": "HOLZ",
   "Synonyms": [
-   "K\u00fcchenschublade",
-   "Badezimmerschublade"
+   "k\u00fcchenschublade",
+   "badezimmerschublade"
   ]
  },
  {
@@ -4180,12 +4180,12 @@
   "CatID": "ELECArc",
   "SubCategory": "LICHTBOGEN",
   "Synonyms": [
-   "Jakobsleiter",
-   "Teslaspule",
-   "Arche",
-   "Bogen",
-   "Kraftwerk",
-   "Elektroschock"
+   "jakobsleiter",
+   "teslaspule",
+   "arche",
+   "bogen",
+   "kraftwerk",
+   "elektroschock"
   ]
  },
  {
@@ -4194,14 +4194,14 @@
   "CatID": "ELECBuzz",
   "SubCategory": "BRUMMEN",
   "Synonyms": [
-   "Erdbrummen",
-   "Verst\u00e4rkerbrummen",
-   "Verst\u00e4rkerbrummen",
-   "Lautsprecherbrummen",
-   "Lautsprecherbrummen",
-   "Brummen",
-   "Summen",
-   "Induktionsbrummen"
+   "erdbrummen",
+   "verst\u00e4rkerbrummen",
+   "verst\u00e4rkerbrummen",
+   "lautsprecherbrummen",
+   "lautsprecherbrummen",
+   "brummen",
+   "summen",
+   "induktionsbrummen"
   ]
  },
  {
@@ -4210,10 +4210,10 @@
   "CatID": "ELECEmf",
   "SubCategory": "ELEKTROMAGNETISCH",
   "Synonyms": [
-   "EMF",
-   "Spule",
-   "Tonabnehmer",
-   "Induktion"
+   "emf",
+   "spule",
+   "tonabnehmer",
+   "induktion"
   ]
  },
  {
@@ -4222,7 +4222,7 @@
   "CatID": "ELECMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -4231,10 +4231,10 @@
   "CatID": "ELECSprk",
   "SubCategory": "FUNKEN",
   "Synonyms": [
-   "Wunderkerze",
-   "Schwei\u00dfen",
-   "Sputtern",
-   "Kurzschluss"
+   "wunderkerze",
+   "schwei\u00dfen",
+   "sputtern",
+   "kurzschluss"
   ]
  },
  {
@@ -4243,10 +4243,10 @@
   "CatID": "ELECZap",
   "SubCategory": "ZAP",
   "Synonyms": [
-   "Entladung",
-   "Tase",
-   "Taser",
-   "Elektroschock"
+   "entladung",
+   "tase",
+   "taser",
+   "elektroschock"
   ]
  },
  {
@@ -4255,12 +4255,12 @@
   "CatID": "EQUIPBridle",
   "SubCategory": "ZAUMZEUG & SATTEL",
   "Synonyms": [
-   "Zaumzeug",
-   "Z\u00fcgel",
-   "Leine",
-   "Pferdegeschirr",
-   "Hundeleine",
-   "Sattelgurt"
+   "zaumzeug",
+   "z\u00fcgel",
+   "leine",
+   "pferdegeschirr",
+   "hundeleine",
+   "sattelgurt"
   ]
  },
  {
@@ -4269,8 +4269,8 @@
   "CatID": "EQUIPTech",
   "SubCategory": "HI-TECH",
   "Synonyms": [
-   "Raumanzug",
-   "Gebrauchsg\u00fcrtel"
+   "raumanzug",
+   "gebrauchsg\u00fcrtel"
   ]
  },
  {
@@ -4279,7 +4279,7 @@
   "CatID": "EQUIPMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -4288,13 +4288,13 @@
   "CatID": "EQUIPRec",
   "SubCategory": "KLETTERN",
   "Synonyms": [
-   "Rucksack",
-   "Wanderung",
-   "Bergsteigen",
-   "Klettern",
-   "Felsklettern",
-   "Lager",
-   "Zelt"
+   "rucksack",
+   "wanderung",
+   "bergsteigen",
+   "klettern",
+   "felsklettern",
+   "lager",
+   "zelt"
   ]
  },
  {
@@ -4303,10 +4303,10 @@
   "CatID": "EQUIPSprt",
   "SubCategory": "SPORT",
   "Synonyms": [
-   "Schulterpolster",
-   "Kniesch\u00fctzer",
-   "Schienbeinsch\u00fctzer",
-   "Suspensorium"
+   "schulterpolster",
+   "kniesch\u00fctzer",
+   "schienbeinsch\u00fctzer",
+   "suspensorium"
   ]
  },
  {
@@ -4315,13 +4315,13 @@
   "CatID": "EQUIPTact",
   "SubCategory": "MILIT\u00c4R & POLIZEI",
   "Synonyms": [
-   "G\u00fcrtel",
+   "g\u00fcrtel",
    "taktisch",
-   "Dienstg\u00fcrtel",
-   "Munitionsg\u00fcrtel",
-   "Polizei",
-   "Milit\u00e4r",
-   "Patronengurt"
+   "dienstg\u00fcrtel",
+   "munitionsg\u00fcrtel",
+   "polizei",
+   "milit\u00e4r",
+   "patronengurt"
   ]
  },
  {
@@ -4330,9 +4330,9 @@
   "CatID": "EXPLDsgn",
   "SubCategory": "DESIGNED",
   "Synonyms": [
-   "Schockwelle",
-   "S\u00fc\u00dfstoff",
-   "Echo"
+   "schockwelle",
+   "s\u00fc\u00dfstoff",
+   "echo"
   ]
  },
  {
@@ -4341,7 +4341,7 @@
   "CatID": "EXPLMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Detonation"
+   "detonation"
   ]
  },
  {
@@ -4350,10 +4350,10 @@
   "CatID": "EXPLReal",
   "SubCategory": "REAL & ECHT",
   "Synonyms": [
-   "Knall",
-   "Implosion",
-   "Crack",
-   "Pop"
+   "knall",
+   "implosion",
+   "crack",
+   "pop"
   ]
  },
  {
@@ -4379,7 +4379,7 @@
   "CatID": "FARTMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Tierfurz"
+   "tierfurz"
   ]
  },
  {
@@ -4389,10 +4389,10 @@
   "SubCategory": "REAL & ECHT",
   "Synonyms": [
    "menschlicher",
-   "Furz",
-   "Flatulenz",
-   "Pups",
-   "Tuten"
+   "furz",
+   "flatulenz",
+   "pups",
+   "tuten"
   ]
  },
  {
@@ -4416,11 +4416,11 @@
   "CatID": "FGHTClth",
   "SubCategory": "STOFF",
   "Synonyms": [
-   "Kampftuch",
-   "Greifen",
-   "Schnappen",
-   "Tuchsto\u00df",
-   "Tuchschlag"
+   "kampftuch",
+   "greifen",
+   "schnappen",
+   "tuchsto\u00df",
+   "tuchschlag"
   ]
  },
  {
@@ -4429,11 +4429,11 @@
   "CatID": "FGHTGrab",
   "SubCategory": "GREIFEN",
   "Synonyms": [
-   "Kampf",
-   "Greifen",
-   "Zupacken",
-   "Ringen",
-   "Judo"
+   "kampf",
+   "greifen",
+   "zupacken",
+   "ringen",
+   "judo"
   ]
  },
  {
@@ -4442,16 +4442,16 @@
   "CatID": "FGHTImpt",
   "SubCategory": "EINSCHLAG",
   "Synonyms": [
-   "Schlag",
-   "Tritt",
-   "K\u00f6rpertreffer",
-   "Ohrfeige",
-   "Ohrfeige",
-   "Schl\u00e4gerei",
-   "Sto\u00dfen",
-   "Socke",
-   "Aufw\u00e4rtshaken",
-   "Sto\u00df"
+   "schlag",
+   "tritt",
+   "k\u00f6rpertreffer",
+   "ohrfeige",
+   "ohrfeige",
+   "schl\u00e4gerei",
+   "sto\u00dfen",
+   "socke",
+   "aufw\u00e4rtshaken",
+   "sto\u00df"
   ]
  },
  {
@@ -4460,7 +4460,7 @@
   "CatID": "FGHTMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -4469,14 +4469,14 @@
   "CatID": "FIREBurn",
   "SubCategory": "BRENNEN",
   "Synonyms": [
-   "Lagerfeuer",
-   "Buschfeuer",
-   "Geb\u00e4udebrand",
-   "Brand",
-   "Inferno",
-   "Verbrennung",
-   "Zunder",
-   "Scheiterhaufen"
+   "lagerfeuer",
+   "buschfeuer",
+   "geb\u00e4udebrand",
+   "brand",
+   "inferno",
+   "verbrennung",
+   "zunder",
+   "scheiterhaufen"
   ]
  },
  {
@@ -4485,8 +4485,8 @@
   "CatID": "FIREBrst",
   "SubCategory": "AUSBRUCH",
   "Synonyms": [
-   "Backdraft",
-   "Drachenfeuer",
+   "backdraft",
+   "drachenfeuer",
    "verschlingen"
   ]
  },
@@ -4508,13 +4508,13 @@
   "CatID": "FIREGas",
   "SubCategory": "GAS",
   "Synonyms": [
-   "Gasgrill",
-   "Bunsenbrenner",
-   "Ofen",
-   "Campingkocher",
-   "K\u00fcchenherd",
-   "Krematorium",
-   "Gasherd"
+   "gasgrill",
+   "bunsenbrenner",
+   "ofen",
+   "campingkocher",
+   "k\u00fcchenherd",
+   "krematorium",
+   "gasherd"
   ]
  },
  {
@@ -4523,9 +4523,9 @@
   "CatID": "FIREIgn",
   "SubCategory": "ENTZ\u00dcNDEN",
   "Synonyms": [
-   "Streichholz",
-   "Feuerzeug",
-   "Zippo",
+   "streichholz",
+   "feuerzeug",
+   "zippo",
    "aufflammen",
    "ausbrechen",
    "aufflammen",
@@ -4538,7 +4538,7 @@
   "CatID": "FIREMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -4547,9 +4547,9 @@
   "CatID": "FIRESizz",
   "SubCategory": "BRUTZELN",
   "Synonyms": [
-   "Sch\u00fcrhaken",
-   "Z\u00fcndschnur",
-   "Z\u00fcndschnur",
+   "sch\u00fcrhaken",
+   "z\u00fcndschnur",
+   "z\u00fcndschnur",
    "brennen"
   ]
  },
@@ -4559,12 +4559,12 @@
   "CatID": "FIRETrch",
   "SubCategory": "FACKEL",
   "Synonyms": [
-   "Fackel",
-   "Z\u00fcndschnur",
-   "Fackel",
-   "Feuerbrand",
-   "Flammenstock",
-   "Kresse"
+   "fackel",
+   "z\u00fcndschnur",
+   "fackel",
+   "feuerbrand",
+   "flammenstock",
+   "kresse"
   ]
  },
  {
@@ -4573,13 +4573,13 @@
   "CatID": "FIRETurb",
   "SubCategory": "TURBULENT",
   "Synonyms": [
-   "Feuerwirbel",
+   "feuerwirbel",
    "heftiges",
-   "Feuer",
-   "Flammenwerfer",
-   "Feuertornado",
+   "feuer",
+   "flammenwerfer",
+   "feuertornado",
    "verschlingen",
-   "R\u00fcckstau"
+   "r\u00fcckstau"
   ]
  },
  {
@@ -4588,11 +4588,11 @@
   "CatID": "FIREWhsh",
   "SubCategory": "WHOOSH",
   "Synonyms": [
-   "Feuerball",
-   "Flamme",
-   "Molotow",
-   "Fackel",
-   "Backdraft"
+   "feuerball",
+   "flamme",
+   "molotow",
+   "fackel",
+   "backdraft"
   ]
  },
  {
@@ -4601,12 +4601,12 @@
   "CatID": "FRWKComr",
   "SubCategory": "PROFESSIONELL",
   "Synonyms": [
-   "M\u00f6rser",
-   "Feuerwerk",
-   "Pyrotechnik",
-   "Kaboom",
-   "Granate",
-   "Feuerwerksk\u00f6rper"
+   "m\u00f6rser",
+   "feuerwerk",
+   "pyrotechnik",
+   "kaboom",
+   "granate",
+   "feuerwerksk\u00f6rper"
   ]
  },
  {
@@ -4615,7 +4615,7 @@
   "CatID": "FRWKMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -4624,16 +4624,16 @@
   "CatID": "FRWKRec",
   "SubCategory": "FREI VERK\u00c4UFLICH",
   "Synonyms": [
-   "Feuerwerksk\u00f6rper",
-   "M80",
-   "Wunderkerze",
-   "Flaschenrakete",
-   "Rauchbombe",
-   "Hampelmann",
-   "R\u00f6misches",
-   "Licht",
-   "Knallk\u00f6rper",
-   "Kirschbombe"
+   "feuerwerksk\u00f6rper",
+   "m80",
+   "wunderkerze",
+   "flaschenrakete",
+   "rauchbombe",
+   "hampelmann",
+   "r\u00f6misches",
+   "licht",
+   "knallk\u00f6rper",
+   "kirschbombe"
   ]
  },
  {
@@ -4642,8 +4642,8 @@
   "CatID": "FOLYClth",
   "SubCategory": "KLEIDUNG",
   "Synonyms": [
-   "Rascheln",
-   "Bewegung",
+   "rascheln",
+   "bewegung",
    "mvmt",
    "zuzz"
   ]
@@ -4654,10 +4654,10 @@
   "CatID": "FOLYFeet",
   "SubCategory": "SCHRITTE",
   "Synonyms": [
-   "Fu\u00df",
-   "Schuh",
-   "Tritt",
-   "Oberfl\u00e4che"
+   "fu\u00df",
+   "schuh",
+   "tritt",
+   "oberfl\u00e4che"
   ]
  },
  {
@@ -4678,7 +4678,7 @@
   "CatID": "FOLYMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -4687,8 +4687,8 @@
   "CatID": "FOLYProp",
   "SubCategory": "PROP",
   "Synonyms": [
-   "Requisite",
-   "Requisiten"
+   "requisite",
+   "requisiten"
   ]
  },
  {
@@ -4725,7 +4725,7 @@
    "trinken",
    "schlucken",
    "schlucken",
-   "Getr\u00e4nk",
+   "getr\u00e4nk",
    "schlucken",
    "schlucken",
    "schlucken",
@@ -4757,12 +4757,12 @@
   "CatID": "FOODGware",
   "SubCategory": "GLASWAREN",
   "Synonyms": [
-   "Flasche",
-   "Glas",
-   "Tasse",
-   "Krug",
-   "Karaffe",
-   "Dose"
+   "flasche",
+   "glas",
+   "tasse",
+   "krug",
+   "karaffe",
+   "dose"
   ]
  },
  {
@@ -4771,16 +4771,16 @@
   "CatID": "FOODIngr",
   "SubCategory": "ZUTATEN",
   "Synonyms": [
-   "Nuss",
-   "Samen",
-   "Getreide",
-   "Gem\u00fcse",
-   "Obst",
-   "Dosenfutter",
-   "Getreide",
-   "Fleisch",
-   "Hafer",
-   "Mais"
+   "nuss",
+   "samen",
+   "getreide",
+   "gem\u00fcse",
+   "obst",
+   "dosenfutter",
+   "getreide",
+   "fleisch",
+   "hafer",
+   "mais"
   ]
  },
  {
@@ -4789,12 +4789,12 @@
   "CatID": "FOODKware",
   "SubCategory": "KOCHUTENSILIEN",
   "Synonyms": [
-   "Pfanne",
-   "Topf",
-   "Schmortopf",
-   "Suppentopf",
-   "Bratpfanne",
-   "Stielkasserolle"
+   "pfanne",
+   "topf",
+   "schmortopf",
+   "suppentopf",
+   "bratpfanne",
+   "stielkasserolle"
   ]
  },
  {
@@ -4803,7 +4803,7 @@
   "CatID": "FOODMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -4824,9 +4824,9 @@
   "CatID": "FOODTware",
   "SubCategory": "GESCHIRR BESTECK",
   "Synonyms": [
-   "Silberbesteck",
-   "Utensilien",
-   "Glas",
+   "silberbesteck",
+   "utensilien",
+   "glas",
    "klirren"
   ]
  },
@@ -4847,10 +4847,10 @@
   "CatID": "FEETCrea",
   "SubCategory": "MONSTER",
   "Synonyms": [
-   "Dinosaurier",
-   "Kreatur",
-   "Biest",
-   "Drache",
+   "dinosaurier",
+   "kreatur",
+   "biest",
+   "drache",
    "mythisch"
   ]
  },
@@ -4860,12 +4860,12 @@
   "CatID": "FEETHors",
   "SubCategory": "PFERD",
   "Synonyms": [
-   "Schritt",
-   "Trab",
-   "Galopp",
-   "Huf",
-   "Hufe",
-   "Galopp"
+   "schritt",
+   "trab",
+   "galopp",
+   "huf",
+   "hufe",
+   "galopp"
   ]
  },
  {
@@ -4876,7 +4876,7 @@
   "Synonyms": [
    "gehen",
    "laufen",
-   "Fu\u00df",
+   "fu\u00df",
    "joggen",
    "sprinten",
    "springen",
@@ -4884,10 +4884,10 @@
    "humpeln",
    "wandern",
    "schreiten",
-   "Schritt",
-   "Fu\u00df",
-   "Fu\u00df",
-   "Schritt",
+   "schritt",
+   "fu\u00df",
+   "fu\u00df",
+   "schritt",
    "klettern"
   ]
  },
@@ -4897,7 +4897,7 @@
   "CatID": "FEETMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -4906,12 +4906,12 @@
   "CatID": "GAMEArcd",
   "SubCategory": "SPIELHALLE",
   "Synonyms": [
-   "Flipper",
-   "Whack",
+   "flipper",
+   "whack",
    "a",
    "mole",
-   "Skeeball",
-   "Krallenmaschine"
+   "skeeball",
+   "krallenmaschine"
   ]
  },
  {
@@ -4920,10 +4920,10 @@
   "CatID": "GAMEBoard",
   "SubCategory": "BRETTSPIELE",
   "Synonyms": [
-   "Schach",
-   "Dame",
-   "Go",
-   "Backgammon"
+   "schach",
+   "dame",
+   "go",
+   "backgammon"
   ]
  },
  {
@@ -4932,12 +4932,12 @@
   "CatID": "GAMECas",
   "SubCategory": "CASINO",
   "Synonyms": [
-   "Roulette",
-   "Spielautomat",
-   "Craps",
-   "Moneywheel",
-   "Keno",
-   "Pokermaschine"
+   "roulette",
+   "spielautomat",
+   "craps",
+   "moneywheel",
+   "keno",
+   "pokermaschine"
   ]
  },
  {
@@ -4946,11 +4946,11 @@
   "CatID": "GAMEMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Poker",
-   "Kartenspiel",
-   "Jenga",
-   "W\u00fcrfel",
-   "Astragal",
+   "poker",
+   "kartenspiel",
+   "jenga",
+   "w\u00fcrfel",
+   "astragal",
    ""
   ]
  },
@@ -4983,9 +4983,9 @@
   "CatID": "GEOFuma",
   "SubCategory": "FUMAROLE",
   "Synonyms": [
-   "Dampfschlot",
-   "Geothermie",
-   "Fumarole"
+   "dampfschlot",
+   "geothermie",
+   "fumarole"
   ]
  },
  {
@@ -5006,7 +5006,7 @@
   "CatID": "GEOLava",
   "SubCategory": "LAVA",
   "Synonyms": [
-   "Lava",
+   "lava",
    "flie\u00dfen",
    "knistern",
    "z\u00e4hfl\u00fcssig",
@@ -5021,9 +5021,9 @@
   "CatID": "GEOMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Blubbernder",
+   "blubbernder",
    "hei\u00dfer",
-   "Pool"
+   "pool"
   ]
  },
  {
@@ -5032,12 +5032,12 @@
   "CatID": "GEOMudpot",
   "SubCategory": "SCHLAMM",
   "Synonyms": [
-   "Schlammtopf",
-   "Farbtopf",
-   "Teergrube",
-   "Schlamm",
-   "Blase",
-   "Glibber"
+   "schlammtopf",
+   "farbtopf",
+   "teergrube",
+   "schlamm",
+   "blase",
+   "glibber"
   ]
  },
  {
@@ -5046,7 +5046,7 @@
   "CatID": "GLASBrk",
   "SubCategory": "ZERBRECHEN",
   "Synonyms": [
-   "Glas",
+   "glas",
    "zerbrechen",
    "zerschlagen",
    "zerspringen"
@@ -5058,10 +5058,10 @@
   "CatID": "GLASCrsh",
   "SubCategory": "CRASH & TR\u00dcMMER",
   "Synonyms": [
-   "Scherbe",
-   "Fragment",
-   "Absturz",
-   "Tr\u00fcmmer"
+   "scherbe",
+   "fragment",
+   "absturz",
+   "tr\u00fcmmer"
   ]
  },
  {
@@ -5070,7 +5070,7 @@
   "CatID": "GLASFric",
   "SubCategory": "FRIKTION",
   "Synonyms": [
-   "Stress",
+   "stress",
    "schaben",
    "knarren",
    "quietschen",
@@ -5111,7 +5111,7 @@
   "CatID": "GLASMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -5135,8 +5135,8 @@
    "resonieren",
    "klingen",
    "klingen",
-   "Glasharmonika",
-   "Kristallschale"
+   "glasharmonika",
+   "kristallschale"
   ]
  },
  {
@@ -5158,15 +5158,15 @@
   "CatID": "GOREBone",
   "SubCategory": "KNOCHEN",
   "Synonyms": [
-   "Knochen",
+   "knochen",
    "knacken",
-   "Knochen",
+   "knochen",
    "brechen",
-   "Knochen",
+   "knochen",
    "zersplittern",
-   "Kiefer",
+   "kiefer",
    "knacken",
-   "Kiefer"
+   "kiefer"
   ]
  },
  {
@@ -5191,9 +5191,9 @@
    "sch\u00e4len",
    "rei\u00dfen",
    "zerrei\u00dfen",
-   "Darm",
-   "Fleisch",
-   "Wunde"
+   "darm",
+   "fleisch",
+   "wunde"
   ]
  },
  {
@@ -5202,7 +5202,7 @@
   "CatID": "GOREMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -5214,7 +5214,7 @@
    "sickern",
    "schleimen",
    "flie\u00dfen",
-   "Gelatine"
+   "gelatine"
   ]
  },
  {
@@ -5223,26 +5223,26 @@
   "CatID": "GORESrce",
   "SubCategory": "EINZELELEMENT",
   "Synonyms": [
-   "Schleim",
-   "Schleim",
-   "Schleim",
-   "Schleim",
-   "Schleim",
-   "Glibber",
-   "Organ",
-   "Darm",
+   "schleim",
+   "schleim",
+   "schleim",
+   "schleim",
+   "schleim",
+   "glibber",
+   "organ",
+   "darm",
    "saftig",
-   "Schleim",
+   "schleim",
    "spritzen",
-   "Schleim",
+   "schleim",
    "rei\u00dfen",
    "sch\u00e4len",
    "stechen",
    "rei\u00dfen",
    "zerrei\u00dfen",
-   "Darm",
-   "Fleisch",
-   "Wunde",
+   "darm",
+   "fleisch",
+   "wunde",
    "schneiden",
    "aufspie\u00dfen",
    "saftig",
@@ -5261,10 +5261,10 @@
    "schleimig",
    "schleimig",
    "glibbern",
-   "Organ",
-   "Darm",
+   "organ",
+   "darm",
    "saftig",
-   "Glibber",
+   "glibber",
    "spritzen"
   ]
  },
@@ -5275,10 +5275,10 @@
   "SubCategory": "MATSCH",
   "Synonyms": [
    "quetschen",
-   "Fleisch",
-   "Organ",
-   "Glibber",
-   "Darm",
+   "fleisch",
+   "organ",
+   "glibber",
+   "darm",
    "saftig",
    "spritzen"
   ]
@@ -5303,12 +5303,12 @@
   "CatID": "GUNAntq",
   "SubCategory": "ANTIK",
   "Synonyms": [
-   "Vorderlader",
-   "Muskete",
-   "Schwarzpulver",
-   "Steinschloss",
-   "Langgewehr",
-   "Feuerlanze"
+   "vorderlader",
+   "muskete",
+   "schwarzpulver",
+   "steinschloss",
+   "langgewehr",
+   "feuerlanze"
   ]
  },
  {
@@ -5317,13 +5317,13 @@
   "CatID": "GUNArtl",
   "SubCategory": "ARTILLERIE",
   "Synonyms": [
-   "Haubitze",
-   "Flugabwehrkanone",
-   "Raketenwerfer",
-   "Bazooka",
-   "M\u00f6rser",
-   "Rakete",
-   "Marine"
+   "haubitze",
+   "flugabwehrkanone",
+   "raketenwerfer",
+   "bazooka",
+   "m\u00f6rser",
+   "rakete",
+   "marine"
   ]
  },
  {
@@ -5332,17 +5332,17 @@
   "CatID": "GUNAuto",
   "SubCategory": "AUTOMATISCH",
   "Synonyms": [
-   "Ak",
+   "ak",
    "47",
-   "M16",
-   "Maschinengewehr",
-   "Maschinenpistole",
-   "Uzi",
+   "m16",
+   "maschinengewehr",
+   "maschinenpistole",
+   "uzi",
    "m249",
-   "M1919",
-   "Gatling",
-   "Gun",
-   "Minigun",
+   "m1919",
+   "gatling",
+   "gun",
+   "minigun",
    ""
   ]
  },
@@ -5352,10 +5352,10 @@
   "CatID": "GUNCano",
   "SubCategory": "KANONE",
   "Synonyms": [
-   "Blunderbuss",
-   "Handkanone",
-   "Kanone",
-   "Schwarzpulver"
+   "blunderbuss",
+   "handkanone",
+   "kanone",
+   "schwarzpulver"
   ]
  },
  {
@@ -5364,16 +5364,16 @@
   "CatID": "GUNHndl",
   "SubCategory": "HANTIEREN",
   "Synonyms": [
-   "Holster",
-   "Gewehr",
-   "Gewehr",
+   "holster",
+   "gewehr",
+   "gewehr",
    "greifen",
-   "Gewehr",
+   "gewehr",
    "fangen",
-   "Gewehr",
+   "gewehr",
    "fallen",
    "lassen",
-   "Gewehr",
+   "gewehr",
    "laden"
   ]
  },
@@ -5383,8 +5383,8 @@
   "CatID": "GUNTech",
   "SubCategory": "HI-TECH",
   "Synonyms": [
-   "Schienenkanone",
-   "Spionagekanone"
+   "schienenkanone",
+   "spionagekanone"
   ]
  },
  {
@@ -5393,14 +5393,14 @@
   "CatID": "GUNMech",
   "SubCategory": "MECHANISMUS",
   "Synonyms": [
-   "Clip",
-   "Spannen",
-   "Gewehrklappern",
-   "Bolzenschieber",
-   "Magazin",
-   "Geschoss",
+   "clip",
+   "spannen",
+   "gewehrklappern",
+   "bolzenschieber",
+   "magazin",
+   "geschoss",
    "laden",
-   "Gewehrhahn"
+   "gewehrhahn"
   ]
  },
  {
@@ -5409,9 +5409,9 @@
   "CatID": "GUNMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Leuchtpistole",
-   "Luftgewehr",
-   "Paintballgewehr"
+   "leuchtpistole",
+   "luftgewehr",
+   "paintballgewehr"
   ]
  },
  {
@@ -5486,9 +5486,9 @@
   "CatID": "HORNAir",
   "SubCategory": "DRUCKLUFT",
   "Synonyms": [
-   "Nebelhorn",
-   "Lufthorn",
-   "Werkshorn"
+   "nebelhorn",
+   "lufthorn",
+   "werkshorn"
   ]
  },
  {
@@ -5497,8 +5497,8 @@
   "CatID": "HORNCele",
   "SubCategory": "PARTY",
   "Synonyms": [
-   "Partyhorn",
-   "Vuvuzela"
+   "partyhorn",
+   "vuvuzela"
   ]
  },
  {
@@ -5507,10 +5507,10 @@
   "CatID": "HORNMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Jagdruf",
-   "Elchruf",
-   "Entenruf",
-   "Fuchshorn"
+   "jagdruf",
+   "elchruf",
+   "entenruf",
+   "fuchshorn"
   ]
  },
  {
@@ -5519,13 +5519,13 @@
   "CatID": "HORNTrad",
   "SubCategory": "TRADITIONELL",
   "Synonyms": [
-   "Schofar",
-   "Muschel",
-   "Muschelschale",
-   "Kriegshorn",
-   "Alphorn",
-   "Alphorn",
-   "Alphorn"
+   "schofar",
+   "muschel",
+   "muschelschale",
+   "kriegshorn",
+   "alphorn",
+   "alphorn",
+   "alphorn"
   ]
  },
  {
@@ -5567,7 +5567,7 @@
   "Synonyms": [
    "r\u00fclpsen",
    "aufsto\u00dfen",
-   "Schluckauf"
+   "schluckauf"
   ]
  },
  {
@@ -5579,7 +5579,7 @@
    "hacken",
    "\u00e4hem",
    "heiser",
-   "R\u00e4uspern"
+   "r\u00e4uspern"
   ]
  },
  {
@@ -5588,8 +5588,8 @@
   "CatID": "HMNHart",
   "SubCategory": "HERZSCHLAG",
   "Synonyms": [
-   "Herzklopfen",
-   "Bumbum"
+   "herzklopfen",
+   "bumbum"
   ]
  },
  {
@@ -5608,7 +5608,7 @@
   "CatID": "HMNMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -5633,17 +5633,17 @@
   "Synonyms": [
    "reiben",
    "kratzen",
-   "Haut",
+   "haut",
    "jucken",
    "klatschen",
    "mit",
    "der",
-   "Hand",
+   "hand",
    "greifen",
-   "H\u00e4ndedruck",
+   "h\u00e4ndedruck",
    "streicheln",
    "reiben",
-   "R\u00fccken",
+   "r\u00fccken",
    "reiben"
   ]
  },
@@ -5680,8 +5680,8 @@
    "zzz",
    "verstopft",
    "schweres",
-   "Atmen",
-   "Apnoe"
+   "atmen",
+   "apnoe"
   ]
  },
  {
@@ -5693,7 +5693,7 @@
    "spucken",
    "hocken",
    "spucken",
-   "Spucknapf",
+   "spucknapf",
    "sabbern"
   ]
  },
@@ -5736,7 +5736,7 @@
   "Synonyms": [
    "abst\u00fcrzen",
    "fallen",
-   "Tr\u00fcmmer"
+   "tr\u00fcmmer"
   ]
  },
  {
@@ -5790,7 +5790,7 @@
   "CatID": "ICEMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -5811,9 +5811,9 @@
   "CatID": "ICETonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "Bogen",
-   "Ring",
-   "Sching"
+   "bogen",
+   "ring",
+   "sching"
   ]
  },
  {
@@ -5822,7 +5822,7 @@
   "CatID": "LASRBeam",
   "SubCategory": "STRAHL",
   "Synonyms": [
-   "Strahl",
+   "strahl",
    "gamma",
    "ray"
   ]
@@ -5833,9 +5833,9 @@
   "CatID": "LASRGun",
   "SubCategory": "WAFFE",
   "Synonyms": [
-   "Plasmawaffe",
-   "Blaster",
-   "Laserkanone"
+   "plasmawaffe",
+   "blaster",
+   "laserkanone"
   ]
  },
  {
@@ -5844,11 +5844,11 @@
   "CatID": "LASRImpt",
   "SubCategory": "EINSCHLAG",
   "Synonyms": [
-   "Laser",
-   "Blaster",
-   "Aufprall",
-   "Treffer",
-   "Zischen"
+   "laser",
+   "blaster",
+   "aufprall",
+   "treffer",
+   "zischen"
   ]
  },
  {
@@ -5857,7 +5857,7 @@
   "CatID": "LASRMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -5866,9 +5866,9 @@
   "CatID": "LETHRCreak",
   "SubCategory": "KNARZEN",
   "Synonyms": [
-   "Knarren",
-   "Stress",
-   "Spannung"
+   "knarren",
+   "stress",
+   "spannung"
   ]
  },
  {
@@ -5877,7 +5877,7 @@
   "CatID": "LETHRHndl",
   "SubCategory": "HANTIEREN",
   "Synonyms": [
-   "Griff",
+   "griff",
    "greifen",
    "setzen",
    "aufheben",
@@ -5892,11 +5892,11 @@
   "CatID": "LETHRImpt",
   "SubCategory": "EINSCHLAG",
   "Synonyms": [
-   "Treffer",
-   "Aufprall",
-   "Greifen",
-   "Aufprall",
-   "Aufprall"
+   "treffer",
+   "aufprall",
+   "greifen",
+   "aufprall",
+   "aufprall"
   ]
  },
  {
@@ -5905,7 +5905,7 @@
   "CatID": "LETHRMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -5927,10 +5927,10 @@
   "CatID": "LIQBubl",
   "SubCategory": "BLASEN",
   "Synonyms": [
-   "Blase",
-   "Schaum",
-   "Pop",
-   "Schlamm"
+   "blase",
+   "schaum",
+   "pop",
+   "schlamm"
   ]
  },
  {
@@ -5955,7 +5955,7 @@
   "CatID": "LIQMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -5964,10 +5964,10 @@
   "CatID": "LIQMvmt",
   "SubCategory": "BEWEGUNG",
   "Synonyms": [
-   "Schlick",
-   "Schleim",
-   "Glibber",
-   "Schlamm"
+   "schlick",
+   "schleim",
+   "glibber",
+   "schlamm"
   ]
  },
  {
@@ -5976,11 +5976,11 @@
   "CatID": "LIQSuct",
   "SubCategory": "SAUGEN",
   "Synonyms": [
-   "Saugen",
+   "saugen",
    "schl\u00fcrfen",
    "glucksen",
    "plumpsen",
-   "Schlamm"
+   "schlamm"
   ]
  },
  {
@@ -5989,18 +5989,18 @@
   "CatID": "MACHAmus",
   "SubCategory": "FREIZEITPARK",
   "Synonyms": [
-   "Achterbahn",
-   "Karussell",
-   "Scrambler",
-   "Tilt",
+   "achterbahn",
+   "karussell",
+   "scrambler",
+   "tilt",
    "a",
-   "Whirl",
-   "Kiddy",
-   "Ride",
-   "Freizeitpark",
-   "Fahrgesch\u00e4ft",
-   "Flipper",
-   "Skeeball"
+   "whirl",
+   "kiddy",
+   "ride",
+   "freizeitpark",
+   "fahrgesch\u00e4ft",
+   "flipper",
+   "skeeball"
   ]
  },
  {
@@ -6009,10 +6009,10 @@
   "CatID": "MACHAntq",
   "SubCategory": "ANTIK",
   "Synonyms": [
-   "Druckerpresse",
-   "N\u00e4hmaschine",
-   "Olivenpresse",
-   "Butterfass"
+   "druckerpresse",
+   "n\u00e4hmaschine",
+   "olivenpresse",
+   "butterfass"
   ]
  },
  {
@@ -6021,27 +6021,27 @@
   "CatID": "MACHAppl",
   "SubCategory": "HAUSHALTSGER\u00c4T",
   "Synonyms": [
-   "Backofen",
-   "K\u00fchlschrank",
-   "Mixer",
-   "K\u00fcchenmaschine",
-   "Haartrockner",
-   "Eismaschine",
-   "Waschmaschine",
-   "Trockner",
-   "B\u00fcgeleisen",
-   "Kaffeemaschine",
-   "Geschirrsp\u00fcler",
+   "backofen",
+   "k\u00fchlschrank",
+   "mixer",
+   "k\u00fcchenmaschine",
+   "haartrockner",
+   "eismaschine",
+   "waschmaschine",
+   "trockner",
+   "b\u00fcgeleisen",
+   "kaffeemaschine",
+   "geschirrsp\u00fcler",
    "elektrischer",
-   "Dosen\u00f6ffner",
-   "M\u00fcllschlucker",
-   "Luftbefeuchter",
-   "Luftentfeuchter",
-   "N\u00e4hmaschine",
-   "Toaster",
-   "Waffelmaschine",
-   "Grillplatte",
-   "Kochplatte"
+   "dosen\u00f6ffner",
+   "m\u00fcllschlucker",
+   "luftbefeuchter",
+   "luftentfeuchter",
+   "n\u00e4hmaschine",
+   "toaster",
+   "waffelmaschine",
+   "grillplatte",
+   "kochplatte"
   ]
  },
  {
@@ -6050,9 +6050,9 @@
   "CatID": "MACHCnst",
   "SubCategory": "BAUSTELLE",
   "Synonyms": [
-   "Kran",
-   "Zementmischer",
-   "Holzhacker"
+   "kran",
+   "zementmischer",
+   "holzhacker"
   ]
  },
  {
@@ -6061,10 +6061,10 @@
   "CatID": "MACHElev",
   "SubCategory": "FAHRSTUHL",
   "Synonyms": [
-   "Paternoster",
-   "Lastenaufzug",
-   "Personenaufzug",
-   "Fahrstuhl"
+   "paternoster",
+   "lastenaufzug",
+   "personenaufzug",
+   "fahrstuhl"
   ]
  },
  {
@@ -6073,8 +6073,8 @@
   "CatID": "MACHEscl",
   "SubCategory": "ROLLTREPPE",
   "Synonyms": [
-   "Fahrstuhl",
-   "Fahrsteig"
+   "fahrstuhl",
+   "fahrsteig"
   ]
  },
  {
@@ -6083,13 +6083,13 @@
   "CatID": "MACHFan",
   "SubCategory": "VENTILATOR",
   "Synonyms": [
-   "Ventilator",
-   "Deckenventilator",
-   "Kastenventilator",
-   "Industrieventilator",
-   "Ventilator",
+   "ventilator",
+   "deckenventilator",
+   "kastenventilator",
+   "industrieventilator",
+   "ventilator",
    "ohne",
-   "Lamellen"
+   "lamellen"
   ]
  },
  {
@@ -6098,14 +6098,14 @@
   "CatID": "MACHGrdn",
   "SubCategory": "GARTEN",
   "Synonyms": [
-   "Rasenm\u00e4her",
-   "Unkrautstecher",
-   "Kantenschneider",
-   "Kettens\u00e4ge",
-   "Trimmer",
-   "Stangens\u00e4ge",
-   "Mulcher",
-   "Kultivator"
+   "rasenm\u00e4her",
+   "unkrautstecher",
+   "kantenschneider",
+   "kettens\u00e4ge",
+   "trimmer",
+   "stangens\u00e4ge",
+   "mulcher",
+   "kultivator"
   ]
  },
  {
@@ -6114,15 +6114,15 @@
   "CatID": "MACHGym",
   "SubCategory": "FITNESSSTUDIO",
   "Synonyms": [
-   "Laufband",
-   "Fahrradergometer",
-   "Ruderger\u00e4t",
-   "Heimtrainer",
+   "laufband",
+   "fahrradergometer",
+   "ruderger\u00e4t",
+   "heimtrainer",
    "station\u00e4res",
-   "Fahrrad",
-   "Nordic",
-   "Track",
-   "Treppensteiger",
+   "fahrrad",
+   "nordic",
+   "track",
+   "treppensteiger",
    ""
   ]
  },
@@ -6132,9 +6132,9 @@
   "CatID": "MACHTech",
   "SubCategory": "HI-TECH",
   "Synonyms": [
-   "Gadget",
+   "gadget",
    "digital",
-   "Handger\u00e4t"
+   "handger\u00e4t"
   ]
  },
  {
@@ -6143,9 +6143,9 @@
   "CatID": "MACHHvac",
   "SubCategory": "KLIMA & L\u00dcFTUNG",
   "Synonyms": [
-   "Klimaanlage",
-   "Klimatisierung",
-   "Heizung",
+   "klimaanlage",
+   "klimatisierung",
+   "heizung",
    ""
   ]
  },
@@ -6155,14 +6155,14 @@
   "CatID": "MACHInd",
   "SubCategory": "INDUSTRIE",
   "Synonyms": [
-   "Hydraulische",
-   "Presse",
-   "Flie\u00dfband",
-   "Brennerei",
-   "Stanzpresse",
-   "Formpresse",
-   "F437",
-   "F450"
+   "hydraulische",
+   "presse",
+   "flie\u00dfband",
+   "brennerei",
+   "stanzpresse",
+   "formpresse",
+   "f437",
+   "f450"
   ]
  },
  {
@@ -6171,10 +6171,10 @@
   "CatID": "MACHMech",
   "SubCategory": "MECHANISMUS",
   "Synonyms": [
-   "R\u00e4tselkasten",
-   "Rube",
-   "Goldberg",
-   "Gizmo"
+   "r\u00e4tselkasten",
+   "rube",
+   "goldberg",
+   "gizmo"
   ]
  },
  {
@@ -6183,17 +6183,17 @@
   "CatID": "MACHMed",
   "SubCategory": "MEDIZIN",
   "Synonyms": [
-   "R\u00f6ntgenger\u00e4te",
-   "MRT",
-   "Kat",
-   "Scan",
-   "Haustier",
-   "Scan",
-   "Blutdruckmessger\u00e4t",
-   "Labortestger\u00e4t",
-   "Zentrifuge",
-   "Beatmungsger\u00e4t",
-   "Defibrillator"
+   "r\u00f6ntgenger\u00e4te",
+   "mrt",
+   "kat",
+   "scan",
+   "haustier",
+   "scan",
+   "blutdruckmessger\u00e4t",
+   "labortestger\u00e4t",
+   "zentrifuge",
+   "beatmungsger\u00e4t",
+   "defibrillator"
   ]
  },
  {
@@ -6202,7 +6202,7 @@
   "CatID": "MACHMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -6211,19 +6211,19 @@
   "CatID": "MACHOffc",
   "SubCategory": "B\u00dcRO",
   "Synonyms": [
-   "Faxger\u00e4t",
-   "Faksimileger\u00e4t",
-   "Telefaxger\u00e4t",
-   "Kopierger\u00e4t",
-   "Drucker",
-   "Aktenvernichter",
-   "Xerox",
-   "Fotokopierer",
-   "Vervielf\u00e4ltigungsger\u00e4t",
-   "Laserdrucker",
-   "Tintenstrahldrucker",
-   "Aktenvernichter",
-   "Plotter"
+   "faxger\u00e4t",
+   "faksimileger\u00e4t",
+   "telefaxger\u00e4t",
+   "kopierger\u00e4t",
+   "drucker",
+   "aktenvernichter",
+   "xerox",
+   "fotokopierer",
+   "vervielf\u00e4ltigungsger\u00e4t",
+   "laserdrucker",
+   "tintenstrahldrucker",
+   "aktenvernichter",
+   "plotter"
   ]
  },
  {
@@ -6232,10 +6232,10 @@
   "CatID": "MACHPump",
   "SubCategory": "PUMPE",
   "Synonyms": [
-   "Wasserpumpe",
-   "Sumpfpumpe",
-   "Kompressor",
-   "Luftkompressor"
+   "wasserpumpe",
+   "sumpfpumpe",
+   "kompressor",
+   "luftkompressor"
   ]
  },
  {
@@ -6260,12 +6260,12 @@
   "CatID": "MAGElem",
   "SubCategory": "ELEMENTAR",
   "Synonyms": [
-   "Feuer",
-   "Wasser",
-   "Erde",
-   "Elektrizit\u00e4t",
-   "Luft",
-   "Wind"
+   "feuer",
+   "wasser",
+   "erde",
+   "elektrizit\u00e4t",
+   "luft",
+   "wind"
   ]
  },
  {
@@ -6275,12 +6275,12 @@
   "SubCategory": "B\u00d6SARTIG",
   "Synonyms": [
    "dunkel",
-   "Teufel",
-   "Beschw\u00f6rung",
-   "Nekromantie",
-   "Voodoo",
+   "teufel",
+   "beschw\u00f6rung",
+   "nekromantie",
+   "voodoo",
    "schwarze",
-   "Magie",
+   "magie",
    "verboten"
   ]
  },
@@ -6290,7 +6290,7 @@
   "CatID": "MAGMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -6312,7 +6312,7 @@
   "Synonyms": [
    "glitzern",
    "funkeln",
-   "Glockenbaum",
+   "glockenbaum",
    "l\u00e4uten",
    "gl\u00e4nzen",
    "glitzern",
@@ -6328,20 +6328,20 @@
   "CatID": "MAGSpel",
   "SubCategory": "ZAUBERSPRUCH",
   "Synonyms": [
-   "Hexe",
-   "Zauberer",
-   "Hexenmeister",
-   "Zauberspruch",
-   "Beschw\u00f6rung",
-   "Verhexung",
-   "Rune",
-   "Zauberei",
+   "hexe",
+   "zauberer",
+   "hexenmeister",
+   "zauberspruch",
+   "beschw\u00f6rung",
+   "verhexung",
+   "rune",
+   "zauberei",
    "verzaubern",
    "beschw\u00f6ren",
    "verhexen",
-   "Exorzismus",
-   "Fluch",
-   "Trance"
+   "exorzismus",
+   "fluch",
+   "trance"
   ]
  },
  {
@@ -6354,7 +6354,7 @@
    "klacken",
    "schnappen",
    "umschalten",
-   "Knopf"
+   "knopf"
   ]
  },
  {
@@ -6363,16 +6363,16 @@
   "CatID": "MECHGear",
   "SubCategory": "GETRIEBE",
   "Synonyms": [
-   "Getriebe",
-   "Zahnrad",
-   "Ritzel",
-   "Zahnstange",
+   "getriebe",
+   "zahnrad",
+   "ritzel",
+   "zahnstange",
    "und",
-   "Ritzel",
-   "Transmission",
-   "Zahnrad",
-   "Zahnrad",
-   "Schwungrad"
+   "ritzel",
+   "transmission",
+   "zahnrad",
+   "zahnrad",
+   "schwungrad"
   ]
  },
  {
@@ -6384,9 +6384,9 @@
    "hydraulisch",
    "pneumatisch",
    "unter",
-   "Druck",
+   "druck",
    "stehend",
-   "Ventil"
+   "ventil"
   ]
  },
  {
@@ -6395,12 +6395,12 @@
   "CatID": "MECHLtch",
   "SubCategory": "RIEGEL",
   "Synonyms": [
-   "Riegel",
-   "Beschlag",
-   "Schloss",
-   "Schnalle",
-   "Verschluss",
-   "Riegel"
+   "riegel",
+   "beschlag",
+   "schloss",
+   "schnalle",
+   "verschluss",
+   "riegel"
   ]
  },
  {
@@ -6409,8 +6409,8 @@
   "CatID": "MECHLvr",
   "SubCategory": "HEBEL",
   "Synonyms": [
-   "Hebel",
-   "Schalter",
+   "hebel",
+   "schalter",
    "klappern",
    "klirren"
   ]
@@ -6421,8 +6421,8 @@
   "CatID": "MECHLock",
   "SubCategory": "SCHLOSS",
   "Synonyms": [
-   "Vorh\u00e4ngeschloss",
-   "Riegel"
+   "vorh\u00e4ngeschloss",
+   "riegel"
   ]
  },
  {
@@ -6431,7 +6431,7 @@
   "CatID": "MECHMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -6440,9 +6440,9 @@
   "CatID": "MECHPuly",
   "SubCategory": "Z\u00dcGE & ROLLEN",
   "Synonyms": [
-   "Quietschen",
-   "Zwitschern",
-   "Rollen"
+   "quietschen",
+   "zwitschern",
+   "rollen"
   ]
  },
  {
@@ -6451,7 +6451,7 @@
   "CatID": "MECHRtch",
   "SubCategory": "RATSCHE",
   "Synonyms": [
-   "Ratsche",
+   "ratsche",
    "schnappen",
    "klicken",
    "aufziehen",
@@ -6476,9 +6476,9 @@
   "CatID": "MECHRolr",
   "SubCategory": "WALZE",
   "Synonyms": [
-   "Rolle",
-   "Riemen",
-   "Seilwelle"
+   "rolle",
+   "riemen",
+   "seilwelle"
   ]
  },
  {
@@ -6487,11 +6487,11 @@
   "CatID": "MECHSwtch",
   "SubCategory": "SCHALTER",
   "Synonyms": [
-   "Schalter",
-   "Klick",
-   "Klack",
-   "Kippschalter",
-   "Knopf"
+   "schalter",
+   "klick",
+   "klack",
+   "kippschalter",
+   "knopf"
   ]
  },
  {
@@ -6513,9 +6513,9 @@
   "CatID": "METLCrsh",
   "SubCategory": "CRASH & TR\u00dcMMER",
   "Synonyms": [
-   "Absturz",
-   "Fall",
-   "Tr\u00fcmmer"
+   "absturz",
+   "fall",
+   "tr\u00fcmmer"
   ]
  },
  {
@@ -6524,7 +6524,7 @@
   "CatID": "METLFric",
   "SubCategory": "FRIKTION",
   "Synonyms": [
-   "Stress",
+   "stress",
    "schaben",
    "knarren",
    "quietschen",
@@ -6567,7 +6567,7 @@
   "CatID": "METLMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -6603,8 +6603,8 @@
   "CatID": "MOTRAntq",
   "SubCategory": "ANTIK",
   "Synonyms": [
-   "Kerosinmotor",
-   "Paraffinmotor"
+   "kerosinmotor",
+   "paraffinmotor"
   ]
  },
  {
@@ -6613,10 +6613,10 @@
   "CatID": "MOTRComb",
   "SubCategory": "VERBRENNUNGSMOTOR",
   "Synonyms": [
-   "Dieselmotor",
-   "Gasmotor",
-   "Verbrennungsmotor",
-   "Zweitaktmotor"
+   "dieselmotor",
+   "gasmotor",
+   "verbrennungsmotor",
+   "zweitaktmotor"
   ]
  },
  {
@@ -6625,11 +6625,11 @@
   "CatID": "MOTRElec",
   "SubCategory": "ELEKTRISCH",
   "Synonyms": [
-   "Zahnb\u00fcrste",
-   "Elektrorasierer",
-   "Elektromotor",
-   "M\u00fcllschlucker",
-   "Zahnarztbohrer"
+   "zahnb\u00fcrste",
+   "elektrorasierer",
+   "elektromotor",
+   "m\u00fcllschlucker",
+   "zahnarztbohrer"
   ]
  },
  {
@@ -6638,7 +6638,7 @@
   "CatID": "MOTRMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -6647,12 +6647,12 @@
   "CatID": "MOTRSrvo",
   "SubCategory": "SERVO",
   "Synonyms": [
-   "Roboter",
-   "RC",
-   "Auto",
-   "Kamerafokus",
-   "Autoantenne",
-   "Drucker"
+   "roboter",
+   "rc",
+   "auto",
+   "kamerafokus",
+   "autoantenne",
+   "drucker"
   ]
  },
  {
@@ -6661,10 +6661,10 @@
   "CatID": "MOTRTurb",
   "SubCategory": "TURBINE",
   "Synonyms": [
-   "Windrad",
-   "Flugzeug",
-   "Flugzeug",
-   "Generator"
+   "windrad",
+   "flugzeug",
+   "flugzeug",
+   "generator"
   ]
  },
  {
@@ -6673,11 +6673,11 @@
   "CatID": "MOVEActv",
   "SubCategory": "AKTIVIT\u00c4T",
   "Synonyms": [
-   "Aktivit\u00e4t",
-   "Umzug",
-   "Reinigung",
-   "Einkaufen",
-   "Auspacken"
+   "aktivit\u00e4t",
+   "umzug",
+   "reinigung",
+   "einkaufen",
+   "auspacken"
   ]
  },
  {
@@ -6686,8 +6686,8 @@
   "CatID": "MOVEAnml",
   "SubCategory": "TIER",
   "Synonyms": [
-   "Stampede",
-   "Herde",
+   "stampede",
+   "herde",
    "st\u00fcrmen",
    "trampeln",
    "krabbeln"
@@ -6752,11 +6752,11 @@
   "CatID": "MOVEInsc",
   "SubCategory": "INSEKT",
   "Synonyms": [
-   "Schwarm",
-   "Bienenstock",
-   "Bienenkorb",
+   "schwarm",
+   "bienenstock",
+   "bienenkorb",
    "schl\u00e4ngeln",
-   "Maden"
+   "maden"
   ]
  },
  {
@@ -6765,7 +6765,7 @@
   "CatID": "MOVEMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -6778,7 +6778,7 @@
    "schlurfen",
    "schlurfen",
    "leichte",
-   "Bewegung",
+   "bewegung",
    "verschieben"
   ]
  },
@@ -6788,17 +6788,17 @@
   "CatID": "MUSCBell",
   "SubCategory": "GLOCKE",
   "Synonyms": [
-   "R\u00f6hrenglocken",
-   "Glockenspiel",
-   "Gamelan",
-   "Klangschale",
-   "Handglocke",
-   "Kuhglocke",
-   "Gong",
-   "Gamelan",
-   "Agung",
-   "Schalengong",
-   "Tamtam"
+   "r\u00f6hrenglocken",
+   "glockenspiel",
+   "gamelan",
+   "klangschale",
+   "handglocke",
+   "kuhglocke",
+   "gong",
+   "gamelan",
+   "agung",
+   "schalengong",
+   "tamtam"
   ]
  },
  {
@@ -6807,17 +6807,17 @@
   "CatID": "MUSCBrass",
   "SubCategory": "BLECHBL\u00c4SER",
   "Synonyms": [
-   "Tuba",
-   "Waldhorn",
-   "Posaune",
-   "Trompete",
-   "Mellophon",
-   "Euphorium",
-   "Sousaphon",
-   "Fl\u00fcgelhorn",
-   "Signalhorn",
-   "Saxhorn",
-   "Kornett"
+   "tuba",
+   "waldhorn",
+   "posaune",
+   "trompete",
+   "mellophon",
+   "euphorium",
+   "sousaphon",
+   "fl\u00fcgelhorn",
+   "signalhorn",
+   "saxhorn",
+   "kornett"
   ]
  },
  {
@@ -6826,8 +6826,8 @@
   "CatID": "MUSCChim",
   "SubCategory": "CHIMES",
   "Synonyms": [
-   "Windspiel",
-   "Schellenbaum",
+   "windspiel",
+   "schellenbaum",
    "bimmeln",
    "glitzern",
    "schimmern"
@@ -6839,10 +6839,10 @@
   "CatID": "MUSCChor",
   "SubCategory": "CHORAL",
   "Synonyms": [
-   "Chor",
-   "Choral",
-   "Gospel",
-   "Kirche"
+   "chor",
+   "choral",
+   "gospel",
+   "kirche"
   ]
  },
  {
@@ -6851,17 +6851,17 @@
   "CatID": "MUSCExpr",
   "SubCategory": "EXPERIMENTELL",
   "Synonyms": [
-   "Theremin",
-   "Glas",
-   "Armonika",
-   "Pyrophon",
-   "Stylophon",
-   "Kristall",
-   "Baschet",
+   "theremin",
+   "glas",
+   "armonika",
+   "pyrophon",
+   "stylophon",
+   "kristall",
+   "baschet",
    "elektrifizierter",
-   "Kaktus",
-   "\u00c4olische",
-   "Windharfe"
+   "kaktus",
+   "\u00e4olische",
+   "windharfe"
   ]
  },
  {
@@ -6870,7 +6870,7 @@
   "CatID": "MUSCInst",
   "SubCategory": "INSTRUMENT",
   "Synonyms": [
-   "Instrument"
+   "instrument"
   ]
  },
  {
@@ -6879,17 +6879,17 @@
   "CatID": "MUSCKeyd",
   "SubCategory": "TASTENINSTRUMENT",
   "Synonyms": [
-   "Klavier",
-   "Orgel",
-   "Cembalo",
-   "Akkordeon",
-   "Melodica",
-   "Celesta",
-   "Spinett",
-   "Clavinet",
-   "Clavichord",
-   "Harmonium",
-   "Dulcitone"
+   "klavier",
+   "orgel",
+   "cembalo",
+   "akkordeon",
+   "melodica",
+   "celesta",
+   "spinett",
+   "clavinet",
+   "clavichord",
+   "harmonium",
+   "dulcitone"
   ]
  },
  {
@@ -6898,10 +6898,10 @@
   "CatID": "MUSCLoop",
   "SubCategory": "SCHLEIFE",
   "Synonyms": [
-   "Musikschleifen",
-   "Sample",
-   "Schleifen",
-   "Schlagzeugschleifen"
+   "musikschleifen",
+   "sample",
+   "schleifen",
+   "schlagzeugschleifen"
   ]
  },
  {
@@ -6910,9 +6910,9 @@
   "CatID": "MUSCMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes",
-   "Mundharmonika",
-   "Kazoo"
+   "verschiedenes",
+   "mundharmonika",
+   "kazoo"
   ]
  },
  {
@@ -6921,17 +6921,17 @@
   "CatID": "MUSCPerc",
   "SubCategory": "PERKUSSION",
   "Synonyms": [
-   "Pauke",
-   "Kesselpauke",
-   "Gro\u00dfe",
-   "Trommel",
-   "Toms",
-   "Kriegstrommeln",
-   "Taiko",
-   "Kick",
-   "Drum",
-   "Kleine",
-   "Trommel"
+   "pauke",
+   "kesselpauke",
+   "gro\u00dfe",
+   "trommel",
+   "toms",
+   "kriegstrommeln",
+   "taiko",
+   "kick",
+   "drum",
+   "kleine",
+   "trommel"
   ]
  },
  {
@@ -6940,13 +6940,13 @@
   "CatID": "MUSCTnprc",
   "SubCategory": "PERKUSSION GESTIMMT",
   "Synonyms": [
-   "Glockenspiel",
-   "Xylophon",
-   "Vibraphon",
-   "Metallophon",
-   "Glockenleier",
-   "Steeldrum",
-   "Marimba"
+   "glockenspiel",
+   "xylophon",
+   "vibraphon",
+   "metallophon",
+   "glockenleier",
+   "steeldrum",
+   "marimba"
   ]
  },
  {
@@ -6955,12 +6955,12 @@
   "CatID": "MUSCPrfm",
   "SubCategory": "AUFF\u00dcHRUNG",
   "Synonyms": [
-   "Band",
-   "Stra\u00dfenmusiker",
-   "Live",
-   "Konzert",
-   "Show",
-   "Nachtclub",
+   "band",
+   "stra\u00dfenmusiker",
+   "live",
+   "konzert",
+   "show",
+   "nachtclub",
    ""
   ]
  },
@@ -6970,28 +6970,28 @@
   "CatID": "MUSCPluck",
   "SubCategory": "GEZUPFT",
   "Synonyms": [
-   "Gitarre",
-   "Banjo",
-   "Ukulele",
-   "Harfe",
+   "gitarre",
+   "banjo",
+   "ukulele",
+   "harfe",
    "akustische",
-   "Gitarre",
-   "Bassgitarre",
-   "Mandoline",
-   "Balalaika",
-   "Sitar",
-   "Pipa",
-   "Daumenklavier",
-   "Maultrommel",
-   "Zither",
-   "Balalaika",
-   "Autoharp",
-   "Kora",
-   "Laute",
-   "Leier",
-   "Oud",
-   "Tambura",
-   "Karimba"
+   "gitarre",
+   "bassgitarre",
+   "mandoline",
+   "balalaika",
+   "sitar",
+   "pipa",
+   "daumenklavier",
+   "maultrommel",
+   "zither",
+   "balalaika",
+   "autoharp",
+   "kora",
+   "laute",
+   "leier",
+   "oud",
+   "tambura",
+   "karimba"
   ]
  },
  {
@@ -7000,10 +7000,10 @@
   "CatID": "MUSCSmpl",
   "SubCategory": "SAMPLE",
   "Synonyms": [
-   "Samples",
-   "Rohsamples",
-   "One",
-   "Shot"
+   "samples",
+   "rohsamples",
+   "one",
+   "shot"
   ]
  },
  {
@@ -7012,18 +7012,18 @@
   "CatID": "MUSCShake",
   "SubCategory": "GESCH\u00dcTTELT",
   "Synonyms": [
-   "Maracas",
-   "Tamburin",
-   "Rasseln",
-   "Regenstab",
-   "Shekere",
-   "Eierstreuer",
-   "Chajchas",
-   "Affenstab",
-   "Katsa",
-   "Sistrum",
-   "Shaker",
-   "Cabasa"
+   "maracas",
+   "tamburin",
+   "rasseln",
+   "regenstab",
+   "shekere",
+   "eierstreuer",
+   "chajchas",
+   "affenstab",
+   "katsa",
+   "sistrum",
+   "shaker",
+   "cabasa"
   ]
  },
  {
@@ -7032,11 +7032,11 @@
   "CatID": "MUSCSong",
   "SubCategory": "SONG & PHRASEN",
   "Synonyms": [
-   "Musik",
-   "Klavierspieler",
-   "Klingelton",
-   "Musikauto",
-   "Phrase"
+   "musik",
+   "klavierspieler",
+   "klingelton",
+   "musikauto",
+   "phrase"
   ]
  },
  {
@@ -7045,9 +7045,9 @@
   "CatID": "MUSCStngr",
   "SubCategory": "AKZENT",
   "Synonyms": [
-   "Musikstichwort",
-   "Nachrichtenstichwort",
-   "Titel"
+   "musikstichwort",
+   "nachrichtenstichwort",
+   "titel"
   ]
  },
  {
@@ -7056,12 +7056,12 @@
   "CatID": "MUSCStr",
   "SubCategory": "SAITENINSTRUMENT",
   "Synonyms": [
-   "Violine",
-   "Cello",
-   "Viola",
-   "Violoncello",
-   "Bass",
-   "Kontrabass"
+   "violine",
+   "cello",
+   "viola",
+   "violoncello",
+   "bass",
+   "kontrabass"
   ]
  },
  {
@@ -7101,20 +7101,20 @@
   "CatID": "MUSCWind",
   "SubCategory": "HOLZBL\u00c4SER",
   "Synonyms": [
-   "Fl\u00f6te",
-   "Piccolo",
-   "Oboe",
-   "Fagott",
-   "Blockfl\u00f6te",
-   "Klarinette",
-   "Saxophon",
-   "Bassklarinette",
-   "Ney",
-   "Bansuri",
-   "Kaval",
-   "Panfl\u00f6te",
-   "Xiao",
-   "Fife",
+   "fl\u00f6te",
+   "piccolo",
+   "oboe",
+   "fagott",
+   "blockfl\u00f6te",
+   "klarinette",
+   "saxophon",
+   "bassklarinette",
+   "ney",
+   "bansuri",
+   "kaval",
+   "panfl\u00f6te",
+   "xiao",
+   "fife",
    ""
   ]
  },
@@ -7124,8 +7124,8 @@
   "CatID": "NATDAval",
   "SubCategory": "LAWINE",
   "Synonyms": [
-   "Erdrutsch",
-   "Schlammlawine"
+   "erdrutsch",
+   "schlammlawine"
   ]
  },
  {
@@ -7134,11 +7134,11 @@
   "CatID": "NATDQuak",
   "SubCategory": "ERDBEBEN",
   "Synonyms": [
-   "Erdbeben",
-   "Rumpeln",
-   "Rasseln",
-   "Riss",
-   "Lfe"
+   "erdbeben",
+   "rumpeln",
+   "rasseln",
+   "riss",
+   "lfe"
   ]
  },
  {
@@ -7147,7 +7147,7 @@
   "CatID": "NATDMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -7156,9 +7156,9 @@
   "CatID": "NATDTorn",
   "SubCategory": "TORNADO",
   "Synonyms": [
-   "Wirbelsturm",
-   "Wirbelwind",
-   "Wasserspeier"
+   "wirbelsturm",
+   "wirbelwind",
+   "wasserspeier"
   ]
  },
  {
@@ -7167,8 +7167,8 @@
   "CatID": "NATDTsun",
   "SubCategory": "TSUNAMI",
   "Synonyms": [
-   "Flutwelle",
-   "Tsunami"
+   "flutwelle",
+   "tsunami"
   ]
  },
  {
@@ -7177,11 +7177,11 @@
   "CatID": "NATDThyp",
   "SubCategory": "TYPHOON",
   "Synonyms": [
-   "Taifun",
-   "Hurrikan",
-   "Zyklon",
+   "taifun",
+   "hurrikan",
+   "zyklon",
    "tropischer",
-   "Sturm"
+   "sturm"
   ]
  },
  {
@@ -7190,11 +7190,11 @@
   "CatID": "NATDVolc",
   "SubCategory": "VULKAN",
   "Synonyms": [
-   "Eruption",
-   "Lava",
-   "Lavabomben",
-   "Eruptionen",
-   "Pyroklastik"
+   "eruption",
+   "lava",
+   "lavabomben",
+   "eruptionen",
+   "pyroklastik"
   ]
  },
  {
@@ -7203,13 +7203,13 @@
   "CatID": "OBJBag",
   "SubCategory": "TASCHE",
   "Synonyms": [
-   "Seesack",
-   "Rucksack",
-   "Rucksack",
-   "Handtasche",
-   "Handtasche",
-   "Umh\u00e4ngetasche",
-   "Kameratasche"
+   "seesack",
+   "rucksack",
+   "rucksack",
+   "handtasche",
+   "handtasche",
+   "umh\u00e4ngetasche",
+   "kameratasche"
   ]
  },
  {
@@ -7218,16 +7218,16 @@
   "CatID": "OBJBook",
   "SubCategory": "BUCH",
   "Synonyms": [
-   "Buch",
-   "Einband",
-   "Zeitschrift",
-   "Katalog",
-   "Lehrbuch",
-   "W\u00f6rterbuch",
-   "W\u00e4lzer",
-   "Band",
-   "Bibel",
-   "Publikation"
+   "buch",
+   "einband",
+   "zeitschrift",
+   "katalog",
+   "lehrbuch",
+   "w\u00f6rterbuch",
+   "w\u00e4lzer",
+   "band",
+   "bibel",
+   "publikation"
   ]
  },
  {
@@ -7241,16 +7241,16 @@
    "ping",
    "dump",
    "spin",
-   "Sparschwein",
+   "sparschwein",
    "klirren",
-   "M\u00fcnzen",
-   "Kleingeld",
-   "Wechselgeld",
-   "Silberdollar",
-   "Penny",
-   "Nickel",
-   "Dime",
-   "Quarter"
+   "m\u00fcnzen",
+   "kleingeld",
+   "wechselgeld",
+   "silberdollar",
+   "penny",
+   "nickel",
+   "dime",
+   "quarter"
   ]
  },
  {
@@ -7259,19 +7259,19 @@
   "CatID": "OBJCont",
   "SubCategory": "BEH\u00c4LTER",
   "Synonyms": [
-   "Schachtel",
-   "Pappkarton",
-   "Beh\u00e4lter",
-   "Verpackung",
-   "Schmuckk\u00e4stchen",
-   "Plastikbeh\u00e4lter",
-   "Deckel",
-   "Tupperware",
-   "Kapsel",
-   "Brotkasten",
-   "Kanister",
-   "Werkzeugkasten",
-   "Pillendose"
+   "schachtel",
+   "pappkarton",
+   "beh\u00e4lter",
+   "verpackung",
+   "schmuckk\u00e4stchen",
+   "plastikbeh\u00e4lter",
+   "deckel",
+   "tupperware",
+   "kapsel",
+   "brotkasten",
+   "kanister",
+   "werkzeugkasten",
+   "pillendose"
   ]
  },
  {
@@ -7280,33 +7280,33 @@
   "CatID": "OBJFash",
   "SubCategory": "MODE",
   "Synonyms": [
-   "Schuhe",
-   "Stiefel",
-   "Mascara",
-   "Lippenstift",
-   "Make",
+   "schuhe",
+   "stiefel",
+   "mascara",
+   "lippenstift",
+   "make",
    "up",
-   "G\u00fcrtel",
-   "Sch\u00e4rpe",
-   "Schal",
-   "High",
-   "Heels",
-   "Eyeliner",
-   "Sonnenbrille",
-   "Brille",
-   "Brieftasche",
-   "Hut",
-   "Handschuhe",
-   "Uhren",
-   "Schal",
-   "Socken",
-   "Kopftuch",
-   "Stirnband",
-   "Krawatten",
-   "Muffs",
-   "Hosentr\u00e4ger",
-   "Robe",
-   "Taschentuch"
+   "g\u00fcrtel",
+   "sch\u00e4rpe",
+   "schal",
+   "high",
+   "heels",
+   "eyeliner",
+   "sonnenbrille",
+   "brille",
+   "brieftasche",
+   "hut",
+   "handschuhe",
+   "uhren",
+   "schal",
+   "socken",
+   "kopftuch",
+   "stirnband",
+   "krawatten",
+   "muffs",
+   "hosentr\u00e4ger",
+   "robe",
+   "taschentuch"
   ]
  },
  {
@@ -7315,18 +7315,18 @@
   "CatID": "OBJFurn",
   "SubCategory": "M\u00d6BEL",
   "Synonyms": [
-   "Chesterfield",
-   "Sofa",
-   "Schaukelstuhl",
-   "Tisch",
-   "Stuhl",
-   "Loveseat",
-   "Hocker",
-   "Schrank",
-   "B\u00fccherregal",
-   "Bett",
-   "Couch",
-   "Truhe"
+   "chesterfield",
+   "sofa",
+   "schaukelstuhl",
+   "tisch",
+   "stuhl",
+   "loveseat",
+   "hocker",
+   "schrank",
+   "b\u00fccherregal",
+   "bett",
+   "couch",
+   "truhe"
   ]
  },
  {
@@ -7335,13 +7335,13 @@
   "CatID": "OBJGrdn",
   "SubCategory": "GARTEN",
   "Synonyms": [
-   "Blumentopf",
-   "Gartenskulptur",
-   "Schlauch",
-   "Wasserhahn",
-   "Gie\u00dfkanne",
-   "Vogelfutterh\u00e4uschen",
-   "Komposter"
+   "blumentopf",
+   "gartenskulptur",
+   "schlauch",
+   "wasserhahn",
+   "gie\u00dfkanne",
+   "vogelfutterh\u00e4uschen",
+   "komposter"
   ]
  },
  {
@@ -7350,19 +7350,19 @@
   "CatID": "OBJGym",
   "SubCategory": "SPORTHALLE",
   "Synonyms": [
-   "Gewicht",
-   "Kurzhantel",
-   "Langhantel",
-   "Matte",
-   "Hantelbank",
-   "Springseil",
-   "Gymnastikball",
-   "Yogamatte",
-   "Hantelbank",
-   "Widerstandsband",
-   "Kettlebell",
-   "Fitnessball",
-   "Gymnastikball"
+   "gewicht",
+   "kurzhantel",
+   "langhantel",
+   "matte",
+   "hantelbank",
+   "springseil",
+   "gymnastikball",
+   "yogamatte",
+   "hantelbank",
+   "widerstandsband",
+   "kettlebell",
+   "fitnessball",
+   "gymnastikball"
   ]
  },
  {
@@ -7371,9 +7371,9 @@
   "CatID": "OBJHsehld",
   "SubCategory": "HAUSHALT",
   "Synonyms": [
-   "Wohnung",
-   "Heim",
-   "Haus"
+   "wohnung",
+   "heim",
+   "haus"
   ]
  },
  {
@@ -7382,15 +7382,15 @@
   "CatID": "OBJJewl",
   "SubCategory": "JUWELEN",
   "Synonyms": [
-   "Armband",
-   "Halskette",
-   "Krone",
-   "Ohrring",
-   "Ring",
-   "Nasenring",
-   "Anh\u00e4nger",
-   "Krawattennadel",
-   "Manschettenkn\u00f6pfe"
+   "armband",
+   "halskette",
+   "krone",
+   "ohrring",
+   "ring",
+   "nasenring",
+   "anh\u00e4nger",
+   "krawattennadel",
+   "manschettenkn\u00f6pfe"
   ]
  },
  {
@@ -7399,9 +7399,9 @@
   "CatID": "OBJKey",
   "SubCategory": "SCHL\u00dcSSEL",
   "Synonyms": [
-   "Schl\u00fcsselanh\u00e4nger",
-   "Schl\u00fcsselband",
-   "Lanyard"
+   "schl\u00fcsselanh\u00e4nger",
+   "schl\u00fcsselband",
+   "lanyard"
   ]
  },
  {
@@ -7410,10 +7410,10 @@
   "CatID": "OBJLug",
   "SubCategory": "GEP\u00c4CK",
   "Synonyms": [
-   "Koffer",
-   "Reisegep\u00e4ck",
-   "Seesack",
-   "Seesack"
+   "koffer",
+   "reisegep\u00e4ck",
+   "seesack",
+   "seesack"
   ]
  },
  {
@@ -7422,12 +7422,12 @@
   "CatID": "OBJMed",
   "SubCategory": "MEDIZIN",
   "Synonyms": [
-   "Handblutdruckmessger\u00e4t",
-   "Stethoskop",
-   "Gummihandschuhe",
-   "Klemme",
-   "Spritze",
-   "Pinzette"
+   "handblutdruckmessger\u00e4t",
+   "stethoskop",
+   "gummihandschuhe",
+   "klemme",
+   "spritze",
+   "pinzette"
   ]
  },
  {
@@ -7436,7 +7436,7 @@
   "CatID": "OBJMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -7445,15 +7445,15 @@
   "CatID": "OBJOffc",
   "SubCategory": "B\u00dcRO",
   "Synonyms": [
-   "Hefter",
-   "Papierschneider",
-   "Locher",
-   "Schere",
-   "Papierablage",
-   "Briefbeschwerer",
-   "Ordner",
-   "Mappe",
-   "Bericht"
+   "hefter",
+   "papierschneider",
+   "locher",
+   "schere",
+   "papierablage",
+   "briefbeschwerer",
+   "ordner",
+   "mappe",
+   "bericht"
   ]
  },
  {
@@ -7462,12 +7462,12 @@
   "CatID": "OBJPack",
   "SubCategory": "VERPACKUNG",
   "Synonyms": [
-   "Karton",
-   "Styropor",
-   "Erdn\u00fcsse",
-   "Etiketten",
-   "Packpapier",
-   "Luftpolsterfolie"
+   "karton",
+   "styropor",
+   "erdn\u00fcsse",
+   "etiketten",
+   "packpapier",
+   "luftpolsterfolie"
   ]
  },
  {
@@ -7476,20 +7476,20 @@
   "CatID": "OBJTape",
   "SubCategory": "KLEBEBAND",
   "Synonyms": [
-   "Klebeband",
-   "Klettverschluss",
-   "Fliegenf\u00e4nger",
-   "Klebstoff",
-   "Packband",
-   "Abdeckband",
-   "Klebeband",
-   "Gaffer",
-   "Tape",
-   "Scotch",
-   "Tape",
-   "Double",
-   "Stick",
-   "Tape"
+   "klebeband",
+   "klettverschluss",
+   "fliegenf\u00e4nger",
+   "klebstoff",
+   "packband",
+   "abdeckband",
+   "klebeband",
+   "gaffer",
+   "tape",
+   "scotch",
+   "tape",
+   "double",
+   "stick",
+   "tape"
   ]
  },
  {
@@ -7498,10 +7498,10 @@
   "CatID": "OBJUmbr",
   "SubCategory": "REGENSCHIRM",
   "Synonyms": [
-   "Sch\u00fctteln",
-   "Rascheln",
-   "Ploppen",
-   "Klopfen"
+   "sch\u00fctteln",
+   "rascheln",
+   "ploppen",
+   "klopfen"
   ]
  },
  {
@@ -7510,14 +7510,14 @@
   "CatID": "OBJWhled",
   "SubCategory": "WAGEN",
   "Synonyms": [
-   "Kinderwagen",
-   "Buggy",
-   "Kinderwagen",
-   "Rollstuhl",
-   "Dolly",
-   "Kinderwagen",
-   "Karre",
-   "Trage"
+   "kinderwagen",
+   "buggy",
+   "kinderwagen",
+   "rollstuhl",
+   "dolly",
+   "kinderwagen",
+   "karre",
+   "trage"
   ]
  },
  {
@@ -7526,14 +7526,14 @@
   "CatID": "OBJWrite",
   "SubCategory": "SCHREIBGER\u00c4T",
   "Synonyms": [
-   "Kugelschreiber",
-   "Bleistift",
-   "Marker",
-   "Kreide",
-   "Buntstift",
-   "Trockenl\u00f6schtafel",
-   "Edding",
-   "Unterschrift"
+   "kugelschreiber",
+   "bleistift",
+   "marker",
+   "kreide",
+   "buntstift",
+   "trockenl\u00f6schtafel",
+   "edding",
+   "unterschrift"
   ]
  },
  {
@@ -7542,11 +7542,11 @@
   "CatID": "OBJZipr",
   "SubCategory": "REISSVERSCHLUSS",
   "Synonyms": [
-   "Rei\u00dfverschluss",
-   "Hose",
-   "Jacke",
-   "Zelt",
-   "Tasche"
+   "rei\u00dfverschluss",
+   "hose",
+   "jacke",
+   "zelt",
+   "tasche"
   ]
  },
  {
@@ -7558,9 +7558,9 @@
    "flattern",
    "klappen",
    "fallen",
-   "Konfetti",
-   "Karton",
-   "Papier"
+   "konfetti",
+   "karton",
+   "papier"
   ]
  },
  {
@@ -7571,8 +7571,8 @@
   "Synonyms": [
    "rutschen",
    "schaben",
-   "Karton",
-   "Papier"
+   "karton",
+   "papier"
   ]
  },
  {
@@ -7585,8 +7585,8 @@
    "bl\u00e4ttern",
    "bl\u00e4ttern",
    "durchbl\u00e4ttern",
-   "Pappe",
-   "Papier"
+   "pappe",
+   "papier"
   ]
  },
  {
@@ -7595,14 +7595,14 @@
   "CatID": "PAPRImpt",
   "SubCategory": "EINSCHLAG",
   "Synonyms": [
-   "Papier",
+   "papier",
    "schlagen",
    "klatschen",
    "schlagen",
-   "Zeitung",
-   "Zeitschrift",
-   "Pappe",
-   "Papier"
+   "zeitung",
+   "zeitschrift",
+   "pappe",
+   "papier"
   ]
  },
  {
@@ -7611,7 +7611,7 @@
   "CatID": "PAPRMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -7623,8 +7623,8 @@
    "rei\u00dfen",
    "zerrei\u00dfen",
    "zerkleinern",
-   "Pappe",
-   "Papier"
+   "pappe",
+   "papier"
   ]
  },
  {
@@ -7636,8 +7636,8 @@
    "klingen",
    "singen",
    "klingeln",
-   "Papier",
-   "Karton"
+   "papier",
+   "karton"
   ]
  },
  {
@@ -7659,9 +7659,9 @@
   "CatID": "PLASCrsh",
   "SubCategory": "CRASH & TR\u00dcMMER",
   "Synonyms": [
-   "Sturz",
-   "Absturz",
-   "Tr\u00fcmmer"
+   "sturz",
+   "absturz",
+   "tr\u00fcmmer"
   ]
  },
  {
@@ -7670,11 +7670,11 @@
   "CatID": "PLASFric",
   "SubCategory": "FRIKTION",
   "Synonyms": [
-   "Stress",
-   "Kratzen",
-   "Knarren",
-   "Quietschen",
-   "Kreischen"
+   "stress",
+   "kratzen",
+   "knarren",
+   "quietschen",
+   "kreischen"
   ]
  },
  {
@@ -7710,7 +7710,7 @@
   "CatID": "PLASMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -7742,11 +7742,11 @@
   "CatID": "RAINClth",
   "SubCategory": "STOFF",
   "Synonyms": [
-   "Regen",
-   "Stoff",
-   "Jacke",
-   "Regenschirm",
-   "Baumwolle"
+   "regen",
+   "stoff",
+   "jacke",
+   "regenschirm",
+   "baumwolle"
   ]
  },
  {
@@ -7755,10 +7755,10 @@
   "CatID": "RAINConc",
   "SubCategory": "BETON",
   "Synonyms": [
-   "Regen",
-   "Zement",
-   "Pflaster",
-   "Asphalt"
+   "regen",
+   "zement",
+   "pflaster",
+   "asphalt"
   ]
  },
  {
@@ -7767,9 +7767,9 @@
   "CatID": "RAIN",
   "SubCategory": "ALLGEMEIN",
   "Synonyms": [
-   "Regen",
-   "Regensturm",
-   "Wolkenbruch"
+   "regen",
+   "regensturm",
+   "wolkenbruch"
   ]
  },
  {
@@ -7778,12 +7778,12 @@
   "CatID": "RAINGlas",
   "SubCategory": "GLAS",
   "Synonyms": [
-   "Regen",
-   "Glas",
-   "Oberlicht",
-   "Fenster",
-   "Schiebedach",
-   "Gew\u00e4chshaus"
+   "regen",
+   "glas",
+   "oberlicht",
+   "fenster",
+   "schiebedach",
+   "gew\u00e4chshaus"
   ]
  },
  {
@@ -7792,14 +7792,14 @@
   "CatID": "RAINInt",
   "SubCategory": "INNEN",
   "Synonyms": [
-   "Regen",
-   "Regensturm",
-   "Innenraumregen",
-   "Windschutzscheibenregen",
-   "Regen",
+   "regen",
+   "regensturm",
+   "innenraumregen",
+   "windschutzscheibenregen",
+   "regen",
    "auf",
    "dem",
-   "Dach"
+   "dach"
   ]
  },
  {
@@ -7808,12 +7808,12 @@
   "CatID": "RAINMetl",
   "SubCategory": "METALL",
   "Synonyms": [
-   "Regen",
-   "Metall",
-   "Auto",
-   "Dose",
-   "Blech",
-   "Dach"
+   "regen",
+   "metall",
+   "auto",
+   "dose",
+   "blech",
+   "dach"
   ]
  },
  {
@@ -7822,10 +7822,10 @@
   "CatID": "RAINPlas",
   "SubCategory": "KUNSTSTOFF",
   "Synonyms": [
-   "Regen",
-   "Kunststoff",
-   "Vinyl",
-   "Plexiglas"
+   "regen",
+   "kunststoff",
+   "vinyl",
+   "plexiglas"
   ]
  },
  {
@@ -7834,17 +7834,17 @@
   "CatID": "RAINVege",
   "SubCategory": "VEGETATION",
   "Synonyms": [
-   "Regen",
+   "regen",
    "auf",
    "einer",
-   "Metalloberfl\u00e4che",
+   "metalloberfl\u00e4che",
    "also",
-   "Regen",
+   "regen",
    "auf",
    "einem",
-   "Auto",
+   "auto",
    "oder",
-   "Blech",
+   "blech",
    "etc",
    ""
   ]
@@ -7855,10 +7855,10 @@
   "CatID": "RAINWatr",
   "SubCategory": "WASSER",
   "Synonyms": [
-   "Regen",
-   "Pf\u00fctze",
-   "See",
-   "Teich"
+   "regen",
+   "pf\u00fctze",
+   "see",
+   "teich"
   ]
  },
  {
@@ -7867,12 +7867,12 @@
   "CatID": "RAINWood",
   "SubCategory": "HOLZ",
   "Synonyms": [
-   "Regen",
-   "Holz",
-   "Deck",
-   "Dach",
-   "Schuppen",
-   "Boden"
+   "regen",
+   "holz",
+   "deck",
+   "dach",
+   "schuppen",
+   "boden"
   ]
  },
  {
@@ -7881,9 +7881,9 @@
   "CatID": "ROBTMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Automat",
-   "Droide",
-   "Bot"
+   "automat",
+   "droide",
+   "bot"
   ]
  },
  {
@@ -7892,13 +7892,13 @@
   "CatID": "ROBTMvmt",
   "SubCategory": "BEWEGUNG",
   "Synonyms": [
-   "Servo",
-   "Solenoid",
-   "Mechanismus",
+   "servo",
+   "solenoid",
+   "mechanismus",
    "pneumatisch",
    "hydraulisch",
-   "Droide",
-   "Bot"
+   "droide",
+   "bot"
   ]
  },
  {
@@ -7907,11 +7907,11 @@
   "CatID": "ROBTVox",
   "SubCategory": "STIMME",
   "Synonyms": [
-   "Droide",
+   "droide",
    "zwitschern",
    "piepen",
    "pfeifen",
-   "Bot"
+   "bot"
   ]
  },
  {
@@ -7920,11 +7920,11 @@
   "CatID": "ROCKBrk",
   "SubCategory": "BRECHEN",
   "Synonyms": [
-   "Br\u00fcche",
-   "Risse",
-   "Risse",
-   "Scherben",
-   "Knirschen"
+   "br\u00fcche",
+   "risse",
+   "risse",
+   "scherben",
+   "knirschen"
   ]
  },
  {
@@ -7933,8 +7933,8 @@
   "CatID": "ROCKCrsh",
   "SubCategory": "CRASH & TR\u00dcMMER",
   "Synonyms": [
-   "Sturz",
-   "Tr\u00fcmmer"
+   "sturz",
+   "tr\u00fcmmer"
   ]
  },
  {
@@ -7943,11 +7943,11 @@
   "CatID": "ROCKFric",
   "SubCategory": "FRIKTION",
   "Synonyms": [
-   "Stress",
-   "Schrammen",
-   "Knarren",
-   "Quietschen",
-   "Kreischen"
+   "stress",
+   "schrammen",
+   "knarren",
+   "quietschen",
+   "kreischen"
   ]
  },
  {
@@ -7956,7 +7956,7 @@
   "CatID": "ROCKHndl",
   "SubCategory": "HANTIEREN",
   "Synonyms": [
-   "Griff",
+   "griff",
    "greifen",
    "setzen",
    "aufheben",
@@ -7971,14 +7971,14 @@
   "CatID": "ROCKImpt",
   "SubCategory": "EINSCHLAG",
   "Synonyms": [
-   "Schlagen",
-   "Fallenlassen",
-   "Aufprall",
-   "Crash",
-   "Klirren",
-   "Klirren",
-   "Klimpern",
-   "Schlagen"
+   "schlagen",
+   "fallenlassen",
+   "aufprall",
+   "crash",
+   "klirren",
+   "klirren",
+   "klimpern",
+   "schlagen"
   ]
  },
  {
@@ -7987,7 +7987,7 @@
   "CatID": "ROCKMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -7996,10 +7996,10 @@
   "CatID": "ROCKMvmt",
   "SubCategory": "BEWEGUNG",
   "Synonyms": [
-   "Ziehen",
-   "Rollen",
-   "Rasseln",
-   "Sch\u00fctteln"
+   "ziehen",
+   "rollen",
+   "rasseln",
+   "sch\u00fctteln"
   ]
  },
  {
@@ -8008,11 +8008,11 @@
   "CatID": "ROCKTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "Verbogen",
-   "Ring",
-   "Wronk",
-   "Shing",
-   "Warp"
+   "verbogen",
+   "ring",
+   "wronk",
+   "shing",
+   "warp"
   ]
  },
  {
@@ -8021,9 +8021,9 @@
   "CatID": "ROPECreak",
   "SubCategory": "KNARREN",
   "Synonyms": [
-   "Dehnen",
-   "Spannen",
-   "Ziehen"
+   "dehnen",
+   "spannen",
+   "ziehen"
   ]
  },
  {
@@ -8032,7 +8032,7 @@
   "CatID": "ROPEHndl",
   "SubCategory": "HANTIEREN",
   "Synonyms": [
-   "Griff",
+   "griff",
    "greifen",
    "setzen",
    "aufheben",
@@ -8059,7 +8059,7 @@
   "CatID": "ROPEMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -8081,7 +8081,7 @@
   "CatID": "RUBRCrsh",
   "SubCategory": "CRASH & TR\u00dcMMER",
   "Synonyms": [
-   "Tr\u00fcmmer",
+   "tr\u00fcmmer",
    "verstreuen",
    "plumpsen"
   ]
@@ -8106,7 +8106,7 @@
   "CatID": "RUBRHndl",
   "SubCategory": "HANTIEREN",
   "Synonyms": [
-   "Griff",
+   "griff",
    "greifen",
    "setzen",
    "aufheben",
@@ -8135,7 +8135,7 @@
   "CatID": "RUBRMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -8144,7 +8144,7 @@
   "CatID": "RUBRMvmt",
   "SubCategory": "BEWEGUNG",
   "Synonyms": [
-   "Bewegung",
+   "bewegung",
    "ziehen",
    "flattern",
    "flop"
@@ -8169,9 +8169,9 @@
   "Synonyms": [
    "sci",
    "fi",
-   "Alarm",
-   "Alarm",
-   "Warnung"
+   "alarm",
+   "alarm",
+   "warnung"
   ]
  },
  {
@@ -8180,10 +8180,10 @@
   "CatID": "SCICmpt",
   "SubCategory": "COMPUTER",
   "Synonyms": [
-   "Computer",
-   "Konsole",
-   "Schnittstelle",
-   "Holobildschirm"
+   "computer",
+   "konsole",
+   "schnittstelle",
+   "holobildschirm"
   ]
  },
  {
@@ -8192,10 +8192,10 @@
   "CatID": "SCIDoor",
   "SubCategory": "T\u00dcR",
   "Synonyms": [
-   "Sci",
-   "Fi",
-   "T\u00fcr",
-   "Luftschleuse"
+   "sci",
+   "fi",
+   "t\u00fcr",
+   "luftschleuse"
   ]
  },
  {
@@ -8204,11 +8204,11 @@
   "CatID": "SCIEnrg",
   "SubCategory": "ENERGIE",
   "Synonyms": [
-   "Partikel",
-   "Wirbel",
-   "Transporter",
-   "Hologramm",
-   "Kraftfeld"
+   "partikel",
+   "wirbel",
+   "transporter",
+   "hologramm",
+   "kraftfeld"
   ]
  },
  {
@@ -8217,9 +8217,9 @@
   "CatID": "SCIImpt",
   "SubCategory": "EINSCHLAG",
   "Synonyms": [
-   "Energiesto\u00df",
-   "Energiewelle",
-   "Kraftfeld"
+   "energiesto\u00df",
+   "energiewelle",
+   "kraftfeld"
   ]
  },
  {
@@ -8228,9 +8228,9 @@
   "CatID": "SCIMach",
   "SubCategory": "MASCHINE",
   "Synonyms": [
-   "Teleporter",
-   "Nahrungsreplikatoren",
-   "Holodeck"
+   "teleporter",
+   "nahrungsreplikatoren",
+   "holodeck"
   ]
  },
  {
@@ -8239,10 +8239,10 @@
   "CatID": "SCIMech",
   "SubCategory": "MECHANISMUS",
   "Synonyms": [
-   "Tricorder",
-   "Scifi",
-   "Ger\u00e4t",
-   "Gizmo"
+   "tricorder",
+   "scifi",
+   "ger\u00e4t",
+   "gizmo"
   ]
  },
  {
@@ -8251,7 +8251,7 @@
   "CatID": "SCIMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -8261,8 +8261,8 @@
   "SubCategory": "RETRO",
   "Synonyms": [
    "alte",
-   "Sci",
-   "Fi"
+   "sci",
+   "fi"
   ]
  },
  {
@@ -8271,11 +8271,11 @@
   "CatID": "SCIShip",
   "SubCategory": "RAUMSCHIFF",
   "Synonyms": [
-   "Raumschiff",
-   "Ufo",
-   "Mutterschiff",
-   "Schlachtkreuzer",
-   "Raumschiff"
+   "raumschiff",
+   "ufo",
+   "mutterschiff",
+   "schlachtkreuzer",
+   "raumschiff"
   ]
  },
  {
@@ -8284,13 +8284,13 @@
   "CatID": "SCIVeh",
   "SubCategory": "FAHRZEUG",
   "Synonyms": [
-   "Mond",
-   "Rover",
-   "Landspeeder",
-   "Speeder",
-   "Bike",
-   "Hoverboard",
-   "Podracer"
+   "mond",
+   "rover",
+   "landspeeder",
+   "speeder",
+   "bike",
+   "hoverboard",
+   "podracer"
   ]
  },
  {
@@ -8299,9 +8299,9 @@
   "CatID": "SCIWeap",
   "SubCategory": "WAFFE",
   "Synonyms": [
-   "Lichtschwert",
+   "lichtschwert",
    "exotische",
-   "Waffe"
+   "waffe"
   ]
  },
  {
@@ -8310,9 +8310,9 @@
   "CatID": "SNOWCrsh",
   "SubCategory": "CRASH & TR\u00dcMMER",
   "Synonyms": [
-   "Schneeball",
-   "Schnee",
-   "Crash"
+   "schneeball",
+   "schnee",
+   "crash"
   ]
  },
  {
@@ -8321,7 +8321,7 @@
   "CatID": "SNOWFric",
   "SubCategory": "FRIKTION",
   "Synonyms": [
-   "Stress",
+   "stress",
    "kratzen",
    "knarren",
    "quietschen",
@@ -8349,8 +8349,8 @@
   "CatID": "SNOWImpt",
   "SubCategory": "EINSCHLAG",
   "Synonyms": [
-   "Schneeball",
-   "Schneeverwehung",
+   "schneeball",
+   "schneeverwehung",
    "umkippen",
    "fallen"
   ]
@@ -8361,7 +8361,7 @@
   "CatID": "SNOWMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -8382,17 +8382,17 @@
   "CatID": "SPRTCourt",
   "SubCategory": "PLATZ",
   "Synonyms": [
-   "Basketball",
-   "Tennis",
-   "Fechten",
-   "Volleyball",
-   "Racquetball",
-   "Badminton",
-   "Netzball",
-   "Squash",
-   "Dodgeball",
-   "Shuffleboard",
-   "Handball"
+   "basketball",
+   "tennis",
+   "fechten",
+   "volleyball",
+   "racquetball",
+   "badminton",
+   "netzball",
+   "squash",
+   "dodgeball",
+   "shuffleboard",
+   "handball"
   ]
  },
  {
@@ -8401,14 +8401,14 @@
   "CatID": "SPRTField",
   "SubCategory": "FELD",
   "Synonyms": [
-   "Fu\u00dfball",
-   "Football",
-   "Baseball",
-   "Feldhockey",
-   "Kricket",
-   "Rugby",
-   "Polo",
-   "Lacrosse"
+   "fu\u00dfball",
+   "football",
+   "baseball",
+   "feldhockey",
+   "kricket",
+   "rugby",
+   "polo",
+   "lacrosse"
   ]
  },
  {
@@ -8417,17 +8417,17 @@
   "CatID": "SPRTGym",
   "SubCategory": "HALLE",
   "Synonyms": [
-   "Boxen",
-   "Ringen",
-   "Gymnastik",
-   "Krafttraining",
-   "Kampfsport",
-   "Karate",
-   "Judo",
-   "Taekwondo",
-   "Dojo",
-   "Kung",
-   "Fu"
+   "boxen",
+   "ringen",
+   "gymnastik",
+   "krafttraining",
+   "kampfsport",
+   "karate",
+   "judo",
+   "taekwondo",
+   "dojo",
+   "kung",
+   "fu"
   ]
  },
  {
@@ -8436,10 +8436,10 @@
   "CatID": "SPRTIndor",
   "SubCategory": "INNEN",
   "Synonyms": [
-   "Bowling",
-   "Billard",
-   "Tischtennis",
-   "Darts"
+   "bowling",
+   "billard",
+   "tischtennis",
+   "darts"
   ]
  },
  {
@@ -8448,7 +8448,7 @@
   "CatID": "SPRTMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Golf"
+   "golf"
   ]
  },
  {
@@ -8457,10 +8457,10 @@
   "CatID": "SPRTSkate",
   "SubCategory": "SKATE",
   "Synonyms": [
-   "Skateboarding",
-   "Rollschuhlaufen",
-   "Rollerblading",
-   "Tretroller"
+   "skateboarding",
+   "rollschuhlaufen",
+   "rollerblading",
+   "tretroller"
   ]
  },
  {
@@ -8469,11 +8469,11 @@
   "CatID": "SPRTTrck",
   "SubCategory": "LEICHTATHLETIK",
   "Synonyms": [
-   "Weitsprung",
-   "Laufen",
-   "Stabhochsprung",
-   "Kugelsto\u00dfen",
-   "Speerwurf"
+   "weitsprung",
+   "laufen",
+   "stabhochsprung",
+   "kugelsto\u00dfen",
+   "speerwurf"
   ]
  },
  {
@@ -8482,15 +8482,15 @@
   "CatID": "SPRTWatr",
   "SubCategory": "WASSER",
   "Synonyms": [
-   "Schwimmen",
-   "Wasserball",
-   "Wasservolleyball",
-   "Tauchen",
-   "Wasserski",
-   "Surfen",
-   "Kiteboarding",
-   "Tauchen",
-   "Schnorcheln"
+   "schwimmen",
+   "wasserball",
+   "wasservolleyball",
+   "tauchen",
+   "wasserski",
+   "surfen",
+   "kiteboarding",
+   "tauchen",
+   "schnorcheln"
   ]
  },
  {
@@ -8499,15 +8499,15 @@
   "CatID": "SPRTWntr",
   "SubCategory": "WINTER",
   "Synonyms": [
-   "Skifahren",
-   "Snowboarden",
-   "Bobfahren",
-   "Eislaufen",
-   "Schlittenfahren",
-   "Curling",
-   "Eishockey",
-   "Rodeln",
-   "Eisschnelllauf"
+   "skifahren",
+   "snowboarden",
+   "bobfahren",
+   "eislaufen",
+   "schlittenfahren",
+   "curling",
+   "eishockey",
+   "rodeln",
+   "eisschnelllauf"
   ]
  },
  {
@@ -8516,23 +8516,23 @@
   "CatID": "SWSH",
   "SubCategory": "PFEIFEN",
   "Synonyms": [
-   "Rauschen",
-   "Zischen",
-   "Sausen",
+   "rauschen",
+   "zischen",
+   "sausen",
    "kleiner",
-   "Objekte",
+   "objekte",
    "die",
    "schnell",
    "durch",
    "die",
-   "Luft",
+   "luft",
    "bewegt",
    "werden",
    "z",
    "b",
-   "Schwert",
-   "Kung",
-   "Fu"
+   "schwert",
+   "kung",
+   "fu"
   ]
  },
  {
@@ -8542,16 +8542,16 @@
   "SubCategory": "RAUSCHEN",
   "Synonyms": [
    "auschen",
-   "Zischen",
-   "Sausen",
+   "zischen",
+   "sausen",
    "gro\u00dfer",
-   "Objekte",
+   "objekte",
    "z",
    "b",
-   "Fl\u00fcgel",
+   "fl\u00fcgel",
    "einer",
-   "Windm\u00fchle",
-   "Windrad"
+   "windm\u00fchle",
+   "windrad"
   ]
  },
  {
@@ -8560,17 +8560,17 @@
   "CatID": "TOOLGrdn",
   "SubCategory": "GARTEN",
   "Synonyms": [
-   "Harke",
-   "Hacke",
-   "Spaten",
-   "Kelle",
-   "Besen",
-   "Gartenschere",
-   "Gartengabel",
-   "Pinne",
-   "Baumschere",
-   "Schaufel",
-   "Unkrautstecher"
+   "harke",
+   "hacke",
+   "spaten",
+   "kelle",
+   "besen",
+   "gartenschere",
+   "gartengabel",
+   "pinne",
+   "baumschere",
+   "schaufel",
+   "unkrautstecher"
   ]
  },
  {
@@ -8579,21 +8579,21 @@
   "CatID": "TOOLHand",
   "SubCategory": "HAND",
   "Synonyms": [
-   "Hammer",
-   "Schraubendreher",
-   "Zange",
-   "Schraubenschl\u00fcssel",
-   "Ratsche",
-   "Steckdose",
-   "Hands\u00e4ge",
-   "Klemme",
-   "Cutter",
-   "Stemmeisen",
-   "Mei\u00dfel",
-   "Schaber",
-   "Klammerger\u00e4t",
-   "Feile",
-   "Schere"
+   "hammer",
+   "schraubendreher",
+   "zange",
+   "schraubenschl\u00fcssel",
+   "ratsche",
+   "steckdose",
+   "hands\u00e4ge",
+   "klemme",
+   "cutter",
+   "stemmeisen",
+   "mei\u00dfel",
+   "schaber",
+   "klammerger\u00e4t",
+   "feile",
+   "schere"
   ]
  },
  {
@@ -8602,7 +8602,7 @@
   "CatID": "TOOLMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -8611,11 +8611,11 @@
   "CatID": "TOOLPneu",
   "SubCategory": "PNEUMATISCH",
   "Synonyms": [
-   "Presslufthammer",
-   "Druckluftwerkzeug",
-   "Druckluft",
-   "Ratsche",
-   "Nagelpistolen"
+   "presslufthammer",
+   "druckluftwerkzeug",
+   "druckluft",
+   "ratsche",
+   "nagelpistolen"
   ]
  },
  {
@@ -8624,17 +8624,17 @@
   "CatID": "TOOLPowr",
   "SubCategory": "ELEKTRISCH",
   "Synonyms": [
-   "Bohrmaschine",
-   "Motors\u00e4ge",
-   "Kreiss\u00e4ge",
-   "Stichs\u00e4ge",
-   "Schleifmaschine",
-   "Bandschleifer",
-   "Oberfr\u00e4se",
-   "Akkuschrauber",
-   "Hei\u00dfluftpistole",
-   "Bohrmaschine",
-   "Tischs\u00e4ge"
+   "bohrmaschine",
+   "motors\u00e4ge",
+   "kreiss\u00e4ge",
+   "stichs\u00e4ge",
+   "schleifmaschine",
+   "bandschleifer",
+   "oberfr\u00e4se",
+   "akkuschrauber",
+   "hei\u00dfluftpistole",
+   "bohrmaschine",
+   "tischs\u00e4ge"
   ]
  },
  {
@@ -8643,13 +8643,13 @@
   "CatID": "TOYElec",
   "SubCategory": "ELEKTRONISCH",
   "Synonyms": [
-   "Ferngesteuertes",
-   "Auto",
-   "Slotcar",
+   "ferngesteuertes",
+   "auto",
+   "slotcar",
    "sprechen",
    "und",
    "buchstabieren",
-   "Furby"
+   "furby"
   ]
  },
  {
@@ -8658,9 +8658,9 @@
   "CatID": "TOYMech",
   "SubCategory": "MECHANISCH",
   "Synonyms": [
-   "Aufziehspielzeug",
-   "Spielzeugroboter",
-   "Aufziehspielzeug"
+   "aufziehspielzeug",
+   "spielzeugroboter",
+   "aufziehspielzeug"
   ]
  },
  {
@@ -8669,9 +8669,9 @@
   "CatID": "TOYMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Actionfigur",
-   "Puppe",
-   "Pl\u00fcschtier"
+   "actionfigur",
+   "puppe",
+   "pl\u00fcschtier"
   ]
  },
  {
@@ -8691,7 +8691,7 @@
   "CatID": "TRNClak",
   "SubCategory": "KLACKERN",
   "Synonyms": [
-   "Klacken"
+   "klacken"
   ]
  },
  {
@@ -8700,10 +8700,10 @@
   "CatID": "TRNDoor",
   "SubCategory": "T\u00dcR",
   "Synonyms": [
-   "Zugt\u00fcr",
-   "U",
-   "Bahn",
-   "T\u00fcr"
+   "zugt\u00fcr",
+   "u",
+   "bahn",
+   "t\u00fcr"
   ]
  },
  {
@@ -8712,7 +8712,7 @@
   "CatID": "TRNDiesl",
   "SubCategory": "DIESEL",
   "Synonyms": [
-   "Dieselzug"
+   "dieselzug"
   ]
  },
  {
@@ -8721,12 +8721,12 @@
   "CatID": "TRNElec",
   "SubCategory": "ELEKTRISCH",
   "Synonyms": [
-   "Pendlerzug",
-   "Regionalzug",
-   "Stadtbahn",
-   "Intercity",
-   "Zug",
-   "Stadtbahn"
+   "pendlerzug",
+   "regionalzug",
+   "stadtbahn",
+   "intercity",
+   "zug",
+   "stadtbahn"
   ]
  },
  {
@@ -8735,12 +8735,12 @@
   "CatID": "TRNHspd",
   "SubCategory": "HOCHGESCHWINDIGKEIT",
   "Synonyms": [
-   "Hightech",
-   "Zug",
-   "Magnetschwebebahn",
-   "Einschienenbahn",
-   "Hyperloop",
-   "Hochgeschwindigkeitszug"
+   "hightech",
+   "zug",
+   "magnetschwebebahn",
+   "einschienenbahn",
+   "hyperloop",
+   "hochgeschwindigkeitszug"
   ]
  },
  {
@@ -8749,10 +8749,10 @@
   "CatID": "TRNHorn",
   "SubCategory": "HORN",
   "Synonyms": [
-   "Zughupe",
-   "U",
-   "Bahn",
-   "Hupe"
+   "zughupe",
+   "u",
+   "bahn",
+   "hupe"
   ]
  },
  {
@@ -8761,15 +8761,15 @@
   "CatID": "TRNInt",
   "SubCategory": "INNEN",
   "Synonyms": [
-   "Nahverkehrszug",
-   "Regionalzug",
-   "Stadtbahn",
-   "\u00dcberlandzug",
-   "Stadtbahn",
-   "G\u00fcterzug",
-   "U",
-   "Bahn",
-   "Einschienenbahn"
+   "nahverkehrszug",
+   "regionalzug",
+   "stadtbahn",
+   "\u00fcberlandzug",
+   "stadtbahn",
+   "g\u00fcterzug",
+   "u",
+   "bahn",
+   "einschienenbahn"
   ]
  },
  {
@@ -8788,7 +8788,7 @@
   "CatID": "TRNMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -8797,8 +8797,8 @@
   "CatID": "TRNSteam",
   "SubCategory": "DAMPF",
   "Synonyms": [
-   "Dampfzug",
-   "Kohlenzug"
+   "dampfzug",
+   "kohlenzug"
   ]
  },
  {
@@ -8807,12 +8807,12 @@
   "CatID": "TRNSbwy",
   "SubCategory": "U-BAHN",
   "Synonyms": [
-   "U",
-   "Bahn",
-   "U",
-   "Bahn",
+   "u",
+   "bahn",
+   "u",
+   "bahn",
    "die",
-   "R\u00f6hre",
+   "r\u00f6hre",
    "rer"
   ]
  },
@@ -8822,11 +8822,11 @@
   "CatID": "TRNTram",
   "SubCategory": "TRAM",
   "Synonyms": [
-   "Stra\u00dfenbahn",
-   "Trolley",
-   "Seilbahn",
-   "Standseilbahn",
-   "Greifzug"
+   "stra\u00dfenbahn",
+   "trolley",
+   "seilbahn",
+   "standseilbahn",
+   "greifzug"
   ]
  },
  {
@@ -8835,11 +8835,11 @@
   "CatID": "UIAlert",
   "SubCategory": "ALARM",
   "Synonyms": [
-   "Alarm",
-   "Ton",
-   "Textnachricht",
-   "Benachrichtigung",
-   "Startup"
+   "alarm",
+   "ton",
+   "textnachricht",
+   "benachrichtigung",
+   "startup"
   ]
  },
  {
@@ -8848,10 +8848,10 @@
   "CatID": "UIBeep",
   "SubCategory": "PIEPSEN",
   "Synonyms": [
-   "Computer",
-   "Piep",
-   "Telefon",
-   "Piep"
+   "computer",
+   "piep",
+   "telefon",
+   "piep"
   ]
  },
  {
@@ -8871,10 +8871,10 @@
   "CatID": "UIData",
   "SubCategory": "DATEN",
   "Synonyms": [
-   "Daten",
-   "Verarbeitung",
-   "Information",
-   "Denken"
+   "daten",
+   "verarbeitung",
+   "information",
+   "denken"
   ]
  },
  {
@@ -8883,13 +8883,13 @@
   "CatID": "UIGlitch",
   "SubCategory": "FEHLFUNKTION",
   "Synonyms": [
-   "Glitch",
-   "Fehlfunktion",
-   "Ausfall",
-   "Kernel",
-   "Panik",
-   "Guru",
-   "Meditationsfehler"
+   "glitch",
+   "fehlfunktion",
+   "ausfall",
+   "kernel",
+   "panik",
+   "guru",
+   "meditationsfehler"
   ]
  },
  {
@@ -8898,7 +8898,7 @@
   "CatID": "UIMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -8919,11 +8919,11 @@
   "CatID": "VEGEGras",
   "SubCategory": "GRAS",
   "Synonyms": [
-   "Gras",
+   "gras",
    "rascheln",
    "durchlaufen",
-   "Heu",
-   "Weizen"
+   "heu",
+   "weizen"
   ]
  },
  {
@@ -8932,11 +8932,11 @@
   "CatID": "VEGELeaf",
   "SubCategory": "LAUB",
   "Synonyms": [
-   "Laubwirbel",
-   "Laubfall",
+   "laubwirbel",
+   "laubfall",
    "fallende",
-   "Bl\u00e4tter",
-   "Laubhaufen"
+   "bl\u00e4tter",
+   "laubhaufen"
   ]
  },
  {
@@ -8945,7 +8945,7 @@
   "CatID": "VEGEMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Laub"
+   "laub"
   ]
  },
  {
@@ -8954,13 +8954,13 @@
   "CatID": "VEGETree",
   "SubCategory": "BAUM",
   "Synonyms": [
-   "Baum",
+   "baum",
    "fallen",
-   "Ast",
+   "ast",
    "knacken",
-   "Ast",
+   "ast",
    "brechen",
-   "Zweig"
+   "zweig"
   ]
  },
  {
@@ -8969,15 +8969,15 @@
   "CatID": "VEHAlrm",
   "SubCategory": "ALARM",
   "Synonyms": [
-   "Auto",
-   "Auto",
-   "Automobil",
-   "Autoalarm",
+   "auto",
+   "auto",
+   "automobil",
+   "autoalarm",
    "scharfes",
-   "Zwitschern",
+   "zwitschern",
    "entsch\u00e4rftes",
-   "Zwitschern",
-   "Fob"
+   "zwitschern",
+   "fob"
   ]
  },
  {
@@ -8986,14 +8986,14 @@
   "CatID": "VEHAntq",
   "SubCategory": "ANTIK",
   "Synonyms": [
-   "Auto",
-   "Auto",
-   "Automobil",
-   "Oldsmobile",
-   "Modell",
-   "A",
-   "Modell",
-   "T"
+   "auto",
+   "auto",
+   "automobil",
+   "oldsmobile",
+   "modell",
+   "a",
+   "modell",
+   "t"
   ]
  },
  {
@@ -9002,12 +9002,12 @@
   "CatID": "VEHAtv",
   "SubCategory": "GEL\u00c4NDE",
   "Synonyms": [
-   "Quad",
-   "Dreirad",
-   "Vierrad",
+   "quad",
+   "dreirad",
+   "vierrad",
    "vierr\u00e4driges",
-   "Fahrrad",
-   "D\u00fcnenbuggy"
+   "fahrrad",
+   "d\u00fcnenbuggy"
   ]
  },
  {
@@ -9016,12 +9016,12 @@
   "CatID": "VEHBike",
   "SubCategory": "FAHRRAD",
   "Synonyms": [
-   "Fahrrad",
-   "Fahrrad",
-   "Liegerad",
-   "Einrad",
-   "Tandem",
-   "Bmx"
+   "fahrrad",
+   "fahrrad",
+   "liegerad",
+   "einrad",
+   "tandem",
+   "bmx"
   ]
  },
  {
@@ -9030,9 +9030,9 @@
   "CatID": "VEHBrake",
   "SubCategory": "BREMSE",
   "Synonyms": [
-   "Bremsenquietschen",
-   "Quietschen",
-   "Knirschen"
+   "bremsenquietschen",
+   "quietschen",
+   "knirschen"
   ]
  },
  {
@@ -9041,13 +9041,13 @@
   "CatID": "VEHBus",
   "SubCategory": "BUS",
   "Synonyms": [
-   "Stadtbus",
-   "Schulbus",
-   "Greyhound",
-   "Bus",
-   "Reisebus",
-   "Tourbus",
-   "Doppeldecker"
+   "stadtbus",
+   "schulbus",
+   "greyhound",
+   "bus",
+   "reisebus",
+   "tourbus",
+   "doppeldecker"
   ]
  },
  {
@@ -9056,9 +9056,9 @@
   "CatID": "VEHCar",
   "SubCategory": "AUTO",
   "Synonyms": [
-   "Auto",
-   "Auto",
-   "Automobil"
+   "auto",
+   "auto",
+   "automobil"
   ]
  },
  {
@@ -9067,12 +9067,12 @@
   "CatID": "VEHCnst",
   "SubCategory": "BAUSTELLE",
   "Synonyms": [
-   "Kran",
-   "Bulldozer",
-   "Bagger",
-   "Baggerin",
-   "Bagger",
-   "Gabelstapler"
+   "kran",
+   "bulldozer",
+   "bagger",
+   "baggerin",
+   "bagger",
+   "gabelstapler"
   ]
  },
  {
@@ -9081,13 +9081,13 @@
   "CatID": "VEHDoor",
   "SubCategory": "T\u00dcR",
   "Synonyms": [
-   "Auto",
-   "Auto",
-   "Automobil",
-   "Autot\u00fcr",
-   "Transportert\u00fcr",
-   "LKW",
-   "T\u00fcr"
+   "auto",
+   "auto",
+   "automobil",
+   "autot\u00fcr",
+   "transportert\u00fcr",
+   "lkw",
+   "t\u00fcr"
   ]
  },
  {
@@ -9096,14 +9096,14 @@
   "CatID": "VEHElec",
   "SubCategory": "ELEKTRISCH",
   "Synonyms": [
-   "Segway",
-   "Golfwagen",
-   "Elektroroller",
-   "Elektroauto",
-   "Elektromotorrad",
-   "Tesla",
-   "Elektro",
-   "Gokart"
+   "segway",
+   "golfwagen",
+   "elektroroller",
+   "elektroauto",
+   "elektromotorrad",
+   "tesla",
+   "elektro",
+   "gokart"
   ]
  },
  {
@@ -9112,12 +9112,12 @@
   "CatID": "VEHEmrg",
   "SubCategory": "NOTFALL",
   "Synonyms": [
-   "Feuerwehrauto",
-   "Feuerwehrauto",
-   "Krankenwagen",
-   "Polizeiauto",
-   "SWAT",
-   "Van"
+   "feuerwehrauto",
+   "feuerwehrauto",
+   "krankenwagen",
+   "polizeiauto",
+   "swat",
+   "van"
   ]
  },
  {
@@ -9126,10 +9126,10 @@
   "CatID": "VEHFarm",
   "SubCategory": "LANDWIRTSCHAFT",
   "Synonyms": [
-   "Traktor",
-   "M\u00e4hdrescher",
-   "H\u00e4cksler",
-   "Erntemaschine"
+   "traktor",
+   "m\u00e4hdrescher",
+   "h\u00e4cksler",
+   "erntemaschine"
   ]
  },
  {
@@ -9138,16 +9138,16 @@
   "CatID": "VEHFrght",
   "SubCategory": "FRACHT",
   "Synonyms": [
-   "Big",
-   "Rigs",
-   "Lastwagen",
-   "Sattelschlepper",
-   "U",
-   "Haul",
-   "Truck",
-   "Penske",
-   "Kastenwagen",
-   "G\u00fcterwagen"
+   "big",
+   "rigs",
+   "lastwagen",
+   "sattelschlepper",
+   "u",
+   "haul",
+   "truck",
+   "penske",
+   "kastenwagen",
+   "g\u00fcterwagen"
   ]
  },
  {
@@ -9156,10 +9156,10 @@
   "CatID": "VEHBy",
   "SubCategory": "ALLGEMEIN VORBEI",
   "Synonyms": [
-   "Auto",
-   "Auto",
-   "Automobil",
-   "Vorbeifahren"
+   "auto",
+   "auto",
+   "automobil",
+   "vorbeifahren"
   ]
  },
  {
@@ -9168,10 +9168,10 @@
   "CatID": "VEHHorn",
   "SubCategory": "HORN",
   "Synonyms": [
-   "Auto",
-   "Auto",
-   "Automobil",
-   "Autohupe"
+   "auto",
+   "auto",
+   "automobil",
+   "autohupe"
   ]
  },
  {
@@ -9180,14 +9180,14 @@
   "CatID": "VEHInt",
   "SubCategory": "INNEN",
   "Synonyms": [
-   "Auto",
-   "Lastwagen",
-   "Lieferwagen",
-   "Innenraum",
+   "auto",
+   "lastwagen",
+   "lieferwagen",
+   "innenraum",
    "fahren",
    "an",
-   "Bord",
-   "Bus"
+   "bord",
+   "bus"
   ]
  },
  {
@@ -9196,16 +9196,16 @@
   "CatID": "VEHJalop",
   "SubCategory": "FEHLFUNKTION",
   "Synonyms": [
-   "Auto",
-   "Auto",
-   "Automobil",
-   "Schrottauto",
-   "Schrottpresse",
-   "Fehlstart",
-   "Fehlz\u00fcndung",
-   "Fehlfunktion",
-   "Fehlz\u00fcndung",
-   "Fehlz\u00fcndung"
+   "auto",
+   "auto",
+   "automobil",
+   "schrottauto",
+   "schrottpresse",
+   "fehlstart",
+   "fehlz\u00fcndung",
+   "fehlfunktion",
+   "fehlz\u00fcndung",
+   "fehlz\u00fcndung"
   ]
  },
  {
@@ -9214,15 +9214,15 @@
   "CatID": "VEHMech",
   "SubCategory": "MECHANISCH",
   "Synonyms": [
-   "Fensterkurbel",
-   "Handschuhfach",
-   "Windschutzscheibe",
-   "Scheibenwischer",
-   "Kofferraum",
-   "Sicherheitsgurt",
-   "Sicherheitsgurt",
-   "Blinker",
-   "Gangschaltung"
+   "fensterkurbel",
+   "handschuhfach",
+   "windschutzscheibe",
+   "scheibenwischer",
+   "kofferraum",
+   "sicherheitsgurt",
+   "sicherheitsgurt",
+   "blinker",
+   "gangschaltung"
   ]
  },
  {
@@ -9231,12 +9231,12 @@
   "CatID": "VEHMil",
   "SubCategory": "MILIT\u00c4R",
   "Synonyms": [
-   "Panzer",
-   "APC",
+   "panzer",
+   "apc",
    "gepanzerter",
-   "Mannschaftswagen",
-   "Humvee",
-   "Jeep"
+   "mannschaftswagen",
+   "humvee",
+   "jeep"
   ]
  },
  {
@@ -9245,7 +9245,7 @@
   "CatID": "VEHMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Schneemobil"
+   "schneemobil"
   ]
  },
  {
@@ -9254,13 +9254,13 @@
   "CatID": "VEHMoto",
   "SubCategory": "MOTORRAD",
   "Synonyms": [
-   "Roller",
-   "Motorrad",
-   "Motorrad",
-   "Vespa",
-   "Motocross",
-   "Dirt",
-   "Bike"
+   "roller",
+   "motorrad",
+   "motorrad",
+   "vespa",
+   "motocross",
+   "dirt",
+   "bike"
   ]
  },
  {
@@ -9269,20 +9269,20 @@
   "CatID": "VEHRace",
   "SubCategory": "RENNWAGEN",
   "Synonyms": [
-   "Auto",
-   "Auto",
-   "Automobil",
-   "Rennwagen",
-   "Drag",
-   "Race",
-   "Car",
-   "Indy",
-   "Formel",
+   "auto",
+   "auto",
+   "automobil",
+   "rennwagen",
+   "drag",
+   "race",
+   "car",
+   "indy",
+   "formel",
    "1",
-   "Nascar",
-   "Grand",
-   "Prix",
-   "Monstertruck"
+   "nascar",
+   "grand",
+   "prix",
+   "monstertruck"
   ]
  },
  {
@@ -9291,11 +9291,11 @@
   "CatID": "VEHSirn",
   "SubCategory": "SIRENE",
   "Synonyms": [
-   "Krankenwagen",
-   "Polizei",
-   "Sirene",
-   "Feuerwehrauto",
-   "Feuerwehrmann"
+   "krankenwagen",
+   "polizei",
+   "sirene",
+   "feuerwehrauto",
+   "feuerwehrmann"
   ]
  },
  {
@@ -9304,7 +9304,7 @@
   "CatID": "VEHSkid",
   "SubCategory": "SCHLITTERN",
   "Synonyms": [
-   "Reifen",
+   "reifen",
    "schleudern",
    "ausscheren",
    "chuff",
@@ -9317,10 +9317,10 @@
   "CatID": "VEHSusp",
   "SubCategory": "STOSSD\u00c4MPFER",
   "Synonyms": [
-   "Aufh\u00e4ngung",
-   "Sto\u00dffedern",
-   "Quietschen",
-   "Klappern"
+   "aufh\u00e4ngung",
+   "sto\u00dffedern",
+   "quietschen",
+   "klappern"
   ]
  },
  {
@@ -9329,9 +9329,9 @@
   "CatID": "VEHTire",
   "SubCategory": "REIFEN",
   "Synonyms": [
-   "Reifen",
-   "Reifen",
-   "Rolle"
+   "reifen",
+   "reifen",
+   "rolle"
   ]
  },
  {
@@ -9340,14 +9340,14 @@
   "CatID": "VEHTruck",
   "SubCategory": "LKW KLEINBUS SUV",
   "Synonyms": [
-   "Auto",
-   "Auto",
-   "Automobil",
-   "Personenkraftwagen",
-   "Pickup",
-   "Lieferwagen",
-   "Gel\u00e4ndewagen",
-   "Pritsche",
+   "auto",
+   "auto",
+   "automobil",
+   "personenkraftwagen",
+   "pickup",
+   "lieferwagen",
+   "gel\u00e4ndewagen",
+   "pritsche",
    ""
   ]
  },
@@ -9374,11 +9374,11 @@
   "CatID": "VEHWagn",
   "SubCategory": "FUHRWERK",
   "Synonyms": [
-   "Wagen",
-   "Postkutsche",
-   "Buggy",
-   "Kutsche",
-   "Holzwagen"
+   "wagen",
+   "postkutsche",
+   "buggy",
+   "kutsche",
+   "holzwagen"
   ]
  },
  {
@@ -9387,13 +9387,13 @@
   "CatID": "VEHWndw",
   "SubCategory": "FENSTER",
   "Synonyms": [
-   "Auto",
-   "Auto",
-   "Automobil",
+   "auto",
+   "auto",
+   "automobil",
    "automatisches",
-   "Fenster",
+   "fenster",
    "elektrisches",
-   "Fenster"
+   "fenster"
   ]
  },
  {
@@ -9402,8 +9402,8 @@
   "CatID": "VOXAlien",
   "SubCategory": "ALIEN",
   "Synonyms": [
-   "Aliensprache",
-   "Kauderwelsch"
+   "aliensprache",
+   "kauderwelsch"
   ]
  },
  {
@@ -9439,9 +9439,9 @@
   "CatID": "VOXChld",
   "SubCategory": "KIND",
   "Synonyms": [
-   "Kind",
-   "Teenager",
-   "Tween"
+   "kind",
+   "teenager",
+   "tween"
   ]
  },
  {
@@ -9466,7 +9466,7 @@
   "CatID": "VOXEfrt",
   "SubCategory": "ANSTRENGUNG",
   "Synonyms": [
-   "Anstrengung",
+   "anstrengung",
    "grunzen",
    "k\u00e4mpfen",
    "sich",
@@ -9481,7 +9481,7 @@
   "CatID": "VOXFem",
   "SubCategory": "WEIBLICH",
   "Synonyms": [
-   "Frau",
+   "frau",
    "weiblich"
   ]
  },
@@ -9491,9 +9491,9 @@
   "CatID": "VOXFutz",
   "SubCategory": "LAUTSPRECHERDURCHSAGE",
   "Synonyms": [
-   "Sprecher",
-   "Ansprache",
-   "Ank\u00fcndigung"
+   "sprecher",
+   "ansprache",
+   "ank\u00fcndigung"
   ]
  },
  {
@@ -9502,10 +9502,10 @@
   "CatID": "VOXHist",
   "SubCategory": "HISTORISCH",
   "Synonyms": [
-   "Rede",
-   "Vortrag",
-   "Sendung",
-   "Nachrichten",
+   "rede",
+   "vortrag",
+   "sendung",
+   "nachrichten",
    "historisch"
   ]
  },
@@ -9531,7 +9531,7 @@
   "SubCategory": "M\u00c4NNLICH",
   "Synonyms": [
    "m\u00e4nnlich",
-   "Mann"
+   "mann"
   ]
  },
  {
@@ -9540,7 +9540,7 @@
   "CatID": "VOXMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -9570,7 +9570,7 @@
    "schreien",
    "br\u00fcllen",
    "schreien",
-   "Tod",
+   "tod",
    "fallen"
   ]
  },
@@ -9582,7 +9582,7 @@
   "Synonyms": [
    "singen",
    "summen",
-   "Liedchen"
+   "liedchen"
   ]
  },
  {
@@ -9607,8 +9607,8 @@
    "sieden",
    "blub",
    "glub",
-   "Kessel",
-   "Trank"
+   "kessel",
+   "trank"
   ]
  },
  {
@@ -9620,10 +9620,10 @@
    "ablaufen",
    "gurgeln",
    "pl\u00e4tschern",
-   "Kanalisation",
-   "Dusche",
-   "Waschbecken",
-   "Abfluss"
+   "kanalisation",
+   "dusche",
+   "waschbecken",
+   "abfluss"
   ]
  },
  {
@@ -9659,16 +9659,16 @@
   "CatID": "WATRFlow",
   "SubCategory": "FLIESSEN",
   "Synonyms": [
-   "Fluss",
-   "Strom",
-   "Bach",
-   "Str\u00f6mung",
-   "Wasserlauf",
-   "Nebenfluss",
-   "Bach",
-   "Rinnsal",
-   "Rinnsal",
-   "Quelle"
+   "fluss",
+   "strom",
+   "bach",
+   "str\u00f6mung",
+   "wasserlauf",
+   "nebenfluss",
+   "bach",
+   "rinnsal",
+   "rinnsal",
+   "quelle"
   ]
  },
  {
@@ -9677,10 +9677,10 @@
   "CatID": "WATRFoun",
   "SubCategory": "SPRINGBRUNNEN",
   "Synonyms": [
-   "Font\u00e4ne",
-   "Gischt",
-   "Rinnsal",
-   "Zischen"
+   "font\u00e4ne",
+   "gischt",
+   "rinnsal",
+   "zischen"
   ]
  },
  {
@@ -9689,11 +9689,11 @@
   "CatID": "WATRImpt",
   "SubCategory": "EINSCHLAG",
   "Synonyms": [
-   "Pl\u00e4tschern",
-   "Bauchplatscher",
-   "Kanonenkugel",
-   "Wasserbombe",
-   "Sploosh"
+   "pl\u00e4tschern",
+   "bauchplatscher",
+   "kanonenkugel",
+   "wasserbombe",
+   "sploosh"
   ]
  },
  {
@@ -9702,9 +9702,9 @@
   "CatID": "WATRLap",
   "SubCategory": "PL\u00c4TSCHERN",
   "Synonyms": [
-   "Pl\u00e4tschern",
-   "Scho\u00df",
-   "Rumpf",
+   "pl\u00e4tschern",
+   "scho\u00df",
+   "rumpf",
    "klatschen",
    "schwappen"
   ]
@@ -9715,7 +9715,7 @@
   "CatID": "WATRMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -9737,9 +9737,9 @@
   "CatID": "WATRPlmb",
   "SubCategory": "WASSERLEITUNG",
   "Synonyms": [
-   "Toilettensp\u00fclung",
-   "Waschbecken",
-   "Dusche",
+   "toilettensp\u00fclung",
+   "waschbecken",
+   "dusche",
    ""
   ]
  },
@@ -9803,10 +9803,10 @@
   "CatID": "WATRSurf",
   "SubCategory": "BRANDUNG",
   "Synonyms": [
-   "K\u00fcstenlinie",
-   "Uferlinie",
-   "Meeresufer",
-   "Strand",
+   "k\u00fcstenlinie",
+   "uferlinie",
+   "meeresufer",
+   "strand",
    "waschen"
   ]
  },
@@ -9816,11 +9816,11 @@
   "CatID": "WATRTurb",
   "SubCategory": "TURBULENT",
   "Synonyms": [
-   "Whirlpool",
-   "Wellenbad",
-   "Stromschnellen",
-   "Mahlstrom",
-   "Strudel"
+   "whirlpool",
+   "wellenbad",
+   "stromschnellen",
+   "mahlstrom",
+   "strudel"
   ]
  },
  {
@@ -9829,8 +9829,8 @@
   "CatID": "WATRUndwtr",
   "SubCategory": "UNTERWASSER",
   "Synonyms": [
-   "Unterwasser",
-   "Str\u00f6mung",
+   "unterwasser",
+   "str\u00f6mung",
    "turbulent"
   ]
  },
@@ -9840,11 +9840,11 @@
   "CatID": "WATRFall",
   "SubCategory": "WASSERFALL",
   "Synonyms": [
-   "Wasserfall",
-   "Kaskade",
-   "Staudamm",
-   "Wildbach",
-   "Niagara"
+   "wasserfall",
+   "kaskade",
+   "staudamm",
+   "wildbach",
+   "niagara"
   ]
  },
  {
@@ -9853,12 +9853,12 @@
   "CatID": "WATRWave",
   "SubCategory": "WELLE",
   "Synonyms": [
-   "Welle",
-   "Wellenbrecher",
-   "Gezeiten",
-   "Meeresufer",
-   "Steg",
-   "Pl\u00e4tschern"
+   "welle",
+   "wellenbrecher",
+   "gezeiten",
+   "meeresufer",
+   "steg",
+   "pl\u00e4tschern"
   ]
  },
  {
@@ -9867,16 +9867,16 @@
   "CatID": "WEAPArmr",
   "SubCategory": "R\u00dcSTUNG",
   "Synonyms": [
-   "R\u00fcstung",
-   "Kettenhemd",
-   "Helm",
-   "Schuppenpanzer",
-   "Brustpanzer",
-   "K\u00fcrass",
-   "Domaru",
-   "Schiene",
-   "Haramaki",
-   "Schild"
+   "r\u00fcstung",
+   "kettenhemd",
+   "helm",
+   "schuppenpanzer",
+   "brustpanzer",
+   "k\u00fcrass",
+   "domaru",
+   "schiene",
+   "haramaki",
+   "schild"
   ]
  },
  {
@@ -9885,10 +9885,10 @@
   "CatID": "WEAPArro",
   "SubCategory": "PFEIL",
   "Synonyms": [
-   "Pfeil",
-   "Bolzen",
-   "Fletch",
-   "K\u00f6cher"
+   "pfeil",
+   "bolzen",
+   "fletch",
+   "k\u00f6cher"
   ]
  },
  {
@@ -9897,10 +9897,10 @@
   "CatID": "WEAPAxe",
   "SubCategory": "AXT",
   "Synonyms": [
-   "Beil",
-   "Axt",
-   "Hacke",
-   "Wurfaxt"
+   "beil",
+   "axt",
+   "hacke",
+   "wurfaxt"
   ]
  },
  {
@@ -9909,21 +9909,21 @@
   "CatID": "WEAPBlnt",
   "SubCategory": "STUMPF",
   "Synonyms": [
-   "Keule",
-   "Schl\u00e4ger",
-   "Streitkolben",
-   "Kugel",
+   "keule",
+   "schl\u00e4ger",
+   "streitkolben",
+   "kugel",
    "und",
-   "Kette",
-   "Nunchuck",
-   "Kriegshammer",
-   "Kriegshammer",
-   "Daube",
-   "Schlagring",
-   "Dreschflegel",
-   "Tonfa",
-   "Schlagstock",
-   "Kn\u00fcppel"
+   "kette",
+   "nunchuck",
+   "kriegshammer",
+   "kriegshammer",
+   "daube",
+   "schlagring",
+   "dreschflegel",
+   "tonfa",
+   "schlagstock",
+   "kn\u00fcppel"
   ]
  },
  {
@@ -9932,9 +9932,9 @@
   "CatID": "WEAPBow",
   "SubCategory": "BOGEN",
   "Synonyms": [
-   "Langbogen",
-   "Verbundkasten",
-   "Armbrust"
+   "langbogen",
+   "verbundkasten",
+   "armbrust"
   ]
  },
  {
@@ -9943,15 +9943,15 @@
   "CatID": "WEAPKnif",
   "SubCategory": "MESSER",
   "Synonyms": [
-   "Springmesser",
-   "Klappmesser",
-   "Butterflymesser",
-   "Jagdmesser",
-   "Gebrauchsmesser",
-   "Hackmesser",
-   "Fleischermesser",
-   "Grabenmesser",
-   "Kochmesser"
+   "springmesser",
+   "klappmesser",
+   "butterflymesser",
+   "jagdmesser",
+   "gebrauchsmesser",
+   "hackmesser",
+   "fleischermesser",
+   "grabenmesser",
+   "kochmesser"
   ]
  },
  {
@@ -9960,7 +9960,7 @@
   "CatID": "WEAPMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Schleuder"
+   "schleuder"
   ]
  },
  {
@@ -9969,13 +9969,13 @@
   "CatID": "WEAPPole",
   "SubCategory": "SPEER & SPIESS",
   "Synonyms": [
-   "Speer",
-   "Hecht",
-   "Harpune",
-   "Hellebarde",
-   "Speer",
-   "Poleaxe",
-   "Pollaxe"
+   "speer",
+   "hecht",
+   "harpune",
+   "hellebarde",
+   "speer",
+   "poleaxe",
+   "pollaxe"
   ]
  },
  {
@@ -9984,11 +9984,11 @@
   "CatID": "WEAPSiege",
   "SubCategory": "BELAGERUNG",
   "Synonyms": [
-   "Katapult",
-   "Trebuchet",
-   "Rammbock",
-   "Ballista",
-   "Belagerungsturm"
+   "katapult",
+   "trebuchet",
+   "rammbock",
+   "ballista",
+   "belagerungsturm"
   ]
  },
  {
@@ -9997,19 +9997,19 @@
   "CatID": "WEAPSwrd",
   "SubCategory": "SCHWERT",
   "Synonyms": [
-   "Falchion",
-   "Krumms\u00e4bel",
-   "Breitschwert",
-   "Rapier",
-   "Langschwert",
-   "Samurai",
-   "Entermesser",
-   "Fechtschwert",
-   "Kattana",
-   "Machete",
-   "S\u00e4bel",
-   "Wikingerschwert",
-   "Florett"
+   "falchion",
+   "krumms\u00e4bel",
+   "breitschwert",
+   "rapier",
+   "langschwert",
+   "samurai",
+   "entermesser",
+   "fechtschwert",
+   "kattana",
+   "machete",
+   "s\u00e4bel",
+   "wikingerschwert",
+   "florett"
   ]
  },
  {
@@ -10018,10 +10018,10 @@
   "CatID": "WEAPWhip",
   "SubCategory": "PEITSCHE",
   "Synonyms": [
-   "Ochsenziemer",
-   "Pferdepeitsche",
-   "Peitsche",
-   "Peitschenknall"
+   "ochsenziemer",
+   "pferdepeitsche",
+   "peitsche",
+   "peitschenknall"
   ]
  },
  {
@@ -10030,9 +10030,9 @@
   "CatID": "HAIL",
   "SubCategory": "HAGEL",
   "Synonyms": [
-   "Hagel",
-   "Eis",
-   "Schneeregen"
+   "hagel",
+   "eis",
+   "schneeregen"
   ]
  },
  {
@@ -10041,7 +10041,7 @@
   "CatID": "WTHR",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -10050,14 +10050,14 @@
   "CatID": "STORM",
   "SubCategory": "STURM",
   "Synonyms": [
-   "Wirbelsturm",
-   "Gewitter",
-   "Taifun",
-   "Graupel",
-   "Sandsturm",
-   "Tornado",
-   "Zyklon",
-   "Hagelsturm",
+   "wirbelsturm",
+   "gewitter",
+   "taifun",
+   "graupel",
+   "sandsturm",
+   "tornado",
+   "zyklon",
+   "hagelsturm",
    ""
   ]
  },
@@ -10067,15 +10067,15 @@
   "CatID": "THUN",
   "SubCategory": "GEWITTER",
   "Synonyms": [
-   "Gewitter",
-   "Blitz",
-   "Donnerschlag",
-   "Donnerkeil",
-   "Blitz",
-   "Donner",
-   "Knacken",
-   "Rollen",
-   "Grollen"
+   "gewitter",
+   "blitz",
+   "donnerschlag",
+   "donnerkeil",
+   "blitz",
+   "donner",
+   "knacken",
+   "rollen",
+   "grollen"
   ]
  },
  {
@@ -10084,11 +10084,11 @@
   "CatID": "WHSTHmn",
   "SubCategory": "MENSCHLICH",
   "Synonyms": [
-   "Pfeife",
-   "Jubel",
-   "Mensch",
-   "Wolfspfeife",
-   "Signal"
+   "pfeife",
+   "jubel",
+   "mensch",
+   "wolfspfeife",
+   "signal"
   ]
  },
  {
@@ -10097,12 +10097,12 @@
   "CatID": "WHSTMech",
   "SubCategory": "MECHANISCH",
   "Synonyms": [
-   "Dampfer",
-   "Schiedsrichter",
+   "dampfer",
+   "schiedsrichter",
    "pfeifen",
-   "Polizeipfeife",
-   "Teekanne",
-   "Zugpfeife"
+   "polizeipfeife",
+   "teekanne",
+   "zugpfeife"
   ]
  },
  {
@@ -10111,8 +10111,8 @@
   "CatID": "WHSTMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Schiedsrichter",
-   "Nasenfl\u00f6te"
+   "schiedsrichter",
+   "nasenfl\u00f6te"
   ]
  },
  {
@@ -10121,7 +10121,7 @@
   "CatID": "WINDDsgn",
   "SubCategory": "DESIGNED",
   "Synonyms": [
-   "Windmaschine",
+   "windmaschine",
    "synthetisch",
    "k\u00fcnstlich",
    "tonal"
@@ -10133,7 +10133,7 @@
   "CatID": "WIND",
   "SubCategory": "ALLGEMEIN",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -10142,14 +10142,14 @@
   "CatID": "WINDGust",
   "SubCategory": "B\u00d6E",
   "Synonyms": [
-   "B\u00f6e",
+   "b\u00f6e",
    "st\u00fcrmisch",
-   "Hauch",
-   "Brise",
-   "Buffet",
-   "Windhauch",
-   "Orkan",
-   "Sturmb\u00f6e"
+   "hauch",
+   "brise",
+   "buffet",
+   "windhauch",
+   "orkan",
+   "sturmb\u00f6e"
   ]
  },
  {
@@ -10158,11 +10158,11 @@
   "CatID": "WINDInt",
   "SubCategory": "INNEN",
   "Synonyms": [
-   "Innenraum",
-   "Fensterladen",
-   "Klappern",
-   "St\u00f6hnen",
-   "Zugluft"
+   "innenraum",
+   "fensterladen",
+   "klappern",
+   "st\u00f6hnen",
+   "zugluft"
   ]
  },
  {
@@ -10171,9 +10171,9 @@
   "CatID": "WINDTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "Heulen",
-   "Pfeifen",
-   "St\u00f6hnen",
+   "heulen",
+   "pfeifen",
+   "st\u00f6hnen",
    "tonal"
   ]
  },
@@ -10183,14 +10183,14 @@
   "CatID": "WINDTurb",
   "SubCategory": "TURBULENT",
   "Synonyms": [
-   "Buffet",
+   "buffet",
    "st\u00fcrmischer",
-   "Wind",
+   "wind",
    "starker",
-   "Wind",
+   "wind",
    "heftiger",
-   "Wind",
-   "Buffet"
+   "wind",
+   "buffet"
   ]
  },
  {
@@ -10199,13 +10199,13 @@
   "CatID": "WINDVege",
   "SubCategory": "VEGETATION",
   "Synonyms": [
-   "Laub",
-   "Vegetation",
-   "Gras",
-   "Baum",
-   "Blatt",
-   "Pflanze",
-   "Rascheln"
+   "laub",
+   "vegetation",
+   "gras",
+   "baum",
+   "blatt",
+   "pflanze",
+   "rascheln"
   ]
  },
  {
@@ -10214,11 +10214,11 @@
   "CatID": "WNDWCover",
   "SubCategory": "ABDECKUNG",
   "Synonyms": [
-   "Vorhang",
-   "Jalousie",
-   "Rollladen",
-   "Verdunkelung",
-   "Jalousien"
+   "vorhang",
+   "jalousie",
+   "rollladen",
+   "verdunkelung",
+   "jalousien"
   ]
  },
  {
@@ -10227,10 +10227,10 @@
   "CatID": "WNDWHdwr",
   "SubCategory": "BESCHL\u00c4GE",
   "Synonyms": [
-   "Fensterriegel",
-   "Fensterkurbeln",
-   "Fensterschloss",
-   "Fensterdichtung"
+   "fensterriegel",
+   "fensterkurbeln",
+   "fensterschloss",
+   "fensterdichtung"
   ]
  },
  {
@@ -10250,7 +10250,7 @@
   "CatID": "WNDWMetl",
   "SubCategory": "METALL",
   "Synonyms": [
-   "Metallrahmen"
+   "metallrahmen"
   ]
  },
  {
@@ -10259,7 +10259,7 @@
   "CatID": "WNDWMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -10268,7 +10268,7 @@
   "CatID": "WNDWPlas",
   "SubCategory": "KUNSTSTOFF",
   "Synonyms": [
-   "Kunststoffrahmen"
+   "kunststoffrahmen"
   ]
  },
  {
@@ -10277,7 +10277,7 @@
   "CatID": "WNDWWood",
   "SubCategory": "HOLZ",
   "Synonyms": [
-   "Holzrahmen"
+   "holzrahmen"
   ]
  },
  {
@@ -10286,7 +10286,7 @@
   "CatID": "WINGBird",
   "SubCategory": "VOGEL",
   "Synonyms": [
-   "Vogelfl\u00fcgel",
+   "vogelfl\u00fcgel",
    "flattern",
    "flattern"
   ]
@@ -10297,13 +10297,13 @@
   "CatID": "WINGCrea",
   "SubCategory": "KREATUR",
   "Synonyms": [
-   "Drachenfl\u00fcgel",
-   "Feenfl\u00fcgel",
-   "Greifenfl\u00fcgel",
-   "Sphinxfl\u00fcgel",
-   "Engelsfl\u00fcgel",
-   "Ph\u00f6nixfl\u00fcgel",
-   "Riesenvogelfl\u00fcgel"
+   "drachenfl\u00fcgel",
+   "feenfl\u00fcgel",
+   "greifenfl\u00fcgel",
+   "sphinxfl\u00fcgel",
+   "engelsfl\u00fcgel",
+   "ph\u00f6nixfl\u00fcgel",
+   "riesenvogelfl\u00fcgel"
   ]
  },
  {
@@ -10312,16 +10312,16 @@
   "CatID": "WINGInsc",
   "SubCategory": "INSEKT",
   "Synonyms": [
-   "Fliege",
-   "Biene",
-   "Libelle",
-   "Motte",
-   "Schmetterling",
-   "K\u00e4fer",
-   "Skarab\u00e4us",
-   "Hornisse",
-   "Wespe",
-   "Heuschrecke"
+   "fliege",
+   "biene",
+   "libelle",
+   "motte",
+   "schmetterling",
+   "k\u00e4fer",
+   "skarab\u00e4us",
+   "hornisse",
+   "wespe",
+   "heuschrecke"
   ]
  },
  {
@@ -10330,7 +10330,7 @@
   "CatID": "WINGMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {
@@ -10353,11 +10353,11 @@
   "CatID": "WOODCrsh",
   "SubCategory": "CRASH & TR\u00dcMMER",
   "Synonyms": [
-   "Fall",
-   "Tr\u00fcmmer",
-   "Absturz",
-   "Sturz",
-   "Holz"
+   "fall",
+   "tr\u00fcmmer",
+   "absturz",
+   "sturz",
+   "holz"
   ]
  },
  {
@@ -10366,11 +10366,11 @@
   "CatID": "WOODFric",
   "SubCategory": "FRIKTION",
   "Synonyms": [
-   "Belastung",
-   "Schrammen",
-   "Knarren",
-   "Quietschen",
-   "Quietschen"
+   "belastung",
+   "schrammen",
+   "knarren",
+   "quietschen",
+   "quietschen"
   ]
  },
  {
@@ -10411,7 +10411,7 @@
   "CatID": "WOODMisc",
   "SubCategory": "DIV",
   "Synonyms": [
-   "Verschiedenes"
+   "verschiedenes"
   ]
  },
  {

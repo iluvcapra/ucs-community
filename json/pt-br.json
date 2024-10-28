@@ -114,13 +114,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
+   "a310",
+   "a330",
+   "a350",
+   "a380",
    "avi\u00e3o",
    "de",
    "ca\u00e7a"
@@ -145,13 +145,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380"
+   "a310",
+   "a330",
+   "a350",
+   "a380"
   ]
  },
  {
@@ -186,12 +186,12 @@
    "trov\u00e3o",
    "lockheed",
    "mig",
-   "F18",
-   "F16",
-   "F35",
-   "F22",
-   "A10",
-   "P52"
+   "f18",
+   "f16",
+   "f35",
+   "f22",
+   "a10",
+   "p52"
   ]
  },
  {
@@ -350,7 +350,7 @@
    "fuma\u00e7a",
    "detector",
    "de",
-   "CO2",
+   "co2",
    "alarme",
    "de",
    "carro",
@@ -662,9 +662,9 @@
    "corrida",
    "do",
    "ouro",
-   "Roma",
+   "roma",
    "antiga",
-   "Gr\u00e9cia",
+   "gr\u00e9cia",
    "antiga"
   ]
  },
@@ -1686,7 +1686,7 @@
    "resposta",
    "a",
    "impulso",
-   "IR",
+   "ir",
    "altiverb",
    "amostra",
    "reverberante",
@@ -1718,8 +1718,8 @@
    "mistura",
    "final",
    "haste",
-   "M",
-   "E",
+   "m",
+   "e",
    "mixdown",
    "printmaster"
   ]
@@ -1893,9 +1893,9 @@
   "CatID": "BEEPMed",
   "SubCategory": "M\u00c9DICO",
   "Synonyms": [
-   "ECG",
-   "ECG",
-   "KDC",
+   "ecg",
+   "ecg",
+   "kdc",
    "monitor",
    "card\u00edaco",
    "linha",
@@ -2850,7 +2850,7 @@
   "Synonyms": [
    "jetsons",
    "engenhocas",
-   "Flintstones",
+   "flintstones",
    "carro",
    "contra",
    "ataque"
@@ -3120,7 +3120,7 @@
   "CatID": "CLOCKMech",
   "SubCategory": "MEC\u00c2NICA",
   "Synonyms": [
-   "Enrolamento",
+   "enrolamento",
    "engrenagens",
    "de",
    "rel\u00f3gio",
@@ -3256,7 +3256,7 @@
    "fita",
    "nagra",
    "walkman",
-   "CD",
+   "cd",
    "player",
    "carretel",
    "para",
@@ -3431,7 +3431,7 @@
    "futz",
    "programa",
    "de",
-   "TV",
+   "tv",
    "broadcast"
   ]
  },
@@ -3520,7 +3520,7 @@
   "CatID": "CREAAqua",
   "SubCategory": "AQU\u00c1TICA",
   "Synonyms": [
-   "Kraken",
+   "kraken",
    "sereia",
    "lula",
    "gigante"
@@ -5256,7 +5256,7 @@
   "CatID": "FIRETrch",
   "SubCategory": "TOCHA",
   "Synonyms": [
-   "Fogo",
+   "fogo",
    "rastilho",
    "tocha",
    "ti\u00e7\u00e3o",
@@ -6099,7 +6099,7 @@
    "gun",
    "uzi",
    "m249",
-   "M1919",
+   "m1919",
    "pistola",
    "de",
    "artilharia",
@@ -7044,8 +7044,8 @@
    "prensa",
    "de",
    "forma",
-   "F437",
-   "F450"
+   "f437",
+   "f450"
   ]
  },
  {
@@ -8963,7 +8963,7 @@
   "CatID": "RAINVege",
   "SubCategory": "VEGETA\u00c7\u00c3O",
   "Synonyms": [
-   "Chuva",
+   "chuva",
    "sobre",
    "uma",
    "superf\u00edcie",
@@ -9051,11 +9051,11 @@
   "CatID": "ROCKBrk",
   "SubCategory": "QUEBRA",
   "Synonyms": [
-   "Quebra",
-   "Rachaduras",
-   "Navios",
-   "Rachaduras",
-   "Crunches"
+   "quebra",
+   "rachaduras",
+   "navios",
+   "rachaduras",
+   "crunches"
   ]
  },
  {
@@ -9064,8 +9064,8 @@
   "CatID": "ROCKCrsh",
   "SubCategory": "COLIS\u00c3O E ESTILHA\u00c7OS",
   "Synonyms": [
-   "Queda",
-   "Detritos"
+   "queda",
+   "detritos"
   ]
  },
  {
@@ -9074,11 +9074,11 @@
   "CatID": "ROCKFric",
   "SubCategory": "FRIC\u00c7\u00c3O",
   "Synonyms": [
-   "Stress",
-   "Raspas",
-   "Rugas",
-   "Rasgos",
-   "Screech"
+   "stress",
+   "raspas",
+   "rugas",
+   "rasgos",
+   "screech"
   ]
  },
  {
@@ -9103,14 +9103,14 @@
   "CatID": "ROCKImpt",
   "SubCategory": "IMPACTO",
   "Synonyms": [
-   "Golpe",
-   "Queda",
-   "Impacto",
-   "Crash",
-   "Clunk",
-   "Clang",
-   "Clink",
-   "Chop"
+   "golpe",
+   "queda",
+   "impacto",
+   "crash",
+   "clunk",
+   "clang",
+   "clink",
+   "chop"
   ]
  },
  {
@@ -9128,10 +9128,10 @@
   "CatID": "ROCKMvmt",
   "SubCategory": "MOVIMENTO",
   "Synonyms": [
-   "Drag",
-   "Roll",
-   "Rattle",
-   "Shake"
+   "drag",
+   "roll",
+   "rattle",
+   "shake"
   ]
  },
  {
@@ -9140,11 +9140,11 @@
   "CatID": "ROCKTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "Curvado",
-   "Anel",
-   "Errado",
-   "Anel",
-   "Warp"
+   "curvado",
+   "anel",
+   "errado",
+   "anel",
+   "warp"
   ]
  },
  {
@@ -10402,7 +10402,7 @@
    "da",
    "pol\u00edcia",
    "van",
-   "SWAT"
+   "swat"
   ]
  },
  {
@@ -10546,7 +10546,7 @@
   "SubCategory": "MILITAR",
   "Synonyms": [
    "tanque",
-   "APC",
+   "apc",
    "porta",
    "pessoal",
    "blindado",
@@ -10628,7 +10628,7 @@
   "CatID": "VEHSkid",
   "SubCategory": "DERRAPAGEM",
   "Synonyms": [
-   "Pneu",
+   "pneu",
    "derrapar",
    "descascar",
    "escorregar",

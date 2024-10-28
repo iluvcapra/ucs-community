@@ -118,13 +118,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
+   "a310",
+   "a330",
+   "a350",
+   "a380",
    "jet",
    "da",
    "combattimento"
@@ -151,13 +151,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380"
+   "a310",
+   "a330",
+   "a350",
+   "a380"
   ]
  },
  {
@@ -195,12 +195,12 @@
    "thunderbirds",
    "lockheed",
    "mig",
-   "F18",
-   "F16",
-   "F35",
-   "F22",
-   "A10",
-   "P52"
+   "f18",
+   "f16",
+   "f35",
+   "f22",
+   "a10",
+   "p52"
   ]
  },
  {
@@ -348,7 +348,7 @@
    "fumo",
    "rilevatore",
    "di",
-   "CO2",
+   "co2",
    "allarme",
    "auto",
    "allarme",
@@ -665,9 +665,9 @@
    "all",
    "oro",
    "antica",
-   "Roma",
+   "roma",
    "antica",
-   "Grecia"
+   "grecia"
   ]
  },
  {
@@ -1588,7 +1588,7 @@
    "istrice",
    "porcellino",
    "d",
-   "India",
+   "india",
    "scoiattolo",
    "castoro",
    "gopher",
@@ -1690,7 +1690,7 @@
    "risposta",
    "all",
    "impulso",
-   "IR",
+   "ir",
    "altiverb",
    "campione",
    "di",
@@ -1721,8 +1721,8 @@
    "mix",
    "finale",
    "stem",
-   "M",
-   "E",
+   "m",
+   "e",
    "mixdown",
    "printmaster"
   ]
@@ -1895,8 +1895,8 @@
   "SubCategory": "MEDICO",
   "Synonyms": [
    "elettrocardiogramma",
-   "ECG",
-   "KDC",
+   "ecg",
+   "kdc",
    "monitor",
    "cardiaco",
    "flatline",
@@ -2824,11 +2824,11 @@
   "CatID": "TOONVeh",
   "SubCategory": "VEICOLO",
   "Synonyms": [
-   "Jetsons",
+   "jetsons",
    "aggeggio",
    "auto",
    "dei",
-   "Flintstones",
+   "flintstones",
    "ritorno",
    "di",
    "fiamma"
@@ -3229,7 +3229,7 @@
    "nagra",
    "walkman",
    "lettore",
-   "CD",
+   "cd",
    "reel",
    "to",
    "reel",
@@ -6026,7 +6026,7 @@
    "gun",
    "uzi",
    "m249",
-   "M1919",
+   "m1919",
    "pistola",
    "gatling",
    "minigun",
@@ -6966,8 +6966,8 @@
    "distilleria",
    "punzonatrice",
    "formatrice",
-   "F437",
-   "F450"
+   "f437",
+   "f450"
   ]
  },
  {
@@ -6993,7 +6993,7 @@
    "macchine",
    "a",
    "raggi",
-   "X",
+   "x",
    "risonanza",
    "magnetica",
    "cat",
@@ -8818,7 +8818,7 @@
   "CatID": "RAINVege",
   "SubCategory": "VEGETAZIONE",
   "Synonyms": [
-   "Pioggia",
+   "pioggia",
    "su",
    "una",
    "superficie",
@@ -8907,7 +8907,7 @@
   "CatID": "ROCKBrk",
   "SubCategory": "ROTTURA",
   "Synonyms": [
-   "Rotture",
+   "rotture",
    "crepe",
    "strappi",
    "frantumi",
@@ -8920,7 +8920,7 @@
   "CatID": "ROCKCrsh",
   "SubCategory": "DETRITI",
   "Synonyms": [
-   "Caduta",
+   "caduta",
    "detriti"
   ]
  },
@@ -8930,7 +8930,7 @@
   "CatID": "ROCKFric",
   "SubCategory": "SFREGAMENTO",
   "Synonyms": [
-   "Sollecitazione",
+   "sollecitazione",
    "graffi",
    "scricchiolii",
    "cigolii",
@@ -8958,7 +8958,7 @@
   "CatID": "ROCKImpt",
   "SubCategory": "IMPATTO",
   "Synonyms": [
-   "Colpo",
+   "colpo",
    "caduta",
    "impatto",
    "schianto",
@@ -8983,7 +8983,7 @@
   "CatID": "ROCKMvmt",
   "SubCategory": "MOVIMENTO",
   "Synonyms": [
-   "Trascinare",
+   "trascinare",
    "rotolare",
    "scuotere",
    "agitare"
@@ -8995,11 +8995,11 @@
   "CatID": "ROCKTonl",
   "SubCategory": "TONALE",
   "Synonyms": [
-   "Inchino",
-   "Anello",
-   "Wronk",
-   "Shing",
-   "Orditura"
+   "inchino",
+   "anello",
+   "wronk",
+   "shing",
+   "orditura"
   ]
  },
  {
@@ -10238,7 +10238,7 @@
    "della",
    "polizia",
    "furgone",
-   "SWAT"
+   "swat"
   ]
  },
  {
@@ -10353,7 +10353,7 @@
   "Synonyms": [
    "carro",
    "armato",
-   "APC",
+   "apc",
    "blindato",
    "humvee",
    "jeep"

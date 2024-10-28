@@ -116,13 +116,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
+   "a310",
+   "a330",
+   "a350",
+   "a380",
    "avi\u00f3n",
    "de",
    "combate"
@@ -149,13 +149,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380"
+   "a310",
+   "a330",
+   "a350",
+   "a380"
   ]
  },
  {
@@ -189,12 +189,12 @@
    "thunderbirds",
    "lockheed",
    "mig",
-   "F18",
-   "F16",
-   "F35",
-   "F22",
-   "A10",
-   "P52"
+   "f18",
+   "f16",
+   "f35",
+   "f22",
+   "a10",
+   "p52"
   ]
  },
  {
@@ -346,7 +346,7 @@
    "humo",
    "detector",
    "de",
-   "CO2",
+   "co2",
    "alarma",
    "de",
    "coche",
@@ -1685,7 +1685,7 @@
    "respuesta",
    "al",
    "impulso",
-   "IR",
+   "ir",
    "altiverb",
    "muestra",
    "de",
@@ -1717,8 +1717,8 @@
    "mezcla",
    "final",
    "stem",
-   "M",
-   "E",
+   "m",
+   "e",
    "mixdown",
    "printmaster"
   ]
@@ -1886,9 +1886,9 @@
   "CatID": "BEEPMed",
   "SubCategory": "MEDICO",
   "Synonyms": [
-   "EKG",
-   "ECG",
-   "KDC",
+   "ekg",
+   "ecg",
+   "kdc",
    "monitor",
    "card\u00edaco",
    "l\u00ednea",
@@ -2811,7 +2811,7 @@
    "coche",
    "de",
    "los",
-   "Picapiedra",
+   "picapiedra",
    "petardeo"
   ]
  },
@@ -3207,7 +3207,7 @@
    "walkman",
    "reproductor",
    "de",
-   "CD",
+   "cd",
    "carrete",
    "a",
    "carrete",
@@ -3381,7 +3381,7 @@
    "show",
    "programa",
    "futz",
-   "TV",
+   "tv",
    "show",
    "emisi\u00f3n"
   ]
@@ -5987,7 +5987,7 @@
    "gun",
    "uzi",
    "m249",
-   "M1919",
+   "m1919",
    "ametralladora",
    "gatling",
    "minigun",
@@ -6892,8 +6892,8 @@
    "prensa",
    "de",
    "formas",
-   "F437",
-   "F450"
+   "f437",
+   "f450"
   ]
  },
  {
@@ -8855,7 +8855,7 @@
   "CatID": "ROCKBrk",
   "SubCategory": "ROMPER",
   "Synonyms": [
-   "Roturas",
+   "roturas",
    "grietas",
    "desgarros",
    "destrozos",
@@ -8868,8 +8868,8 @@
   "CatID": "ROCKCrsh",
   "SubCategory": "CHOQUE Y ESCOMBROS",
   "Synonyms": [
-   "Ca\u00edda",
-   "Escombros"
+   "ca\u00edda",
+   "escombros"
   ]
  },
  {
@@ -8878,7 +8878,7 @@
   "CatID": "ROCKFric",
   "SubCategory": "FRICCI\u00d3N",
   "Synonyms": [
-   "Tensi\u00f3n",
+   "tensi\u00f3n",
    "rasgu\u00f1os",
    "crujidos",
    "chirridos",
@@ -8891,7 +8891,7 @@
   "CatID": "ROCKHndl",
   "SubCategory": "MANIPULAR",
   "Synonyms": [
-   "Manipular",
+   "manipular",
    "agarrar",
    "colocar",
    "recoger",
@@ -8906,7 +8906,7 @@
   "CatID": "ROCKImpt",
   "SubCategory": "IMPACTO",
   "Synonyms": [
-   "Golpear",
+   "golpear",
    "dejar",
    "caer",
    "impactar",
@@ -8932,7 +8932,7 @@
   "CatID": "ROCKMvmt",
   "SubCategory": "MOVIMIENTO",
   "Synonyms": [
-   "Arrastrar",
+   "arrastrar",
    "rodar",
    "traquetear",
    "sacudir"
@@ -8944,11 +8944,11 @@
   "CatID": "ROCKTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "Arquear",
-   "Anillo",
-   "Wronk",
-   "Shing",
-   "Deformar"
+   "arquear",
+   "anillo",
+   "wronk",
+   "shing",
+   "deformar"
   ]
  },
  {
@@ -10093,7 +10093,7 @@
    "autob\u00fas",
    "escolar",
    "autob\u00fas",
-   "Greyhound",
+   "greyhound",
    "autocar",
    "autob\u00fas",
    "tur\u00edstico",
@@ -10187,7 +10187,7 @@
    "de",
    "polic\u00eda",
    "furg\u00f3n",
-   "SWAT"
+   "swat"
   ]
  },
  {
@@ -10312,7 +10312,7 @@
   "SubCategory": "MILITAR",
   "Synonyms": [
    "tanque",
-   "APC",
+   "apc",
    "veh\u00edculo",
    "blindado",
    "de",

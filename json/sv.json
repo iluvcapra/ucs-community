@@ -51,7 +51,7 @@
   "CatID": "AERODoor",
   "SubCategory": "D\u00d6RR",
   "Synonyms": [
-   "Cockpitd\u00f6rr",
+   "cockpitd\u00f6rr",
    "flygplansd\u00f6rr",
    "lucka",
    "n\u00f6dutg\u00e5ng"
@@ -95,14 +95,14 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
+   "a310",
+   "a310",
+   "a330",
+   "a350",
+   "a380",
    "stridsflygplan",
    ""
   ]
@@ -123,14 +123,14 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A310",
-   "A330",
-   "A350",
-   "A380"
+   "a310",
+   "a310",
+   "a330",
+   "a350",
+   "a380"
   ]
  },
  {
@@ -160,12 +160,12 @@
    "thunderbirds",
    "lockheed",
    "mig",
-   "F18",
-   "F16",
-   "F35",
-   "F22",
-   "A10",
-   "P52"
+   "f18",
+   "f16",
+   "f35",
+   "f22",
+   "a10",
+   "p52"
   ]
  },
  {
@@ -212,7 +212,7 @@
   "CatID": "AERORadio",
   "SubCategory": "FJ\u00c4RRSTYRD",
   "Synonyms": [
-   "Fyrhjulingar",
+   "fyrhjulingar",
    "uav",
    "obemannade",
    "flygfarkoster",
@@ -289,9 +289,9 @@
   "CatID": "ALRMElec",
   "SubCategory": "ELEKTRONISK",
   "Synonyms": [
-   "Branddetektor",
+   "branddetektor",
    "r\u00f6kdetektor",
-   "CO2",
+   "co2",
    "detektor",
    "bilalarm",
    "hemlarm",
@@ -304,7 +304,7 @@
   "CatID": "ALRMMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -313,7 +313,7 @@
   "CatID": "ALRMSirn",
   "SubCategory": "SIREN",
   "Synonyms": [
-   "Klaxon",
+   "klaxon",
    "ahooga",
    "horn",
    "luftv\u00e4rnssiren",
@@ -539,7 +539,7 @@
   "CatID": "AMBGras",
   "SubCategory": "GR\u00c4SMARK",
   "Synonyms": [
-   "Pr\u00e4rie",
+   "pr\u00e4rie",
    "\u00e5kermark",
    "gr\u00e4s",
    "\u00e4ng",
@@ -561,10 +561,10 @@
    "guldrushen",
    "det",
    "antika",
-   "Rom",
+   "rom",
    "det",
    "antika",
-   "Grekland"
+   "grekland"
   ]
  },
  {
@@ -816,7 +816,7 @@
   "CatID": "AMBRest",
   "SubCategory": "RESTAURANG",
   "Synonyms": [
-   "Restaurang",
+   "restaurang",
    "bar",
    "pub",
    "gastropub",
@@ -849,7 +849,7 @@
   "CatID": "AMBRoom",
   "SubCategory": "RUMSATMOSF\u00c4R",
   "Synonyms": [
-   "Rumstoner",
+   "rumstoner",
    "d\u00f6d",
    "luft",
    "tyst",
@@ -887,7 +887,7 @@
   "CatID": "AMBSchl",
   "SubCategory": "SKOLA",
   "Synonyms": [
-   "Grundskola",
+   "grundskola",
    "mellanstadium",
    "h\u00f6gstadium",
    "universitet",
@@ -904,7 +904,7 @@
   "CatID": "AMBSci",
   "SubCategory": "SCI-FI",
   "Synonyms": [
-   "Rymdskepp",
+   "rymdskepp",
    "teknikcentral",
    "kommandocentral",
    "scifi",
@@ -1225,7 +1225,7 @@
   "CatID": "ANMLBat",
   "SubCategory": "FLADDERMUS",
   "Synonyms": [
-   "Flyghund",
+   "flyghund",
    "vampyrfladdermus",
    "fruktfladdermus",
    ""
@@ -1361,7 +1361,7 @@
   "CatID": "ANMLMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -1370,7 +1370,7 @@
   "CatID": "ANMLPrim",
   "SubCategory": "APA",
   "Synonyms": [
-   "Schimpans",
+   "schimpans",
    "apa",
    "gorilla",
    "lemur",
@@ -1406,7 +1406,7 @@
   "CatID": "ANMLRdnt",
   "SubCategory": "GNANGARE",
   "Synonyms": [
-   "Mus",
+   "mus",
    "m\u00f6ss",
    "r\u00e5tta",
    "ekorre",
@@ -1434,7 +1434,7 @@
   "CatID": "ANMLWild",
   "SubCategory": "VILDA DJUR",
   "Synonyms": [
-   "Bj\u00f6rn",
+   "bj\u00f6rn",
    "giraff",
    "flodh\u00e4st",
    "elefant",
@@ -1507,7 +1507,7 @@
   "SubCategory": "IMPULSRESPONS",
   "Synonyms": [
    "impulssvar",
-   "IR",
+   "ir",
    "altiverb",
    "reverbprov",
    "konvolutionsreverb",
@@ -1531,11 +1531,11 @@
   "CatID": "MIX",
   "SubCategory": "MIX",
   "Synonyms": [
-   "F\u00f6rmix",
+   "f\u00f6rmix",
    "slutmix",
    "stam",
-   "M",
-   "E",
+   "m",
+   "e",
    "mixdown",
    "printmaster",
    ""
@@ -1689,9 +1689,9 @@
   "CatID": "BEEPMed",
   "SubCategory": "SJUKV\u00c5RD",
   "Synonyms": [
-   "EKG",
-   "EKG",
-   "KDC",
+   "ekg",
+   "ekg",
+   "kdc",
    "hj\u00e4rtmonitor",
    "flatline",
    "ultraljud"
@@ -1741,7 +1741,7 @@
   "CatID": "BELLDoor",
   "SubCategory": "D\u00d6RR",
   "Synonyms": [
-   "D\u00f6rrklocka",
+   "d\u00f6rrklocka",
    "d\u00f6rrklocka",
    "ding",
    "dong",
@@ -1842,7 +1842,7 @@
   "CatID": "BIRDFowl",
   "SubCategory": "FJ\u00c4DERF\u00c4",
   "Synonyms": [
-   "H\u00f6ns",
+   "h\u00f6ns",
    "fasaner",
    "kalkoner",
    "g\u00e4ss",
@@ -1887,7 +1887,7 @@
   "CatID": "BIRDSea",
   "SubCategory": "SJ\u00d6F\u00c5GEL",
   "Synonyms": [
-   "M\u00e5s",
+   "m\u00e5s",
    "soth\u00f6na",
    "albatross",
    "skarv",
@@ -1917,7 +1917,7 @@
   "CatID": "BIRDSong",
   "SubCategory": "S\u00c5NGF\u00c5GEL",
   "Synonyms": [
-   "Duva",
+   "duva",
    "flugsnappare",
    "gropn\u00e4bb",
    "spottf\u00e5gel",
@@ -1959,7 +1959,7 @@
   "CatID": "BIRDTrop",
   "SubCategory": "TROPISK",
   "Synonyms": [
-   "Papegoja",
+   "papegoja",
    "tukan",
    "kookaburra",
    "lyrf\u00e5gel",
@@ -1980,7 +1980,7 @@
   "CatID": "BIRDWade",
   "SubCategory": "VADARE",
   "Synonyms": [
-   "Trana",
+   "trana",
    "h\u00e4ger",
    "flamingo",
    "ibis",
@@ -2116,7 +2116,7 @@
   "CatID": "BOATMil",
   "SubCategory": "MILIT\u00c4R",
   "Synonyms": [
-   "Patrullb\u00e5t",
+   "patrullb\u00e5t",
    "f\u00f6rst\u00f6rare",
    "kryssare",
    "slagkryssare",
@@ -2186,7 +2186,7 @@
   "CatID": "BOATSail",
   "SubCategory": "SEGELB\u00c5T",
   "Synonyms": [
-   "Segelb\u00e5t",
+   "segelb\u00e5t",
    "skonare",
    "yawl",
    "sloop",
@@ -2361,7 +2361,7 @@
   "CatID": "TOONImpt",
   "SubCategory": "SM\u00c4LL",
   "Synonyms": [
-   "Bonk",
+   "bonk",
    "boink",
    "doink"
   ]
@@ -2419,7 +2419,7 @@
   "CatID": "TOONPop",
   "SubCategory": "PLOPP",
   "Synonyms": [
-   "Pop",
+   "pop",
    "pistol",
    "mun",
    "pop",
@@ -2443,7 +2443,7 @@
   "CatID": "TOONSplt",
   "SubCategory": "SMACK",
   "Synonyms": [
-   "Splat",
+   "splat",
    "splort",
    "squish"
   ]
@@ -2494,7 +2494,7 @@
   "Synonyms": [
    "jetsons",
    "apparat",
-   "Flintstones",
+   "flintstones",
    "bil",
    "backfire"
   ]
@@ -2527,7 +2527,7 @@
   "CatID": "TOONWhis",
   "SubCategory": "VISSLA",
   "Synonyms": [
-   "Slide",
+   "slide",
    "whistle",
    "visselpipa"
   ]
@@ -2709,7 +2709,7 @@
   "CatID": "CHAINMvmt",
   "SubCategory": "R\u00d6RELSE",
   "Synonyms": [
-   "Drag",
+   "drag",
    "handbojor",
    "f\u00e4ngelsekedja",
    "hundkedja",
@@ -2906,7 +2906,7 @@
   "CatID": "COMCam",
   "SubCategory": "KAMERA",
   "Synonyms": [
-   "Kameraslutare",
+   "kameraslutare",
    "upprullning",
    "blixtlampa",
    "kodak",
@@ -3034,13 +3034,13 @@
   "CatID": "COMTv",
   "SubCategory": "TV",
   "Synonyms": [
-   "TV",
+   "tv",
    "fj\u00e4rrkontroll",
    "ringa",
    "visa",
    "program",
    "futz",
-   "TV",
+   "tv",
    "program",
    "s\u00e4ndning"
   ]
@@ -3106,10 +3106,10 @@
   "CatID": "CMPTMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Palm",
-   "Pilot",
-   "Pocket",
-   "PC"
+   "palm",
+   "pilot",
+   "pocket",
+   "pc"
   ]
  },
  {
@@ -3244,7 +3244,7 @@
    "bigfoot",
    "tr\u00e4skdjur",
    "varulv",
-   "Frankenstein",
+   "frankenstein",
    "mumie"
   ]
  },
@@ -3273,13 +3273,13 @@
   "CatID": "CREAMnstr",
   "SubCategory": "MONSTER",
   "Synonyms": [
-   "Godzilla",
-   "King",
-   "Kong",
-   "Rancor",
-   "Behemoth",
-   "Xenomorph",
-   "Chupacabra",
+   "godzilla",
+   "king",
+   "kong",
+   "rancor",
+   "behemoth",
+   "xenomorph",
+   "chupacabra",
    ""
   ]
  },
@@ -3289,7 +3289,7 @@
   "CatID": "CREARept",
   "SubCategory": "REPTIL",
   "Synonyms": [
-   "Orm",
+   "orm",
    "orm",
    "ormstj\u00e4rna",
    "j\u00e4tte\u00f6dla",
@@ -3472,7 +3472,7 @@
   "CatID": "CRWDLaff",
   "SubCategory": "SKRATT",
   "Synonyms": [
-   "TV",
+   "tv",
    "program",
    "konserverat",
    "skratt",
@@ -3498,7 +3498,7 @@
   "CatID": "CRWDMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -3507,7 +3507,7 @@
   "CatID": "CRWDPanic",
   "SubCategory": "PANIK",
   "Synonyms": [
-   "Panik",
+   "panik",
    "kaos",
    "skrik",
    "skrik",
@@ -3750,7 +3750,7 @@
   "CatID": "DSGNRythm",
   "SubCategory": "RYTMISK",
   "Synonyms": [
-   "Stottrande",
+   "stottrande",
    "glitch",
    "puls",
    "stattaco"
@@ -3832,7 +3832,7 @@
   "CatID": "DSGNWhsh",
   "SubCategory": "SVISCH",
   "Synonyms": [
-   "Whoosh",
+   "whoosh",
    "trailer",
    "swish",
    "swish"
@@ -4086,7 +4086,7 @@
   "CatID": "DOORHdwr",
   "SubCategory": "BESLAG",
   "Synonyms": [
-   "D\u00f6rrhandtag",
+   "d\u00f6rrhandtag",
    "l\u00e5sbult",
    "tryckst\u00e5ng",
    "kedjel\u00e5s",
@@ -4104,7 +4104,7 @@
   "CatID": "DOORTech",
   "SubCategory": "HI-TECH",
   "Synonyms": [
-   "D\u00f6rr",
+   "d\u00f6rr",
    "till",
    "labb"
   ]
@@ -4115,7 +4115,7 @@
   "CatID": "DOORHydr",
   "SubCategory": "HUDRAULISK & PNEUMATISK",
   "Synonyms": [
-   "D\u00f6rrst\u00e4ngare",
+   "d\u00f6rrst\u00e4ngare",
    "pneumatisk",
    "hydraulisk",
    "elektrisk",
@@ -4251,7 +4251,7 @@
   "CatID": "DRWRMetl",
   "SubCategory": "METALL",
   "Synonyms": [
-   "Verktygsl\u00e5da",
+   "verktygsl\u00e5da",
    "rackl\u00e5da",
    "arkivsk\u00e5p",
    "kassaapparat",
@@ -4265,7 +4265,7 @@
   "CatID": "DRWRMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -4294,7 +4294,7 @@
   "CatID": "ELECArc",
   "SubCategory": "B\u00c5GE",
   "Synonyms": [
-   "Jacobs",
+   "jacobs",
    "stege",
    "tesla",
    "spiral",
@@ -4311,7 +4311,7 @@
   "CatID": "ELECBuzz",
   "SubCategory": "SURR",
   "Synonyms": [
-   "Jordbrum",
+   "jordbrum",
    "f\u00f6rst\u00e4rkarbrum",
    "f\u00f6rst\u00e4rkarbrum",
    "h\u00f6gtalarbrum",
@@ -4341,7 +4341,7 @@
   "CatID": "ELECMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -4388,7 +4388,7 @@
   "CatID": "EQUIPTech",
   "SubCategory": "HI-TECH",
   "Synonyms": [
-   "Rymddr\u00e4kt",
+   "rymddr\u00e4kt",
    "anv\u00e4ndningsb\u00e4lte"
   ]
  },
@@ -4526,7 +4526,7 @@
   "CatID": "FGHTBf",
   "SubCategory": "FALL",
   "Synonyms": [
-   "Kroppsfall",
+   "kroppsfall",
    "kroppsdrag",
    "handgem\u00e4ng",
    "kroppsslag",
@@ -4782,7 +4782,7 @@
   "CatID": "FOLYClth",
   "SubCategory": "TYG",
   "Synonyms": [
-   "Rus",
+   "rus",
    "r\u00f6relse",
    "mvmt",
    "zuzz"
@@ -4837,7 +4837,7 @@
   "CatID": "FOODCook",
   "SubCategory": "MATLAGNING",
   "Synonyms": [
-   "Hacka",
+   "hacka",
    "skiva",
    "t\u00e4rning",
    "blanda",
@@ -4957,7 +4957,7 @@
   "CatID": "FOODMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -5089,7 +5089,7 @@
   "CatID": "GAMECas",
   "SubCategory": "KASINO",
   "Synonyms": [
-   "Roulette",
+   "roulette",
    "spelautomat",
    "craps",
    "moneywheel",
@@ -5229,7 +5229,7 @@
   "CatID": "GLASFric",
   "SubCategory": "FRIKTION",
   "Synonyms": [
-   "Stress",
+   "stress",
    "skrapning",
    "kn\u00e4ppning",
    "gnissel",
@@ -5378,7 +5378,7 @@
   "CatID": "GOREOoze",
   "SubCategory": "RINNA",
   "Synonyms": [
-   "Slem",
+   "slem",
    "slem",
    "fl\u00f6de",
    "gelatin"
@@ -5473,7 +5473,7 @@
   "CatID": "GUNAntq",
   "SubCategory": "ANTIK",
   "Synonyms": [
-   "Mufflada",
+   "mufflada",
    "musk\u00f6t",
    "svartkrut",
    "flintl\u00e5s",
@@ -5511,7 +5511,7 @@
    "gun",
    "uzi",
    "m249",
-   "M1919",
+   "m1919",
    "gatling",
    "gun",
    "minigun",
@@ -5524,7 +5524,7 @@
   "CatID": "GUNCano",
   "SubCategory": "KANON",
   "Synonyms": [
-   "Blunderbuss",
+   "blunderbuss",
    "handkanon",
    "kanon",
    "svartkrut"
@@ -5578,7 +5578,7 @@
   "CatID": "GUNMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Fackelpistol",
+   "fackelpistol",
    "luftpistol",
    "paintballpistol",
    ""
@@ -6170,7 +6170,7 @@
   "CatID": "LIQImpt",
   "SubCategory": "PLASK",
   "Synonyms": [
-   "Splat",
+   "splat",
    "splatter",
    "hit",
    "impact",
@@ -6243,7 +6243,7 @@
   "CatID": "MACHAntq",
   "SubCategory": "ANTIK",
   "Synonyms": [
-   "Tryckpress",
+   "tryckpress",
    "symaskin",
    "olivpress",
    "sm\u00f6rkvarn",
@@ -6256,7 +6256,7 @@
   "CatID": "MACHAppl",
   "SubCategory": "HUSH\u00c5LLSAPPARAT",
   "Synonyms": [
-   "Ugn",
+   "ugn",
    "kylsk\u00e5p",
    "kylsk\u00e5p",
    "mixer",
@@ -6287,7 +6287,7 @@
   "CatID": "MACHCnst",
   "SubCategory": "BYGGE",
   "Synonyms": [
-   "Kran",
+   "kran",
    "cementblandare",
    "flishuggare"
   ]
@@ -6310,7 +6310,7 @@
   "CatID": "MACHEscl",
   "SubCategory": "RULLTRAPPA",
   "Synonyms": [
-   "Travelator",
+   "travelator",
    "rullbana",
    "rullande",
    "g\u00e5ngbana"
@@ -6322,7 +6322,7 @@
   "CatID": "MACHFan",
   "SubCategory": "FL\u00c4KT",
   "Synonyms": [
-   "Fl\u00e4kt",
+   "fl\u00e4kt",
    "takfl\u00e4kt",
    "boxfl\u00e4kt",
    "industrifl\u00e4kt",
@@ -6337,7 +6337,7 @@
   "CatID": "MACHGrdn",
   "SubCategory": "TR\u00c4DG\u00c5RD",
   "Synonyms": [
-   "Gr\u00e4sklippare",
+   "gr\u00e4sklippare",
    "ogr\u00e4srensare",
    "kantsk\u00e4rare",
    "motors\u00e5g",
@@ -6354,7 +6354,7 @@
   "CatID": "MACHGym",
   "SubCategory": "GYM",
   "Synonyms": [
-   "L\u00f6pband",
+   "l\u00f6pband",
    "eliptisk",
    "maskin",
    "roddmaskin",
@@ -6401,8 +6401,8 @@
    "br\u00e4nneri",
    "stanspress",
    "formpress",
-   "F437",
-   "F450"
+   "f437",
+   "f450"
   ]
  },
  {
@@ -6424,7 +6424,7 @@
   "CatID": "MACHMed",
   "SubCategory": "SJUKV\u00c5RD",
   "Synonyms": [
-   "R\u00f6ntgenapparater",
+   "r\u00f6ntgenapparater",
    "mri",
    "cat",
    "scan",
@@ -6444,7 +6444,7 @@
   "CatID": "MACHMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -6453,7 +6453,7 @@
   "CatID": "MACHOffc",
   "SubCategory": "KONTOR",
   "Synonyms": [
-   "Fax",
+   "fax",
    "fax",
    "telefax",
    "kopieringsmaskin",
@@ -6475,7 +6475,7 @@
   "CatID": "MACHPump",
   "SubCategory": "PUMP",
   "Synonyms": [
-   "Vattenpump",
+   "vattenpump",
    "sumppump",
    "kompressor",
    "luftkompressor",
@@ -6776,7 +6776,7 @@
   "CatID": "METLFric",
   "SubCategory": "FRIKTION",
   "Synonyms": [
-   "Stress",
+   "stress",
    "skrapning",
    "kn\u00e4ppning",
    "gnissel",
@@ -6925,7 +6925,7 @@
   "CatID": "MOTRTurb",
   "SubCategory": "TURBIN",
   "Synonyms": [
-   "V\u00e4derkvarn",
+   "v\u00e4derkvarn",
    "flygplan",
    "flygplan",
    "generator"
@@ -7063,7 +7063,7 @@
   "CatID": "MUSCBell",
   "SubCategory": "CHIME",
   "Synonyms": [
-   "R\u00f6rklockor",
+   "r\u00f6rklockor",
    "carillon",
    "gamelan",
    "klangsk\u00e5l",
@@ -7129,7 +7129,7 @@
   "CatID": "MUSCExpr",
   "SubCategory": "EXPERIMENTELL",
   "Synonyms": [
-   "Theremin",
+   "theremin",
    "glasarmoniak",
    "pyrofon",
    "stylofon",
@@ -7273,7 +7273,7 @@
   "CatID": "MUSCSmpl",
   "SubCategory": "SAMPLING",
   "Synonyms": [
-   "Samplar",
+   "samplar",
    "r\u00e5a",
    "samplingar",
    "enstaka",
@@ -7376,7 +7376,7 @@
   "CatID": "MUSCWind",
   "SubCategory": "TR\u00c4BL\u00c5S",
   "Synonyms": [
-   "Fl\u00f6jt",
+   "fl\u00f6jt",
    "piccolo",
    "oboe",
    "fagott",
@@ -7443,7 +7443,7 @@
   "CatID": "NATDTsun",
   "SubCategory": "TSUNAMI",
   "Synonyms": [
-   "Tidvattenv\u00e5g",
+   "tidvattenv\u00e5g",
    "tsunami"
   ]
  },
@@ -7479,7 +7479,7 @@
   "CatID": "OBJBag",
   "SubCategory": "V\u00c4SKA",
   "Synonyms": [
-   "Duffle",
+   "duffle",
    "ryggs\u00e4ck",
    "ryggs\u00e4ck",
    "v\u00e4ska",
@@ -7538,7 +7538,7 @@
   "CatID": "OBJCont",
   "SubCategory": "BEH\u00c5LLARE",
   "Synonyms": [
-   "L\u00e5da",
+   "l\u00e5da",
    "kartongl\u00e5da",
    "beh\u00e5llare",
    "f\u00f6rpackning",
@@ -7594,7 +7594,7 @@
   "CatID": "OBJFurn",
   "SubCategory": "M\u00d6BEL",
   "Synonyms": [
-   "Chesterfield",
+   "chesterfield",
    "soffa",
    "gungstol",
    "bord",
@@ -7615,7 +7615,7 @@
   "CatID": "OBJGrdn",
   "SubCategory": "TR\u00c4DG\u00c5RD",
   "Synonyms": [
-   "Blomkruka",
+   "blomkruka",
    "tr\u00e4dg\u00e5rdsskulptur",
    "slang",
    "kran",
@@ -7631,7 +7631,7 @@
   "CatID": "OBJGym",
   "SubCategory": "GYM",
   "Synonyms": [
-   "Vikt",
+   "vikt",
    "hantel",
    "skivst\u00e5ng",
    "matta",
@@ -7707,7 +7707,7 @@
   "CatID": "OBJMed",
   "SubCategory": "SJUKV\u00c5RD",
   "Synonyms": [
-   "Manuell",
+   "manuell",
    "blodtrycksm\u00e4tare",
    "stetoskop",
    "gummihandskar",
@@ -7722,7 +7722,7 @@
   "CatID": "OBJMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -7782,7 +7782,7 @@
   "CatID": "OBJUmbr",
   "SubCategory": "PARAPLY",
   "Synonyms": [
-   "Skaka",
+   "skaka",
    "prassla",
    "kn\u00e4ppa",
    "kn\u00e4ppa",
@@ -7796,7 +7796,7 @@
   "CatID": "OBJWhled",
   "SubCategory": "VAGN",
   "Synonyms": [
-   "Barnvagn",
+   "barnvagn",
    "barnvagn",
    "rullstol",
    "rullator",
@@ -7901,7 +7901,7 @@
   "CatID": "PAPRMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -8131,7 +8131,7 @@
   "CatID": "RAINVege",
   "SubCategory": "V\u00c4XTLIGHET",
   "Synonyms": [
-   "Regn",
+   "regn",
    "p\u00e5",
    "en",
    "metallyta",
@@ -8217,7 +8217,7 @@
   "CatID": "ROCKBrk",
   "SubCategory": "BRYTA",
   "Synonyms": [
-   "Bryter",
+   "bryter",
    "spricker",
    "sliter",
    "krossar",
@@ -8231,7 +8231,7 @@
   "CatID": "ROCKCrsh",
   "SubCategory": "KRASCH & BITAR",
   "Synonyms": [
-   "Fall",
+   "fall",
    "skr\u00e4p"
   ]
  },
@@ -8241,7 +8241,7 @@
   "CatID": "ROCKFric",
   "SubCategory": "FRIKTION",
   "Synonyms": [
-   "Stress",
+   "stress",
    "skrapor",
    "kryp",
    "gnissel",
@@ -8272,7 +8272,7 @@
   "CatID": "ROCKImpt",
   "SubCategory": "SM\u00c4LL",
   "Synonyms": [
-   "Sl\u00e5",
+   "sl\u00e5",
    "falla",
    "sl\u00e5",
    "krascha",
@@ -8291,7 +8291,7 @@
   "CatID": "ROCKMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -8300,7 +8300,7 @@
   "CatID": "ROCKMvmt",
   "SubCategory": "R\u00d6RELSE",
   "Synonyms": [
-   "Dra",
+   "dra",
    "rulla",
    "skramla",
    "skaka"
@@ -8312,11 +8312,11 @@
   "CatID": "ROCKTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "B\u00f6jd",
-   "Ring",
-   "Wronk",
-   "Shing",
-   "Warp"
+   "b\u00f6jd",
+   "ring",
+   "wronk",
+   "shing",
+   "warp"
   ]
  },
  {
@@ -8465,7 +8465,7 @@
   "CatID": "RUBRMvmt",
   "SubCategory": "R\u00d6RELSE",
   "Synonyms": [
-   "R\u00f6relse",
+   "r\u00f6relse",
    "dra",
    "flaxa",
    "floppa",
@@ -8527,7 +8527,7 @@
   "CatID": "SCIEnrg",
   "SubCategory": "ENERGI",
   "Synonyms": [
-   "Partikel",
+   "partikel",
    "virvel",
    "transport\u00f6r",
    "hologram",
@@ -8541,7 +8541,7 @@
   "CatID": "SCIImpt",
   "SubCategory": "SM\u00c4LL",
   "Synonyms": [
-   "Energislag",
+   "energislag",
    "energiv\u00e5g",
    "kraftf\u00e4lt"
   ]
@@ -8621,7 +8621,7 @@
   "CatID": "SCIWeap",
   "SubCategory": "VAPEN",
   "Synonyms": [
-   "Ljusstavar",
+   "ljusstavar",
    "exotiska",
    "vapen"
   ]
@@ -8694,7 +8694,7 @@
   "CatID": "SNOWMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -8734,7 +8734,7 @@
   "CatID": "SPRTField",
   "SubCategory": "F\u00c4LT",
   "Synonyms": [
-   "Fotboll",
+   "fotboll",
    "fotboll",
    "baseball",
    "ishockey",
@@ -8751,7 +8751,7 @@
   "CatID": "SPRTGym",
   "SubCategory": "GYM",
   "Synonyms": [
-   "Boxning",
+   "boxning",
    "brottning",
    "gymnastik",
    "styrketr\u00e4ning",
@@ -8773,7 +8773,7 @@
   "CatID": "SPRTIndor",
   "SubCategory": "HALL",
   "Synonyms": [
-   "Bowling",
+   "bowling",
    "biljard",
    "pingis",
    "dart",
@@ -8786,7 +8786,7 @@
   "CatID": "SPRTMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Golf"
+   "golf"
   ]
  },
  {
@@ -8795,7 +8795,7 @@
   "CatID": "SPRTSkate",
   "SubCategory": "SKRIDSKOR",
   "Synonyms": [
-   "Skateboard",
+   "skateboard",
    "rullskridskor",
    "rullskridskor",
    "rullskridskor",
@@ -8822,7 +8822,7 @@
   "CatID": "SPRTWatr",
   "SubCategory": "VATTEN",
   "Synonyms": [
-   "Simning",
+   "simning",
    "vattenpolo",
    "vattenvolleyboll",
    "dykning",
@@ -8840,7 +8840,7 @@
   "CatID": "SPRTWntr",
   "SubCategory": "VINTER",
   "Synonyms": [
-   "Skid\u00e5kning",
+   "skid\u00e5kning",
    "snowboarding",
    "bobslide",
    "skridsko\u00e5kning",
@@ -8880,7 +8880,7 @@
   "CatID": "TOOLGrdn",
   "SubCategory": "TR\u00c4DG\u00c5RD",
   "Synonyms": [
-   "Kratta",
+   "kratta",
    "hack",
    "spade",
    "spade",
@@ -8924,7 +8924,7 @@
   "CatID": "TOOLMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Diverse"
+   "diverse"
   ]
  },
  {
@@ -8933,7 +8933,7 @@
   "CatID": "TOOLPneu",
   "SubCategory": "TRYCKLYFT",
   "Synonyms": [
-   "Jackhammer",
+   "jackhammer",
    "tryckluftsverktyg",
    "tryckluftskratsch",
    "spikpistoler",
@@ -8980,7 +8980,7 @@
   "CatID": "TOYMech",
   "SubCategory": "MEKANISK",
   "Synonyms": [
-   "Upprullningsleksak",
+   "upprullningsleksak",
    "leksaksrobot",
    "lindande",
    "leksak",
@@ -8993,7 +8993,7 @@
   "CatID": "TOYMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Actionfigur",
+   "actionfigur",
    "docka",
    "uppstoppat",
    "djur",
@@ -9027,7 +9027,7 @@
   "CatID": "TRNDoor",
   "SubCategory": "D\u00d6RR",
   "Synonyms": [
-   "T\u00e5gd\u00f6rr",
+   "t\u00e5gd\u00f6rr",
    "tunnelbaned\u00f6rr"
   ]
  },
@@ -9075,7 +9075,7 @@
   "CatID": "TRNHorn",
   "SubCategory": "TUTA",
   "Synonyms": [
-   "T\u00e5ghorn",
+   "t\u00e5ghorn",
    "tunnelbanehorn",
    ""
   ]
@@ -9122,7 +9122,7 @@
   "CatID": "TRNSteam",
   "SubCategory": "\u00c5NGA",
   "Synonyms": [
-   "\u00c5ngt\u00e5g",
+   "\u00e5ngt\u00e5g",
    "kolt\u00e5g"
   ]
  },
@@ -9280,7 +9280,7 @@
   "CatID": "VEGETree",
   "SubCategory": "TR\u00c4D",
   "Synonyms": [
-   "Tr\u00e4d",
+   "tr\u00e4d",
    "faller",
    "grenar",
    "kn\u00e4cks",
@@ -9433,7 +9433,7 @@
   "CatID": "VEHElec",
   "SubCategory": "ELETRISK",
   "Synonyms": [
-   "Segway",
+   "segway",
    "golfbil",
    "elektrisk",
    "skoter",
@@ -9456,7 +9456,7 @@
    "brandbil",
    "ambulans",
    "polisbil",
-   "SWAT",
+   "swat",
    "bil"
   ]
  },
@@ -9466,7 +9466,7 @@
   "CatID": "VEHFarm",
   "SubCategory": "LANTBRUK",
   "Synonyms": [
-   "Traktor",
+   "traktor",
    "sk\u00f6rdetr\u00f6ska",
    "skalare",
    "sk\u00f6rdare",
@@ -9578,7 +9578,7 @@
   "SubCategory": "MILIT\u00c4R",
   "Synonyms": [
    "stridsvagn",
-   "APC",
+   "apc",
    "pansarfordon",
    "humvee",
    "jeep"
@@ -9590,7 +9590,7 @@
   "CatID": "VEHMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "Sn\u00f6skoter"
+   "sn\u00f6skoter"
   ]
  },
  {
@@ -9704,15 +9704,15 @@
   "CatID": "VEHUtil",
   "SubCategory": "HJ\u00c4LPMEDEL",
   "Synonyms": [
-   "UTV",
-   "SXS",
+   "utv",
+   "sxs",
    "side",
    "by",
    "side",
-   "RZR",
-   "Ranger",
-   "Cushman",
-   "Gator"
+   "rzr",
+   "ranger",
+   "cushman",
+   "gator"
   ]
  },
  {
@@ -10338,7 +10338,7 @@
   "CatID": "WEAPPole",
   "SubCategory": "SPJUT",
   "Synonyms": [
-   "Spjut",
+   "spjut",
    "spjut",
    "spets",
    "harpun",
@@ -10355,7 +10355,7 @@
   "CatID": "WEAPSiege",
   "SubCategory": "SLUNGA",
   "Synonyms": [
-   "Katapult",
+   "katapult",
    "trebuchet",
    "slagtr\u00e4",
    "ballista",
@@ -10424,7 +10424,7 @@
   "CatID": "STORM",
   "SubCategory": "STORM",
   "Synonyms": [
-   "Orkan",
+   "orkan",
    "\u00e5skv\u00e4der",
    "tyfon",
    "sn\u00f6",
@@ -10654,7 +10654,7 @@
   "CatID": "WNDWWood",
   "SubCategory": "TR\u00c4",
   "Synonyms": [
-   "Tr\u00e4ram"
+   "tr\u00e4ram"
   ]
  },
  {

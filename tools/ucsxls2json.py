@@ -77,8 +77,11 @@ for lang in langs:
             if key_name == 'Synonyms':
                 # synonyms are stored in the spreadsheet as CSV, we should 
                 # normalize this. 
-                category['Synonyms'] = re.split(r'\W+', category['Synonyms'])
-                
+                syns_raw = category['Synonyms']
+                assert type(syns_raw) == str, \
+                        f"Synonym list (lang: {lang}, {category['CatID']}) was not readable"
+                syn_list = re.split(r'\W+', syns_raw)
+                category['Synonyms'] = [s.lower() for s in syn_list]
         
         schedule.append(category)
 

@@ -104,13 +104,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
+   "a310",
+   "a330",
+   "a350",
+   "a380",
    "fighter",
    "jet"
   ]
@@ -133,13 +133,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380"
+   "a310",
+   "a330",
+   "a350",
+   "a380"
   ]
  },
  {
@@ -170,12 +170,12 @@
    "thunderbirds",
    "lockheed",
    "mig",
-   "F18",
-   "F16",
-   "F35",
-   "F22",
-   "A10",
-   "P52"
+   "f18",
+   "f16",
+   "f35",
+   "f22",
+   "a10",
+   "p52"
   ]
  },
  {
@@ -322,7 +322,7 @@
    "czujnik",
    "dymu",
    "czujnik",
-   "CO2",
+   "co2",
    "alarm",
    "samochodowy",
    "alarm",
@@ -613,9 +613,9 @@
    "gor\u0105czka",
    "z\u0142ota",
    "staro\u017cytny",
-   "Rzym",
+   "rzym",
    "staro\u017cytna",
-   "Grecja"
+   "grecja"
   ]
  },
  {
@@ -1584,7 +1584,7 @@
   "Synonyms": [
    "odpowied\u017a",
    "impulsowa",
-   "IR",
+   "ir",
    "altiverb",
    "pr\u00f3bka",
    "pog\u0142osu",
@@ -1613,8 +1613,8 @@
    "ko\u0144cowy",
    "mix",
    "stem",
-   "M",
-   "E",
+   "m",
+   "e",
    "mixdown",
    "printmaster"
   ]
@@ -1775,13 +1775,13 @@
   "CatID": "BEEPMed",
   "SubCategory": "APARATURA MEDYCZNA",
   "Synonyms": [
-   "EKG",
-   "EKG",
-   "KDC",
+   "ekg",
+   "ekg",
+   "kdc",
    "monitor",
    "serca",
    "flatline",
-   "USG"
+   "usg"
   ]
  },
  {
@@ -1807,7 +1807,7 @@
   "CatID": "BEEPVeh",
   "SubCategory": "POJAZD",
   "Synonyms": [
-   "Sygna\u0142",
+   "sygna\u0142",
    "d\u017awi\u0119kowy",
    "w\u00f3zka",
    "wid\u0142owego",
@@ -2534,8 +2534,8 @@
    "maszyna",
    "komiczna",
    "maszyna",
-   "Rube",
-   "Goldberga"
+   "rube",
+   "goldberga"
   ]
  },
  {
@@ -2651,8 +2651,8 @@
   "Synonyms": [
    "jetsons",
    "contraption",
-   "Samoch\u00f3d",
-   "Flintstones",
+   "samoch\u00f3d",
+   "flintstones",
    "backfire"
   ]
  },
@@ -3045,7 +3045,7 @@
    "nagra",
    "walkman",
    "odtwarzacz",
-   "CD",
+   "cd",
    "reel",
    "to",
    "reel",
@@ -3580,8 +3580,8 @@
    "urodziny",
    "nowe",
    "lata",
-   "Bo\u017ce",
-   "Narodzenie",
+   "bo\u017ce",
+   "narodzenie",
    "parada"
   ]
  },
@@ -4884,7 +4884,7 @@
    "grill",
    "gazowy",
    "palnik",
-   "Bunsena",
+   "bunsena",
    "piec",
    "piec",
    "kempingowy",
@@ -5767,7 +5767,7 @@
    "gun",
    "uzi",
    "m249",
-   "M1919",
+   "m1919",
    "gatling",
    "gun",
    "minigun",
@@ -5780,7 +5780,7 @@
   "CatID": "GUNCano",
   "SubCategory": "ARMATA",
   "Synonyms": [
-   "Blunderbuss",
+   "blunderbuss",
    "handcannon",
    "armata",
    "czarny",
@@ -6650,8 +6650,8 @@
    "wykrawaj\u0105ca",
    "prasa",
    "formuj\u0105ca",
-   "F437",
-   "F450"
+   "f437",
+   "f450"
   ]
  },
  {
@@ -8462,7 +8462,7 @@
   "CatID": "RAINVege",
   "SubCategory": "RO\u015aLINNO\u015a\u0106",
   "Synonyms": [
-   "Deszcz",
+   "deszcz",
    "na",
    "powierzchni",
    "metalowej",
@@ -8548,7 +8548,7 @@
   "CatID": "ROCKBrk",
   "SubCategory": "\u0141AMANIE",
   "Synonyms": [
-   "Z\u0142amania",
+   "z\u0142amania",
    "p\u0119kni\u0119cia",
    "rozerwania",
    "rozbicia",
@@ -8561,7 +8561,7 @@
   "CatID": "ROCKCrsh",
   "SubCategory": "ROZBICIE I OD\u0141AMKI",
   "Synonyms": [
-   "Upadek",
+   "upadek",
    "gruz"
   ]
  },
@@ -8571,7 +8571,7 @@
   "CatID": "ROCKFric",
   "SubCategory": "TARCIE",
   "Synonyms": [
-   "Stres",
+   "stres",
    "zadrapania",
    "skrzypienie",
    "piski",
@@ -8600,7 +8600,7 @@
   "CatID": "ROCKImpt",
   "SubCategory": "UDERZENIE",
   "Synonyms": [
-   "Uderzenie",
+   "uderzenie",
    "upadek",
    "uderzenie",
    "zderzenie",
@@ -8627,7 +8627,7 @@
   "CatID": "ROCKMvmt",
   "SubCategory": "PORUSZANIE",
   "Synonyms": [
-   "Przeci\u0105ganie",
+   "przeci\u0105ganie",
    "toczenie",
    "grzechotanie",
    "potrz\u0105sanie"
@@ -8639,11 +8639,11 @@
   "CatID": "ROCKTonl",
   "SubCategory": "TONALNE",
   "Synonyms": [
-   "Wygi\u0119cie",
-   "Pier\u015bcie\u0144",
-   "Wronk",
-   "Shing",
-   "Warp"
+   "wygi\u0119cie",
+   "pier\u015bcie\u0144",
+   "wronk",
+   "shing",
+   "warp"
   ]
  },
  {
@@ -9830,7 +9830,7 @@
    "samoch\u00f3d",
    "policyjny",
    "furgonetka",
-   "SWAT"
+   "swat"
   ]
  },
  {
@@ -9962,7 +9962,7 @@
   "SubCategory": "WOJSKOWE",
   "Synonyms": [
    "czo\u0142g",
-   "APC",
+   "apc",
    "transporter",
    "opancerzony",
    "humvee",

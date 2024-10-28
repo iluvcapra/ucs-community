@@ -95,13 +95,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
+   "a310",
+   "a330",
+   "a350",
+   "a380",
    "\u30d5\u30a1\u30a4\u30bf\u30fc\u30b8\u30a7\u30c3\u30c8"
   ]
  },
@@ -121,13 +121,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380"
+   "a310",
+   "a330",
+   "a350",
+   "a380"
   ]
  },
  {
@@ -155,12 +155,12 @@
    "\u30b5\u30f3\u30c0\u30fc\u30d0\u30fc\u30c9",
    "\u30ed\u30c3\u30ad\u30fc\u30c9",
    "\u30df\u30b0",
-   "F18",
-   "F16",
-   "F35",
-   "F22",
-   "A10",
-   "P52"
+   "f18",
+   "f16",
+   "f35",
+   "f22",
+   "a10",
+   "p52"
   ]
  },
  {
@@ -204,10 +204,10 @@
   "SubCategory": "\u7121\u7dda\u3001\u901a\u4fe1",
   "Synonyms": [
    "\u30af\u30a2\u30c3\u30c9\u30b3\u30d7\u30bf\u30fc",
-   "UAV",
+   "uav",
    "\u7121\u4eba\u822a\u7a7a\u6a5f",
-   "RC\u30b8\u30a7\u30c3\u30c8",
-   "RC\u30d8\u30ea"
+   "rc\u30b8\u30a7\u30c3\u30c8",
+   "rc\u30d8\u30ea"
   ]
  },
  {
@@ -220,9 +220,9 @@
    "\u30df\u30b5\u30a4\u30eb",
    "\u30b8\u30a7\u30c3\u30c8\u30d1\u30c3\u30af",
    "\u30b9\u30da\u30fc\u30b9\u30b7\u30e3\u30c8\u30eb",
-   "\u30b9\u30da\u30fc\u30b9X",
-   "NASA",
-   "ICCBM",
+   "\u30b9\u30da\u30fc\u30b9x",
+   "nasa",
+   "iccbm",
    "\u6838\u30ed\u30b1\u30c3\u30c8",
    "\u6838\u5f3e\u982d"
   ]
@@ -271,7 +271,7 @@
   "Synonyms": [
    "\u706b\u707d\u63a2\u77e5\u6a5f",
    "\u7159\u63a2\u77e5\u6a5f",
-   "CO2\u63a2\u77e5\u6a5f",
+   "co2\u63a2\u77e5\u6a5f",
    "\u81ea\u52d5\u8eca\u7528\u8b66\u5831\u6a5f",
    "\u5bb6\u5ead\u7528\u8b66\u5831\u6a5f"
   ]
@@ -849,7 +849,7 @@
    "\u5b87\u5b99\u8239",
    "\u6280\u8853\u30bb\u30f3\u30bf\u30fc",
    "\u30b3\u30de\u30f3\u30c9\u30bb\u30f3\u30bf\u30fc",
-   "SF",
+   "sf",
    "\u672a\u6765\u7684\u306a",
    "\u30cf\u30a4\u30c6\u30af",
    "\u30cf\u30a4\u30c6\u30c3\u30af"
@@ -884,11 +884,11 @@
   "CatID": "AMBSprt",
   "SubCategory": "\u30b9\u30dd\u30fc\u30c4",
   "Synonyms": [
-   "NFL",
+   "nfl",
    "\u30d5\u30c3\u30c8\u30dc\u30fc\u30eb",
-   "NBA",
+   "nba",
    "\u30d0\u30b9\u30b1\u30c3\u30c8\u30dc\u30fc\u30eb",
-   "MLB",
+   "mlb",
    "\u91ce\u7403",
    "\u30c6\u30cb\u30b9",
    "\u30b9\u30dd\u30fc\u30c4\u30a4\u30d9\u30f3\u30c8",
@@ -1410,8 +1410,8 @@
   "SubCategory": "\u30ea\u30d0\u30fc\u30d6\u6210\u5206\u306a\u3069",
   "Synonyms": [
    "\u30a4\u30f3\u30d1\u30eb\u30b9\u5fdc\u7b54",
-   "IR",
-   "ALTIVERB",
+   "ir",
+   "altiverb",
    "\u30ea\u30d0\u30fc\u30d6\u30b5\u30f3\u30d7\u30eb",
    "\u30b3\u30f3\u30dc\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30ea\u30d0\u30fc\u30d6"
   ]
@@ -1435,8 +1435,8 @@
    "\u30d7\u30ea\u30df\u30c3\u30af\u30b9",
    "\u30d5\u30a1\u30a4\u30ca\u30eb\u30df\u30c3\u30af\u30b9",
    "\u30b9\u30c6\u30e0",
-   "M",
-   "E",
+   "m",
+   "e",
    "\u30df\u30c3\u30af\u30b9\u30c0\u30a6\u30f3",
    "\u30d7\u30ea\u30f3\u30c8\u30de\u30b9\u30bf\u30fc"
   ]
@@ -1582,8 +1582,8 @@
   "SubCategory": "\u533b\u7642\u6a5f\u5668",
   "Synonyms": [
    "\u5fc3\u96fb\u56f3",
-   "ECG",
-   "KDC",
+   "ecg",
+   "kdc",
    "\u5fc3\u81d3\u30e2\u30cb\u30bf\u30fc",
    "\u30d5\u30e9\u30c3\u30c8\u30e9\u30a4\u30f3",
    "\u8d85\u97f3\u6ce2"
@@ -2083,7 +2083,7 @@
    "\u6f5c\u6c34\u8266",
    "\u30bd\u30ca\u30fc",
    "\u6f5c\u6c34\u8247",
-   "U\u30dc\u30fc\u30c8"
+   "u\u30dc\u30fc\u30c8"
   ]
  },
  {
@@ -2705,14 +2705,14 @@
    "\u30c6\u30fc\u30d7\u30ec\u30b3\u30fc\u30c0\u30fc",
    "\u30ca\u30b0\u30e9",
    "\u30a6\u30a9\u30fc\u30af\u30de\u30f3",
-   "CD\u30d7\u30ec\u30fc\u30e4\u30fc",
+   "cd\u30d7\u30ec\u30fc\u30e4\u30fc",
    "\u30aa\u30fc\u30d7\u30f3\u30ea\u30fc\u30eb",
-   "VCR",
+   "vcr",
    "\u30ec\u30fc\u30b6\u30fc\u30c7\u30a3\u30b9\u30af\u30d7\u30ec\u30fc\u30e4\u30fc",
    "\u30d9\u30fc\u30bf\u30de\u30c3\u30af\u30b9",
    "\u30b9\u30e9\u30a4\u30c9\u6620\u5199\u6a5f",
    "\u30d3\u30fc\u30de\u30fc",
-   "iPod",
+   "ipod",
    "\u30dc\u30ec\u30c3\u30af\u30b9",
    "8\u30df\u30ea",
    "16\u30df\u30ea"
@@ -2824,7 +2824,7 @@
    "\u96fb\u4fe1",
    "\u30c6\u30ec\u30e1\u30c8\u30ea",
    "\u8aad\u307f\u51fa\u3057",
-   "SOS"
+   "sos"
   ]
  },
  {
@@ -2868,7 +2868,7 @@
    "\u30a4\u30f3\u30ab\u30e0",
    "\u30c7\u30a3\u30b9\u30d1\u30c3\u30c1",
    "\u30c8\u30e9\u30f3\u30b7\u30fc\u30d0",
-   "CB",
+   "cb",
    "\u30cf\u30e0\u30e9\u30b8\u30aa",
    "\u30c8\u30e9\u30f3\u30b7\u30fc\u30d0"
   ]
@@ -2917,7 +2917,7 @@
   "SubCategory": "\u305d\u306e\u4ed6",
   "Synonyms": [
    "\u30d1\u30fc\u30e0\u30d1\u30a4\u30ed\u30c3\u30c8",
-   "\u30dd\u30b1\u30c3\u30c8PC"
+   "\u30dd\u30b1\u30c3\u30c8pc"
   ]
  },
  {
@@ -4475,7 +4475,7 @@
   "SubCategory": "\u624b\u6301\u3061\u82b1\u706b",
   "Synonyms": [
    "\u7206\u7af9",
-   "M80",
+   "m80",
    "\u7dda\u9999\u82b1\u706b",
    "\u30dc\u30c8\u30eb\u30ed\u30b1\u30c3\u30c8",
    "\u767a\u7159\u7b52",
@@ -4803,10 +4803,10 @@
   "SubCategory": "\u30d3\u30c7\u30aa",
   "Synonyms": [
    "\u30a2\u30bf\u30ea",
-   "PS4",
-   "Xbox",
-   "One",
-   "Xbox",
+   "ps4",
+   "xbox",
+   "one",
+   "xbox",
    "360",
    "\u30a2\u30e0\u30b9\u30c8\u30e9\u30c3\u30c9",
    "\u30d5\u30a1\u30df\u30b3\u30f3",
@@ -4815,7 +4815,7 @@
    "\u30cb\u30f3\u30c6\u30f3\u30c9\u30fc64",
    "\u30d7\u30ec\u30a4\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
    "\u30e1\u30ac\u30c9\u30e9\u30a4\u30d6",
-   "PSP"
+   "psp"
   ]
  },
  {
@@ -5162,14 +5162,14 @@
   "CatID": "GUNAuto",
   "SubCategory": "\u30aa\u30fc\u30c8\u30de\u30c1\u30c3\u30af",
   "Synonyms": [
-   "AK",
+   "ak",
    "47",
-   "M16",
+   "m16",
    "\u30de\u30b7\u30f3\u30ac\u30f3",
    "\u30c8\u30df\u30fc\u30ac\u30f3",
-   "UZI",
-   "M249",
-   "M1919",
+   "uzi",
+   "m249",
+   "m1919",
    "\u30ac\u30c8\u30ea\u30f3\u30b0\u30ac\u30f3",
    "\u30df\u30cb\u30ac\u30f3",
    ""
@@ -5253,7 +5253,7 @@
    "\u30a6\u30a7\u30c3\u30bd\u30f3",
    "\u30b7\u30b0\u30bd\u30fc",
    "\u30eb\u30ac\u30fc",
-   "\u30ef\u30eb\u30b5\u30fcPPK",
+   "\u30ef\u30eb\u30b5\u30fcppk",
    "\u30d6\u30ed\u30fc\u30cb\u30f3\u30b0",
    "\u30eb\u30ac\u30fc",
    "\u30d9\u30ec\u30c3\u30bf"
@@ -5960,8 +5960,8 @@
    "\u84b8\u7559\u6240",
    "\u30d1\u30f3\u30c1\u30d7\u30ec\u30b9",
    "\u30d5\u30a9\u30fc\u30e0\u30d7\u30ec\u30b9",
-   "F437",
-   "F450"
+   "f437",
+   "f450"
   ]
  },
  {
@@ -5982,8 +5982,8 @@
   "CatID": "MACHMed",
   "SubCategory": "\u533b\u7642",
   "Synonyms": [
-   "X\u7dda\u88c5\u7f6e",
-   "MRI",
+   "x\u7dda\u88c5\u7f6e",
+   "mri",
    "\u30ad\u30e3\u30c3\u30c8\u30b9\u30ad\u30e3\u30f3",
    "\u30da\u30c3\u30c8\u30b9\u30ad\u30e3\u30f3",
    "\u8840\u5727\u6e2c\u5b9a\u5668",
@@ -6438,7 +6438,7 @@
   "SubCategory": "\u30b5\u30fc\u30dc",
   "Synonyms": [
    "\u30ed\u30dc\u30c3\u30c8",
-   "RC\u30ab\u30fc",
+   "rc\u30ab\u30fc",
    "\u30ab\u30e1\u30e9\u30d5\u30a9\u30fc\u30ab\u30b9",
    "\u30ab\u30fc\u30a2\u30f3\u30c6\u30ca",
    "\u30d7\u30ea\u30f3\u30bf\u30fc"
@@ -7927,7 +7927,7 @@
   "CatID": "SCIAlrm",
   "SubCategory": "\u30a2\u30e9\u30fc\u30e0",
   "Synonyms": [
-   "SF\u30a2\u30e9\u30fc\u30e0",
+   "sf\u30a2\u30e9\u30fc\u30e0",
    "\u30a2\u30e9\u30fc\u30c8",
    "\u8b66\u544a"
   ]
@@ -7950,7 +7950,7 @@
   "CatID": "SCIDoor",
   "SubCategory": "\u30c9\u30a2",
   "Synonyms": [
-   "SF\u30c9\u30a2",
+   "sf\u30c9\u30a2",
    "\u30a8\u30a2\u30ed\u30c3\u30af"
   ]
  },
@@ -7996,7 +7996,7 @@
   "SubCategory": "\u30e1\u30ab\u30cb\u30ba\u30e0",
   "Synonyms": [
    "\u30c8\u30ea\u30b3\u30fc\u30c0\u30fc",
-   "SF\u30c7\u30d0\u30a4\u30b9",
+   "sf\u30c7\u30d0\u30a4\u30b9",
    "\u30ae\u30ba\u30e2"
   ]
  },
@@ -8015,7 +8015,7 @@
   "CatID": "SCIRetro",
   "SubCategory": "\u30ec\u30c8\u30ed\u3001\u30af\u30e9\u30c3\u30b7\u30c3\u30af",
   "Synonyms": [
-   "\u53e4\u3044SF"
+   "\u53e4\u3044sf"
   ]
  },
  {
@@ -8025,7 +8025,7 @@
   "SubCategory": "\u5b87\u5b99\u8239",
   "Synonyms": [
    "\u5b87\u5b99\u8239",
-   "UFO",
+   "ufo",
    "\u6bcd\u8239",
    "\u30d0\u30c8\u30eb\u30af\u30eb\u30fc\u30b6\u30fc",
    "\u5b87\u5b99\u8239"
@@ -8525,7 +8525,7 @@
    "\u30e1\u30c8\u30ed",
    "\u30b5\u30d6\u30a6\u30a7\u30a4",
    "\u30c1\u30e5\u30fc\u30d6",
-   "RER"
+   "rer"
   ]
  },
  {
@@ -8691,8 +8691,8 @@
    "\u81ea\u52d5\u8eca",
    "\u81ea\u52d5\u8eca",
    "\u30aa\u30fc\u30eb\u30ba\u30e2\u30d3\u30eb",
-   "\u30e2\u30c7\u30ebA",
-   "\u30e2\u30c7\u30ebT"
+   "\u30e2\u30c7\u30eba",
+   "\u30e2\u30c7\u30ebt"
   ]
  },
  {
@@ -8719,7 +8719,7 @@
    "\u30ea\u30ab\u30f3\u30d9\u30f3\u30c8",
    "\u4e00\u8f2a\u8eca",
    "\u30bf\u30f3\u30c7\u30e0",
-   "BMX"
+   "bmx"
   ]
  },
  {
@@ -8811,7 +8811,7 @@
    "\u6d88\u9632\u8eca",
    "\u6551\u6025\u8eca",
    "\u30d1\u30c8\u30ab\u30fc",
-   "SWAT\u30d0\u30f3"
+   "swat\u30d0\u30f3"
   ]
  },
  {
@@ -8835,7 +8835,7 @@
    "\u30d3\u30c3\u30b0\u30ea\u30b0",
    "\u30ed\u30fc\u30ea\u30fc",
    "\u30bb\u30df\u30c8\u30e9\u30c3\u30af",
-   "U",
+   "u",
    "\u30db\u30fc\u30eb\u30c8\u30e9\u30c3\u30af",
    "\u30da\u30f3\u30b9\u30ad\u30fc",
    "\u30dc\u30c3\u30af\u30b9\u30c8\u30e9\u30c3\u30af",
@@ -8923,7 +8923,7 @@
   "SubCategory": "\u8ecd\u7528\u3001\u8ecd\u968a",
   "Synonyms": [
    "\u30bf\u30f3\u30af",
-   "APC",
+   "apc",
    "\u88c5\u7532\u5175\u54e1\u8f38\u9001\u8eca",
    "\u30cf\u30f3\u30f4\u30a3\u30fc",
    "\u30b8\u30fc\u30d7"
@@ -9030,7 +9030,7 @@
    "\u4e57\u7528\u8eca",
    "\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u30c8\u30e9\u30c3\u30af",
    "\u30d0\u30f3",
-   "SUV",
+   "suv",
    "\u30d5\u30e9\u30c3\u30c8\u30d9\u30c3\u30c9",
    ""
   ]
@@ -9041,10 +9041,10 @@
   "CatID": "VEHUtil",
   "SubCategory": "\u30ab\u30fc\u30c8\u3001\u56db\u8f2a\u30d0\u30ae\u30fc",
   "Synonyms": [
-   "UTV",
-   "SXS",
+   "utv",
+   "sxs",
    "\u30b5\u30a4\u30c9\u30d0\u30a4\u30b5\u30a4\u30c9",
-   "RZR",
+   "rzr",
    "\u30ec\u30f3\u30b8\u30e3\u30fc",
    "\u30af\u30c3\u30b7\u30e5\u30de\u30f3",
    "\u30b2\u30a4\u30bf\u30fc"

@@ -101,14 +101,14 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
+   "a310",
+   "a310",
+   "a330",
+   "a350",
+   "a380",
    "h\u00e4vitt\u00e4j\u00e4kone",
    ""
   ]
@@ -129,17 +129,17 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
+   "a310",
+   "a330",
+   "a350",
+   "a380",
+   "a310",
+   "a330",
+   "a350",
+   "a380",
    ""
   ]
  },
@@ -170,12 +170,12 @@
    "thunderbirds",
    "lockheed",
    "mig",
-   "F18",
-   "F16",
-   "F35",
-   "F22",
-   "A10",
-   "P52"
+   "f18",
+   "f16",
+   "f35",
+   "f22",
+   "a10",
+   "p52"
   ]
  },
  {
@@ -304,7 +304,7 @@
   "Synonyms": [
    "palovaroitin",
    "savunilmaisin",
-   "CO2",
+   "co2",
    "ilmaisin",
    "autoh\u00e4lytin",
    "kodin",
@@ -505,8 +505,8 @@
    "maaginen",
    "valtakunta",
    "unelma",
-   "Keski",
-   "Maa",
+   "keski",
+   "maa",
    "pandora"
   ]
  },
@@ -580,9 +580,9 @@
    "l\u00e4nsi",
    "kultarynt\u00e4ys",
    "muinainen",
-   "Rooma",
+   "rooma",
    "muinainen",
-   "Kreikka"
+   "kreikka"
   ]
  },
  {
@@ -1547,7 +1547,7 @@
   "SubCategory": "IR",
   "Synonyms": [
    "impulssivaste",
-   "IR",
+   "ir",
    "altiverb",
    "kaikun\u00e4yte",
    "konvoluutiokaiku"
@@ -1573,8 +1573,8 @@
    "lopullinen",
    "sekoitus",
    "stem",
-   "M",
-   "E",
+   "m",
+   "e",
    "mixdown",
    "printmaster"
   ]
@@ -1729,9 +1729,9 @@
   "CatID": "BEEPMed",
   "SubCategory": "SAIRAALA",
   "Synonyms": [
-   "EKG",
-   "EKG",
-   "KDC",
+   "ekg",
+   "ekg",
+   "kdc",
    "syd\u00e4nmonitori",
    "flatline",
    "ultra\u00e4\u00e4ni",
@@ -2570,7 +2570,7 @@
   "Synonyms": [
    "jetsonit",
    "vehje",
-   "Flintstonesin",
+   "flintstonesin",
    "auto",
    "takapalo"
   ]
@@ -2959,7 +2959,7 @@
    "nauhuri",
    "nagra",
    "walkman",
-   "CD",
+   "cd",
    "soitin",
    "kelauslaite",
    "vcr",
@@ -3113,7 +3113,7 @@
    "show",
    "ohjelma",
    "futz",
-   "TV",
+   "tv",
    "ohjelma",
    "l\u00e4hetys",
    "l\u00e4hetys"
@@ -3325,7 +3325,7 @@
    "suo",
    "olento",
    "ihmissusi",
-   "Frankenstein",
+   "frankenstein",
    "muumio",
    ""
   ]
@@ -4386,7 +4386,7 @@
   "CatID": "ELECArc",
   "SubCategory": "VALOKAARI",
   "Synonyms": [
-   "Jaakobin",
+   "jaakobin",
    "tikkaat",
    "tesla",
    "kela",
@@ -5602,7 +5602,7 @@
    "gun",
    "uzi",
    "m249",
-   "M1919",
+   "m1919",
    "gatling",
    "gun",
    "minigun",
@@ -6284,7 +6284,7 @@
   "CatID": "MACHAmus",
   "SubCategory": "HUVIPUISTO",
   "Synonyms": [
-   "Vuoristorata",
+   "vuoristorata",
    "karuselli",
    "karuselli",
    "kelkkailu",
@@ -6457,8 +6457,8 @@
    "tislaamo",
    "ly\u00f6ntipuristin",
    "muotopuristin",
-   "F437",
-   "F450"
+   "f437",
+   "f450"
   ]
  },
  {
@@ -7691,7 +7691,7 @@
   "CatID": "OBJGym",
   "SubCategory": "HUONEKALU",
   "Synonyms": [
-   "Paino",
+   "paino",
    "k\u00e4sipaino",
    "tanko",
    "matto",
@@ -8196,7 +8196,7 @@
   "CatID": "RAINVege",
   "SubCategory": "KASVILLISUUS",
   "Synonyms": [
-   "Sade",
+   "sade",
    "metallipinnalle",
    "siis",
    "sade",
@@ -8280,7 +8280,7 @@
   "CatID": "ROCKBrk",
   "SubCategory": "HAJOAMINEN",
   "Synonyms": [
-   "Murtuu",
+   "murtuu",
    "halkeaa",
    "repe\u00e4\u00e4",
    "murskaantuu",
@@ -8294,7 +8294,7 @@
   "CatID": "ROCKCrsh",
   "SubCategory": "MURSKAUS & PIRSTALEET",
   "Synonyms": [
-   "Putoaminen",
+   "putoaminen",
    "roskat"
   ]
  },
@@ -8304,7 +8304,7 @@
   "CatID": "ROCKFric",
   "SubCategory": "KITKA",
   "Synonyms": [
-   "Stressi",
+   "stressi",
    "raapii",
    "narisee",
    "vinkuu",
@@ -8336,15 +8336,15 @@
   "CatID": "ROCKImpt",
   "SubCategory": "ISKU",
   "Synonyms": [
-   "Hit",
-   "Drop",
-   "Impact",
-   "Crash",
-   "Clunk",
-   "Clang",
-   "Clink",
-   "Clink",
-   "Chop"
+   "hit",
+   "drop",
+   "impact",
+   "crash",
+   "clunk",
+   "clang",
+   "clink",
+   "clink",
+   "chop"
   ]
  },
  {
@@ -8362,7 +8362,7 @@
   "CatID": "ROCKMvmt",
   "SubCategory": "LIIKE",
   "Synonyms": [
-   "Ved\u00e4",
+   "ved\u00e4",
    "rullaa",
    "kolisee",
    "ravistaa"
@@ -8374,11 +8374,11 @@
   "CatID": "ROCKTonl",
   "SubCategory": "TONAALINEN",
   "Synonyms": [
-   "Bowed",
-   "Ring",
-   "Wronk",
-   "Shing",
-   "Warp",
+   "bowed",
+   "ring",
+   "wronk",
+   "shing",
+   "warp",
    ""
   ]
  },
@@ -9040,7 +9040,7 @@
   "CatID": "TOYMisc",
   "SubCategory": "SEKALAINEN",
   "Synonyms": [
-   "Toimintahahmo",
+   "toimintahahmo",
    "nukke",
    "pehmolelu"
   ]
@@ -9509,9 +9509,9 @@
    "paloauto",
    "ambulanssi",
    "poliisiauto",
-   "SWAT",
+   "swat",
    "auto",
-   "SWAT",
+   "swat",
    "pakettiauto"
   ]
  },
@@ -9637,7 +9637,7 @@
   "SubCategory": "SOTILAS",
   "Synonyms": [
    "panssarivaunu",
-   "APC",
+   "apc",
    "panssaroitu",
    "miehist\u00f6nkuljetusvaunu",
    "humvee",
@@ -10164,7 +10164,7 @@
   "CatID": "WATRPlmb",
   "SubCategory": "VESIJOHTO",
   "Synonyms": [
-   "WC",
+   "wc",
    "n",
    "huuhtelu",
    "pesuallas",
@@ -10382,7 +10382,7 @@
   "CatID": "WEAPKnif",
   "SubCategory": "VEITSI",
   "Synonyms": [
-   "Kytkinter\u00e4",
+   "kytkinter\u00e4",
    "puukko",
    "perhosveitsi",
    "mets\u00e4stysveitsi",

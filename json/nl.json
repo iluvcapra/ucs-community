@@ -98,13 +98,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380",
+   "a310",
+   "a330",
+   "a350",
+   "a380",
    "gevechtsvliegtuig"
   ]
  },
@@ -124,13 +124,13 @@
    "737",
    "747",
    "777",
-   "A310",
-   "DC",
+   "a310",
+   "dc",
    "10",
-   "A310",
-   "A330",
-   "A350",
-   "A380"
+   "a310",
+   "a330",
+   "a350",
+   "a380"
   ]
  },
  {
@@ -161,12 +161,12 @@
    "thunderbirds",
    "lockheed",
    "mig",
-   "F18",
-   "F16",
-   "F35",
-   "F22",
-   "A10",
-   "P52"
+   "f18",
+   "f16",
+   "f35",
+   "f22",
+   "a10",
+   "p52"
   ]
  },
  {
@@ -288,7 +288,7 @@
   "Synonyms": [
    "brandmelder",
    "rookmelder",
-   "CO2",
+   "co2",
    "melder",
    "autoalarm",
    "huisalarm"
@@ -554,9 +554,9 @@
    "westen",
    "goudkoorts",
    "oude",
-   "Rome",
+   "rome",
    "oude",
-   "Griekenland"
+   "griekenland"
   ]
  },
  {
@@ -1485,7 +1485,7 @@
   "Synonyms": [
    "impulse",
    "response",
-   "IR",
+   "ir",
    "altiverb",
    "reverb",
    "sample",
@@ -1513,8 +1513,8 @@
    "premix",
    "eindmix",
    "stem",
-   "M",
-   "E",
+   "m",
+   "e",
    "mixdown",
    "printmaster"
   ]
@@ -1670,9 +1670,9 @@
   "CatID": "BEEPMed",
   "SubCategory": "MEDISCH",
   "Synonyms": [
-   "EKG",
-   "ECG",
-   "KDC",
+   "ekg",
+   "ecg",
+   "kdc",
    "hartmonitor",
    "flatline",
    "echografie"
@@ -2474,7 +2474,7 @@
   "Synonyms": [
    "jetsons",
    "contraptie",
-   "Flintstones",
+   "flintstones",
    "auto",
    "backfire"
   ]
@@ -5429,7 +5429,7 @@
    "gun",
    "uzi",
    "m249",
-   "M1919",
+   "m1919",
    "gatling",
    "gun",
    "minigun",
@@ -6254,8 +6254,8 @@
    "distilleerderij",
    "ponsmachine",
    "vormpers",
-   "F437",
-   "F450"
+   "f437",
+   "f450"
   ]
  },
  {
@@ -8039,7 +8039,7 @@
   "CatID": "ROCKBrk",
   "SubCategory": "BREKEN",
   "Synonyms": [
-   "Breuken",
+   "breuken",
    "barsten",
    "scheuren",
    "versplinteren",
@@ -8052,8 +8052,8 @@
   "CatID": "ROCKCrsh",
   "SubCategory": "CRASH & PUIN",
   "Synonyms": [
-   "Vallen",
-   "Puin"
+   "vallen",
+   "puin"
   ]
  },
  {
@@ -8062,7 +8062,7 @@
   "CatID": "ROCKFric",
   "SubCategory": "WRIJVING",
   "Synonyms": [
-   "Spanning",
+   "spanning",
    "schrammen",
    "kraken",
    "piepen",
@@ -8090,14 +8090,14 @@
   "CatID": "ROCKImpt",
   "SubCategory": "IMPACT",
   "Synonyms": [
-   "Hit",
-   "Drop",
-   "Impact",
-   "Crash",
-   "Clunk",
-   "Clang",
-   "Clink",
-   "Chop"
+   "hit",
+   "drop",
+   "impact",
+   "crash",
+   "clunk",
+   "clang",
+   "clink",
+   "chop"
   ]
  },
  {
@@ -8115,10 +8115,10 @@
   "CatID": "ROCKMvmt",
   "SubCategory": "BEWEGING",
   "Synonyms": [
-   "Slepen",
-   "Rollen",
-   "Rammelen",
-   "Schudden"
+   "slepen",
+   "rollen",
+   "rammelen",
+   "schudden"
   ]
  },
  {
@@ -8127,11 +8127,11 @@
   "CatID": "ROCKTonl",
   "SubCategory": "TONAAL",
   "Synonyms": [
-   "Buigen",
-   "Ring",
-   "Wronk",
-   "Shing",
-   "Warp"
+   "buigen",
+   "ring",
+   "wronk",
+   "shing",
+   "warp"
   ]
  },
  {
@@ -9217,7 +9217,7 @@
    "brandweerwagen",
    "ambulance",
    "politieauto",
-   "SWAT",
+   "swat",
    "busje"
   ]
  },
@@ -9337,7 +9337,7 @@
   "SubCategory": "MILITAIR",
   "Synonyms": [
    "tank",
-   "APC",
+   "apc",
    "pantserwagen",
    "humvee",
    "jeep",
