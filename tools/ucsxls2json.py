@@ -9,9 +9,11 @@
 # the project website on github: https://github.com/iluvcapra/ucs-community
 
 import pandas as pd
+
+import re
 import json
-from typing import Dict
 import os
+from typing import Dict, List
 
 # this key is added to ever category entry created in the output files
 UCS_VERSION = "8.2.1"
@@ -29,9 +31,11 @@ data = pd.read_excel(EXCEL_FILE)
 
 # The English column headers aren't formatted like the other languages so we
 # just have to special-case them
-langs: Dict[str,Dict[int,str]] = {'en': {0: 'Category', 1: 'SubCategory', 2:
-                                         'CatID', 3:'CatShort',
-                                         4:'Explanations', 5: 'Synonyms'}}
+langs: Dict[str,Dict[int,str | List[str]]] = {'en': {0: 'Category', 1:
+                                                     'SubCategory', 2: 'CatID',
+                                                     3:'CatShort',
+                                                     4:'Explanations', 5:
+                                                     'Synonyms'}}
 
 # step through each column
 for i, (col_index, col_data) in enumerate(data.T.iterrows()):
@@ -63,12 +67,18 @@ for lang in langs:
     for (_, row) in rows:
 
         # create a dict for the category on this row
-        category = {'version':UCS_VERSION}
+        category: Dict[str, str | List[str]] = {'version':UCS_VERSION}
         for col_index in langs[lang]:
-            key_name = langs[lang][col_index]
-            category[key_name] = row.iloc[col_index]
+            key_name = str(langs[lang][col_index])
+            category[key_name] = str(row.iloc[col_index])
             # Save the English CatID so this can be cross-referenced
             category['CatID'] = row.iloc[2]
+            
+            if key_name == 'Synonyms':
+                # synonyms are stored in the spreadsheet as CSV, we should 
+                # normalize this. 
+                category['Synonyms'] = re.split(r'\W+', category['Synonyms'])
+                
         
         schedule.append(category)
 
