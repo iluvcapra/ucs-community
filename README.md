@@ -15,6 +15,8 @@ Some items of interest are:
 
   - [JSON-formatted UCS Schedules](json/) of version **8.2.1** of the UCS in 
     all available languages.
+    - The schedules have been normalized so all synonyms are contained in a 
+      list (no longer delimited by word separators) and lower-cased.
     - The [tool](tools/ucsxls2json.py) used to make these JSON files from the
       original XLS file.
   - Transcriptions of core UCS documentation into ReStructuredText:
