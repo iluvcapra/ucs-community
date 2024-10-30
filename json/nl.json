@@ -6,8 +6,7 @@
   "SubCategory": "UITBARSTING",
   "Synonyms": [
    "luchtstoot",
-   "lucht",
-   "poef",
+   "lucht poef",
    "chuff",
    "spurt",
    "blazen"
@@ -19,8 +18,7 @@
   "CatID": "AIRHiss",
   "SubCategory": "SISSEN",
   "Synonyms": [
-   "lucht",
-   "afblazen",
+   "lucht afblazen",
    "uitlaten",
    "verdrijven",
    "lek"
@@ -67,8 +65,7 @@
    "gyrocopter",
    "whirlybird",
    "chopper",
-   "ghetto",
-   "bird",
+   "ghetto bird",
    "bellcopter",
    "politiechopper",
    "huey",
@@ -99,8 +96,7 @@
    "747",
    "777",
    "a310",
-   "dc",
-   "10",
+   "dc-10",
    "a310",
    "a330",
    "a350",
@@ -125,8 +121,7 @@
    "747",
    "777",
    "a310",
-   "dc",
-   "10",
+   "dc-10",
    "a310",
    "a330",
    "a350",
@@ -140,8 +135,7 @@
   "SubCategory": "MECHANISME",
   "Synonyms": [
    "landingsgestel",
-   "cockpit",
-   "hendel",
+   "cockpit hendel",
    "roer",
    "flap"
   ]
@@ -154,10 +148,8 @@
   "Synonyms": [
    "straaljager",
    "bommenwerper",
-   "stealth",
-   "bommenwerper",
-   "blue",
-   "angels",
+   "stealth bommenwerper",
+   "blue angels",
    "thunderbirds",
    "lockheed",
    "mig",
@@ -194,13 +186,10 @@
    "driedekker",
    "turboprop",
    "stuntvliegtuig",
-   "crop",
-   "duster",
-   "piper",
-   "cub",
+   "crop duster",
+   "piper cub",
    "propeller",
-   "twin",
-   "prop",
+   "twin-prop",
    "propjet",
    "airscrew"
   ]
@@ -213,12 +202,9 @@
   "Synonyms": [
    "quadcopters",
    "uav",
-   "onbemand",
-   "luchtvoertuig",
-   "rc",
-   "jet",
-   "rc",
-   "helikopter"
+   "onbemand luchtvoertuig",
+   "rc jet",
+   "rc helikopter"
   ]
  },
  {
@@ -230,8 +216,7 @@
    "raket",
    "raket",
    "jetpack",
-   "space",
-   "shuttle",
+   "space shuttle",
    "spacex",
    "nasa",
    "icbm",
@@ -258,14 +243,10 @@
   "SubCategory": "ZOEMER",
   "Synonyms": [
    "deurzoemer",
-   "spelshow",
-   "zoemer",
-   "voordeur",
-   "zoemer",
-   "ingang",
-   "zoemer",
-   "intercom",
-   "zoemer"
+   "spelshow zoemer",
+   "voordeur zoemer",
+   "ingang zoemer",
+   "intercom zoemer"
   ]
  },
  {
@@ -274,8 +255,7 @@
   "CatID": "ALRMClok",
   "SubCategory": "KLOK",
   "Synonyms": [
-   "digitale",
-   "wekker",
+   "digitale wekker",
    "wekker",
    "wekker"
   ]
@@ -288,8 +268,7 @@
   "Synonyms": [
    "brandmelder",
    "rookmelder",
-   "co2",
-   "melder",
+   "co2 melder",
    "autoalarm",
    "huisalarm"
   ]
@@ -323,8 +302,7 @@
   "Synonyms": [
    "woestijn",
    "winter",
-   "rustige",
-   "lucht",
+   "rustige lucht",
    "nachtlucht",
    "berglucht",
    "nachtlucht"
@@ -354,17 +332,14 @@
   "SubCategory": "PRETPARK",
   "Synonyms": [
    "disneyland",
-   "six",
-   "flags",
+   "six-flags",
    "themapark",
    "pretpark",
    "kermis",
    "fair",
-   "county",
-   "fair",
+   "county fair",
    "midway",
-   "reizende",
-   "kermis",
+   "reizende kermis",
    "festival",
    "spookhuis",
    "funhouse",
@@ -380,8 +355,7 @@
   "Synonyms": [
    "ochtendkoor",
    "ochtendkoor",
-   "mooie",
-   "vogel",
+   "mooie vogel",
    "zwermen",
    "tjilpen",
    "twitteren",
@@ -394,8 +368,7 @@
   "CatID": "AMBCele",
   "SubCategory": "VIERING",
   "Synonyms": [
-   "openbare",
-   "bijeenkomst",
+   "openbare bijeenkomst",
    "evenement",
    "feest",
    "gala",
@@ -415,10 +388,8 @@
    "bouwen",
    "timmeren",
    "verbouwen",
-   "huis",
-   "renoveren",
-   "weg",
-   "repareren",
+   "huis renoveren",
+   "weg repareren",
    "verbouwen"
   ]
  },
@@ -455,8 +426,7 @@
   "CatID": "AMBEmrg",
   "SubCategory": "NOODGEVAL",
   "Synonyms": [
-   "plaats",
-   "delict",
+   "plaats delict",
    "brandbestrijding",
    "politie",
    "medici",
@@ -466,8 +436,7 @@
    "ongeval",
    "catastrofe",
    "verwonding",
-   "pileup",
-   "slachtoffer"
+   "pileup slachtoffer"
   ]
  },
  {
@@ -481,8 +450,7 @@
    "magisch",
    "rijk",
    "droom",
-   "middelste",
-   "aarde",
+   "middelste aarde",
    "pandora"
   ]
  },
@@ -518,11 +486,9 @@
    "bos",
    "bos",
    "houtgrond",
-   "boreaal",
-   "bos",
+   "boreaal bos",
    "regenwoud",
-   "gematigd",
-   "regenwoud",
+   "gematigd regenwoud",
    "nevelwoud",
    "loofbos",
    "naaldbos"
@@ -550,13 +516,10 @@
   "SubCategory": "HISTORISCH",
   "Synonyms": [
    "spookstad",
-   "oude",
-   "westen",
+   "oude westen",
    "goudkoorts",
-   "oude",
-   "rome",
-   "oude",
-   "griekenland"
+   "oude rome",
+   "oude griekenland"
   ]
  },
  {
@@ -578,8 +541,7 @@
   "CatID": "AMBHosp",
   "SubCategory": "ZIEKENHUIS",
   "Synonyms": [
-   "spoedeisende",
-   "hulp",
+   "spoedeisende hulp",
    "chirurgie",
    "wachtkamer",
    "ziekenboeg",
@@ -700,11 +662,9 @@
    "park",
    "speelplaats",
    "tuinen",
-   "botanische",
-   "tuinen",
+   "botanische tuinen",
    "stadspark",
-   "voorstedelijk",
-   "park",
+   "voorstedelijk park",
    "balpark",
    "parklandschap"
   ]
@@ -718,12 +678,10 @@
    "gevangenis",
    "gevangenis",
    "gevangenisterrein",
-   "penitentiaire",
-   "inrichting",
+   "penitentiaire inrichting",
    "gevangenis",
    "opsluiting",
-   "eenzame",
-   "opsluiting",
+   "eenzame opsluiting",
    "strafinrichting"
   ]
  },
@@ -735,13 +693,11 @@
   "Synonyms": [
    "protest",
    "rally",
-   "rally",
-   "s",
+   "rally's",
    "oproer",
    "scanderen",
    "schreeuwen",
-   "boze",
-   "menigte",
+   "boze menigte",
    "marsen",
    "demonstratie",
    "oproer",
@@ -757,13 +713,11 @@
   "SubCategory": "OPENBARE RUIMTE",
   "Synonyms": [
    "winkels",
-   "lobby",
-   "s",
+   "lobby's",
    "hotels",
    "winkelcentra",
    "musea",
-   "openbare",
-   "pleinen",
+   "openbare pleinen",
    "binnenplaatsen",
    "sportscholen",
    "fitnesscentrum",
@@ -784,8 +738,7 @@
    "moskee",
    "kapel",
    "derasar",
-   "kathedraal",
-   ""
+   "kathedraal..."
   ]
  },
  {
@@ -822,11 +775,9 @@
    "kantine",
    "tearoom",
    "saloon",
-   "coffee",
-   "shop",
+   "coffee shop",
    "pizzeria",
-   "fast",
-   "food",
+   "fast-food",
    "wijnbar",
    "automaat",
    "commissariaat",
@@ -835,8 +786,7 @@
    "deli",
    "eetcaf\u00e9",
    "brasserie",
-   "drive",
-   "in"
+   "drive-in"
   ]
  },
  {
@@ -846,10 +796,8 @@
   "SubCategory": "ROOM TONE",
   "Synonyms": [
    "kamertoon",
-   "dode",
-   "lucht",
-   "stille",
-   "lucht"
+   "dode lucht",
+   "stille lucht"
   ]
  },
  {
@@ -863,8 +811,7 @@
    "prairie",
    "grasland",
    "berg",
-   "glooiende",
-   "heuvel",
+   "glooiende heuvel",
    "savanne",
    "toendra",
    "weide",
@@ -881,12 +828,9 @@
   "CatID": "AMBSchl",
   "SubCategory": "SCHOOL",
   "Synonyms": [
-   "lagere",
-   "school",
-   "middelbare",
-   "school",
-   "middelbare",
-   "school",
+   "lagere school",
+   "middelbare school",
+   "middelbare school",
    "hogeschool",
    "kleuterschool",
    "universiteit",
@@ -901,15 +845,12 @@
   "SubCategory": "SCIFI",
   "Synonyms": [
    "ruimteschip",
-   "technisch",
-   "centrum",
+   "technisch centrum",
    "commandocentrum",
    "scifi",
    "futuristisch",
-   "high",
-   "tech",
-   "hi",
-   "tec"
+   "high-tech",
+   "hi-tec"
   ]
  },
  {
@@ -949,8 +890,7 @@
    "honkbal",
    "tennis",
    "sportevenement",
-   "little",
-   "league",
+   "little league",
    "praktijk"
   ]
  },
@@ -963,9 +903,7 @@
    "voorstad",
    "woonwijk",
    "buurt",
-   "cul",
-   "de",
-   "sac",
+   "cul-de-sac",
    "dorp",
    "barrio",
    "buitenwijk",
@@ -996,8 +934,7 @@
    "stad",
    "dorp",
    "gehucht",
-   "kleine",
-   "stad",
+   "kleine stad",
    "gemeenschap",
    "nederzetting"
   ]
@@ -1008,8 +945,7 @@
   "CatID": "AMBTraf",
   "SubCategory": "VERKEER",
   "Synonyms": [
-   "car",
-   "bys",
+   "car bys",
    "freeway",
    "highway",
    "boulevard",
@@ -1041,8 +977,7 @@
   "Synonyms": [
    "jungle",
    "struikgewas",
-   "tropisch",
-   "regenwoud",
+   "tropisch regenwoud",
    "nevelwoud",
    "tropisch"
   ]
@@ -1113,8 +1048,7 @@
   "SubCategory": "STAD",
   "Synonyms": [
    "metropool",
-   "dichte",
-   "stad",
+   "dichte stad",
    "stad",
    "centrum",
    "binnenstad",
@@ -1126,8 +1060,7 @@
    "sloppenwijk",
    "achterbuurt",
    "getto",
-   "financieel",
-   "district"
+   "financieel district"
   ]
  },
  {
@@ -1188,8 +1121,7 @@
    "zeekoe",
    "walrus",
    "zeeolifant",
-   "zee",
-   "otter",
+   "zee-otter",
    "beluga",
    "narwal",
    "doejong",
@@ -1209,11 +1141,9 @@
   "CatID": "ANMLBat",
   "SubCategory": "VLEERMUIS",
   "Synonyms": [
-   "vliegende",
-   "vos",
+   "vliegende vos",
    "vampiervleermuizen",
-   "fruitvleermuis",
-   ""
+   "fruitvleermuis..."
   ]
  },
  {
@@ -1227,8 +1157,7 @@
    "kitten",
    "poes",
    "kat",
-   "straatkat",
-   ""
+   "straatkat..."
   ]
  },
  {
@@ -1250,8 +1179,7 @@
    "caracal",
    "ocelot",
    "panter",
-   "serval",
-   ""
+   "serval..."
   ]
  },
  {
@@ -1309,8 +1237,7 @@
    "ezel",
    "muilezel",
    "ezel",
-   "zebra",
-   ""
+   "zebra..."
   ]
  },
  {
@@ -1352,8 +1279,7 @@
    "aap",
    "gorilla",
    "lemur",
-   "orang",
-   "oetan",
+   "orang-oetan",
    "kapucijn",
    "marmoset",
    "aap",
@@ -1441,8 +1367,7 @@
    "nijlpaard",
    "honingdas",
    "buffel",
-   "eland",
-   ""
+   "eland..."
   ]
  },
  {
@@ -1483,14 +1408,11 @@
   "CatID": "IR",
   "SubCategory": "IMPULSE RESPONSE",
   "Synonyms": [
-   "impulse",
-   "response",
+   "impulse response",
    "ir",
    "altiverb",
-   "reverb",
-   "sample",
-   "convolutie",
-   "reverb"
+   "reverb sample",
+   "convolutie reverb"
   ]
  },
  {
@@ -1499,8 +1421,7 @@
   "CatID": "LPGRP",
   "SubCategory": "LOOP GROEP",
   "Synonyms": [
-   "loop",
-   "groep",
+   "loop groep",
    "walla"
   ]
  },
@@ -1513,8 +1434,7 @@
    "premix",
    "eindmix",
    "stem",
-   "m",
-   "e",
+   "m&e",
    "mixdown",
    "printmaster"
   ]
@@ -1534,10 +1454,8 @@
   "CatID": "PROD",
   "SubCategory": "DIALOOG",
   "Synonyms": [
-   "productie",
-   "opname",
-   "dialoog",
-   "lijn",
+   "productie opname",
+   "dialoog lijn",
    "dx"
   ]
  },
@@ -1548,8 +1466,7 @@
   "SubCategory": "RAW",
   "Synonyms": [
    "datatape",
-   "ruwe",
-   "bestanden",
+   "ruwe bestanden",
    "onbewerkt"
   ]
  },
@@ -1579,18 +1496,13 @@
   "CatID": "TEST",
   "SubCategory": "TEST TOON",
   "Synonyms": [
-   "adr",
-   "piepjes",
+   "adr piepjes",
    "testtonen",
-   "bliep",
-   "toon",
+   "bliep toon",
    "2pops",
-   "witte",
-   "ruis",
-   "roze",
-   "ruis",
-   "sinus",
-   "sweeps"
+   "witte ruis",
+   "roze ruis",
+   "sinus sweeps"
   ]
  },
  {
@@ -1601,8 +1513,7 @@
   "Synonyms": [
    "handelsmerk",
    "copyright",
-   "product",
-   "geluid",
+   "product geluid",
    "gelicenseerd",
    "geregistreerd",
    "legaal"
@@ -1614,9 +1525,7 @@
   "CatID": "WIP",
   "SubCategory": "LOPENDE WERKZAAMHEDEN",
   "Synonyms": [
-   "werk",
-   "in",
-   "uitvoering",
+   "werk in uitvoering",
    "wip",
    "onvoltooid"
   ]
@@ -1686,10 +1595,8 @@
   "Synonyms": [
    "magnetron",
    "ovenwekker",
-   "digitaal",
-   "horloge",
-   "telefoonwekker",
-   ""
+   "digitaal horloge",
+   "telefoonwekker..."
   ]
  },
  {
@@ -1698,11 +1605,8 @@
   "CatID": "BEEPVeh",
   "SubCategory": "VOERTUIG",
   "Synonyms": [
-   "vorkheftruck",
-   "pieptoon",
-   "back",
-   "up",
-   "pieptoon"
+   "vorkheftruck pieptoon",
+   "back-up pieptoon"
   ]
  },
  {
@@ -1725,8 +1629,7 @@
   "Synonyms": [
    "deurbel",
    "deurbel",
-   "ding",
-   "dong",
+   "ding dong",
    "tring"
   ]
  },
@@ -1739,10 +1642,8 @@
    "gong",
    "gamelan",
    "agung",
-   "kom",
-   "gong",
-   "tam",
-   "tam"
+   "kom gong",
+   "tam-tam"
   ]
  },
  {
@@ -1757,8 +1658,7 @@
    "altaarbel",
    "sleebel",
    "jinglebells",
-   "butler",
-   "bell"
+   "butler bell"
   ]
  },
  {
@@ -1813,11 +1713,9 @@
    "kraai",
    "raaf",
    "gaai",
-   "blauwe",
-   "gaai",
+   "blauwe gaai",
    "ekster",
-   "notenkraker",
-   ""
+   "notenkraker..."
   ]
  },
  {
@@ -1835,8 +1733,7 @@
    "zwaan",
    "patrijs",
    "wintertaling",
-   "wilde",
-   "eend",
+   "wilde eend",
    "eider",
    "guans",
    "chachalacas",
@@ -1859,8 +1756,7 @@
    "specht",
    "nachtzwaluw",
    "armoedzaaier",
-   "kolibrie",
-   ""
+   "kolibrie..."
   ]
  },
  {
@@ -1870,9 +1766,7 @@
   "SubCategory": "ZEE",
   "Synonyms": [
    "zeemeeuw",
-   "jan",
-   "van",
-   "gent",
+   "jan-van-gent",
    "albatros",
    "aalscholver",
    "pelikaan",
@@ -1885,15 +1779,12 @@
    "scholekster",
    "plevier",
    "oeverloper",
-   "bonte",
-   "strandloper",
-   "bonte",
-   "strandloper",
+   "bonte strandloper",
+   "bonte strandloper",
    "alk",
    "papegaaiduiker",
    "murrelet",
-   "eekhoorn",
-   ""
+   "eekhoorn..."
   ]
  },
  {
@@ -1927,14 +1818,12 @@
    "waterspreeuw",
    "spreeuw",
    "merel",
-   "bonte",
-   "kraai",
+   "bonte kraai",
    "vleermuis",
    "troepiaal",
    "kardinaal",
    "gors",
-   "merel",
-   ""
+   "merel..."
   ]
  },
  {
@@ -1979,8 +1868,7 @@
    "roerdomp",
    "zilverreiger",
    "ooievaar",
-   "watersnip",
-   ""
+   "watersnip..."
   ]
  },
  {
@@ -2013,8 +1901,7 @@
    "luik",
    "veerdeur",
    "bootdeur",
-   "waterdichte",
-   "deur",
+   "waterdichte deur",
    "scheepsdeur"
   ]
  },
@@ -2063,8 +1950,7 @@
    "veerboten",
    "cruiseschip",
    "marine",
-   "militaire",
-   "boot",
+   "militaire boot",
    "sleepboot",
    "zeilboot",
    "jacht",
@@ -2103,8 +1989,7 @@
    "slagkruiser",
    "fregat",
    "korvet",
-   "snelle",
-   "aanvalsboot"
+   "snelle aanvalsboot"
   ]
  },
  {
@@ -2123,10 +2008,8 @@
   "CatID": "BOATMotr",
   "SubCategory": "MOTORBOOT",
   "Synonyms": [
-   "kleine",
-   "boot",
-   "persoonlijke",
-   "vissersboot",
+   "kleine boot",
+   "persoonlijke vissersboot",
    "speedboot",
    "pontonboot",
    "eendenboot",
@@ -2179,8 +2062,7 @@
   "CatID": "BOATShip",
   "SubCategory": "SCHIP",
   "Synonyms": [
-   "groot",
-   "schip",
+   "groot schip",
    "cruiseschip",
    "olietanker",
    "vrachtschip",
@@ -2207,8 +2089,7 @@
    "onderzee\u00ebr",
    "sonar",
    "duikboot",
-   "u",
-   "boot"
+   "u-boot"
   ]
  },
  {
@@ -2219,13 +2100,11 @@
   "Synonyms": [
    "boot",
    "schip",
-   "onder",
-   "water",
+   "onder water",
    "tanker",
    "vissersboot",
    "motorboot",
-   "onder",
-   "water"
+   "onder water"
   ]
  },
  {
@@ -2234,9 +2113,7 @@
   "CatID": "BLLTBy",
   "SubCategory": "PASSEREN",
   "Synonyms": [
-   "bullet",
-   "whiz",
-   "by",
+   "bullet whiz-by",
    "fwip"
   ]
  },
@@ -2351,11 +2228,8 @@
   "SubCategory": "MACHINE",
   "Synonyms": [
    "contraptie",
-   "komische",
-   "machine",
-   "rube",
-   "goldberg",
-   "machine"
+   "komische machine",
+   "rube goldberg machine"
   ]
  },
  {
@@ -2388,8 +2262,7 @@
   "CatID": "TOONPluk",
   "SubCategory": "PLUK",
   "Synonyms": [
-   "touwtje",
-   "trekken"
+   "touwtje trekken"
   ]
  },
  {
@@ -2398,14 +2271,10 @@
   "CatID": "TOONPop",
   "SubCategory": "POP",
   "Synonyms": [
-   "pop",
-   "gun",
-   "mouth",
-   "pop",
-   "suction",
-   "cup",
-   "bubble",
-   "pops"
+   "pop gun",
+   "mouth pop",
+   "suction cup",
+   "bubble pops"
   ]
  },
  {
@@ -2473,9 +2342,7 @@
   "SubCategory": "VOERTUIG",
   "Synonyms": [
    "jetsons",
-   "contraptie",
-   "flintstones",
-   "auto",
+   "contraptie. flintstones auto",
    "backfire"
   ]
  },
@@ -2486,10 +2353,8 @@
   "SubCategory": "STEM",
   "Synonyms": [
    "mompelen",
-   "domme",
-   "stem",
-   "tekenfilm",
-   "stem"
+   "domme stem",
+   "tekenfilm stem"
   ]
  },
  {
@@ -2507,8 +2372,7 @@
   "CatID": "TOONWhis",
   "SubCategory": "FLUIT",
   "Synonyms": [
-   "schuif",
-   "fluit"
+   "schuif fluit"
   ]
  },
  {
@@ -2581,8 +2445,7 @@
   "SubCategory": "IMPACT",
   "Synonyms": [
    "raken",
-   "laten",
-   "vallen",
+   "laten vallen",
    "botsen",
    "crashen",
    "klakken",
@@ -2654,13 +2517,11 @@
   "CatID": "CHAINImpt",
   "SubCategory": "IMPACT",
   "Synonyms": [
-   "laten",
-   "vallen",
+   "laten vallen",
    "raken",
    "botsen",
    "slam",
-   "spanning",
-   "snapt"
+   "spanning snapt"
   ]
  },
  {
@@ -2723,8 +2584,7 @@
   "Synonyms": [
    "luiden",
    "bel",
-   "staande",
-   "klok"
+   "staande klok"
   ]
  },
  {
@@ -2756,8 +2616,7 @@
    "tik",
    "klik",
    "kwarts",
-   "tik",
-   "tak",
+   "tik-tak",
    "stopwatch",
    "eierwekker"
   ]
@@ -2800,8 +2659,7 @@
   "SubCategory": "IMPACT",
   "Synonyms": [
    "slaan",
-   "laten",
-   "vallen",
+   "laten vallen",
    "botsen",
    "smakken"
   ]
@@ -2853,11 +2711,8 @@
    "bandrecorder",
    "nagra",
    "walkman",
-   "cd",
-   "speler",
-   "reel",
-   "to",
-   "reel",
+   "cd-speler",
+   "reel to reel",
    "vcr",
    "laserdiscspeler",
    "betamax",
@@ -2898,13 +2753,11 @@
   "CatID": "COMCell",
   "SubCategory": "MOBIEL",
   "Synonyms": [
-   "mobiele",
-   "telefoon",
+   "mobiele telefoon",
    "smartphone",
    "iphone",
    "blackberry",
-   "flip",
-   "phone",
+   "flip phone",
    "android"
   ]
  },
@@ -2914,10 +2767,8 @@
   "CatID": "COMMic",
   "SubCategory": "MICROFOON",
   "Synonyms": [
-   "mic",
-   "handling",
-   "mic",
-   "tap",
+   "mic handling",
+   "mic tap",
    "larsen",
    "megafoon"
   ]
@@ -2955,8 +2806,7 @@
    "kortegolf",
    "squelch",
    "futz",
-   "radio",
-   "uitzending"
+   "radio-uitzending"
   ]
  },
  {
@@ -2976,8 +2826,7 @@
   "CatID": "COMTelm",
   "SubCategory": "SIGNALEN",
   "Synonyms": [
-   "morse",
-   "code",
+   "morse code",
    "telegraaf",
    "telemetrie",
    "uitlezing",
@@ -2994,8 +2843,7 @@
    "telefooncel",
    "draaischijf",
    "toetsenbord",
-   "vaste",
-   "lijn",
+   "vaste lijn",
    "draadtelefoon"
   ]
  },
@@ -3011,8 +2859,7 @@
    "show",
    "programma",
    "futz",
-   "tv",
-   "show",
+   "tv-show",
    "uitzending"
   ]
  },
@@ -3022,12 +2869,9 @@
   "CatID": "COMTran",
   "SubCategory": "WALKIE TALKIE",
   "Synonyms": [
-   "walkie",
-   "talkies",
+   "walkie talkies",
    "cb",
-   "ham",
-   "radio",
-   "s",
+   "ham radio's",
    "transceiver",
    "squelch",
    "intercom",
@@ -3042,8 +2886,7 @@
   "Synonyms": [
    "typemachine",
    "teleprinter",
-   "carriage",
-   "return",
+   "carriage return",
    "platenknop"
   ]
  },
@@ -3056,10 +2899,8 @@
    "overslaan",
    "zoeken",
    "slijpen",
-   "harde",
-   "schijf",
-   "harde",
-   "schijf"
+   "harde schijf",
+   "harde schijf"
   ]
  },
  {
@@ -3080,10 +2921,8 @@
   "CatID": "CMPTMisc",
   "SubCategory": "DIVERSEN",
   "Synonyms": [
-   "palm",
-   "pilot",
-   "pocket",
-   "pc"
+   "palm pilot",
+   "pocket pc"
   ]
  },
  {
@@ -3103,10 +2942,8 @@
   "CatID": "CREAAvian",
   "SubCategory": "VOGEL",
   "Synonyms": [
-   "buitenaardse",
-   "vogels",
-   "buitenaardse",
-   "vogels",
+   "buitenaardse vogels",
+   "buitenaardse vogels",
    "fantasievogels"
   ]
  },
@@ -3116,8 +2953,7 @@
   "CatID": "CREABeast",
   "SubCategory": "BEEST",
   "Synonyms": [
-   "wollige",
-   "mammoet",
+   "wollige mammoet",
    "mumakil",
    ""
   ]
@@ -3204,8 +3040,7 @@
   "Synonyms": [
    "zombie",
    "ondode",
-   "levende",
-   "doden",
+   "levende doden",
    "ghoul",
    "vampier",
    "elf",
@@ -3215,12 +3050,10 @@
    "tengu",
    "leprechaun",
    "bigfoot",
-   "swamp",
-   "thing",
+   "swamp thing",
    "weerwolf",
    "frankenstein",
-   "mummie",
-   ""
+   "mummie..."
   ]
  },
  {
@@ -3249,8 +3082,7 @@
   "SubCategory": "MONSTER",
   "Synonyms": [
    "godzilla",
-   "king",
-   "kong",
+   "king kong",
    "rancor",
    "behemoth",
    "xenomorph",
@@ -3323,8 +3155,7 @@
    "oproer",
    "protest",
    "schreeuwen",
-   "ruw",
-   ""
+   "ruw..."
   ]
  },
  {
@@ -3396,8 +3227,7 @@
   "Synonyms": [
    "speelplaats",
    "pauze",
-   "kinderen",
-   "spelen",
+   "kinderen spelen",
    "park",
    "spelen",
    "tikkertje"
@@ -3412,8 +3242,7 @@
    "chatter",
    "chat",
    "talk",
-   "sparse",
-   "walla",
+   "sparse walla",
    "converse",
    "conversation"
   ]
@@ -3424,14 +3253,10 @@
   "CatID": "CRWDLaff",
   "SubCategory": "LACHEN",
   "Synonyms": [
-   "tv",
-   "show",
-   "ingeblikt",
-   "gelach",
-   "comedy",
-   "club",
-   "laugh",
-   "track"
+   "tv-show",
+   "ingeblikt gelach",
+   "comedy club",
+   "laugh track"
   ]
  },
  {
@@ -3440,8 +3265,7 @@
   "CatID": "CRWDLoop",
   "SubCategory": "LOOP GROEP",
   "Synonyms": [
-   "loop",
-   "groep",
+   "loop groep",
    "adr",
    "ingeblikt"
   ]
@@ -3490,8 +3314,7 @@
    "boe",
    "ahh",
    "ooh",
-   "studio",
-   "reactie"
+   "studio reactie"
   ]
  },
  {
@@ -3519,8 +3342,7 @@
    "stadion",
    "yay",
    "publiek",
-   "olympische",
-   "spelen",
+   "olympische spelen",
    "schreeuwen",
    "woohoo"
   ]
@@ -3543,11 +3365,9 @@
   "CatID": "DSGNBass",
   "SubCategory": "BAS VAL",
   "Synonyms": [
-   "bass",
-   "dive",
+   "bass dive",
    "downer",
-   "bass",
-   "drop",
+   "bass drop",
    "fall"
   ]
  },
@@ -3558,10 +3378,8 @@
   "SubCategory": "BOOM",
   "Synonyms": [
    "boem",
-   "deep",
-   "hit",
-   "low",
-   "angel",
+   "deep hit",
+   "low angel",
    "trailer"
   ]
  },
@@ -3581,8 +3399,7 @@
   "SubCategory": "DISTORTION",
   "Synonyms": [
    "distortion",
-   "squared",
-   "off",
+   "squared off",
    "distorted"
   ]
  },
@@ -3718,8 +3535,7 @@
    "bron",
    "ruw",
    "materiaal",
-   "ruwe",
-   "opname"
+   "ruwe opname"
   ]
  },
  {
@@ -3742,15 +3558,11 @@
   "Synonyms": [
    "gesynthetiseerd",
    "synth",
-   "mod",
-   "synth",
-   "modulaire",
-   "synth",
+   "mod synth",
+   "modulaire synth",
    "granulair",
-   "analoge",
-   "synth",
-   "modulaire",
-   "synth"
+   "analoge synth",
+   "modulaire synth"
   ]
  },
  {
@@ -3761,8 +3573,7 @@
   "Synonyms": [
    "tinnitus",
    "ringing",
-   "shell",
-   "shock",
+   "shell shock",
    "subjectief"
   ]
  },
@@ -3787,8 +3598,7 @@
   "SubCategory": "WOESJ",
   "Synonyms": [
    "whoosh",
-   "trailer",
-   "swish",
+   "trailer swish",
    "swish"
   ]
  },
@@ -3875,8 +3685,7 @@
    "storten",
    "ploffen",
    "lossen",
-   "laten",
-   "vallen"
+   "laten vallen"
   ]
  },
  {
@@ -3907,8 +3716,7 @@
   "SubCategory": "TONAAL",
   "Synonyms": [
    "zandduinen",
-   "zingend",
-   "zand"
+   "zingend zand"
   ]
  },
  {
@@ -3971,12 +3779,9 @@
    "kerker",
    "kelder",
    "kasteel",
-   "houten",
-   "deur",
-   "metalen",
-   "deur",
-   "deur",
-   "kraken"
+   "houten deur",
+   "metalen deur",
+   "deur kraken"
   ]
  },
  {
@@ -3997,12 +3802,10 @@
   "CatID": "DOORElec",
   "SubCategory": "ELECTRISCH",
   "Synonyms": [
-   "elektrische",
-   "deur",
+   "elektrische deur",
    "garagedeur",
    "geluidsdeur",
-   "automatische",
-   "deur"
+   "automatische deur"
   ]
  },
  {
@@ -4025,12 +3828,10 @@
   "CatID": "DOORGlas",
   "SubCategory": "GLAS",
   "Synonyms": [
-   "glazen",
-   "deur",
+   "glazen deur",
    "winkeldeur",
    "erker",
-   "openslaande",
-   "deur"
+   "openslaande deur"
   ]
  },
  {
@@ -4046,8 +3847,7 @@
    "scharnier",
    "klink",
    "beslag",
-   "lock",
-   "picking",
+   "lock picking",
    "jiggle"
   ]
  },
@@ -4069,8 +3869,7 @@
    "deurdranger",
    "pneumatisch",
    "hydraulisch",
-   "aangedreven",
-   "luik"
+   "aangedreven luik"
   ]
  },
  {
@@ -4114,12 +3913,9 @@
   "CatID": "DOORPlas",
   "SubCategory": "PLASTIC",
   "Synonyms": [
-   "porta",
-   "john",
-   "porta",
-   "let",
-   "porta",
-   "pottie"
+   "porta john",
+   "porta let",
+   "porta pottie"
   ]
  },
  {
@@ -4152,8 +3948,7 @@
   "CatID": "DOORSlid",
   "SubCategory": "SCHUIVEN",
   "Synonyms": [
-   "glazen",
-   "schuifdeur",
+   "glazen schuifdeur",
    "patiodeur",
    "douchedeur"
   ]
@@ -4168,8 +3963,7 @@
    "crypte",
    "tempel",
    "mausoleum",
-   "geheime",
-   "ingang"
+   "geheime ingang"
   ]
  },
  {
@@ -4224,8 +4018,7 @@
   "SubCategory": "PLASTIC",
   "Synonyms": [
    "onderdelenbak",
-   "bureau",
-   "organizer"
+   "bureau-organizer"
   ]
  },
  {
@@ -4245,8 +4038,7 @@
   "SubCategory": "BOOG",
   "Synonyms": [
    "jacobsladder",
-   "tesla",
-   "spoel",
+   "tesla spoel",
    "ark",
    "boog",
    "centrale",
@@ -4259,20 +4051,14 @@
   "CatID": "ELECBuzz",
   "SubCategory": "BUZZ & HUM",
   "Synonyms": [
-   "grond",
-   "brom",
-   "amp",
-   "brom",
-   "amp",
-   "buzz",
-   "speaker",
-   "brom",
-   "speaker",
-   "buzz",
+   "grond brom",
+   "amp brom",
+   "amp buzz",
+   "speaker brom",
+   "speaker buzz",
    "hum",
    "buzz",
-   "inductie",
-   "hum"
+   "inductie hum"
   ]
  },
  {
@@ -4283,8 +4069,7 @@
   "Synonyms": [
    "emf",
    "spoel",
-   "pick",
-   "up",
+   "pick-up",
    "inductie"
   ]
  },
@@ -4379,8 +4164,7 @@
    "schoudervulling",
    "knievulling",
    "scheenbeschermer",
-   "jock",
-   "strap"
+   "jock strap"
   ]
  },
  {
@@ -4392,8 +4176,7 @@
    "riem",
    "tactisch",
    "dienstriem",
-   "munitie",
-   "riem",
+   "munitie riem",
    "politie",
    "militair",
    "bandelier"
@@ -4440,8 +4223,7 @@
    "putty",
    "razzberry",
    "raspberry",
-   "whoopie",
-   "kussen",
+   "whoopie kussen",
    "flarp",
    "oksel",
    "scheetzak",
@@ -4463,8 +4245,7 @@
   "CatID": "FARTReal",
   "SubCategory": "AUTHENTIEK",
   "Synonyms": [
-   "menselijke",
-   "scheet",
+   "menselijke scheet",
    "winderigheid",
    "poot",
    "toot"
@@ -4477,11 +4258,9 @@
   "SubCategory": "VALLEN",
   "Synonyms": [
    "bodyfall",
-   "body",
-   "drag",
+   "body drag",
    "scuffle",
-   "body",
-   "slam",
+   "body slam",
    "tackle"
   ]
  },
@@ -4519,8 +4298,7 @@
   "Synonyms": [
    "stoot",
    "schop",
-   "body",
-   "blow",
+   "body blow",
    "klap",
    "smak",
    "knok",
@@ -4563,8 +4341,7 @@
   "SubCategory": "UITBARSTING",
   "Synonyms": [
    "backdraft",
-   "dragon",
-   "fire",
+   "dragon fire",
    "engulf"
   ]
  },
@@ -4606,8 +4383,7 @@
    "zippo",
    "enflame",
    "erupt",
-   "flame",
-   "up",
+   "flame up",
    "inflamame"
   ]
  },
@@ -4628,8 +4404,7 @@
   "Synonyms": [
    "vuurpook",
    "lont",
-   "lont",
-   "branden"
+   "lont branden"
   ]
  },
  {
@@ -4642,8 +4417,7 @@
    "lont",
    "fakkel",
    "firebrand",
-   "brandende",
-   "stok",
+   "brandende stok",
    "cresset"
   ]
  },
@@ -4653,14 +4427,10 @@
   "CatID": "FIRETurb",
   "SubCategory": "TURBULENT",
   "Synonyms": [
-   "fire",
-   "swirl",
-   "violent",
-   "fire",
-   "flame",
-   "thrower",
-   "fire",
-   "tornado",
+   "fire swirl",
+   "violent fire",
+   "flame thrower",
+   "fire tornado",
    "engulf",
    "backdraft"
   ]
@@ -4712,10 +4482,8 @@
    "sparkler",
    "flessenraket",
    "rookbom",
-   "jumping",
-   "jack",
-   "romeinse",
-   "kaars",
+   "jumping jack",
+   "romeinse kaars",
    "popper",
    "kersenbom"
   ]
@@ -4783,9 +4551,7 @@
   "Synonyms": [
    "hakken",
    "snijden",
-   "in",
-   "blokjes",
-   "snijden",
+   "in blokjes snijden",
    "mengen",
    "mixen",
    "kloppen",
@@ -4860,9 +4626,7 @@
    "graan",
    "groente",
    "fruit",
-   "voedsel",
-   "in",
-   "blik",
+   "voedsel in blik",
    "cornflakes",
    "vlees",
    "haver",
@@ -4990,9 +4754,7 @@
   "SubCategory": "ARCADE",
   "Synonyms": [
    "pinball",
-   "whack",
-   "a",
-   "mole",
+   "whack-a-mole",
    "skeeball",
    "klauwmachine"
   ]
@@ -5045,20 +4807,16 @@
   "Synonyms": [
    "atari",
    "ps4",
-   "xbox",
-   "one",
-   "xbox",
-   "360",
+   "xbox one",
+   "xbox 360",
    "amstrad",
    "famicom",
    "snes",
    "gameboy",
-   "nintendo",
-   "64",
+   "nintendo 64",
    "playstation",
    "megadrive",
-   "psp",
-   ""
+   "psp..."
   ]
  },
  {
@@ -5105,9 +4863,7 @@
   "CatID": "GEOMisc",
   "SubCategory": "DIVERSEN",
   "Synonyms": [
-   "borrelende",
-   "hete",
-   "poel"
+   "borrelende hete poel"
   ]
  },
  {
@@ -5130,8 +4886,7 @@
   "CatID": "GLASBrk",
   "SubCategory": "BREKEN",
   "Synonyms": [
-   "glas",
-   "breken",
+   "glas breken",
    "breken",
    "versplinteren"
   ]
@@ -5183,8 +4938,7 @@
   "SubCategory": "IMPACT",
   "Synonyms": [
    "raken",
-   "laten",
-   "vallen",
+   "laten vallen",
    "botsen",
    "rinkelen"
   ]
@@ -5219,10 +4973,8 @@
    "resoneren",
    "rinkelen",
    "klinken",
-   "glazen",
-   "harmonica",
-   "kristallen",
-   "kom"
+   "glazen harmonica",
+   "kristallen kom"
   ]
  },
  {
@@ -5244,14 +4996,10 @@
   "CatID": "GOREBone",
   "SubCategory": "BOT",
   "Synonyms": [
-   "bot",
-   "breken",
-   "bot",
-   "breken",
-   "bot",
-   "versplinteren",
-   "kaak",
-   "breken",
+   "bot breken",
+   "bot breken",
+   "bot versplinteren",
+   "kaak breken",
    "kaken"
   ]
  },
@@ -5394,9 +5142,7 @@
    "zwartkruit",
    "flintlock",
    "longrifle",
-   "fire",
-   "lance",
-   ""
+   "fire lance..."
   ]
  },
  {
@@ -5411,8 +5157,7 @@
    "bazooka",
    "mortier",
    "raket",
-   "marine",
-   ""
+   "marine..."
   ]
  },
  {
@@ -5421,17 +5166,14 @@
   "CatID": "GUNAuto",
   "SubCategory": "AUTOMATISCH",
   "Synonyms": [
-   "ak",
-   "47",
+   "ak-47",
    "m16",
    "machinegeweer",
-   "tommy",
-   "gun",
+   "tommy gun",
    "uzi",
    "m249",
    "m1919",
-   "gatling",
-   "gun",
+   "gatling gun",
    "minigun",
    ""
   ]
@@ -5456,16 +5198,10 @@
   "Synonyms": [
    "holster",
    "pistool",
-   "pistool",
-   "pakken",
-   "pistool",
-   "vangen",
-   "pistool",
-   "laten",
-   "vallen",
-   "pistool",
-   "laden",
-   ""
+   "pistool pakken",
+   "pistool vangen",
+   "pistool laten vallen",
+   "pistool laden..."
   ]
  },
  {
@@ -5474,10 +5210,8 @@
   "CatID": "GUNTech",
   "SubCategory": "HI TECH",
   "Synonyms": [
-   "rail",
-   "gun",
-   "spy",
-   "gun"
+   "rail gun",
+   "spy gun"
   ]
  },
  {
@@ -5488,15 +5222,11 @@
   "Synonyms": [
    "clip",
    "haan",
-   "pistool",
-   "rammelen",
+   "pistool rammelen",
    "grendel",
    "magazijn",
-   "kogel",
-   "laden",
-   "pistool",
-   "haan",
-   ""
+   "kogel laden",
+   "pistool haan..."
   ]
  },
  {
@@ -5522,13 +5252,10 @@
    "glock",
    "handwapen",
    "colt",
-   "smith",
-   "wesson",
-   "sig",
-   "sauer",
+   "smith & wesson",
+   "sig sauer",
    "luger",
-   "walther",
-   "ppk",
+   "walther ppk",
    "browning",
    "ruger",
    "beretta"
@@ -5549,8 +5276,7 @@
    "powell",
    "sniper",
    "jacht",
-   "semi",
-   "automatisch"
+   "semi-automatisch"
   ]
  },
  {
@@ -5563,8 +5289,7 @@
    "dubbelloops",
    "mossberg",
    "winchester",
-   "coach",
-   "gun"
+   "coach gun"
   ]
  },
  {
@@ -5618,8 +5343,7 @@
   "Synonyms": [
    "shofar",
    "conch",
-   "conch",
-   "schelp",
+   "conch schelp",
    "strijdhoorn",
    "alpenhoorn",
    "alpenhoorn",
@@ -5675,8 +5399,7 @@
    "hack",
    "ahem",
    "schorre",
-   "heldere",
-   "keel"
+   "heldere keel"
   ]
  },
  {
@@ -5746,8 +5469,7 @@
   "SubCategory": "NIEZEN",
   "Synonyms": [
    "niezen",
-   "ah",
-   "choo"
+   "ah-choo"
   ]
  },
  {
@@ -5771,8 +5493,7 @@
    "snurken",
    "zzz",
    "verstopt",
-   "zware",
-   "ademhaling",
+   "zware ademhaling",
    "apneu"
   ]
  },
@@ -5866,8 +5587,7 @@
   "SubCategory": "IMPACT",
   "Synonyms": [
    "raken",
-   "laten",
-   "vallen",
+   "laten vallen",
    "botsen",
    "neerstorten",
    "clunk",
@@ -6084,9 +5804,7 @@
    "achtbaan",
    "draaimolen",
    "scrambler",
-   "tilt",
-   "a",
-   "whirl",
+   "tilt-a-whirl",
    "kinderattractie",
    "pretparkattractie",
    "flipperkast",
@@ -6102,8 +5820,7 @@
    "drukpers",
    "naaimachine",
    "olijfpers",
-   "boterkarn",
-   ""
+   "boterkarn..."
   ]
  },
  {
@@ -6123,8 +5840,7 @@
    "strijkijzer",
    "koffiezetapparaat",
    "vaatwasser",
-   "elektrische",
-   "blikopener",
+   "elektrische blikopener",
    "vuilnisbak",
    "luchtbevochtiger",
    "ontvochtiger",
@@ -6155,8 +5871,7 @@
    "paternoster",
    "goederenlift",
    "personenlift",
-   "lift",
-   ""
+   "lift..."
   ]
  },
  {
@@ -6178,11 +5893,8 @@
    "ventilator",
    "plafondventilator",
    "boxventilator",
-   "industri\u00eble",
-   "ventilator",
-   "ventilator",
-   "zonder",
-   "bladen"
+   "industri\u00eble ventilator",
+   "ventilator zonder bladen"
   ]
  },
  {
@@ -6211,11 +5923,9 @@
    "eliptical",
    "roeimachine",
    "hometrainer",
-   "stationaire",
-   "fiets",
+   "stationaire fiets",
    "nordictrack",
-   "trapklimmer",
-   ""
+   "trapklimmer."
   ]
  },
  {
@@ -6237,8 +5947,7 @@
   "Synonyms": [
    "airco",
    "airconditioning",
-   "verwarming",
-   ""
+   "verwarming."
   ]
  },
  {
@@ -6247,15 +5956,11 @@
   "CatID": "MACHInd",
   "SubCategory": "INDUSTRIEEL",
   "Synonyms": [
-   "hydraulische",
-   "pers",
-   "lopende",
-   "band",
+   "hydraulische pers",
+   "lopende band",
    "distilleerderij",
    "ponsmachine",
-   "vormpers",
-   "f437",
-   "f450"
+   "vormpers+f437:f450"
   ]
  },
  {
@@ -6265,8 +5970,7 @@
   "SubCategory": "MECHANISME",
   "Synonyms": [
    "puzzeldoos",
-   "rube",
-   "goldberg",
+   "rube goldberg",
    "gizmo"
   ]
  },
@@ -6276,19 +5980,12 @@
   "CatID": "MACHMed",
   "SubCategory": "MEDISCH",
   "Synonyms": [
-   "x",
-   "ray",
-   "machines",
+   "x-ray machines",
    "mri",
-   "cat",
-   "scan",
-   "pet",
-   "scan",
-   "bloeddruk",
-   "machine",
-   "lab",
-   "test",
-   "machine",
+   "cat scan",
+   "pet scan",
+   "bloeddruk machine",
+   "lab test machine",
    "centrifuge",
    "ventilator",
    "defibrillator"
@@ -6377,8 +6074,7 @@
    "oproep",
    "necromantie",
    "voodoo",
-   "zwarte",
-   "magie",
+   "zwarte magie",
    "verboden"
   ]
  },
@@ -6480,8 +6176,7 @@
   "Synonyms": [
    "hydraulisch",
    "pneumatisch",
-   "onder",
-   "druk",
+   "onder druk",
    "ventiel"
   ]
  },
@@ -6721,10 +6416,8 @@
   "SubCategory": "ELECTRISCH",
   "Synonyms": [
    "tandenborstel",
-   "elektrisch",
-   "scheerapparaat",
-   "elektrische",
-   "motor",
+   "elektrisch scheerapparaat",
+   "elektrische motor",
    "vuilnisbak",
    "tandartsboormachine"
   ]
@@ -6745,12 +6438,9 @@
   "SubCategory": "SERVO",
   "Synonyms": [
    "robot",
-   "rc",
-   "auto",
-   "camera",
-   "focus",
-   "auto",
-   "antenne",
+   "rc auto",
+   "camera focus",
+   "auto antenne",
    "printer"
   ]
  },
@@ -6876,8 +6566,7 @@
    "aanpassen",
    "schuifelen",
    "schuifelen",
-   "lichte",
-   "beweging",
+   "lichte beweging",
    "verschuiven"
   ]
  },
@@ -6897,8 +6586,7 @@
    "gamelan",
    "agung",
    "komgong",
-   "tam",
-   "tam"
+   "tam-tam"
   ]
  },
  {
@@ -6951,16 +6639,12 @@
   "SubCategory": "EXPERIMENTEEL",
   "Synonyms": [
    "theremin",
-   "glazen",
-   "armonica",
+   "glazen armonica",
    "pyrofoon",
    "stylofoon",
-   "kristallen",
-   "baschet",
-   "ge\u00eblektriseerde",
-   "cactus",
-   "eolische",
-   "windharp"
+   "kristallen baschet",
+   "ge\u00eblektriseerde cactus",
+   "eolische windharp"
   ]
  },
  {
@@ -6997,12 +6681,9 @@
   "CatID": "MUSCLoop",
   "SubCategory": "LOOP  ",
   "Synonyms": [
-   "muziek",
-   "loops",
-   "sample",
-   "loops",
-   "drum",
-   "loops"
+   "muziek loops",
+   "sample loops",
+   "drum loops"
   ]
  },
  {
@@ -7013,8 +6694,7 @@
   "Synonyms": [
    "diversen",
    "harmonica",
-   "kazoo",
-   ""
+   "kazoo..."
   ]
  },
  {
@@ -7029,10 +6709,8 @@
    "toms",
    "oorlogsdrums",
    "taiko",
-   "kick",
-   "drum",
-   "snare",
-   "drum"
+   "kick drum",
+   "snare drum"
   ]
  },
  {
@@ -7058,8 +6736,7 @@
   "Synonyms": [
    "band",
    "straatmuzikant",
-   "live",
-   "concert",
+   "live concert",
    "show",
    "nachtclub",
    ""
@@ -7075,8 +6752,7 @@
    "banjo",
    "ukelele",
    "harp",
-   "akoestische",
-   "gitaar",
+   "akoestische gitaar",
    "basgitaar",
    "mandoline",
    "balalaika",
@@ -7092,8 +6768,7 @@
    "lier",
    "oud",
    "tambura",
-   "karimba",
-   ""
+   "karimba..."
   ]
  },
  {
@@ -7103,10 +6778,8 @@
   "SubCategory": "SAMPLE",
   "Synonyms": [
    "samples",
-   "ruwe",
-   "samples",
-   "one",
-   "shot"
+   "ruwe samples",
+   "one-shot"
   ]
  },
  {
@@ -7136,12 +6809,9 @@
   "SubCategory": "LIED",
   "Synonyms": [
    "muziek",
-   "player",
-   "piano",
+   "player piano",
    "ringtone",
-   "musical",
-   "car",
-   "by",
+   "musical car by",
    "phrase"
   ]
  },
@@ -7151,10 +6821,8 @@
   "CatID": "MUSCStngr",
   "SubCategory": "STING",
   "Synonyms": [
-   "muziek",
-   "angel",
-   "nieuws",
-   "angel",
+   "muziek angel",
+   "nieuws angel",
    "titel"
   ]
  },
@@ -7197,10 +6865,7 @@
   "SubCategory": "SPEELGOED",
   "Synonyms": [
    "muziekdoos",
-   "jack",
-   "in",
-   "the",
-   "box"
+   "jack in the box"
   ]
  },
  {
@@ -7222,7 +6887,7 @@
    "kaval",
    "panfluit",
    "xiao",
-   "fife",
+   "fife..",
    ""
   ]
  },
@@ -7288,8 +6953,7 @@
    "tyfoon",
    "orkaan",
    "cycloon",
-   "tropische",
-   "storm"
+   "tropische storm"
   ]
  },
  {
@@ -7300,8 +6964,7 @@
   "Synonyms": [
    "uitbarsting",
    "lava",
-   "lava",
-   "bommen",
+   "lava bommen",
    "uitbarstingen",
    "pyroclastiek"
   ]
@@ -7348,15 +7011,12 @@
    "ping",
    "dump",
    "spin",
-   "piggy",
-   "bank",
+   "piggy bank",
    "clink",
    "coin",
-   "loose",
+   "loose change",
    "change",
-   "change",
-   "silver",
-   "dollar",
+   "silver dollar",
    "penny",
    "nickel",
    "dime",
@@ -7370,13 +7030,11 @@
   "SubCategory": "BEWAARDOOS",
   "Synonyms": [
    "doos",
-   "kartonnen",
-   "doos",
+   "kartonnen doos",
    "container",
    "verpakking",
    "juwelendoos",
-   "plastic",
-   "container",
+   "plastic container",
    "deksel",
    "tupperware",
    "capsule",
@@ -7396,13 +7054,11 @@
    "laarzen",
    "mascara",
    "lippenstift",
-   "make",
-   "up",
+   "make-up",
    "riem",
    "sjerp",
    "sjaal",
-   "hoge",
-   "hakken",
+   "hoge hakken",
    "eyeliner",
    "zonnebril",
    "bril",
@@ -7534,11 +7190,9 @@
   "CatID": "OBJMed",
   "SubCategory": "MEDISCH",
   "Synonyms": [
-   "manuele",
-   "bloeddrukmeter",
+   "manuele bloeddrukmeter",
    "stethoscoop",
-   "rubberen",
-   "handschoenen",
+   "rubberen handschoenen",
    "klem",
    "injectiespuit",
    "forceerapparaat"
@@ -7564,8 +7218,7 @@
    "perforator",
    "schaar",
    "papierbak",
-   "presse",
-   "papier",
+   "presse-papier",
    "map",
    "ordner",
    "rapport"
@@ -7579,8 +7232,7 @@
   "Synonyms": [
    "karton",
    "piepschuim",
-   "verpakkingspinda",
-   "s",
+   "verpakkingspinda's",
    "etiketten",
    "pakpapier",
    "noppenfolie"
@@ -7598,15 +7250,10 @@
    "lijm",
    "verpakkingstape",
    "afplaktape",
-   "duct",
-   "tape",
-   "gaffer",
-   "tape",
-   "scotch",
-   "tape",
-   "dubbelzijdig",
-   "plakband",
-   ""
+   "duct tape",
+   "gaffer tape",
+   "scotch tape",
+   "dubbelzijdig plakband..."
   ]
  },
  {
@@ -7648,8 +7295,7 @@
    "stift",
    "krijt",
    "krijt",
-   "droog",
-   "wisbord",
+   "droog wisbord",
    "sharpie",
    "handtekening"
   ]
@@ -7713,8 +7359,7 @@
   "CatID": "PAPRImpt",
   "SubCategory": "IMPACT",
   "Synonyms": [
-   "papier",
-   "slaan",
+   "papier slaan",
    "smakken",
    "meppen",
    "krant",
@@ -7817,8 +7462,7 @@
   "SubCategory": "IMPACT",
   "Synonyms": [
    "raken",
-   "laten",
-   "vallen",
+   "laten vallen",
    "botsen"
   ]
  },
@@ -7914,9 +7558,7 @@
    "regenstorm",
    "binnenregen",
    "windschermregen",
-   "regen",
-   "op",
-   "dak"
+   "regen op dak"
   ]
  },
  {
@@ -7951,21 +7593,10 @@
   "CatID": "RAINVege",
   "SubCategory": "VEGETATIE",
   "Synonyms": [
-   "regen",
-   "op",
-   "een",
-   "metalen",
-   "oppervlak",
-   "dus",
-   "regen",
-   "op",
-   "een",
-   "auto",
-   "of",
-   "metalen",
-   "plaat",
-   "enz",
-   ""
+   "regen op een metalen oppervlak",
+   "dus regen op een auto",
+   "of metalen plaat",
+   "enz."
   ]
  },
  {
@@ -8167,8 +7798,7 @@
   "SubCategory": "IMPACT",
   "Synonyms": [
    "slaan",
-   "laten",
-   "vallen",
+   "laten vallen",
    "stoten"
   ]
  },
@@ -8285,9 +7915,7 @@
   "CatID": "SCIAlrm",
   "SubCategory": "ALARM",
   "Synonyms": [
-   "sci",
-   "fi",
-   "alarm",
+   "sci-fi alarm",
    "alarm",
    "waarschuwing"
   ]
@@ -8310,9 +7938,7 @@
   "CatID": "SCIDoor",
   "SubCategory": "DEUR",
   "Synonyms": [
-   "sci",
-   "fi",
-   "deur",
+   "sci-fi deur",
    "luchtsluis"
   ]
  },
@@ -8348,8 +7974,7 @@
   "Synonyms": [
    "teleporter",
    "voedselreplicators",
-   "holodeck",
-   ""
+   "holodeck..."
   ]
  },
  {
@@ -8359,8 +7984,7 @@
   "SubCategory": "MECHANISME",
   "Synonyms": [
    "tricorder",
-   "scifi",
-   "apparaat",
+   "scifi apparaat",
    "gizmo"
   ]
  },
@@ -8379,9 +8003,7 @@
   "CatID": "SCIRetro",
   "SubCategory": "RETRO",
   "Synonyms": [
-   "oude",
-   "sci",
-   "fi"
+   "oude sci-fi"
   ]
  },
  {
@@ -8403,11 +8025,9 @@
   "CatID": "SCIVeh",
   "SubCategory": "VOERTUIG",
   "Synonyms": [
-   "maan",
-   "zwerver",
+   "maan zwerver",
    "landspeeder",
-   "speeder",
-   "fiets",
+   "speeder fiets",
    "hoverboard",
    "podracer"
   ]
@@ -8419,8 +8039,7 @@
   "SubCategory": "WAPEN",
   "Synonyms": [
    "lichtzwaarden",
-   "exotisch",
-   "wapen"
+   "exotisch wapen"
   ]
  },
  {
@@ -8526,8 +8145,7 @@
    "cricket",
    "rugby",
    "polo",
-   "lacrosse",
-   ""
+   "lacrosse..."
   ]
  },
  {
@@ -8543,12 +8161,9 @@
    "vechtsporten",
    "karate",
    "judo",
-   "tae",
-   "kwon",
-   "do",
+   "tae kwon do",
    "dojo",
-   "kung",
-   "fu"
+   "kung fu"
   ]
  },
  {
@@ -8628,8 +8243,7 @@
    "curling",
    "ijshockey",
    "rodelen",
-   "schaatsen",
-   ""
+   "schaatsen..."
   ]
  },
  {
@@ -8730,8 +8344,7 @@
    "schuurmachine",
    "bandschuurmachine",
    "router",
-   "elektrische",
-   "schroevendraaier",
+   "elektrische schroevendraaier",
    "warmtepistool",
    "boormachine",
    "tafelzaag"
@@ -8743,14 +8356,9 @@
   "CatID": "TOYElec",
   "SubCategory": "ELECTRONISCH",
   "Synonyms": [
-   "auto",
-   "met",
-   "afstandsbediening",
-   "slot",
-   "car",
-   "spreken",
-   "en",
-   "spellen",
+   "auto met afstandsbediening",
+   "slot car",
+   "spreken en spellen",
    "furby"
   ]
  },
@@ -8760,11 +8368,9 @@
   "CatID": "TOYMech",
   "SubCategory": "MECHANISCH",
   "Synonyms": [
-   "opwindbaar",
-   "speelgoed",
+   "opwindbaar speelgoed",
    "speelgoedrobot",
-   "opwindbaar",
-   "speelgoed"
+   "opwindbaar speelgoed"
   ]
  },
  {
@@ -8824,8 +8430,7 @@
   "SubCategory": "ELECTRISCH",
   "Synonyms": [
    "forensentrein",
-   "regionale",
-   "trein",
+   "regionale trein",
    "stadslijn",
    "intercitytrein",
    "lightrail"
@@ -8837,14 +8442,11 @@
   "CatID": "TRNHspd",
   "SubCategory": "HOGE SNELHEID",
   "Synonyms": [
-   "hi",
-   "tech",
-   "trein",
+   "hi-tech trein",
    "maglev",
    "monorails",
    "hyperloop",
-   "bullet",
-   "train"
+   "bullet train"
   ]
  },
  {
@@ -8864,8 +8466,7 @@
   "SubCategory": "INTERIEUR",
   "Synonyms": [
    "forensentrein",
-   "regionale",
-   "trein",
+   "regionale trein",
    "stadslijn",
    "intercitytrein",
    "lightrail",
@@ -8911,8 +8512,7 @@
   "Synonyms": [
    "metro",
    "metro",
-   "de",
-   "buis",
+   "de buis",
    "rer"
   ]
  },
@@ -8948,10 +8548,8 @@
   "CatID": "UIBeep",
   "SubCategory": "BEEP",
   "Synonyms": [
-   "computer",
-   "pieptoon",
-   "telefoon",
-   "pieptoon"
+   "computer pieptoon",
+   "telefoon pieptoon"
   ]
  },
  {
@@ -8986,11 +8584,8 @@
    "glitch",
    "storing",
    "fout",
-   "kernel",
-   "paniek",
-   "guru",
-   "meditatie",
-   "fout"
+   "kernel paniek",
+   "guru meditatie fout"
   ]
  },
  {
@@ -9020,8 +8615,7 @@
   "CatID": "VEGEGras",
   "SubCategory": "GRAS",
   "Synonyms": [
-   "gras",
-   "ritselen",
+   "gras ritselen",
    "doorlopen",
    "hooi",
    "tarwe"
@@ -9035,8 +8629,7 @@
   "Synonyms": [
    "bladwerveling",
    "bladval",
-   "bladeren",
-   "vallen",
+   "bladeren vallen",
    "bladstapel"
   ]
  },
@@ -9055,12 +8648,9 @@
   "CatID": "VEGETree",
   "SubCategory": "BOOM",
   "Synonyms": [
-   "boom",
-   "valt",
-   "tak",
-   "knapt",
-   "tak",
-   "breekt",
+   "boom valt",
+   "tak knapt",
+   "tak breekt",
    "takje"
   ]
  },
@@ -9074,10 +8664,8 @@
    "auto",
    "automobiel",
    "autoalarm",
-   "arm",
-   "tsjirp",
-   "ontwapen",
-   "tsjirp",
+   "arm tsjirp",
+   "ontwapen tsjirp",
    "fob"
   ]
  },
@@ -9091,10 +8679,8 @@
    "auto",
    "auto",
    "oldsmobiel",
-   "model",
-   "a",
-   "model",
-   "t"
+   "model a",
+   "model t"
   ]
  },
  {
@@ -9130,8 +8716,7 @@
   "CatID": "VEHBrake",
   "SubCategory": "REM",
   "Synonyms": [
-   "rem",
-   "piepen",
+   "rem piepen",
    "piepen",
    "knarsen"
   ]
@@ -9196,15 +8781,11 @@
   "Synonyms": [
    "segway",
    "golfkarretje",
-   "elektrische",
-   "scooter",
-   "elektrische",
-   "auto",
-   "elektrische",
-   "motorfiets",
+   "elektrische scooter",
+   "elektrische auto",
+   "elektrische motorfiets",
    "tesla",
-   "elektrische",
-   "gokart"
+   "elektrische gokart"
   ]
  },
  {
@@ -9217,8 +8798,7 @@
    "brandweerwagen",
    "ambulance",
    "politieauto",
-   "swat",
-   "busje"
+   "swat-busje"
   ]
  },
  {
@@ -9239,17 +8819,12 @@
   "CatID": "VEHFrght",
   "SubCategory": "VRACHT",
   "Synonyms": [
-   "big",
-   "rigs",
+   "big rigs",
    "vrachtwagen",
-   "semi",
-   "truck",
-   "u",
-   "haul",
-   "truck",
+   "semi-truck",
+   "u-haul truck",
    "penske",
-   "box",
-   "truck",
+   "box truck",
    "vrachtauto"
   ]
  },
@@ -9288,8 +8863,7 @@
    "bestelwagen",
    "interieur",
    "rijden",
-   "aan",
-   "boord",
+   "aan boord",
    "bus"
   ]
  },
@@ -9305,8 +8879,7 @@
    "hoopty",
    "clunker",
    "junker",
-   "valse",
-   "start",
+   "valse start",
    "misfiring",
    "storing",
    "misfire",
@@ -9326,8 +8899,7 @@
    "kofferbak",
    "veiligheidsgordel",
    "richtingaanwijzer",
-   "versnellingspook",
-   ""
+   "versnellingspook..."
   ]
  },
  {
@@ -9340,8 +8912,7 @@
    "apc",
    "pantserwagen",
    "humvee",
-   "jeep",
-   ""
+   "jeep..."
   ]
  },
  {
@@ -9376,19 +8947,13 @@
    "auto",
    "auto",
    "auto",
-   "race",
-   "auto",
-   "drag",
-   "race",
-   "auto",
+   "race auto",
+   "drag race auto",
    "indy",
-   "formule",
-   "1",
+   "formule 1",
    "nascar",
-   "grand",
-   "prix",
-   "monster",
-   "truck"
+   "grand prix",
+   "monster truck"
   ]
  },
  {
@@ -9410,10 +8975,8 @@
   "CatID": "VEHSkid",
   "SubCategory": "SLIPPEN",
   "Synonyms": [
-   "band",
-   "slip",
-   "peel",
-   "out",
+   "band slip",
+   "peel out",
    "chuff",
    "burnout"
   ]
@@ -9451,9 +9014,7 @@
    "auto",
    "auto",
    "passagierstruck",
-   "pick",
-   "up",
-   "truck",
+   "pick-up truck",
    "bestelwagens",
    "suv",
    "flatbed",
@@ -9468,9 +9029,7 @@
   "Synonyms": [
    "utv",
    "sxs",
-   "side",
-   "by",
-   "side",
+   "side by side",
    "rzr",
    "ranger",
    "cushman",
@@ -9499,10 +9058,8 @@
    "auto",
    "auto",
    "automobiel",
-   "automatisch",
-   "raam",
-   "elektrisch",
-   "raam"
+   "automatisch raam",
+   "elektrisch raam"
   ]
  },
  {
@@ -9511,8 +9068,7 @@
   "CatID": "VOXAlien",
   "SubCategory": "BUITENAARDS",
   "Synonyms": [
-   "alien",
-   "taal",
+   "alien taal",
    "chewbacca"
   ]
  },
@@ -9599,8 +9155,7 @@
   "SubCategory": "OMROEPEN",
   "Synonyms": [
    "spreker",
-   "openbare",
-   "toespraak",
+   "openbare toespraak",
    "aankondiging"
   ]
  },
@@ -9731,8 +9286,7 @@
    "sewer",
    "shower",
    "sink",
-   "storm",
-   "drain"
+   "storm drain"
   ]
  },
  {
@@ -9846,8 +9400,7 @@
   "CatID": "WATRPlmb",
   "SubCategory": "LOODGIETEN",
   "Synonyms": [
-   "toilet",
-   "doorspoelen",
+   "toilet doorspoelen",
    "wastafel",
    "douche",
    ""
@@ -9902,8 +9455,7 @@
    "spuiten",
    "nevel",
    "stoom",
-   "nat",
-   "sissen",
+   "nat sissen",
    "sputteren"
   ]
  },
@@ -9939,8 +9491,7 @@
   "CatID": "WATRUndwtr",
   "SubCategory": "ONDERWATER",
   "Synonyms": [
-   "onder",
-   "water",
+   "onder water",
    "stroom",
    "turbulent"
   ]
@@ -10023,19 +9574,15 @@
    "knots",
    "knuppel",
    "foelie",
-   "bal",
-   "en",
-   "ketting",
+   "bal en ketting",
    "nunchuck",
    "oorlogshamer",
    "hamer",
    "stok",
-   "koperen",
-   "knokkels",
+   "koperen knokkels",
    "vlegel",
    "tonfa",
-   "gummiknuppel",
-   ""
+   "gummiknuppel..."
   ]
  },
  {
@@ -10045,8 +9592,7 @@
   "SubCategory": "BOOG",
   "Synonyms": [
    "longbow",
-   "compound",
-   "box",
+   "compound box",
    "kruisboog"
   ]
  },
@@ -10064,8 +9610,7 @@
    "hakmes",
    "slagersmes",
    "greppelmes",
-   "koksmes",
-   ""
+   "koksmes..."
   ]
  },
  {
@@ -10102,8 +9647,7 @@
    "trebuchet",
    "stormram",
    "ballista",
-   "belegeringstoren",
-   ""
+   "belegeringstoren..."
   ]
  },
  {
@@ -10124,8 +9668,7 @@
    "machete",
    "sabel",
    "vikingzwaard",
-   "floret",
-   ""
+   "floret..."
   ]
  },
  {
@@ -10299,12 +9842,9 @@
   "SubCategory": "TURBULENT",
   "Synonyms": [
    "buffet",
-   "turbulente",
-   "wind",
-   "sterke",
-   "wind",
-   "hevige",
-   "wind",
+   "turbulente wind",
+   "sterke wind",
+   "hevige wind",
    "buffet"
   ]
  },
@@ -10365,8 +9905,7 @@
   "CatID": "WNDWMetl",
   "SubCategory": "METAAL",
   "Synonyms": [
-   "metalen",
-   "frame"
+   "metalen frame"
   ]
  },
  {
@@ -10384,8 +9923,7 @@
   "CatID": "WNDWPlas",
   "SubCategory": "PLASTIC",
   "Synonyms": [
-   "kunststof",
-   "kozijn"
+   "kunststof kozijn"
   ]
  },
  {
@@ -10394,8 +9932,7 @@
   "CatID": "WNDWWood",
   "SubCategory": "HOUT",
   "Synonyms": [
-   "houten",
-   "frame"
+   "houten frame"
   ]
  },
  {
@@ -10513,8 +10050,7 @@
   "SubCategory": "IMPACT",
   "Synonyms": [
    "slaan",
-   "laten",
-   "vallen",
+   "laten vallen",
    "impact",
    "crash",
    "clunk",

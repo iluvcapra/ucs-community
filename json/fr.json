@@ -5,12 +5,8 @@
   "CatID": "AIRBrst",
   "SubCategory": "EXPULSION",
   "Synonyms": [
-   "souffle",
-   "d",
-   "air",
-   "pouf",
-   "d",
-   "air",
+   "souffle d'air",
+   "pouf d'air",
    "souffler",
    "gicler",
    "exploser"
@@ -22,9 +18,7 @@
   "CatID": "AIRHiss",
   "SubCategory": "SIFFLEMENT",
   "Synonyms": [
-   "lib\u00e9ration",
-   "d",
-   "air",
+   "lib\u00e9ration d'air",
    "\u00e9chappement",
    "expulsion",
    "fuite"
@@ -56,16 +50,10 @@
   "CatID": "AERODoor",
   "SubCategory": "PORTE",
   "Synonyms": [
-   "porte",
-   "de",
-   "cockpit",
-   "porte",
-   "d",
-   "avion",
+   "porte de cockpit",
+   "porte d'avion",
    "trappe",
-   "sortie",
-   "de",
-   "secours"
+   "sortie de secours"
   ]
  },
  {
@@ -77,11 +65,9 @@
    "gyrocopt\u00e8re",
    "whirlybird",
    "chopper",
-   "ghetto",
-   "bird",
+   "ghetto bird",
    "bellcopter",
-   "police",
-   "chopper",
+   "police chopper",
    "huey",
    "chopper",
    "blackhawk"
@@ -96,17 +82,12 @@
    "jet",
    "avion",
    "a\u00e9ronef",
-   "jet",
-   "de",
-   "passagers",
+   "jet de passagers",
    "planeur",
    "zeppelin",
-   "avion",
-   "de",
-   "ligne",
+   "avion de ligne",
    "jetliner",
-   "jumbo",
-   "jet",
+   "jumbo jet",
    "learjet",
    "airbus",
    "boeing",
@@ -115,15 +96,12 @@
    "747",
    "777",
    "a310",
-   "dc",
-   "10",
+   "dc-10",
    "a310",
    "a330",
    "a350",
    "a380",
-   "avion",
-   "de",
-   "chasse"
+   "avion de chasse"
   ]
  },
  {
@@ -132,12 +110,9 @@
   "CatID": "AEROJet",
   "SubCategory": "\u00c0 R\u00c9ACTION",
   "Synonyms": [
-   "avion",
-   "de",
-   "ligne",
+   "avion de ligne",
    "jetliner",
-   "jumbo",
-   "jet",
+   "jumbo jet",
    "learjet",
    "airbus",
    "boeing",
@@ -146,8 +121,7 @@
    "747",
    "777",
    "a310",
-   "dc",
-   "10",
+   "dc-10",
    "a310",
    "a330",
    "a350",
@@ -160,12 +134,8 @@
   "CatID": "AEROMech",
   "SubCategory": "M\u00c9CANISME",
   "Synonyms": [
-   "train",
-   "d",
-   "atterrissage",
-   "levier",
-   "du",
-   "cockpit",
+   "train d'atterrissage",
+   "levier du cockpit",
    "gouvernail",
    "volet"
   ]
@@ -176,14 +146,10 @@
   "CatID": "AEROMil",
   "SubCategory": "MILITAIRE",
   "Synonyms": [
-   "avion",
-   "de",
-   "chasse",
+   "avion de chasse",
    "bombardier",
-   "bombardier",
-   "furtif",
-   "blue",
-   "angels",
+   "bombardier furtif",
+   "blue angels",
    "thunderbirds",
    "lockheed",
    "mig",
@@ -204,8 +170,7 @@
    "dirigeable",
    "planeur",
    "montgolfi\u00e8re",
-   "ultra",
-   "l\u00e9ger",
+   "ultra-l\u00e9ger",
    "deltaplane",
    "zeppelin",
    "dirigeable"
@@ -220,17 +185,11 @@
    "biplan",
    "triplan",
    "turbopropulseur",
-   "avion",
-   "cascadeur",
-   "crop",
-   "duster",
-   "piper",
-   "cub",
-   "avion",
-   "\u00e0",
-   "h\u00e9lice",
-   "bi",
-   "propulseur",
+   "avion cascadeur",
+   "crop duster",
+   "piper cub",
+   "avion \u00e0 h\u00e9lice",
+   "bi-propulseur",
    "propjet",
    "aircrew"
   ]
@@ -243,14 +202,9 @@
   "Synonyms": [
    "quadcopt\u00e8res",
    "uav",
-   "v\u00e9hicules",
-   "a\u00e9riens",
-   "sans",
-   "pilote",
-   "jet",
-   "rc",
-   "h\u00e9licopt\u00e8re",
-   "rc"
+   "v\u00e9hicules a\u00e9riens sans pilote",
+   "jet rc",
+   "h\u00e9licopt\u00e8re rc"
   ]
  },
  {
@@ -262,13 +216,11 @@
    "fus\u00e9e",
    "missile",
    "jetpack",
-   "navette",
-   "spatiale",
+   "navette spatiale",
    "spacex",
    "nasa",
    "icbm",
-   "fus\u00e9e",
-   "nucl\u00e9aire",
+   "fus\u00e9e nucl\u00e9aire",
    "ogive"
   ]
  },
@@ -278,20 +230,10 @@
   "CatID": "ALRMBell",
   "SubCategory": "CLOCHE",
   "Synonyms": [
-   "cloche",
-   "d",
-   "incendie",
-   "cloche",
-   "d",
-   "\u00e9cole",
-   "cloche",
-   "de",
-   "passage",
-   "\u00e0",
-   "niveau",
-   "cloche",
-   "d",
-   "alarme"
+   "cloche d'incendie",
+   "cloche d'\u00e9cole",
+   "cloche de passage \u00e0 niveau",
+   "cloche d'alarme"
   ]
  },
  {
@@ -300,23 +242,11 @@
   "CatID": "ALRMBuzr",
   "SubCategory": "BUZZER",
   "Synonyms": [
-   "buzzer",
-   "de",
-   "porte",
-   "buzzer",
-   "de",
-   "jeu",
-   "buzzer",
-   "de",
-   "porte",
-   "d",
-   "entr\u00e9e",
-   "buzzer",
-   "d",
-   "entr\u00e9e",
-   "buzzer",
-   "d",
-   "interphone"
+   "buzzer de porte",
+   "buzzer de jeu",
+   "buzzer de porte d'entr\u00e9e",
+   "buzzer d'entr\u00e9e",
+   "buzzer d'interphone"
   ]
  },
  {
@@ -325,8 +255,7 @@
   "CatID": "ALRMClok",
   "SubCategory": "R\u00c9VEIL",
   "Synonyms": [
-   "r\u00e9veil",
-   "num\u00e9rique",
+   "r\u00e9veil num\u00e9rique",
    "r\u00e9veil",
    "r\u00e9veil"
   ]
@@ -337,19 +266,11 @@
   "CatID": "ALRMElec",
   "SubCategory": "\u00c9LECTRONIQUE",
   "Synonyms": [
-   "d\u00e9tecteur",
-   "d",
-   "incendie",
-   "d\u00e9tecteur",
-   "de",
-   "fum\u00e9e",
-   "d\u00e9tecteur",
-   "de",
-   "co2",
-   "alarme",
-   "voiture",
-   "alarme",
-   "maison"
+   "d\u00e9tecteur d'incendie",
+   "d\u00e9tecteur de fum\u00e9e",
+   "d\u00e9tecteur de co2",
+   "alarme voiture",
+   "alarme maison"
   ]
  },
  {
@@ -368,16 +289,9 @@
   "SubCategory": "SIR\u00c8NE",
   "Synonyms": [
    "klaxon",
-   "corne",
-   "de",
-   "brume",
-   "sir\u00e8ne",
-   "de",
-   "raid",
-   "a\u00e9rien",
-   "sir\u00e8ne",
-   "de",
-   "tornade"
+   "corne de brume",
+   "sir\u00e8ne de raid a\u00e9rien",
+   "sir\u00e8ne de tornade"
   ]
  },
  {
@@ -388,17 +302,10 @@
   "Synonyms": [
    "d\u00e9sert",
    "hiver",
-   "air",
-   "calme",
-   "air",
-   "de",
-   "nuit",
-   "air",
-   "de",
-   "montagne",
-   "air",
-   "de",
-   "nuit"
+   "air calme",
+   "air de nuit",
+   "air de montagne",
+   "air de nuit"
   ]
  },
  {
@@ -414,9 +321,7 @@
    "alpinisme",
    "montagneux",
    "enneig\u00e9",
-   "flanc",
-   "de",
-   "montagne",
+   "flanc de montagne",
    "pic"
   ]
  },
@@ -427,25 +332,16 @@
   "SubCategory": "ATTRACTION",
   "Synonyms": [
    "disneyland",
-   "six",
-   "flags",
-   "parc",
-   "\u00e0",
-   "th\u00e8me",
-   "parc",
-   "d",
-   "attractions",
+   "six-flags",
+   "parc \u00e0 th\u00e8me",
+   "parc d'attractions",
    "carnaval",
    "foire",
-   "foire",
-   "de",
-   "comt\u00e9",
+   "foire de comt\u00e9",
    "midway",
-   "foire",
-   "itin\u00e9rante",
+   "foire itin\u00e9rante",
    "festival",
-   "maison",
-   "hant\u00e9e",
+   "maison hant\u00e9e",
    "funhouse",
    "arcade",
    "flipper"
@@ -457,15 +353,9 @@
   "CatID": "AMBBird",
   "SubCategory": "OISEAUX",
   "Synonyms": [
-   "ch\u0153ur",
-   "de",
-   "l",
-   "aube",
-   "ch\u0153ur",
-   "du",
-   "matin",
-   "joli",
-   "oiseau",
+   "ch\u0153ur de l'aube",
+   "ch\u0153ur du matin",
+   "joli oiseau",
    "vol\u00e9e",
    "gazouillis",
    "gazouillis",
@@ -478,8 +368,7 @@
   "CatID": "AMBCele",
   "SubCategory": "FESTIVE",
   "Synonyms": [
-   "rassemblement",
-   "public",
+   "rassemblement public",
    "\u00e9v\u00e9nement",
    "f\u00eate",
    "gala",
@@ -495,18 +384,12 @@
   "CatID": "AMBCnst",
   "SubCategory": "CHANTIER",
   "Synonyms": [
-   "construction",
-   "de",
-   "route",
+   "construction de route",
    "b\u00e2timent",
    "charpenterie",
    "r\u00e9novation",
-   "r\u00e9novation",
-   "de",
-   "maison",
-   "r\u00e9paration",
-   "de",
-   "route",
+   "r\u00e9novation de maison",
+   "r\u00e9paration de route",
    "reconstruction"
   ]
  },
@@ -520,13 +403,10 @@
    "tumble",
    "oasis",
    "st\u00e9rile",
-   "terrain",
-   "vague",
+   "terrain vague",
    "sahara",
    "aride",
-   "dunes",
-   "de",
-   "sable",
+   "dunes de sable",
    "d\u00e9solation"
   ]
  },
@@ -546,18 +426,12 @@
   "CatID": "AMBEmrg",
   "SubCategory": "URGENCE",
   "Synonyms": [
-   "sc\u00e8ne",
-   "de",
-   "crime",
-   "lutte",
-   "contre",
-   "les",
-   "incendies",
+   "sc\u00e8ne de crime",
+   "lutte contre les incendies",
    "police",
    "m\u00e9decins",
    "preuves",
-   "catastrophe",
-   "naturelle",
+   "catastrophe naturelle",
    "fusillade",
    "accident",
    "catastrophe",
@@ -577,9 +451,7 @@
    "magique",
    "royaume",
    "r\u00eave",
-   "terre",
-   "du",
-   "milieu",
+   "terre du milieu",
    "pandore"
   ]
  },
@@ -596,8 +468,7 @@
    "ferme",
    "grange",
    "plantation",
-   "terre",
-   "agricole",
+   "terre agricole",
    "enclos",
    "grange",
    "p\u00e2turage",
@@ -615,17 +486,11 @@
   "Synonyms": [
    "for\u00eat",
    "bois",
-   "terres",
-   "bois\u00e9es",
-   "for\u00eat",
-   "bor\u00e9ale",
-   "for\u00eat",
-   "pluviale",
-   "for\u00eat",
-   "pluviale",
-   "temp\u00e9r\u00e9e",
-   "for\u00eat",
-   "nuageuse",
+   "terres bois\u00e9es",
+   "for\u00eat bor\u00e9ale",
+   "for\u00eat pluviale",
+   "for\u00eat pluviale temp\u00e9r\u00e9e",
+   "for\u00eat nuageuse",
    "feuillus",
    "conif\u00e8res"
   ]
@@ -637,8 +502,7 @@
   "SubCategory": "PLAINE",
   "Synonyms": [
    "prairie",
-   "terre",
-   "agricole",
+   "terre agricole",
    "herbe",
    "prairie",
    "p\u00e2turage",
@@ -652,18 +516,11 @@
   "CatID": "AMBHist",
   "SubCategory": "HISTORIQUE",
   "Synonyms": [
-   "ville",
-   "fant\u00f4me",
-   "vieil",
-   "ouest",
-   "ru\u00e9e",
-   "vers",
-   "l",
-   "or",
-   "ancienne",
-   "rome",
-   "ancienne",
-   "gr\u00e8ce"
+   "ville fant\u00f4me",
+   "vieil ouest",
+   "ru\u00e9e vers l'or",
+   "ancienne rome",
+   "ancienne gr\u00e8ce"
   ]
  },
  {
@@ -673,16 +530,10 @@
   "SubCategory": "HIGH TECH",
   "Synonyms": [
    "laboratoire",
-   "salle",
-   "des",
-   "machines",
+   "salle des machines",
    "serveur",
-   "centre",
-   "de",
-   "donn\u00e9es",
-   "salle",
-   "de",
-   "contr\u00f4le"
+   "centre de donn\u00e9es",
+   "salle de contr\u00f4le"
   ]
  },
  {
@@ -691,13 +542,9 @@
   "CatID": "AMBHosp",
   "SubCategory": "H\u00d4PITAL",
   "Synonyms": [
-   "salle",
-   "d",
-   "urgence",
+   "salle d'urgence",
    "chirurgie",
-   "salle",
-   "d",
-   "attente",
+   "salle d'attente",
    "infirmerie",
    "clinique",
    "sanatorium",
@@ -738,9 +585,7 @@
   "SubCategory": "LAC",
   "Synonyms": [
    "lac",
-   "bord",
-   "de",
-   "lac",
+   "bord de lac",
    "clapotis",
    "baignade",
    "r\u00e9servoir",
@@ -755,18 +600,13 @@
   "SubCategory": "MARCH\u00c9",
   "Synonyms": [
    "march\u00e9",
-   "place",
-   "de",
-   "march\u00e9",
+   "place de march\u00e9",
    "vendeur",
-   "quartier",
-   "commer\u00e7ant",
+   "quartier commer\u00e7ant",
    "bazar",
    "march\u00e9",
    "\u00e9change",
-   "march\u00e9",
-   "aux",
-   "puces",
+   "march\u00e9 aux puces",
    "place"
   ]
  },
@@ -786,8 +626,7 @@
   "SubCategory": "NAUTIQUE",
   "Synonyms": [
    "nautique",
-   "chantier",
-   "naval",
+   "chantier naval",
    "pont",
    "poupe",
    "proue",
@@ -807,15 +646,11 @@
   "Synonyms": [
    "bureau",
    "box",
-   "lieu",
-   "de",
-   "travail",
+   "lieu de travail",
    "d\u00e9partement",
    "station",
    "succursale",
-   "poste",
-   "de",
-   "travail"
+   "poste de travail"
   ]
  },
  {
@@ -825,17 +660,11 @@
   "SubCategory": "PARC",
   "Synonyms": [
    "parc",
-   "terrain",
-   "de",
-   "jeu",
+   "terrain de jeu",
    "jardins",
-   "jardins",
-   "botaniques",
-   "parc",
-   "urbain",
-   "parc",
-   "de",
-   "banlieue",
+   "jardins botaniques",
+   "parc urbain",
+   "parc de banlieue",
    "ballpark",
    "parkland"
   ]
@@ -848,18 +677,13 @@
   "Synonyms": [
    "prison",
    "prison",
-   "cour",
-   "de",
-   "prison",
+   "cour de prison",
    "p\u00e9nitencier",
    "cachot",
-   "maison",
-   "de",
-   "correction",
+   "maison de correction",
    "d\u00e9tention",
    "isolement",
-   "\u00e9tablissement",
-   "p\u00e9nitentiaire"
+   "\u00e9tablissement p\u00e9nitentiaire"
   ]
  },
  {
@@ -874,9 +698,7 @@
    "\u00e9meute",
    "chant",
    "cris",
-   "foule",
-   "en",
-   "col\u00e8re",
+   "foule en col\u00e8re",
    "marche",
    "manifestation",
    "agitation",
@@ -892,27 +714,17 @@
   "SubCategory": "LIEU PUBLIC",
   "Synonyms": [
    "magasins",
-   "halls",
-   "d",
-   "entr\u00e9e",
+   "halls d'entr\u00e9e",
    "h\u00f4tels",
-   "centres",
-   "commerciaux",
+   "centres commerciaux",
    "mus\u00e9es",
-   "places",
-   "publiques",
+   "places publiques",
    "cours",
    "gymnases",
-   "centre",
-   "de",
-   "remise",
-   "en",
-   "forme",
+   "centre de remise en forme",
    "motel",
    "biblioth\u00e8que",
-   "palais",
-   "de",
-   "justice",
+   "palais de justice",
    "tribunal"
   ]
  },
@@ -941,9 +753,7 @@
    "condo",
    "manoir",
    "maison",
-   "maison",
-   "de",
-   "ville",
+   "maison de ville",
    "chalet",
    "maison",
    "r\u00e9sidence"
@@ -964,29 +774,20 @@
    "caf\u00e9",
    "caf\u00e9t\u00e9ria",
    "cantine",
-   "salon",
-   "de",
-   "th\u00e9",
+   "salon de th\u00e9",
    "saloon",
-   "coffee",
-   "shop",
+   "coffee shop",
    "pizzeria",
-   "fast",
-   "food",
-   "bar",
-   "\u00e0",
-   "vin",
+   "fast-food",
+   "bar \u00e0 vin",
    "automate",
    "\u00e9conomat",
    "taverne",
-   "bo\u00eete",
-   "de",
-   "nuit",
+   "bo\u00eete de nuit",
    "deli",
    "eatery",
    "brasserie",
-   "drive",
-   "in"
+   "drive-in"
   ]
  },
  {
@@ -995,14 +796,9 @@
   "CatID": "AMBRoom",
   "SubCategory": "FOND D\u2019AIR",
   "Synonyms": [
-   "tonalit\u00e9",
-   "de",
-   "la",
-   "pi\u00e8ce",
-   "air",
-   "mort",
-   "air",
-   "calme"
+   "tonalit\u00e9 de la pi\u00e8ce",
+   "air mort",
+   "air calme"
   ]
  },
  {
@@ -1033,17 +829,13 @@
   "CatID": "AMBSchl",
   "SubCategory": "\u00c9COLE",
   "Synonyms": [
-   "\u00e9cole",
-   "primaire",
+   "\u00e9cole primaire",
    "coll\u00e8ge",
    "lyc\u00e9e",
    "coll\u00e8ge",
-   "\u00e9cole",
-   "maternelle",
+   "\u00e9cole maternelle",
    "universit\u00e9",
-   "salle",
-   "de",
-   "classe",
+   "salle de classe",
    "assembl\u00e9e"
   ]
  },
@@ -1053,19 +845,13 @@
   "CatID": "AMBSci",
   "SubCategory": "SCIFI",
   "Synonyms": [
-   "vaisseau",
-   "spatial",
-   "centre",
-   "technique",
-   "centre",
-   "de",
-   "commande",
+   "vaisseau spatial",
+   "centre technique",
+   "centre de commande",
    "scifi",
    "futuriste",
-   "high",
-   "tech",
-   "hi",
-   "tec"
+   "high-tech",
+   "hi-tec"
   ]
  },
  {
@@ -1075,23 +861,16 @@
   "SubCategory": "LITTORAL",
   "Synonyms": [
    "plage",
-   "bord",
-   "de",
-   "mer",
+   "bord de mer",
    "rivage",
    "c\u00f4te",
    "rivage",
    "rivage",
-   "bord",
-   "de",
-   "mer",
+   "bord de mer",
    "c\u00f4te",
    "promenade",
-   "station",
-   "baln\u00e9aire",
-   "front",
-   "de",
-   "mer",
+   "station baln\u00e9aire",
+   "front de mer",
    "digue",
    "quai",
    "jet\u00e9e",
@@ -1112,10 +891,8 @@
    "mlb",
    "baseball",
    "tennis",
-   "\u00e9v\u00e9nement",
-   "sportif",
-   "petite",
-   "ligue",
+   "\u00e9v\u00e9nement sportif",
+   "petite ligue",
    "entra\u00eenement"
   ]
  },
@@ -1128,9 +905,7 @@
    "banlieue",
    "r\u00e9sidentiel",
    "quartier",
-   "cul",
-   "de",
-   "sac",
+   "cul-de-sac",
    "village",
    "barrio",
    "p\u00e9riph\u00e9rie",
@@ -1147,13 +922,9 @@
    "tourbi\u00e8re",
    "mar\u00e9cage",
    "everglade",
-   "zone",
-   "humide",
-   "zone",
-   "riveraine",
-   "bord",
-   "de",
-   "lac",
+   "zone humide",
+   "zone riveraine",
+   "bord de lac",
    "lac",
    "mangrove"
   ]
@@ -1167,8 +938,7 @@
    "ville",
    "village",
    "hameau",
-   "petite",
-   "ville",
+   "petite ville",
    "communaut\u00e9",
    "\u00e9tablissement"
   ]
@@ -1179,8 +949,7 @@
   "CatID": "AMBTraf",
   "SubCategory": "CIRCULATION",
   "Synonyms": [
-   "car",
-   "bys",
+   "car bys",
    "freeway",
    "highway",
    "boulevard",
@@ -1194,20 +963,12 @@
   "CatID": "AMBTran",
   "SubCategory": "TRANSPORT",
   "Synonyms": [
-   "gare",
-   "ferroviaire",
+   "gare ferroviaire",
    "a\u00e9roport",
-   "gare",
-   "routi\u00e8re",
-   "station",
-   "de",
-   "m\u00e9tro",
-   "station",
-   "de",
-   "m\u00e9tro",
-   "station",
-   "de",
-   "m\u00e9tro",
+   "gare routi\u00e8re",
+   "station de m\u00e9tro",
+   "station de m\u00e9tro",
+   "station de m\u00e9tro",
    "terminal",
    "d\u00e9p\u00f4t",
    "terminus"
@@ -1221,14 +982,9 @@
   "Synonyms": [
    "jungle",
    "brousse",
-   "for\u00eat",
-   "tropicale",
-   "humide",
-   "for\u00eat",
-   "de",
-   "nuages",
-   "for\u00eat",
-   "tropicale"
+   "for\u00eat tropicale humide",
+   "for\u00eat de nuages",
+   "for\u00eat tropicale"
   ]
  },
  {
@@ -1240,10 +996,8 @@
    "artic",
    "antartique",
    "plateau",
-   "p\u00f4le",
-   "nord",
-   "p\u00f4le",
-   "sud",
+   "p\u00f4le nord",
+   "p\u00f4le sud",
    "polaire",
    "glacier",
    "neige",
@@ -1263,17 +1017,13 @@
    "bunker",
    "tunnel",
    "donjon",
-   "tube",
-   "de",
-   "lave",
+   "tube de lave",
    "cave",
    "souterrain",
    "coul\u00e9",
    "enterr\u00e9",
-   "sous",
-   "terre",
-   "sous",
-   "sol",
+   "sous terre",
+   "sous-sol",
    "puits",
    "mine",
    "passage",
@@ -1286,19 +1036,14 @@
   "CatID": "AMBUndwtr",
   "SubCategory": "SOUS MARIN",
   "Synonyms": [
-   "sous",
-   "marin",
+   "sous-marin",
    "r\u00e9cif",
    "corail",
-   "fosse",
-   "oc\u00e9anique",
+   "fosse oc\u00e9anique",
    "submerg\u00e9",
-   "sous",
-   "marin",
+   "sous-marin",
    "subaquatique",
-   "\u00e9pave",
-   "de",
-   "navire"
+   "\u00e9pave de navire"
   ]
  },
  {
@@ -1308,28 +1053,19 @@
   "SubCategory": "VILLE",
   "Synonyms": [
    "m\u00e9tropole",
+   "ville dense",
    "ville",
-   "dense",
-   "ville",
-   "centre",
-   "ville",
-   "centre",
-   "ville",
+   "centre-ville",
+   "centre-ville",
    "m\u00e9tropolitain",
    "anim\u00e9",
-   "heure",
-   "de",
-   "pointe",
+   "heure de pointe",
    "congestion",
-   "centre",
-   "ville",
+   "centre ville",
    "bidonville",
-   "quartier",
-   "des",
-   "affaires",
+   "quartier des affaires",
    "ghetto",
-   "quartier",
-   "financier"
+   "quartier financier"
   ]
  },
  {
@@ -1348,8 +1084,7 @@
    "assaut",
    "offensive",
    "blitz",
-   "raid",
-   "a\u00e9rien",
+   "raid a\u00e9rien",
    "raid",
    "bombardement",
    "barrage",
@@ -1392,20 +1127,14 @@
    "orque",
    "lamantin",
    "morse",
-   "\u00e9l\u00e9phant",
-   "de",
-   "mer",
-   "loutre",
-   "marine",
-   "loutre",
-   "de",
-   "mer",
+   "\u00e9l\u00e9phant de mer",
+   "loutre marine",
+   "loutre de mer",
    "b\u00e9luga",
    "narval",
    "dugong",
    "requin",
-   "raie",
-   "pastenague",
+   "raie pastenague",
    "m\u00e9duse",
    "calmar",
    "pieuvre",
@@ -1421,12 +1150,8 @@
   "SubCategory": "CHAUVE SOURIS",
   "Synonyms": [
    "roussette",
-   "chauve",
-   "souris",
-   "vampire",
-   "chauve",
-   "souris",
-   "frugivore"
+   "chauve-souris vampire",
+   "chauve-souris frugivore"
   ]
  },
  {
@@ -1440,9 +1165,7 @@
    "chaton",
    "minou",
    "f\u00e9lin",
-   "chat",
-   "de",
-   "goutti\u00e8re"
+   "chat de goutti\u00e8re"
   ]
  },
  {
@@ -1457,13 +1180,10 @@
    "cougar",
    "l\u00e9opard",
    "jaguar",
-   "l\u00e9opard",
-   "des",
-   "neiges",
+   "l\u00e9opard des neiges",
    "gu\u00e9pard",
    "lynx",
-   "lynx",
-   "roux",
+   "lynx roux",
    "caracal",
    "ocelot",
    "panth\u00e8re",
@@ -1481,9 +1201,7 @@
    "aboiement",
    "chiot",
    "toutou",
-   "chien",
-   "de",
-   "salon",
+   "chien de salon",
    "cabot",
    "toutou"
   ]
@@ -1544,9 +1262,7 @@
    "gu\u00eape",
    "frelon",
    "moucheron",
-   "t\u00eate",
-   "de",
-   "c\u00f4ne",
+   "t\u00eate de c\u00f4ne",
    "criquet",
    "scarab\u00e9e",
    "cafard"
@@ -1571,8 +1287,7 @@
    "singe",
    "gorille",
    "l\u00e9murien",
-   "orang",
-   "outan",
+   "orang-outan",
    "capucin",
    "ouistiti",
    "singe",
@@ -1608,25 +1323,18 @@
    "rat",
    "\u00e9cureuil",
    "taupe",
-   "porc",
-   "\u00e9pic",
-   "cochon",
-   "d",
-   "inde",
+   "porc-\u00e9pic",
+   "cochon d'inde",
    "tamia",
    "castor",
    "spermophile",
-   "raton",
-   "laveur",
-   "chien",
-   "de",
-   "prairie",
+   "raton laveur",
+   "chien de prairie",
    "gerbille",
    "hamster",
    "marmotte",
    "lemming",
-   "rat",
-   "musqu\u00e9",
+   "rat musqu\u00e9",
    "chinchilla",
    "rongeur"
   ]
@@ -1657,8 +1365,7 @@
    "gnou",
    "panda",
    "antilope",
-   "raton",
-   "laveur",
+   "raton laveur",
    "\u00e9lan",
    "renne",
    "rhinoc\u00e9ros",
@@ -1666,9 +1373,7 @@
    "phacoch\u00e8re",
    "impala",
    "hippopotame",
-   "blaireau",
-   "\u00e0",
-   "miel",
+   "blaireau \u00e0 miel",
    "buffle",
    "\u00e9lan"
   ]
@@ -1681,9 +1386,7 @@
   "Synonyms": [
    "adr",
    "boucle",
-   "dialogue",
-   "de",
-   "remplacement"
+   "dialogue de remplacement"
   ]
  },
  {
@@ -1713,16 +1416,11 @@
   "CatID": "IR",
   "SubCategory": "R\u00c9PONSE IMPULSIONNELLE",
   "Synonyms": [
-   "r\u00e9ponse",
-   "impulsionnelle",
+   "r\u00e9ponse impulsionnelle",
    "ir",
    "altiverb",
-   "\u00e9chantillon",
-   "de",
-   "r\u00e9verb\u00e9ration",
-   "r\u00e9verb\u00e9ration",
-   "\u00e0",
-   "convolution"
+   "\u00e9chantillon de r\u00e9verb\u00e9ration",
+   "r\u00e9verb\u00e9ration \u00e0 convolution"
   ]
  },
  {
@@ -1731,9 +1429,7 @@
   "CatID": "LPGRP",
   "SubCategory": "LOOP GROUP",
   "Synonyms": [
-   "groupe",
-   "de",
-   "boucles",
+   "groupe de boucles",
    "walla"
   ]
  },
@@ -1744,11 +1440,9 @@
   "SubCategory": "MIX",
   "Synonyms": [
    "pr\u00e9mix",
-   "mix",
-   "final",
+   "mix final",
    "stem",
-   "m",
-   "e",
+   "m&e",
    "mixdown",
    "printmaster"
   ]
@@ -1768,12 +1462,8 @@
   "CatID": "PROD",
   "SubCategory": "PRODUCTION",
   "Synonyms": [
-   "prise",
-   "de",
-   "production",
-   "ligne",
-   "de",
-   "dialogue",
+   "prise de production",
+   "ligne de dialogue",
    "dx"
   ]
  },
@@ -1783,13 +1473,9 @@
   "CatID": "RAW",
   "SubCategory": "RUSHES",
   "Synonyms": [
-   "bande",
-   "de",
-   "donn\u00e9es",
-   "fichiers",
-   "bruts",
-   "non",
-   "trait\u00e9s"
+   "bande de donn\u00e9es",
+   "fichiers bruts",
+   "non trait\u00e9s"
   ]
  },
  {
@@ -1809,8 +1495,7 @@
   "SubCategory": "SC\u00c8NE",
   "Synonyms": [
    "readymade",
-   "pr\u00e9",
-   "construit"
+   "pr\u00e9-construit"
   ]
  },
  {
@@ -1819,19 +1504,13 @@
   "CatID": "TEST",
   "SubCategory": "TEST",
   "Synonyms": [
-   "bips",
-   "adr",
-   "tonalit\u00e9s",
-   "de",
-   "test",
+   "bips adr",
+   "tonalit\u00e9s de test",
    "bip",
    "2pops",
-   "bruit",
-   "blanc",
-   "bruit",
-   "rose",
-   "balayages",
-   "sinuso\u00efdaux"
+   "bruit blanc",
+   "bruit rose",
+   "balayages sinuso\u00efdaux"
   ]
  },
  {
@@ -1840,15 +1519,10 @@
   "CatID": "TMARK",
   "SubCategory": "DROITS R\u00c9SERV\u00c9S",
   "Synonyms": [
-   "marque",
-   "d\u00e9pos\u00e9e",
-   "droit",
-   "d",
-   "auteur",
-   "produit",
-   "sonore",
-   "sous",
-   "licence",
+   "marque d\u00e9pos\u00e9e",
+   "droit d'auteur",
+   "produit sonore",
+   "sous licence",
    "enregistr\u00e9",
    "l\u00e9gal"
   ]
@@ -1859,9 +1533,7 @@
   "CatID": "WIP",
   "SubCategory": "EN COURS",
   "Synonyms": [
-   "travail",
-   "en",
-   "cours",
+   "travail en cours",
    "wip",
    "inachev\u00e9"
   ]
@@ -1872,8 +1544,7 @@
   "CatID": "WTF",
   "SubCategory": "WTF",
   "Synonyms": [
-   "non",
-   "cat\u00e9gorisable",
+   "non cat\u00e9gorisable",
    "inconnu",
    "blagues"
   ]
@@ -1884,14 +1555,10 @@
   "CatID": "BEEPAppl",
   "SubCategory": "\u00c9LECTROM\u00c9NAGER",
   "Synonyms": [
-   "micro",
-   "ondes",
-   "lave",
-   "vaisselle",
-   "lave",
-   "linge",
-   "s\u00e8che",
-   "linge"
+   "micro-ondes",
+   "lave-vaisselle",
+   "lave-linge",
+   "s\u00e8che-linge"
   ]
  },
  {
@@ -1923,8 +1590,7 @@
    "ekg",
    "ecg",
    "kdc",
-   "moniteur",
-   "cardiaque",
+   "moniteur cardiaque",
    "flatline",
    "ultrasons"
   ]
@@ -1935,16 +1601,10 @@
   "CatID": "BEEPTimer",
   "SubCategory": "MINUTERIE",
   "Synonyms": [
-   "micro",
-   "ondes",
-   "minuteur",
-   "de",
-   "four",
-   "montre",
-   "num\u00e9rique",
-   "minuteur",
-   "de",
-   "t\u00e9l\u00e9phone"
+   "micro-ondes",
+   "minuteur de four",
+   "montre num\u00e9rique",
+   "minuteur de t\u00e9l\u00e9phone"
   ]
  },
  {
@@ -1953,15 +1613,8 @@
   "CatID": "BEEPVeh",
   "SubCategory": "V\u00c9HICULE",
   "Synonyms": [
-   "bip",
-   "de",
-   "chariot",
-   "\u00e9l\u00e9vateur",
-   "\u00e0",
-   "fourche",
-   "bip",
-   "de",
-   "secours"
+   "bip de chariot \u00e9l\u00e9vateur \u00e0 fourche",
+   "bip de secours"
   ]
  },
  {
@@ -1970,18 +1623,10 @@
   "CatID": "BELLAnml",
   "SubCategory": "ANIMAL",
   "Synonyms": [
-   "cloche",
-   "de",
-   "vache",
-   "cloche",
-   "d",
-   "\u00e9pervier",
-   "cloche",
-   "de",
-   "collier",
-   "cloche",
-   "de",
-   "mouton"
+   "cloche de vache",
+   "cloche d'\u00e9pervier",
+   "cloche de collier",
+   "cloche de mouton"
   ]
  },
  {
@@ -1991,13 +1636,9 @@
   "SubCategory": "PORTE",
   "Synonyms": [
    "sonnette",
-   "carillon",
-   "de",
-   "porte",
-   "ding",
-   "dong",
-   "tring",
-   "dong"
+   "carillon de porte",
+   "ding dong",
+   "tring dong"
   ]
  },
  {
@@ -2009,11 +1650,8 @@
    "gong",
    "gamelan",
    "agung",
-   "gong",
-   "\u00e0",
-   "bol",
-   "tam",
-   "tam"
+   "gong \u00e0 bol",
+   "tam-tam"
   ]
  },
  {
@@ -2022,27 +1660,13 @@
   "CatID": "BELLHand",
   "SubCategory": "CLOCHETTE",
   "Synonyms": [
-   "cloche",
-   "\u00e0",
-   "main",
-   "cloche",
-   "de",
-   "table",
-   "cloche",
-   "d",
-   "\u00e9cole",
-   "cloche",
-   "d",
-   "autel",
-   "cloche",
-   "de",
-   "tra\u00eeneau",
-   "cloche",
-   "\u00e0",
-   "grelots",
-   "cloche",
-   "de",
-   "majordome"
+   "cloche \u00e0 main",
+   "cloche de table",
+   "cloche d'\u00e9cole",
+   "cloche d'autel",
+   "cloche de tra\u00eeneau",
+   "cloche \u00e0 grelots",
+   "cloche de majordome"
   ]
  },
  {
@@ -2051,16 +1675,10 @@
   "CatID": "BELLLrg",
   "SubCategory": "LARGE",
   "Synonyms": [
-   "cloche",
-   "de",
-   "temple",
-   "cloche",
-   "d",
-   "\u00e9glise",
+   "cloche de temple",
+   "cloche d'\u00e9glise",
    "carillon",
-   "cloche",
-   "de",
-   "tour"
+   "cloche de tour"
   ]
  },
  {
@@ -2069,15 +1687,9 @@
   "CatID": "BELLMisc",
   "SubCategory": "DIVERS",
   "Synonyms": [
-   "sonnette",
-   "de",
-   "bicyclette",
-   "sonnette",
-   "de",
-   "service",
-   "sonnette",
-   "d",
-   "appel"
+   "sonnette de bicyclette",
+   "sonnette de service",
+   "sonnette d'appel"
   ]
  },
  {
@@ -2109,11 +1721,9 @@
    "corbeau",
    "corbeau",
    "geai",
-   "geai",
-   "bleu",
+   "geai bleu",
    "pie",
-   "casse",
-   "noix"
+   "casse-noix"
   ]
  },
  {
@@ -2158,8 +1768,7 @@
    "colibri",
    "mouette",
    "fou",
-   "etc",
-   ""
+   "etc."
   ]
  },
  {
@@ -2169,9 +1778,7 @@
   "SubCategory": "MARIN",
   "Synonyms": [
    "mouette",
-   "fou",
-   "de",
-   "bassan",
+   "fou de bassan",
    "albatros",
    "cormoran",
    "p\u00e9lican",
@@ -2186,14 +1793,10 @@
    "b\u00e9casseau",
    "canard",
    "pingouin",
-   "macareux",
-   "moine",
+   "macareux moine",
    "pingouin",
    "guillemot",
-   "pingouin",
-   "\u00e0",
-   "queue",
-   "blanche"
+   "pingouin \u00e0 queue blanche"
   ]
  },
  {
@@ -2203,15 +1806,12 @@
   "SubCategory": "COMMUN",
   "Synonyms": [
    "colombe",
-   "gobe",
-   "mouche",
-   "gros",
-   "bec",
+   "gobe-mouche",
+   "gros-bec",
    "moqueur",
    "sittelle",
    "pigeon",
-   "rouge",
-   "gorge",
+   "rouge-gorge",
    "moineau",
    "hirondelle",
    "tangara",
@@ -2220,20 +1820,14 @@
    "fauvette",
    "troglodyte",
    "m\u00e9sange",
-   "m\u00e9sange",
-   "bleue",
-   "m\u00e9sange",
-   "charbonni\u00e8re",
+   "m\u00e9sange bleue",
+   "m\u00e9sange charbonni\u00e8re",
    "alouette",
    "roitelet",
    "grimpereau",
-   "grimpereau",
-   "des",
-   "arbres",
-   "gobe",
-   "mouche",
-   "cincle",
-   "plongeur",
+   "grimpereau des arbres",
+   "gobe-mouche",
+   "cincle plongeur",
    "\u00e9tourneau",
    "merle",
    "moqueur",
@@ -2253,10 +1847,8 @@
   "Synonyms": [
    "perroquet",
    "toucan",
-   "martin",
-   "chasseur",
-   "oiseau",
-   "lyre",
+   "martin-chasseur",
+   "oiseau-lyre",
    "paon",
    "ara",
    "calao",
@@ -2264,14 +1856,11 @@
    "perruche",
    "ibis",
    "spatule",
-   "flamant",
-   "rose",
+   "flamant rose",
    "grue",
    "aigrette",
-   "flamant",
-   "rose",
-   "etc",
-   ""
+   "flamant rose",
+   "etc."
   ]
  },
  {
@@ -2282,8 +1871,7 @@
   "Synonyms": [
    "grue",
    "aigrette",
-   "flamant",
-   "rose",
+   "flamant rose",
    "ibis",
    "r\u00e2le",
    "spatule",
@@ -2306,12 +1894,8 @@
   "CatID": "BOATAir",
   "SubCategory": "HYDROGLISSEUR",
   "Synonyms": [
-   "bateau",
-   "\u00e0",
-   "h\u00e9lice",
-   "bateau",
-   "\u00e0",
-   "air",
+   "bateau \u00e0 h\u00e9lice",
+   "bateau \u00e0 air",
    "a\u00e9roglisseur"
   ]
  },
@@ -2321,9 +1905,7 @@
   "CatID": "BOATWash",
   "SubCategory": "SILLAGE",
   "Synonyms": [
-   "lavage",
-   "d",
-   "\u00e9trave",
+   "lavage d'\u00e9trave",
    "sillage"
   ]
  },
@@ -2334,17 +1916,10 @@
   "SubCategory": "PORTE",
   "Synonyms": [
    "\u00e9coutille",
-   "porte",
-   "de",
-   "ferry",
-   "porte",
-   "de",
-   "bateau",
-   "porte",
-   "\u00e9tanche",
-   "porte",
-   "de",
-   "navire"
+   "porte de ferry",
+   "porte de bateau",
+   "porte \u00e9tanche",
+   "porte de navire"
   ]
  },
  {
@@ -2353,9 +1928,7 @@
   "CatID": "BOATElec",
   "SubCategory": "\u00c9LECTRIQUE",
   "Synonyms": [
-   "moteur",
-   "de",
-   "tra\u00eene"
+   "moteur de tra\u00eene"
   ]
  },
  {
@@ -2364,19 +1937,13 @@
   "CatID": "BOATFish",
   "SubCategory": "P\u00caCHE",
   "Synonyms": [
-   "bateau",
-   "\u00e0",
-   "crabes",
+   "bateau \u00e0 crabes",
    "chalutier",
    "senneur",
-   "navire",
-   "de",
-   "ligne",
+   "navire de ligne",
    "dragueur",
    "fileyeur",
-   "navire",
-   "de",
-   "recherche"
+   "navire de recherche"
   ]
  },
  {
@@ -2385,12 +1952,8 @@
   "CatID": "BOATHorn",
   "SubCategory": "AVERTISSEUR",
   "Synonyms": [
-   "corne",
-   "de",
-   "navire",
-   "corne",
-   "de",
-   "remorqueur"
+   "corne de navire",
+   "corne de remorqueur"
   ]
  },
  {
@@ -2402,20 +1965,16 @@
    "navire",
    "ferry",
    "ferries",
-   "bateau",
-   "de",
-   "croisi\u00e8re",
+   "bateau de croisi\u00e8re",
    "marine",
-   "bateau",
-   "militaire",
+   "bateau militaire",
    "remorqueur",
    "voilier",
    "yacht",
    "p\u00e9trolier",
    "cargo",
    "cargo",
-   "sous",
-   "marin"
+   "sous-marin"
   ]
  },
  {
@@ -2427,9 +1986,7 @@
    "gr\u00e9ement",
    "poulie",
    "corde",
-   "roue",
-   "de",
-   "bateau",
+   "roue de bateau",
    "\u00e9trangleur",
    "filet",
    "cage",
@@ -2446,15 +2003,10 @@
    "patrouilleur",
    "destroyer",
    "croiseur",
-   "croiseur",
-   "de",
-   "combat",
+   "croiseur de combat",
    "fr\u00e9gate",
    "corvette",
-   "bateau",
-   "d",
-   "attaque",
-   "rapide"
+   "bateau d'attaque rapide"
   ]
  },
  {
@@ -2463,12 +2015,8 @@
   "CatID": "BOATMisc",
   "SubCategory": "DIVERS",
   "Synonyms": [
-   "bateau",
-   "\u00e0",
-   "pagaies",
-   "planche",
-   "\u00e0",
-   "pagaies"
+   "bateau \u00e0 pagaies",
+   "planche \u00e0 pagaies"
   ]
  },
  {
@@ -2477,19 +2025,12 @@
   "CatID": "BOATMotr",
   "SubCategory": "\u00c0 MOTEUR",
   "Synonyms": [
-   "petite",
-   "embarcation",
-   "bateau",
-   "de",
-   "p\u00eache",
-   "personnel",
-   "vedette",
-   "rapide",
+   "petite embarcation",
+   "bateau de p\u00eache personnel",
+   "vedette rapide",
    "ponton",
-   "canot",
-   "pneumatique",
-   "canot",
-   "pneumatique"
+   "canot pneumatique",
+   "canot pneumatique"
   ]
  },
  {
@@ -2500,9 +2041,7 @@
   "Synonyms": [
    "hydroplane",
    "hydropt\u00e8re",
-   "bateau",
-   "\u00e0",
-   "r\u00e9action"
+   "bateau \u00e0 r\u00e9action"
   ]
  },
  {
@@ -2516,8 +2055,7 @@
    "kayak",
    "aviron",
    "pagaie",
-   "dragon",
-   "boat",
+   "dragon boat",
    "aviron"
   ]
  },
@@ -2541,15 +2079,10 @@
   "CatID": "BOATShip",
   "SubCategory": "NAVIRE",
   "Synonyms": [
-   "grand",
-   "navire",
-   "navire",
-   "de",
-   "croisi\u00e8re",
+   "grand navire",
+   "navire de croisi\u00e8re",
    "p\u00e9trolier",
-   "navire",
-   "de",
-   "charge",
+   "navire de charge",
    "cargo"
   ]
  },
@@ -2559,19 +2092,9 @@
   "CatID": "BOATStm",
   "SubCategory": "\u00c0 VAPEUR",
   "Synonyms": [
-   "bateau",
-   "\u00e0",
-   "vapeur",
-   "\u00e0",
-   "pagaies",
-   "bateau",
-   "\u00e0",
-   "vapeur",
-   "\u00e0",
-   "pagaies",
-   "machine",
-   "\u00e0",
-   "vapeur"
+   "bateau \u00e0 vapeur \u00e0 pagaies",
+   "bateau \u00e0 vapeur \u00e0 pagaies",
+   "machine \u00e0 vapeur"
   ]
  },
  {
@@ -2580,12 +2103,10 @@
   "CatID": "BOATSub",
   "SubCategory": "SUBMERSIBLE",
   "Synonyms": [
-   "sous",
-   "marin",
+   "sous-marin",
    "sonar",
    "submersible",
-   "u",
-   "boat"
+   "u-boat"
   ]
  },
  {
@@ -2596,17 +2117,11 @@
   "Synonyms": [
    "bateau",
    "navire",
-   "sous",
-   "marin",
+   "sous-marin",
    "p\u00e9trolier",
-   "bateau",
-   "de",
-   "p\u00eache",
-   "bateau",
-   "\u00e0",
-   "moteur",
-   "sous",
-   "marin"
+   "bateau de p\u00eache",
+   "bateau \u00e0 moteur",
+   "sous-marin"
   ]
  },
  {
@@ -2615,9 +2130,7 @@
   "CatID": "BLLTBy",
   "SubCategory": "PASSAGE",
   "Synonyms": [
-   "balle",
-   "qui",
-   "passe",
+   "balle qui passe",
    "fwip"
   ]
  },
@@ -2627,12 +2140,8 @@
   "CatID": "BLLTImpt",
   "SubCategory": "IMPACT",
   "Synonyms": [
-   "impact",
-   "de",
-   "balle",
-   "coup",
-   "de",
-   "balle"
+   "impact de balle",
+   "coup de balle"
   ]
  },
  {
@@ -2672,14 +2181,9 @@
   "CatID": "TOONAnml",
   "SubCategory": "ANIMAUX",
   "Synonyms": [
-   "faux",
-   "animal",
-   "appel",
-   "de",
-   "chasse",
-   "appel",
-   "de",
-   "canard"
+   "faux animal",
+   "appel de chasse",
+   "appel de canard"
   ]
  },
  {
@@ -2718,13 +2222,9 @@
   "CatID": "TOONHorn",
   "SubCategory": "POUET",
   "Synonyms": [
-   "corne",
-   "d",
-   "ampoule",
+   "corne d'ampoule",
    "klaxon",
-   "corne",
-   "de",
-   "clown"
+   "corne de clown"
   ]
  },
  {
@@ -2745,11 +2245,8 @@
   "SubCategory": "MACHINE",
   "Synonyms": [
    "engin",
-   "machine",
-   "comique",
-   "machine",
-   "rube",
-   "goldberg"
+   "machine comique",
+   "machine rube goldberg"
   ]
  },
  {
@@ -2782,9 +2279,7 @@
   "CatID": "TOONPluk",
   "SubCategory": "PLUCK",
   "Synonyms": [
-   "pincement",
-   "de",
-   "corde"
+   "pincement de corde"
   ]
  },
  {
@@ -2793,18 +2288,10 @@
   "CatID": "TOONPop",
   "SubCategory": "POP",
   "Synonyms": [
-   "pistolet",
-   "\u00e0",
-   "air",
-   "comprim\u00e9",
-   "bouche",
-   "\u00e0",
-   "air",
-   "comprim\u00e9",
+   "pistolet \u00e0 air comprim\u00e9",
+   "bouche \u00e0 air comprim\u00e9",
    "ventouse",
-   "bulles",
-   "d",
-   "air"
+   "bulles d'air"
   ]
  },
  {
@@ -2862,8 +2349,7 @@
   "SubCategory": "TWANG",
   "Synonyms": [
    "r\u00e8gle",
-   "harpe",
-   "buccale"
+   "harpe buccale"
   ]
  },
  {
@@ -2873,9 +2359,7 @@
   "SubCategory": "V\u00c9HICULE",
   "Synonyms": [
    "jetsons",
-   "engin",
-   "voiture",
-   "pierrafeu",
+   "engin. voiture pierrafeu",
    "p\u00e9tarade"
   ]
  },
@@ -2886,12 +2370,8 @@
   "SubCategory": "VOIX",
   "Synonyms": [
    "marmonner",
-   "voix",
-   "idiote",
-   "voix",
-   "de",
-   "dessin",
-   "anim\u00e9"
+   "voix idiote",
+   "voix de dessin anim\u00e9"
   ]
  },
  {
@@ -2909,9 +2389,7 @@
   "CatID": "TOONWhis",
   "SubCategory": "SIFFLET",
   "Synonyms": [
-   "sifflet",
-   "\u00e0",
-   "glissi\u00e8re"
+   "sifflet \u00e0 glissi\u00e8re"
   ]
  },
  {
@@ -2986,12 +2464,9 @@
    "frapper",
    "tomber",
    "impacter",
-   "s",
-   "\u00e9craser",
-   "s",
-   "entrechoquer",
-   "s",
-   "entrechoquer"
+   "s'\u00e9craser",
+   "s'entrechoquer",
+   "s'entrechoquer"
   ]
  },
  {
@@ -3021,8 +2496,7 @@
   "CatID": "CERMTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "s",
-   "incliner",
+   "s'incliner",
    "sonner",
    "shing",
    "ping"
@@ -3064,9 +2538,7 @@
    "coup",
    "impact",
    "claquement",
-   "claquement",
-   "de",
-   "tension"
+   "claquement de tension"
   ]
  },
  {
@@ -3086,12 +2558,8 @@
   "Synonyms": [
    "tra\u00eener",
    "menottes",
-   "cha\u00eene",
-   "de",
-   "prison",
-   "cha\u00eene",
-   "de",
-   "chien"
+   "cha\u00eene de prison",
+   "cha\u00eene de chien"
   ]
  },
  {
@@ -3133,9 +2601,7 @@
   "Synonyms": [
    "carillon",
    "cloche",
-   "horloge",
-   "de",
-   "parquet"
+   "horloge de parquet"
   ]
  },
  {
@@ -3145,9 +2611,7 @@
   "SubCategory": "M\u00c9CANISME",
   "Synonyms": [
    "remontage",
-   "engrenage",
-   "d",
-   "horloge",
+   "engrenage d'horloge",
    "coucou"
   ]
  },
@@ -3166,16 +2630,12 @@
   "CatID": "CLOCKTick",
   "SubCategory": "TIC TAC",
   "Synonyms": [
-   "tic",
-   "tac",
+   "tic-tac",
    "clic",
    "quartz",
-   "tic",
-   "tac",
+   "tic-tac",
    "chronom\u00e8tre",
-   "minuteur",
-   "d",
-   "\u0153uf"
+   "minuteur d'\u0153uf"
   ]
  },
  {
@@ -3189,9 +2649,7 @@
    "bruissement",
    "parachute",
    "cape",
-   "toile",
-   "\u00e0",
-   "voile",
+   "toile \u00e0 voile",
    "voile",
    "drap"
   ]
@@ -3218,8 +2676,7 @@
   "SubCategory": "IMPACT",
   "Synonyms": [
    "frapper",
-   "laisser",
-   "tomber",
+   "laisser tomber",
    "impact",
    "gifler"
   ]
@@ -3264,32 +2721,19 @@
   "CatID": "COMAv",
   "SubCategory": "AUDIOVISUEL",
   "Synonyms": [
-   "cam\u00e9ra",
-   "de",
-   "cin\u00e9ma",
+   "cam\u00e9ra de cin\u00e9ma",
    "bobinage",
-   "cam\u00e9ra",
-   "de",
-   "film",
+   "cam\u00e9ra de film",
    "projecteur",
    "magn\u00e9tophone",
    "nagra",
    "walkman",
-   "lecteur",
-   "de",
-   "cd",
-   "bobine",
-   "\u00e0",
-   "bobine",
+   "lecteur de cd",
+   "bobine \u00e0 bobine",
    "vcr",
-   "lecteur",
-   "de",
-   "disque",
-   "laser",
+   "lecteur de disque laser",
    "betamax",
-   "projecteur",
-   "de",
-   "diapositives",
+   "projecteur de diapositives",
    "beamer",
    "ipod",
    "bolex",
@@ -3303,10 +2747,7 @@
   "CatID": "COMCam",
   "SubCategory": "APPAREIL PHOTO",
   "Synonyms": [
-   "obturateur",
-   "d",
-   "appareil",
-   "photo",
+   "obturateur d'appareil photo",
    "bobinage",
    "flash",
    "kodak",
@@ -3328,13 +2769,11 @@
   "CatID": "COMCell",
   "SubCategory": "PORTABLE",
   "Synonyms": [
-   "t\u00e9l\u00e9phone",
-   "mobile",
+   "t\u00e9l\u00e9phone mobile",
    "smartphone",
    "iphone",
    "blackberry",
-   "flip",
-   "phone",
+   "flip phone",
    "android"
   ]
  },
@@ -3344,11 +2783,8 @@
   "CatID": "COMMic",
   "SubCategory": "MICROPHONE",
   "Synonyms": [
-   "manipulation",
-   "de",
-   "micro",
-   "mic",
-   "tap",
+   "manipulation de micro",
+   "mic tap",
    "larsen",
    "m\u00e9gaphone"
   ]
@@ -3372,8 +2808,7 @@
    "victrola",
    "phonographe",
    "stylet",
-   "disque",
-   "vinyle"
+   "disque vinyle"
   ]
  },
  {
@@ -3384,12 +2819,10 @@
   "Synonyms": [
    "syntonisation",
    "radio",
-   "ondes",
-   "courtes",
+   "ondes courtes",
    "squelch",
    "futz",
-   "\u00e9mission",
-   "radio"
+   "\u00e9mission radio"
   ]
  },
  {
@@ -3409,8 +2842,7 @@
   "CatID": "COMTelm",
   "SubCategory": "T\u00c9L\u00c9M\u00c9TRIE",
   "Synonyms": [
-   "code",
-   "morse",
+   "code morse",
    "t\u00e9l\u00e9graphe",
    "t\u00e9l\u00e9m\u00e9trie",
    "lecture",
@@ -3424,16 +2856,11 @@
   "SubCategory": "T\u00c9L\u00c9PHONE",
   "Synonyms": [
    "cadran",
-   "t\u00e9l\u00e9phone",
-   "public",
-   "cadran",
-   "rotatif",
+   "t\u00e9l\u00e9phone public",
+   "cadran rotatif",
    "clavier",
-   "ligne",
-   "terrestre",
-   "t\u00e9l\u00e9phone",
-   "\u00e0",
-   "fil"
+   "ligne terrestre",
+   "t\u00e9l\u00e9phone \u00e0 fil"
   ]
  },
  {
@@ -3448,9 +2875,7 @@
    "\u00e9mission",
    "programme",
    "futz",
-   "\u00e9mission",
-   "de",
-   "t\u00e9l\u00e9vision",
+   "\u00e9mission de t\u00e9l\u00e9vision",
    "diffusion"
   ]
  },
@@ -3460,13 +2885,10 @@
   "CatID": "COMTran",
   "SubCategory": "TALKIE WALKIE",
   "Synonyms": [
-   "talkie",
-   "walkie",
+   "talkie-walkie",
    "cb",
-   "ham",
-   "radios",
-   "\u00e9metteur",
-   "r\u00e9cepteur",
+   "ham radios",
+   "\u00e9metteur-r\u00e9cepteur",
    "squelch",
    "intercom",
    "dispatching"
@@ -3478,15 +2900,10 @@
   "CatID": "COMType",
   "SubCategory": "MACHINE \u00c0 \u00c9CRIRE",
   "Synonyms": [
-   "machine",
-   "\u00e0",
-   "\u00e9crire",
+   "machine \u00e0 \u00e9crire",
    "t\u00e9l\u00e9imprimeur",
-   "retour",
-   "chariot",
-   "bouton",
-   "de",
-   "platine"
+   "retour chariot",
+   "bouton de platine"
   ]
  },
  {
@@ -3498,10 +2915,8 @@
    "sauter",
    "rechercher",
    "broyer",
-   "disque",
-   "dur",
-   "disque",
-   "dur"
+   "disque dur",
+   "disque dur"
   ]
  },
  {
@@ -3522,11 +2937,8 @@
   "CatID": "CMPTMisc",
   "SubCategory": "DIVERS",
   "Synonyms": [
-   "pilote",
-   "de",
-   "poche",
-   "pocket",
-   "pc"
+   "pilote de poche",
+   "pocket pc"
   ]
  },
  {
@@ -3537,8 +2949,7 @@
   "Synonyms": [
    "kraken",
    "sir\u00e8ne",
-   "calmar",
-   "g\u00e9ant"
+   "calmar g\u00e9ant"
   ]
  },
  {
@@ -3547,12 +2958,9 @@
   "CatID": "CREAAvian",
   "SubCategory": "VOLANTE",
   "Synonyms": [
-   "oiseaux",
-   "extraterrestres",
-   "oiseaux",
-   "fantastiques",
-   "oiseaux",
-   "fantastiques"
+   "oiseaux extraterrestres",
+   "oiseaux fantastiques",
+   "oiseaux fantastiques"
   ]
  },
  {
@@ -3561,8 +2969,7 @@
   "CatID": "CREABeast",
   "SubCategory": "B\u00caTE",
   "Synonyms": [
-   "mammouth",
-   "laineux",
+   "mammouth laineux",
    "momakil",
    ""
   ]
@@ -3614,21 +3021,11 @@
   "CatID": "CREAElem",
   "SubCategory": "\u00c9L\u00c9MENTAIRE",
   "Synonyms": [
-   "monstre",
-   "de",
-   "roche",
-   "monstre",
-   "de",
-   "feu",
-   "monstre",
-   "de",
-   "glace",
-   "g\u00e9ant",
-   "de",
-   "roche",
-   "g\u00e9ant",
-   "de",
-   "glace",
+   "monstre de roche",
+   "monstre de feu",
+   "monstre de glace",
+   "g\u00e9ant de roche",
+   "g\u00e9ant de glace",
    "golem"
   ]
  },
@@ -3658,10 +3055,8 @@
   "SubCategory": "HUMANO\u00cfDE",
   "Synonyms": [
    "zombie",
-   "mort",
-   "vivant",
-   "mort",
-   "vivant",
+   "mort-vivant",
+   "mort vivant",
    "goule",
    "vampire",
    "elfe",
@@ -3671,11 +3066,8 @@
    "tengu",
    "lutin",
    "bigfoot",
-   "chose",
-   "des",
-   "marais",
-   "loup",
-   "garou",
+   "chose des marais",
+   "loup-garou",
    "frankenstein",
    "momie"
   ]
@@ -3686,10 +3078,8 @@
   "CatID": "CREAInsc",
   "SubCategory": "INSECTO\u00cfDE",
   "Synonyms": [
-   "fourmi",
-   "g\u00e9ante",
-   "araign\u00e9e",
-   "g\u00e9ante"
+   "fourmi g\u00e9ante",
+   "araign\u00e9e g\u00e9ante"
   ]
  },
  {
@@ -3708,8 +3098,7 @@
   "SubCategory": "MONSTRES",
   "Synonyms": [
    "godzilla",
-   "king",
-   "kong",
+   "king kong",
    "rancor",
    "behemoth",
    "xenomorph",
@@ -3724,10 +3113,8 @@
   "Synonyms": [
    "serpent",
    "serpentine",
-   "l\u00e9zard",
-   "g\u00e9ant",
-   "serpent",
-   "g\u00e9ant"
+   "l\u00e9zard g\u00e9ant",
+   "serpent g\u00e9ant"
   ]
  },
  {
@@ -3806,9 +3193,7 @@
   "CatID": "CRWDBatl",
   "SubCategory": "BATAILLE",
   "Synonyms": [
-   "cri",
-   "de",
-   "guerre",
+   "cri de guerre",
    "crier",
    "charger",
    "rallier",
@@ -3831,8 +3216,7 @@
    "f\u00eate",
    "chahut",
    "anniversaire",
-   "nouvel",
-   "an",
+   "nouvel an",
    "no\u00ebl",
    "d\u00e9fil\u00e9"
   ]
@@ -3858,12 +3242,9 @@
   "CatID": "CRWDChld",
   "SubCategory": "ENFANTS",
   "Synonyms": [
-   "cour",
-   "de",
+   "cour de r\u00e9cr\u00e9ation",
    "r\u00e9cr\u00e9ation",
-   "r\u00e9cr\u00e9ation",
-   "enfants",
-   "jouant",
+   "enfants jouant",
    "parc",
    "jeu",
    "tag"
@@ -3889,18 +3270,10 @@
   "CatID": "CRWDLaff",
   "SubCategory": "RIRE",
   "Synonyms": [
-   "\u00e9mission",
-   "de",
-   "t\u00e9l\u00e9vision",
-   "rires",
-   "en",
-   "bo\u00eete",
-   "club",
-   "de",
-   "com\u00e9die",
-   "piste",
-   "de",
-   "rire"
+   "\u00e9mission de t\u00e9l\u00e9vision",
+   "rires en bo\u00eete",
+   "club de com\u00e9die",
+   "piste de rire"
   ]
  },
  {
@@ -3909,12 +3282,9 @@
   "CatID": "CRWDLoop",
   "SubCategory": "AMBIANCE POST-SYNCHRO",
   "Synonyms": [
-   "groupe",
-   "en",
-   "boucle",
+   "groupe en boucle",
    "adr",
-   "en",
-   "bo\u00eete"
+   "en bo\u00eete"
   ]
  },
  {
@@ -3961,9 +3331,7 @@
    "boo",
    "ahh",
    "ooh",
-   "r\u00e9action",
-   "en",
-   "studio"
+   "r\u00e9action en studio"
   ]
  },
  {
@@ -4014,11 +3382,9 @@
   "CatID": "DSGNBass",
   "SubCategory": "BASS DIVE",
   "Synonyms": [
-   "bass",
-   "dive",
+   "bass dive",
    "downer",
-   "bass",
-   "drop",
+   "bass drop",
    "fall"
   ]
  },
@@ -4029,10 +3395,8 @@
   "SubCategory": "BOOM",
   "Synonyms": [
    "boom",
-   "deep",
-   "hit",
-   "low",
-   "sting",
+   "deep hit",
+   "low sting",
    "trailer"
   ]
  },
@@ -4164,9 +3528,7 @@
    "subharmonique",
    "grondement",
    "secousse",
-   "tremblement",
-   "de",
-   "terre"
+   "tremblement de terre"
   ]
  },
  {
@@ -4190,8 +3552,7 @@
    "source",
    "brut",
    "mat\u00e9riau",
-   "enregistrement",
-   "brut"
+   "enregistrement brut"
   ]
  },
  {
@@ -4202,8 +3563,7 @@
   "Synonyms": [
    "piquer",
    "sursauter",
-   "bande",
-   "annonce",
+   "bande-annonce",
    "cin\u00e9matique"
   ]
  },
@@ -4215,15 +3575,11 @@
   "Synonyms": [
    "synth\u00e9tis\u00e9",
    "synth\u00e9",
-   "synth\u00e9",
-   "mod",
-   "synth\u00e9",
-   "modulaire",
+   "synth\u00e9 mod",
+   "synth\u00e9 modulaire",
    "granulaire",
-   "synth\u00e9",
-   "analogique",
-   "synth\u00e9",
-   "modulaire"
+   "synth\u00e9 analogique",
+   "synth\u00e9 modulaire"
   ]
  },
  {
@@ -4259,8 +3615,7 @@
   "SubCategory": "WHOOSH",
   "Synonyms": [
    "whoosh",
-   "trailer",
-   "swish",
+   "trailer swish",
    "swish"
   ]
  },
@@ -4347,8 +3702,7 @@
    "d\u00e9verser",
    "d\u00e9verser",
    "d\u00e9charger",
-   "laisser",
-   "tomber"
+   "laisser tomber"
   ]
  },
  {
@@ -4378,11 +3732,8 @@
   "CatID": "DIRTTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "dunes",
-   "de",
-   "sable",
-   "sables",
-   "chantants"
+   "dunes de sable",
+   "sables chantants"
   ]
  },
  {
@@ -4406,16 +3757,11 @@
   "SubCategory": "APPAREIL",
   "Synonyms": [
    "four",
-   "micro",
-   "ondes",
+   "micro-ondes",
    "r\u00e9frig\u00e9rateur",
-   "lave",
-   "vaisselle",
-   "machine",
-   "\u00e0",
-   "laver",
-   "s\u00e8che",
-   "linge"
+   "lave-vaisselle",
+   "machine \u00e0 laver",
+   "s\u00e8che-linge"
   ]
  },
  {
@@ -4425,12 +3771,8 @@
   "SubCategory": "MEUBLE",
   "Synonyms": [
    "armoire",
-   "armoire",
-   "de",
-   "cuisine",
-   "armoire",
-   "\u00e0",
-   "outils"
+   "armoire de cuisine",
+   "armoire \u00e0 outils"
   ]
  },
  {
@@ -4439,9 +3781,7 @@
   "CatID": "DOORComp",
   "SubCategory": "COMPOSITE",
   "Synonyms": [
-   "fibre",
-   "de",
-   "verre",
+   "fibre de verre",
    "porte"
   ]
  },
@@ -4456,15 +3796,9 @@
    "donjon",
    "cave",
    "ch\u00e2teau",
-   "porte",
-   "en",
-   "bois",
-   "porte",
-   "en",
-   "m\u00e9tal",
-   "grincement",
-   "de",
-   "porte"
+   "porte en bois",
+   "porte en m\u00e9tal",
+   "grincement de porte"
   ]
  },
  {
@@ -4485,16 +3819,10 @@
   "CatID": "DOORElec",
   "SubCategory": "\u00c9LECTRIQUE",
   "Synonyms": [
-   "porte",
-   "\u00e9lectrique",
-   "porte",
-   "de",
-   "garage",
-   "porte",
-   "de",
-   "sonorisation",
-   "porte",
-   "automatique"
+   "porte \u00e9lectrique",
+   "porte de garage",
+   "porte de sonorisation",
+   "porte automatique"
   ]
  },
  {
@@ -4503,24 +3831,12 @@
   "CatID": "DOORGate",
   "SubCategory": "PORTAIL",
   "Synonyms": [
-   "portail",
-   "de",
-   "jardin",
-   "portail",
-   "de",
-   "cl\u00f4ture",
-   "portail",
-   "de",
-   "parc",
-   "passage",
-   "\u00e0",
-   "niveau",
-   "portail",
-   "pour",
-   "b\u00e9tail",
-   "portail",
-   "de",
-   "ferme"
+   "portail de jardin",
+   "portail de cl\u00f4ture",
+   "portail de parc",
+   "passage \u00e0 niveau",
+   "portail pour b\u00e9tail",
+   "portail de ferme"
   ]
  },
  {
@@ -4529,16 +3845,10 @@
   "CatID": "DOORGlas",
   "SubCategory": "VERRE",
   "Synonyms": [
-   "porte",
-   "vitr\u00e9e",
-   "porte",
-   "de",
-   "magasin",
-   "porte",
-   "de",
-   "baie",
-   "porte",
-   "fran\u00e7aise"
+   "porte vitr\u00e9e",
+   "porte de magasin",
+   "porte de baie",
+   "porte fran\u00e7aise"
   ]
  },
  {
@@ -4547,26 +3857,16 @@
   "CatID": "DOORHdwr",
   "SubCategory": "MAT\u00c9RIEL",
   "Synonyms": [
-   "poign\u00e9e",
-   "de",
-   "porte",
-   "p\u00eane",
-   "dormant",
-   "barre",
-   "de",
-   "pouss\u00e9e",
-   "cha\u00eene",
-   "de",
-   "fermeture",
+   "poign\u00e9e de porte",
+   "p\u00eane dormant",
+   "barre de pouss\u00e9e",
+   "cha\u00eene de fermeture",
    "charni\u00e8re",
    "loquet",
    "poign\u00e9e",
    "quincaillerie",
-   "crochetage",
-   "de",
-   "serrure",
-   "secousse",
-   ""
+   "crochetage de serrure",
+   "secousse..."
   ]
  },
  {
@@ -4575,9 +3875,7 @@
   "CatID": "DOORTech",
   "SubCategory": "HIGH TECH",
   "Synonyms": [
-   "porte",
-   "de",
-   "laboratoire"
+   "porte de laboratoire"
   ]
  },
  {
@@ -4586,12 +3884,10 @@
   "CatID": "DOORHydr",
   "SubCategory": "HYDRAULIQUE & PNEUMATIQUE",
   "Synonyms": [
-   "ferme",
-   "porte",
+   "ferme-porte",
    "pneumatique",
    "hydraulique",
-   "trappe",
-   "motoris\u00e9e"
+   "trappe motoris\u00e9e"
   ]
  },
  {
@@ -4604,10 +3900,8 @@
    "frapper",
    "frapper",
    "frapper",
-   "bruit",
-   "sourd",
-   "bruit",
-   "sourd"
+   "bruit sourd",
+   "bruit sourd"
   ]
  },
  {
@@ -4617,10 +3911,8 @@
   "SubCategory": "M\u00c9TAL",
   "Synonyms": [
    "rollup",
-   "chambre",
-   "forte",
-   "coffre",
-   "fort",
+   "chambre forte",
+   "coffre-fort",
    "trappe"
   ]
  },
@@ -4639,12 +3931,9 @@
   "CatID": "DOORPlas",
   "SubCategory": "PLASTIQUE",
   "Synonyms": [
-   "porta",
-   "john",
-   "porta",
-   "let",
-   "porta",
-   "pottie"
+   "porta john",
+   "porta let",
+   "porta pottie"
   ]
  },
  {
@@ -4653,12 +3942,8 @@
   "CatID": "DOORPrisn",
   "SubCategory": "PRISON",
   "Synonyms": [
-   "porte",
-   "de",
-   "prison",
-   "porte",
-   "de",
-   "prison"
+   "porte de prison",
+   "porte de prison"
   ]
  },
  {
@@ -4669,12 +3954,10 @@
   "Synonyms": [
    "tourner",
    "tourner",
-   "porte",
-   "tournante",
+   "porte tournante",
    "h\u00f4tel",
    "a\u00e9roport",
-   "centre",
-   "commercial"
+   "centre commercial"
   ]
  },
  {
@@ -4683,14 +3966,9 @@
   "CatID": "DOORSlid",
   "SubCategory": "COULISSANTE",
   "Synonyms": [
-   "porte",
-   "vitr\u00e9e",
-   "coulissante",
-   "porte",
-   "patio",
-   "porte",
-   "de",
-   "douche"
+   "porte vitr\u00e9e coulissante",
+   "porte patio",
+   "porte de douche"
   ]
  },
  {
@@ -4703,8 +3981,7 @@
    "crypte",
    "temple",
    "mausol\u00e9e",
-   "entr\u00e9e",
-   "secr\u00e8te"
+   "entr\u00e9e secr\u00e8te"
   ]
  },
  {
@@ -4713,20 +3990,10 @@
   "CatID": "DOORSwng",
   "SubCategory": "BATTANTE",
   "Synonyms": [
-   "porte",
-   "de",
-   "saloon",
-   "porte",
-   "de",
-   "circulation",
-   "porte",
-   "de",
-   "restaurant",
-   "porte",
-   "de",
-   "chaire",
-   "d",
-   "\u00e9glise"
+   "porte de saloon",
+   "porte de circulation",
+   "porte de restaurant",
+   "porte de chaire d'\u00e9glise"
   ]
  },
  {
@@ -4736,9 +4003,7 @@
   "SubCategory": "BOIS",
   "Synonyms": [
    "entr\u00e9e",
-   "porte",
-   "d",
-   "entr\u00e9e",
+   "porte d'entr\u00e9e",
    "placard"
   ]
  },
@@ -4748,20 +4013,11 @@
   "CatID": "DRWRMetl",
   "SubCategory": "M\u00c9TAL",
   "Synonyms": [
-   "bo\u00eete",
-   "\u00e0",
-   "outils",
-   "tiroir",
-   "\u00e0",
-   "cr\u00e9maill\u00e8re",
-   "armoire",
-   "de",
-   "classement",
-   "caisse",
-   "enregistreuse",
-   "tiroir",
-   "de",
-   "s\u00e9curit\u00e9"
+   "bo\u00eete \u00e0 outils",
+   "tiroir \u00e0 cr\u00e9maill\u00e8re",
+   "armoire de classement",
+   "caisse enregistreuse",
+   "tiroir de s\u00e9curit\u00e9"
   ]
  },
  {
@@ -4779,12 +4035,8 @@
   "CatID": "DRWRPlas",
   "SubCategory": "PLASTIQUE",
   "Synonyms": [
-   "bac",
-   "\u00e0",
-   "pi\u00e8ces",
-   "organisateur",
-   "de",
-   "bureau"
+   "bac \u00e0 pi\u00e8ces",
+   "organisateur de bureau"
   ]
  },
  {
@@ -4793,14 +4045,8 @@
   "CatID": "DRWRWood",
   "SubCategory": "BOIS",
   "Synonyms": [
-   "tiroir",
-   "de",
-   "cuisine",
-   "tiroir",
-   "de",
-   "salle",
-   "de",
-   "bain"
+   "tiroir de cuisine",
+   "tiroir de salle de bain"
   ]
  },
  {
@@ -4809,15 +4055,11 @@
   "CatID": "ELECArc",
   "SubCategory": "ARC",
   "Synonyms": [
-   "\u00e9chelle",
-   "de",
-   "jacob",
-   "bobine",
-   "tesla",
+   "\u00e9chelle de jacob",
+   "bobine tesla",
    "arche",
    "arche",
-   "centrale",
-   "\u00e9lectrique",
+   "centrale \u00e9lectrique",
    "\u00e9lectrocution"
   ]
  },
@@ -4827,27 +4069,13 @@
   "CatID": "ELECBuzz",
   "SubCategory": "BUZZ & HUM",
   "Synonyms": [
+   "ronflement de terre",
+   "ronflement d'ampli",
+   "ronflement d'ampli",
+   "ronflement de haut-parleur",
+   "ronflement de haut-parleur",
    "ronflement",
-   "de",
-   "terre",
-   "ronflement",
-   "d",
-   "ampli",
-   "ronflement",
-   "d",
-   "ampli",
-   "ronflement",
-   "de",
-   "haut",
-   "parleur",
-   "ronflement",
-   "de",
-   "haut",
-   "parleur",
-   "ronflement",
-   "ronflement",
-   "d",
-   "induction"
+   "ronflement d'induction"
   ]
  },
  {
@@ -4880,8 +4108,7 @@
    "\u00e9tincelle",
    "soudure",
    "pulv\u00e9risation",
-   "court",
-   "circuit"
+   "court-circuit"
   ]
  },
  {
@@ -4906,12 +4133,8 @@
    "r\u00eanes",
    "laisse",
    "harnais",
-   "laisse",
-   "de",
-   "chien",
-   "sangle",
-   "de",
-   "selle"
+   "laisse de chien",
+   "sangle de selle"
   ]
  },
  {
@@ -4920,10 +4143,8 @@
   "CatID": "EQUIPTech",
   "SubCategory": "HIGH TECH",
   "Synonyms": [
-   "combinaison",
-   "spatiale",
-   "ceinture",
-   "utilitaire"
+   "combinaison spatiale",
+   "ceinture utilitaire"
   ]
  },
  {
@@ -4941,9 +4162,7 @@
   "CatID": "EQUIPRec",
   "SubCategory": "LOISIR",
   "Synonyms": [
-   "sac",
-   "\u00e0",
-   "dos",
+   "sac \u00e0 dos",
    "randonn\u00e9e",
    "alpinisme",
    "grimper",
@@ -4960,10 +4179,8 @@
   "Synonyms": [
    "\u00e9pauli\u00e8re",
    "genouill\u00e8re",
-   "prot\u00e8ge",
-   "tibia",
-   "jock",
-   "strap"
+   "prot\u00e8ge-tibia",
+   "jock strap"
   ]
  },
  {
@@ -4974,12 +4191,8 @@
   "Synonyms": [
    "ceinture",
    "tactique",
-   "ceinture",
-   "de",
-   "service",
-   "ceinture",
-   "de",
-   "munitions",
+   "ceinture de service",
+   "ceinture de munitions",
    "police",
    "militaire",
    "bandouli\u00e8re"
@@ -4991,9 +4204,7 @@
   "CatID": "EXPLDsgn",
   "SubCategory": "DESIGN",
   "Synonyms": [
-   "onde",
-   "de",
-   "choc",
+   "onde de choc",
    "\u00e9dulcorant",
    "\u00e9cho"
   ]
@@ -5028,8 +4239,7 @@
    "putty",
    "razzberry",
    "raspberry",
-   "whoopie",
-   "cushion",
+   "whoopie cushion",
    "flarp",
    "armpit",
    "fartbag",
@@ -5042,9 +4252,7 @@
   "CatID": "FARTMisc",
   "SubCategory": "DIVERS",
   "Synonyms": [
-   "pet",
-   "d",
-   "animal"
+   "pet d'animal"
   ]
  },
  {
@@ -5053,9 +4261,7 @@
   "CatID": "FARTReal",
   "SubCategory": "R\u00c9EL",
   "Synonyms": [
-   "pet",
-   "d",
-   "humain",
+   "pet d'humain",
    "flatulence",
    "caca",
    "zizanie"
@@ -5067,16 +4273,10 @@
   "CatID": "FGHTBf",
   "SubCategory": "CHUTE",
   "Synonyms": [
-   "chute",
-   "de",
-   "corps",
-   "tra\u00een\u00e9e",
-   "de",
-   "corps",
+   "chute de corps",
+   "tra\u00een\u00e9e de corps",
    "\u00e9chauffour\u00e9e",
-   "claquement",
-   "de",
-   "corps",
+   "claquement de corps",
    "plaquage"
   ]
  },
@@ -5086,17 +4286,11 @@
   "CatID": "FGHTClth",
   "SubCategory": "TISSUS",
   "Synonyms": [
-   "tissu",
-   "de",
-   "combat",
+   "tissu de combat",
    "saisir",
    "arracher",
-   "impact",
-   "de",
-   "tissu",
-   "coup",
-   "de",
-   "tissu"
+   "impact de tissu",
+   "coup de tissu"
   ]
  },
  {
@@ -5118,23 +4312,16 @@
   "CatID": "FGHTImpt",
   "SubCategory": "IMPACT",
   "Synonyms": [
-   "coup",
-   "de",
-   "poing",
-   "coup",
-   "de",
-   "pied",
-   "coup",
-   "de",
-   "corps",
+   "coup de poing",
+   "coup de pied",
+   "coup de corps",
    "gifle",
    "gifle",
    "bagarre",
    "bousculade",
    "chaussette",
    "uppercut",
-   "direct",
-   ""
+   "direct."
   ]
  },
  {
@@ -5152,18 +4339,10 @@
   "CatID": "FIREBurn",
   "SubCategory": "BR\u00dbLER",
   "Synonyms": [
-   "feu",
-   "de",
-   "joie",
-   "feu",
-   "de",
-   "camp",
-   "feu",
-   "de",
-   "broussailles",
-   "feu",
-   "de",
-   "structure",
+   "feu de joie",
+   "feu de camp",
+   "feu de broussailles",
+   "feu de structure",
    "flamb\u00e9e",
    "brasier",
    "combustion",
@@ -5177,12 +4356,8 @@
   "CatID": "FIREBrst",
   "SubCategory": "PROJECTION",
   "Synonyms": [
-   "retour",
-   "de",
-   "flamme",
-   "feu",
-   "de",
-   "dragon",
+   "retour de flamme",
+   "feu de dragon",
    "engloutissement"
   ]
  },
@@ -5204,22 +4379,13 @@
   "CatID": "FIREGas",
   "SubCategory": "GAZ",
   "Synonyms": [
-   "gril",
-   "\u00e0",
-   "gaz",
-   "bec",
-   "bunsen",
+   "gril \u00e0 gaz",
+   "bec bunsen",
    "fourneau",
-   "r\u00e9chaud",
-   "de",
-   "camping",
-   "r\u00e9chaud",
-   "de",
-   "cuisine",
+   "r\u00e9chaud de camping",
+   "r\u00e9chaud de cuisine",
    "cr\u00e9matorium",
-   "cuisini\u00e8re",
-   "\u00e0",
-   "gaz"
+   "cuisini\u00e8re \u00e0 gaz"
   ]
  },
  {
@@ -5254,9 +4420,7 @@
   "Synonyms": [
    "tisonnier",
    "m\u00e8che",
-   "br\u00fbler",
-   "par",
-   "m\u00e8che"
+   "br\u00fbler par m\u00e8che"
   ]
  },
  {
@@ -5269,8 +4433,7 @@
    "fus\u00e9e",
    "torche",
    "tison",
-   "b\u00e2ton",
-   "enflamm\u00e9",
+   "b\u00e2ton enflamm\u00e9",
    "cresson"
   ]
  },
@@ -5280,16 +4443,10 @@
   "CatID": "FIRETurb",
   "SubCategory": "TURBULENT",
   "Synonyms": [
-   "tourbillon",
-   "de",
-   "feu",
-   "feu",
-   "violent",
-   "lance",
-   "flammes",
-   "tornade",
-   "de",
-   "feu",
+   "tourbillon de feu",
+   "feu violent",
+   "lance-flammes",
+   "tornade de feu",
    "engloutir",
    "refoulement"
   ]
@@ -5300,9 +4457,7 @@
   "CatID": "FIREWhsh",
   "SubCategory": "WHOOSH",
   "Synonyms": [
-   "boule",
-   "de",
-   "feu",
+   "boule de feu",
    "brasier",
    "molotov",
    "fus\u00e9e",
@@ -5316,15 +4471,11 @@
   "SubCategory": "\u00c9V\u00c9NEMENT",
   "Synonyms": [
    "mortier",
-   "feu",
-   "d",
-   "artifice",
+   "feu d'artifice",
    "pyrotechnie",
    "kaboom",
    "obus",
-   "feux",
-   "d",
-   "artifice"
+   "feux d'artifice"
   ]
  },
  {
@@ -5344,22 +4495,13 @@
   "Synonyms": [
    "p\u00e9tard",
    "m80",
-   "cierge",
-   "magique",
-   "fus\u00e9e",
-   "en",
-   "bouteille",
-   "bombe",
-   "fumig\u00e8ne",
-   "jumping",
-   "jack",
-   "chandelle",
-   "romaine",
+   "cierge magique",
+   "fus\u00e9e en bouteille",
+   "bombe fumig\u00e8ne",
+   "jumping jack",
+   "chandelle romaine",
    "popper",
-   "bombe",
-   "\u00e0",
-   "la",
-   "cerise"
+   "bombe \u00e0 la cerise"
   ]
  },
  {
@@ -5434,14 +4576,10 @@
    "bouillir",
    "griller",
    "gr\u00e9siller",
-   "cuire",
-   "\u00e0",
-   "la",
-   "vapeur",
+   "cuire \u00e0 la vapeur",
    "ragoter",
    "remuer",
-   "faire",
-   "sauter"
+   "faire sauter"
   ]
  },
  {
@@ -5454,25 +4592,12 @@
    "aspirer",
    "boire",
    "avaler",
-   "avaler",
-   "goul\u00fbment",
+   "avaler goul\u00fbment",
    "boire",
-   "boire",
-   "\u00e0",
-   "petites",
-   "gorg\u00e9es",
-   "boire",
-   "\u00e0",
-   "grandes",
-   "gorg\u00e9es",
-   "boire",
-   "\u00e0",
-   "petites",
-   "gorg\u00e9es",
-   "boire",
-   "\u00e0",
-   "petites",
-   "gorg\u00e9es"
+   "boire \u00e0 petites gorg\u00e9es",
+   "boire \u00e0 grandes gorg\u00e9es",
+   "boire \u00e0 petites gorg\u00e9es",
+   "boire \u00e0 petites gorg\u00e9es"
   ]
  },
  {
@@ -5524,8 +4649,7 @@
    "viande",
    "avoine",
    "ma\u00efs",
-   "etc",
-   ""
+   "etc."
   ]
  },
  {
@@ -5538,9 +4662,7 @@
    "marmite",
    "faitout",
    "marmite",
-   "po\u00eale",
-   "\u00e0",
-   "frire",
+   "po\u00eale \u00e0 frire",
    "casserole"
   ]
  },
@@ -5573,9 +4695,7 @@
   "Synonyms": [
    "argenterie",
    "ustensiles",
-   "verre",
-   "qui",
-   "tinte"
+   "verre qui tinte"
   ]
  },
  {
@@ -5654,13 +4774,9 @@
   "SubCategory": "ARCADE",
   "Synonyms": [
    "flipper",
-   "whack",
-   "a",
-   "mole",
+   "whack-a-mole",
    "skeeball",
-   "machine",
-   "\u00e0",
-   "griffes"
+   "machine \u00e0 griffes"
   ]
  },
  {
@@ -5682,17 +4798,11 @@
   "SubCategory": "CASINO",
   "Synonyms": [
    "roulette",
-   "machine",
-   "\u00e0",
-   "sous",
+   "machine \u00e0 sous",
    "craps",
-   "roue",
-   "\u00e0",
-   "billets",
+   "roue \u00e0 billets",
    "keno",
-   "machine",
-   "\u00e0",
-   "poker"
+   "machine \u00e0 poker"
   ]
  },
  {
@@ -5717,16 +4827,13 @@
   "Synonyms": [
    "atari",
    "ps4",
-   "xbox",
-   "one",
-   "xbox",
-   "360",
+   "xbox one",
+   "xbox 360",
    "amstrad",
    "famicom",
    "snes",
    "gameboy",
-   "nintendo",
-   "64",
+   "nintendo 64",
    "playstation",
    "megadrive",
    "psp"
@@ -5738,9 +4845,7 @@
   "CatID": "GEOFuma",
   "SubCategory": "FUMEROLLE",
   "Synonyms": [
-   "\u00e9vent",
-   "\u00e0",
-   "vapeur",
+   "\u00e9vent \u00e0 vapeur",
    "g\u00e9othermie",
    "fumerolle"
   ]
@@ -5778,9 +4883,7 @@
   "CatID": "GEOMisc",
   "SubCategory": "DIVERS",
   "Synonyms": [
-   "piscine",
-   "chaude",
-   "bouillonnante"
+   "piscine chaude bouillonnante"
   ]
  },
  {
@@ -5789,15 +4892,9 @@
   "CatID": "GEOMudpot",
   "SubCategory": "MARE DE BOUE",
   "Synonyms": [
-   "pot",
-   "de",
-   "boue",
-   "pot",
-   "de",
-   "peinture",
-   "puits",
-   "de",
-   "goudron",
+   "pot de boue",
+   "pot de peinture",
+   "puits de goudron",
    "boue",
    "bulle",
    "bouillie"
@@ -5809,8 +4906,7 @@
   "CatID": "GLASBrk",
   "SubCategory": "CASSE",
   "Synonyms": [
-   "verre",
-   "bris\u00e9",
+   "verre bris\u00e9",
    "fracass\u00e9",
    "\u00e9clat\u00e9"
   ]
@@ -5862,8 +4958,7 @@
   "SubCategory": "IMPACT",
   "Synonyms": [
    "frapper",
-   "laisser",
-   "tomber",
+   "laisser tomber",
    "impacter",
    "tinter"
   ]
@@ -5898,12 +4993,8 @@
    "r\u00e9sonner",
    "sonner",
    "tonalit\u00e9",
-   "harmonica",
-   "de",
-   "verre",
-   "bol",
-   "de",
-   "cristal"
+   "harmonica de verre",
+   "bol de cristal"
   ]
  },
  {
@@ -5925,18 +5016,10 @@
   "CatID": "GOREBone",
   "SubCategory": "OS",
   "Synonyms": [
-   "claquement",
-   "d",
-   "os",
-   "fracture",
-   "d",
-   "os",
-   "bris",
-   "d",
-   "os",
-   "claquement",
-   "de",
-   "m\u00e2choire",
+   "claquement d'os",
+   "fracture d'os",
+   "bris d'os",
+   "claquement de m\u00e2choire",
    "m\u00e2choires"
   ]
  },
@@ -6074,23 +5157,12 @@
   "CatID": "GUNAntq",
   "SubCategory": "ANCIENNE",
   "Synonyms": [
-   "fusil",
-   "\u00e0",
-   "chargement",
-   "par",
-   "la",
-   "bouche",
+   "fusil \u00e0 chargement par la bouche",
    "mousquet",
-   "poudre",
-   "noire",
-   "fusil",
-   "\u00e0",
-   "silex",
-   "fusil",
-   "long",
-   "lance",
-   "\u00e0",
-   "feu"
+   "poudre noire",
+   "fusil \u00e0 silex",
+   "fusil long",
+   "lance \u00e0 feu"
   ]
  },
  {
@@ -6100,10 +5172,8 @@
   "SubCategory": "ARTILLERIE",
   "Synonyms": [
    "obusier",
-   "canon",
-   "antia\u00e9rien",
-   "lance",
-   "missiles",
+   "canon antia\u00e9rien",
+   "lance-missiles",
    "bazooka",
    "mortier",
    "fus\u00e9e",
@@ -6116,17 +5186,14 @@
   "CatID": "GUNAuto",
   "SubCategory": "AUTOMATIQUE",
   "Synonyms": [
-   "ak",
-   "47",
+   "ak-47",
    "m16",
    "mitraillette",
-   "tommy",
-   "gun",
+   "tommy gun",
    "uzi",
    "m249",
    "m1919",
-   "gatling",
-   "gun",
+   "gatling gun",
    "minigun",
    ""
   ]
@@ -6138,13 +5205,9 @@
   "SubCategory": "CANON",
   "Synonyms": [
    "tromblon",
+   "canon \u00e0 main",
    "canon",
-   "\u00e0",
-   "main",
-   "canon",
-   "poudre",
-   "noire",
-   ""
+   "poudre noire..."
   ]
  },
  {
@@ -6155,19 +5218,10 @@
   "Synonyms": [
    "holster",
    "pistolet",
-   "saisir",
-   "le",
-   "pistolet",
-   "attraper",
-   "le",
-   "pistolet",
-   "laisser",
-   "tomber",
-   "le",
-   "pistolet",
-   "charger",
-   "le",
-   "pistolet"
+   "saisir le pistolet",
+   "attraper le pistolet",
+   "laisser tomber le pistolet",
+   "charger le pistolet"
   ]
  },
  {
@@ -6176,12 +5230,8 @@
   "CatID": "GUNTech",
   "SubCategory": "HIGH TECH",
   "Synonyms": [
-   "pistolet",
-   "sur",
-   "rail",
-   "pistolet",
-   "d",
-   "espionnage"
+   "pistolet sur rail",
+   "pistolet d'espionnage"
   ]
  },
  {
@@ -6192,19 +5242,11 @@
   "Synonyms": [
    "clip",
    "armement",
-   "cliquetis",
-   "du",
-   "pistolet",
-   "glissi\u00e8re",
-   "du",
-   "verrou",
+   "cliquetis du pistolet",
+   "glissi\u00e8re du verrou",
    "chargeur",
-   "chargement",
-   "des",
-   "balles",
-   "armement",
-   "du",
-   "pistolet"
+   "chargement des balles",
+   "armement du pistolet"
   ]
  },
  {
@@ -6213,16 +5255,9 @@
   "CatID": "GUNMisc",
   "SubCategory": "DIVERS",
   "Synonyms": [
-   "pistolet",
-   "lance",
-   "fus\u00e9es",
-   "pistolet",
-   "\u00e0",
-   "air",
-   "comprim\u00e9",
-   "pistolet",
-   "de",
-   "paintball"
+   "pistolet lance-fus\u00e9es",
+   "pistolet \u00e0 air comprim\u00e9",
+   "pistolet de paintball"
   ]
  },
  {
@@ -6235,17 +5270,12 @@
    "pistolet",
    "revolver",
    "glock",
-   "arme",
-   "de",
-   "poing",
+   "arme de poing",
    "colt",
-   "smith",
-   "wesson",
-   "sig",
-   "sauer",
+   "smith & wesson",
+   "sig sauer",
    "luger",
-   "walther",
-   "ppk",
+   "walther ppk",
    "browning",
    "ruger",
    "beretta"
@@ -6266,8 +5296,7 @@
    "powell",
    "sniper",
    "chasse",
-   "semi",
-   "automatique"
+   "semi-automatique"
   ]
  },
  {
@@ -6276,15 +5305,11 @@
   "CatID": "GUNShotg",
   "SubCategory": "FUSIL \u00c0 POMPE",
   "Synonyms": [
-   "fusil",
-   "de",
-   "chasse",
-   "double",
-   "canon",
+   "fusil de chasse",
+   "double canon",
    "mossberg",
    "winchester",
-   "coach",
-   "gun"
+   "coach gun"
   ]
  },
  {
@@ -6303,15 +5328,9 @@
   "CatID": "HORNAir",
   "SubCategory": "CORNE DE BRUME",
   "Synonyms": [
-   "corne",
-   "de",
-   "brume",
-   "corne",
-   "\u00e0",
-   "air",
-   "corne",
-   "d",
-   "usine"
+   "corne de brume",
+   "corne \u00e0 air",
+   "corne d'usine"
   ]
  },
  {
@@ -6320,9 +5339,7 @@
   "CatID": "HORNCele",
   "SubCategory": "FESTIF",
   "Synonyms": [
-   "klaxon",
-   "de",
-   "f\u00eate",
+   "klaxon de f\u00eate",
    "vuvuzela"
   ]
  },
@@ -6332,18 +5349,10 @@
   "CatID": "HORNMisc",
   "SubCategory": "DIVERS",
   "Synonyms": [
-   "appeau",
-   "de",
-   "chasse",
-   "appeau",
-   "\u00e0",
-   "\u00e9lan",
-   "appeau",
-   "\u00e0",
-   "canard",
-   "clairon",
-   "de",
-   "renard"
+   "appeau de chasse",
+   "appeau \u00e0 \u00e9lan",
+   "appeau \u00e0 canard",
+   "clairon de renard"
   ]
  },
  {
@@ -6354,21 +5363,11 @@
   "Synonyms": [
    "shofar",
    "conque",
-   "coquille",
-   "de",
-   "conque",
-   "cor",
-   "de",
-   "combat",
-   "cor",
-   "des",
-   "alpes",
-   "cor",
-   "des",
-   "alpes",
-   "cor",
-   "des",
-   "alpes"
+   "coquille de conque",
+   "cor de combat",
+   "cor des alpes",
+   "cor des alpes",
+   "cor des alpes"
   ]
  },
  {
@@ -6421,8 +5420,7 @@
    "hoquet",
    "ahem",
    "rauque",
-   "gorge",
-   "claire"
+   "gorge claire"
   ]
  },
  {
@@ -6462,15 +5460,11 @@
   "Synonyms": [
    "pisser",
    "uriner",
-   "faire",
-   "pipi",
+   "faire pipi",
    "uriner",
-   "faire",
-   "pipi",
-   "faire",
-   "pipi",
-   "faire",
-   "pipi"
+   "faire pipi",
+   "faire pipi",
+   "faire pipi"
   ]
  },
  {
@@ -6484,17 +5478,11 @@
    "peau",
    "d\u00e9mangeaison",
    "gifler",
-   "saisir",
-   "la",
-   "main",
-   "poign\u00e9e",
-   "de",
-   "main",
+   "saisir la main",
+   "poign\u00e9e de main",
    "caresser",
    "frotter",
-   "frotter",
-   "le",
-   "dos"
+   "frotter le dos"
   ]
  },
  {
@@ -6504,8 +5492,7 @@
   "SubCategory": "\u00c9TERNUE",
   "Synonyms": [
    "\u00e9ternuer",
-   "ah",
-   "choo"
+   "ah-choo"
   ]
  },
  {
@@ -6529,8 +5516,7 @@
    "ronfler",
    "zzz",
    "congestionn\u00e9",
-   "respiration",
-   "lourde",
+   "respiration lourde",
    "apn\u00e9e"
   ]
  },
@@ -6564,9 +5550,7 @@
    "vomir",
    "vomir",
    "vomir",
-   "mal",
-   "de",
-   "mer"
+   "mal de mer"
   ]
  },
  {
@@ -6588,8 +5572,7 @@
   "CatID": "ICECrsh",
   "SubCategory": "CRASH & D\u00c9BRIS",
   "Synonyms": [
-   "s",
-   "\u00e9craser",
+   "s'\u00e9craser",
    "tomber",
    "d\u00e9bris"
   ]
@@ -6631,20 +5614,10 @@
    "frapper",
    "tomber",
    "impacter",
-   "s",
-   "\u00e9craser",
-   "faire",
-   "un",
-   "bruit",
-   "sourd",
-   "faire",
-   "un",
-   "bruit",
-   "sec",
-   "faire",
-   "un",
-   "bruit",
-   "sec",
+   "s'\u00e9craser",
+   "faire un bruit sourd",
+   "faire un bruit sec",
+   "faire un bruit sec",
    "hacher"
   ]
  },
@@ -6665,9 +5638,7 @@
   "Synonyms": [
    "tra\u00eener",
    "rouler",
-   "faire",
-   "du",
-   "bruit",
+   "faire du bruit",
    "secouer"
   ]
  },
@@ -6699,12 +5670,9 @@
   "CatID": "LASRGun",
   "SubCategory": "ARME",
   "Synonyms": [
-   "arme",
-   "\u00e0",
-   "plasma",
+   "arme \u00e0 plasma",
    "blaster",
-   "canon",
-   "laser"
+   "canon laser"
   ]
  },
  {
@@ -6764,10 +5732,8 @@
    "frapper",
    "impact",
    "saisir",
-   "bruit",
-   "sourd",
-   "bruit",
-   "sourd"
+   "bruit sourd",
+   "bruit sourd"
   ]
  },
  {
@@ -6860,21 +5826,12 @@
   "CatID": "MACHAmus",
   "SubCategory": "ATTRACTION",
   "Synonyms": [
-   "montagnes",
-   "russes",
+   "montagnes russes",
    "man\u00e8ge",
    "scrambler",
-   "tilt",
-   "a",
-   "whirl",
-   "man\u00e8ge",
-   "pour",
-   "enfants",
-   "man\u00e8ge",
-   "de",
-   "parc",
-   "\u00e0",
-   "th\u00e8me",
+   "tilt-a-whirl",
+   "man\u00e8ge pour enfants",
+   "man\u00e8ge de parc \u00e0 th\u00e8me",
    "flipper",
    "skeeball"
   ]
@@ -6885,18 +5842,10 @@
   "CatID": "MACHAntq",
   "SubCategory": "ANCIENNE",
   "Synonyms": [
-   "presse",
-   "\u00e0",
-   "imprimer",
-   "machine",
-   "\u00e0",
-   "coudre",
-   "presse",
-   "\u00e0",
-   "olives",
-   "baratte",
-   "\u00e0",
-   "beurre"
+   "presse \u00e0 imprimer",
+   "machine \u00e0 coudre",
+   "presse \u00e0 olives",
+   "baratte \u00e0 beurre"
   ]
  },
  {
@@ -6908,39 +5857,22 @@
    "four",
    "r\u00e9frig\u00e9rateur",
    "mixeur",
-   "robot",
-   "m\u00e9nager",
-   "s\u00e8che",
-   "cheveux",
-   "machine",
-   "\u00e0",
-   "glace",
-   "lave",
-   "linge",
-   "s\u00e8che",
-   "linge",
-   "fer",
-   "\u00e0",
-   "repasser",
+   "robot m\u00e9nager",
+   "s\u00e8che-cheveux",
+   "machine \u00e0 glace",
+   "lave-linge",
+   "s\u00e8che-linge",
+   "fer \u00e0 repasser",
    "cafeti\u00e8re",
-   "lave",
-   "vaisselle",
-   "ouvre",
-   "bo\u00eete",
-   "\u00e9lectrique",
-   "broyeur",
-   "\u00e0",
-   "d\u00e9chets",
+   "lave-vaisselle",
+   "ouvre-bo\u00eete \u00e9lectrique",
+   "broyeur \u00e0 d\u00e9chets",
    "humidificateur",
    "d\u00e9shumidificateur",
-   "machine",
-   "\u00e0",
-   "coudre",
-   "grille",
-   "pain",
+   "machine \u00e0 coudre",
+   "grille-pain",
    "gaufrier",
-   "plaque",
-   "chauffante"
+   "plaque chauffante"
   ]
  },
  {
@@ -6951,9 +5883,7 @@
   "Synonyms": [
    "grue",
    "b\u00e9tonni\u00e8re",
-   "broyeur",
-   "\u00e0",
-   "bois"
+   "broyeur \u00e0 bois"
   ]
  },
  {
@@ -6963,12 +5893,9 @@
   "SubCategory": "ASCENSEUR",
   "Synonyms": [
    "paternoster",
-   "monte",
-   "charge",
+   "monte-charge",
    "ascenseur",
-   "ascenseur",
-   "pour",
-   "passagers",
+   "ascenseur pour passagers",
    "ascenseur"
   ]
  },
@@ -6979,8 +5906,7 @@
   "SubCategory": "ESCALATOR",
   "Synonyms": [
    "voyageur",
-   "trottoir",
-   "roulant"
+   "trottoir roulant"
   ]
  },
  {
@@ -6990,17 +5916,10 @@
   "SubCategory": "VENTILATEUR",
   "Synonyms": [
    "ventilateur",
-   "ventilateur",
-   "de",
-   "plafond",
-   "ventilateur",
-   "de",
-   "bo\u00eete",
-   "ventilateur",
-   "industriel",
-   "ventilateur",
-   "sans",
-   "pale"
+   "ventilateur de plafond",
+   "ventilateur de bo\u00eete",
+   "ventilateur industriel",
+   "ventilateur sans pale"
   ]
  },
  {
@@ -7009,19 +5928,12 @@
   "CatID": "MACHGrdn",
   "SubCategory": "JARDIN",
   "Synonyms": [
-   "tondeuse",
-   "\u00e0",
-   "gazon",
-   "coupe",
-   "herbe",
-   "coupe",
-   "bordure",
+   "tondeuse \u00e0 gazon",
+   "coupe-herbe",
+   "coupe-bordure",
    "tron\u00e7onneuse",
-   "coupe",
-   "bordure",
-   "scie",
-   "\u00e0",
-   "poteau",
+   "coupe-bordure",
+   "scie \u00e0 poteau",
    "broyeur",
    "cultivateur"
   ]
@@ -7032,21 +5944,13 @@
   "CatID": "MACHGym",
   "SubCategory": "GYM",
   "Synonyms": [
-   "tapis",
-   "de",
-   "course",
-   "v\u00e9lo",
-   "elliptique",
+   "tapis de course",
+   "v\u00e9lo elliptique",
    "rameur",
-   "v\u00e9lo",
-   "d",
-   "exercice",
-   "v\u00e9lo",
-   "stationnaire",
+   "v\u00e9lo d'exercice",
+   "v\u00e9lo stationnaire",
    "nordictrack",
-   "monte",
-   "escalier",
-   ""
+   "monte-escalier."
   ]
  },
  {
@@ -7067,10 +5971,8 @@
   "SubCategory": "VENTILATION",
   "Synonyms": [
    "aircon",
-   "air",
-   "conditionn\u00e9",
-   "chauffage",
-   ""
+   "air conditionn\u00e9",
+   "chauffage."
   ]
  },
  {
@@ -7079,18 +5981,11 @@
   "CatID": "MACHInd",
   "SubCategory": "INDUSTRIEL",
   "Synonyms": [
-   "presse",
-   "hydraulique",
-   "cha\u00eene",
-   "de",
-   "montage",
+   "presse hydraulique",
+   "cha\u00eene de montage",
    "distillerie",
    "poin\u00e7onneuse",
-   "presse",
-   "\u00e0",
-   "coffrage",
-   "f437",
-   "f450"
+   "presse \u00e0 coffrage+f437:f450"
   ]
  },
  {
@@ -7099,11 +5994,8 @@
   "CatID": "MACHMech",
   "SubCategory": "M\u00c9CANISME",
   "Synonyms": [
-   "bo\u00eete",
-   "\u00e0",
-   "puzzle",
-   "rube",
-   "goldberg",
+   "bo\u00eete \u00e0 puzzle",
+   "rube goldberg",
    "gizmo"
   ]
  },
@@ -7113,27 +6005,15 @@
   "CatID": "MACHMed",
   "SubCategory": "M\u00c9DICAL",
   "Synonyms": [
-   "appareils",
-   "\u00e0",
-   "rayons",
-   "x",
+   "appareils \u00e0 rayons x",
    "irm",
-   "scanner",
-   "pour",
-   "chats",
-   "scanner",
-   "pour",
-   "animaux",
+   "scanner pour chats",
+   "scanner pour animaux",
    "tensiom\u00e8tre",
-   "appareil",
-   "pour",
-   "tests",
-   "de",
-   "laboratoire",
+   "appareil pour tests de laboratoire",
    "centrifugeuse",
    "ventilateur",
-   "d\u00e9fibrillateur",
-   ""
+   "d\u00e9fibrillateur."
   ]
  },
  {
@@ -7159,19 +6039,11 @@
    "d\u00e9chiqueteuse",
    "photocopieuse",
    "mim\u00e9ographe",
-   "imprimante",
-   "laser",
-   "imprimante",
-   "\u00e0",
-   "jet",
-   "d",
-   "encre",
-   "d\u00e9chiqueteuse",
-   "de",
-   "papier",
+   "imprimante laser",
+   "imprimante \u00e0 jet d'encre",
+   "d\u00e9chiqueteuse de papier",
    "traceur",
-   "etc",
-   ""
+   "etc."
   ]
  },
  {
@@ -7180,16 +6052,10 @@
   "CatID": "MACHPump",
   "SubCategory": "POMPE",
   "Synonyms": [
-   "pompe",
-   "\u00e0",
-   "eau",
-   "pompe",
-   "de",
-   "puisard",
+   "pompe \u00e0 eau",
+   "pompe de puisard",
    "compresseur",
-   "compresseur",
-   "d",
-   "air"
+   "compresseur d'air"
   ]
  },
  {
@@ -7233,8 +6099,7 @@
    "invocation",
    "n\u00e9cromancie",
    "vaudou",
-   "magie",
-   "noire",
+   "magie noire",
    "interdit"
   ]
  },
@@ -7319,19 +6184,13 @@
   "SubCategory": "ENGRENAGE",
   "Synonyms": [
    "engrenage",
-   "roue",
-   "dent\u00e9e",
+   "roue dent\u00e9e",
    "pignon",
    "cr\u00e9maill\u00e8re",
    "transmission",
-   "roue",
-   "dent\u00e9e",
-   "roue",
-   "d",
-   "engrenage",
-   "volant",
-   "d",
-   "inertie"
+   "roue dent\u00e9e",
+   "roue d'engrenage",
+   "volant d'inertie"
   ]
  },
  {
@@ -7379,8 +6238,7 @@
   "SubCategory": "VERROU",
   "Synonyms": [
    "cadenas",
-   "p\u00eane",
-   "dormant"
+   "p\u00eane dormant"
   ]
  },
  {
@@ -7436,9 +6294,7 @@
   "Synonyms": [
    "rouler",
    "courroie",
-   "arbre",
-   "de",
-   "transmission"
+   "arbre de transmission"
   ]
  },
  {
@@ -7513,8 +6369,7 @@
   "SubCategory": "IMPACT",
   "Synonyms": [
    "frapper",
-   "laisser",
-   "tomber",
+   "laisser tomber",
    "impact",
    "crash",
    "clunk",
@@ -7548,16 +6403,12 @@
   "CatID": "METLTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "s",
-   "incliner",
+   "s'incliner",
    "sonner",
-   "se",
-   "tordre",
+   "se tordre",
    "vibrer",
-   "se",
-   "d\u00e9former",
-   "se",
-   "courber",
+   "se d\u00e9former",
+   "se courber",
    "r\u00e9sonner"
   ]
  },
@@ -7567,12 +6418,8 @@
   "CatID": "MOTRAntq",
   "SubCategory": "ANCIEN",
   "Synonyms": [
-   "moteur",
-   "\u00e0",
-   "k\u00e9ros\u00e8ne",
-   "moteur",
-   "\u00e0",
-   "paraffine"
+   "moteur \u00e0 k\u00e9ros\u00e8ne",
+   "moteur \u00e0 paraffine"
   ]
  },
  {
@@ -7581,18 +6428,10 @@
   "CatID": "MOTRComb",
   "SubCategory": "COMBUSTION",
   "Synonyms": [
-   "moteur",
-   "diesel",
-   "moteur",
-   "\u00e0",
-   "gaz",
-   "moteur",
-   "\u00e0",
-   "combustion",
-   "moteur",
-   "\u00e0",
-   "deux",
-   "temps"
+   "moteur diesel",
+   "moteur \u00e0 gaz",
+   "moteur \u00e0 combustion",
+   "moteur \u00e0 deux temps"
   ]
  },
  {
@@ -7601,19 +6440,11 @@
   "CatID": "MOTRElec",
   "SubCategory": "\u00c9LECTRIQUE",
   "Synonyms": [
-   "brosse",
-   "\u00e0",
-   "dents",
-   "rasoir",
-   "\u00e9lectrique",
-   "moteur",
-   "\u00e9lectrique",
-   "broyeur",
-   "d",
-   "ordures",
-   "perceuse",
-   "de",
-   "dentiste"
+   "brosse \u00e0 dents",
+   "rasoir \u00e9lectrique",
+   "moteur \u00e9lectrique",
+   "broyeur d'ordures",
+   "perceuse de dentiste"
   ]
  },
  {
@@ -7632,15 +6463,9 @@
   "SubCategory": "SERVO",
   "Synonyms": [
    "robot",
-   "voiture",
-   "rc",
-   "mise",
-   "au",
-   "point",
-   "cam\u00e9ra",
-   "antenne",
-   "de",
-   "voiture",
+   "voiture rc",
+   "mise au point cam\u00e9ra",
+   "antenne de voiture",
    "imprimante"
   ]
  },
@@ -7650,9 +6475,7 @@
   "CatID": "MOTRTurb",
   "SubCategory": "TURBINE",
   "Synonyms": [
-   "moulin",
-   "\u00e0",
-   "vent",
+   "moulin \u00e0 vent",
    "avion",
    "avion",
    "g\u00e9n\u00e9rateur"
@@ -7690,14 +6513,11 @@
   "CatID": "MOVECrea",
   "SubCategory": "CR\u00c9ATURE",
   "Synonyms": [
-   "se",
-   "glisser",
+   "se glisser",
    "ramper",
    "glisser",
-   "se",
-   "tortiller",
-   "se",
-   "tortiller"
+   "se tortiller",
+   "se tortiller"
   ]
  },
  {
@@ -7711,19 +6531,12 @@
    "marcher",
    "moudre",
    "battre",
-   "s",
-   "asseoir",
-   "se",
-   "tenir",
-   "debout",
-   "s",
-   "allonger",
+   "s'asseoir",
+   "se tenir debout",
+   "s'allonger",
    "glisser",
    "sauter",
-   "sauter",
-   "\u00e0",
-   "cloche",
-   "pied"
+   "sauter \u00e0 cloche-pied"
   ]
  },
  {
@@ -7738,13 +6551,9 @@
    "moudre",
    "battre",
    "battre",
-   "s",
-   "asseoir",
-   "se",
-   "tenir",
-   "debout",
-   "se",
-   "coucher",
+   "s'asseoir",
+   "se tenir debout",
+   "se coucher",
    "glisser",
    "sauter",
    "sauter"
@@ -7758,9 +6567,7 @@
   "Synonyms": [
    "essaimer",
    "ruche",
-   "ruche",
-   "d",
-   "abeilles",
+   "ruche d'abeilles",
    "glisser",
    "asticots"
   ]
@@ -7783,8 +6590,7 @@
    "ajuster",
    "m\u00e9langer",
    "battre",
-   "mouvement",
-   "l\u00e9ger",
+   "mouvement l\u00e9ger",
    "d\u00e9placement"
   ]
  },
@@ -7794,26 +6600,17 @@
   "CatID": "MUSCBell",
   "SubCategory": "CLOCHES",
   "Synonyms": [
-   "cloches",
-   "tubulaires",
+   "cloches tubulaires",
    "carillon",
    "gamelan",
-   "bol",
-   "chantant",
-   "cloche",
-   "\u00e0",
-   "main",
-   "cloche",
-   "\u00e0",
-   "vache",
+   "bol chantant",
+   "cloche \u00e0 main",
+   "cloche \u00e0 vache",
    "gong",
    "gamelan",
    "agung",
-   "gong",
-   "\u00e0",
-   "bol",
-   "tam",
-   "tam"
+   "gong \u00e0 bol",
+   "tam-tam"
   ]
  },
  {
@@ -7867,18 +6664,12 @@
   "SubCategory": "EXP\u00c9RIMENTAL",
   "Synonyms": [
    "th\u00e9r\u00e9mine",
-   "armonica",
-   "de",
-   "verre",
+   "armonica de verre",
    "pyrophone",
    "stylophone",
-   "baschet",
-   "en",
-   "cristal",
-   "cactus",
-   "\u00e9lectrifi\u00e9",
-   "harpe",
-   "\u00e9olienne"
+   "baschet en cristal",
+   "cactus \u00e9lectrifi\u00e9",
+   "harpe \u00e9olienne"
   ]
  },
  {
@@ -7915,14 +6706,9 @@
   "CatID": "MUSCLoop",
   "SubCategory": "BOUCLE",
   "Synonyms": [
-   "boucles",
-   "musicales",
-   "boucles",
-   "d",
-   "\u00e9chantillons",
-   "boucles",
-   "de",
-   "batterie"
+   "boucles musicales",
+   "boucles d'\u00e9chantillons",
+   "boucles de batterie"
   ]
  },
  {
@@ -7944,17 +6730,12 @@
   "Synonyms": [
    "timbales",
    "timbale",
-   "grosse",
-   "caisse",
+   "grosse caisse",
    "toms",
-   "tambours",
-   "de",
-   "guerre",
+   "tambours de guerre",
    "taiko",
-   "grosse",
-   "caisse",
-   "caisse",
-   "claire"
+   "grosse caisse",
+   "caisse claire"
   ]
  },
  {
@@ -7967,12 +6748,8 @@
    "xylophone",
    "vibraphone",
    "m\u00e9tallophone",
-   "lyre",
-   "\u00e0",
-   "clochettes",
-   "tambour",
-   "d",
-   "acier",
+   "lyre \u00e0 clochettes",
+   "tambour d'acier",
    "marimba"
   ]
  },
@@ -7983,15 +6760,10 @@
   "SubCategory": "PERFORMANCE",
   "Synonyms": [
    "groupe",
-   "musicien",
-   "de",
-   "rue",
-   "concert",
-   "live",
+   "musicien de rue",
+   "concert live",
    "spectacle",
-   "bo\u00eete",
-   "de",
-   "nuit",
+   "bo\u00eete de nuit",
    ""
   ]
  },
@@ -8005,17 +6777,13 @@
    "banjo",
    "ukul\u00e9l\u00e9",
    "harpe",
-   "guitare",
-   "acoustique",
-   "guitare",
-   "basse",
+   "guitare acoustique",
+   "guitare basse",
    "mandoline",
    "balala\u00efka",
    "sitar",
    "pipa",
-   "piano",
-   "\u00e0",
-   "pouces",
+   "piano \u00e0 pouces",
    "guimbarde",
    "cithare",
    "balala\u00efka",
@@ -8035,10 +6803,8 @@
   "SubCategory": "SAMPLE",
   "Synonyms": [
    "\u00e9chantillons",
-   "\u00e9chantillons",
-   "bruts",
-   "one",
-   "shot"
+   "\u00e9chantillons bruts",
+   "one-shot"
   ]
  },
  {
@@ -8050,17 +6816,11 @@
    "maracas",
    "tambourin",
    "hochets",
-   "b\u00e2ton",
-   "de",
-   "pluie",
+   "b\u00e2ton de pluie",
    "shekere",
-   "secoueur",
-   "d",
-   "\u0153ufs",
+   "secoueur d'\u0153ufs",
    "chajchas",
-   "b\u00e2ton",
-   "de",
-   "singe",
+   "b\u00e2ton de singe",
    "katsa",
    "sistrum",
    "shaker",
@@ -8074,14 +6834,11 @@
   "SubCategory": "MORCEAU",
   "Synonyms": [
    "musique",
-   "piano",
-   "m\u00e9canique",
+   "piano m\u00e9canique",
    "sonnerie",
-   "voiture",
-   "musicale",
+   "voiture musicale",
    "phrase",
-   "etc",
-   ""
+   "etc."
   ]
  },
  {
@@ -8090,12 +6847,8 @@
   "CatID": "MUSCStngr",
   "SubCategory": "STINGER",
   "Synonyms": [
-   "sting",
-   "de",
-   "musique",
-   "sting",
-   "de",
-   "nouvelles",
+   "sting de musique",
+   "sting de nouvelles",
    "titre"
   ]
  },
@@ -8137,13 +6890,8 @@
   "CatID": "MUSCToy",
   "SubCategory": "JOUET",
   "Synonyms": [
-   "bo\u00eete",
-   "\u00e0",
-   "musique",
-   "jack",
-   "in",
-   "the",
-   "box"
+   "bo\u00eete \u00e0 musique",
+   "jack in the box"
   ]
  },
  {
@@ -8156,19 +6904,14 @@
    "piccolo",
    "hautbois",
    "basson",
-   "fl\u00fbte",
-   "\u00e0",
-   "bec",
+   "fl\u00fbte \u00e0 bec",
    "clarinette",
    "saxophone",
-   "clarinette",
-   "basse",
+   "clarinette basse",
    "ney",
    "bansuri",
    "kaval",
-   "fl\u00fbte",
-   "de",
-   "pan",
+   "fl\u00fbte de pan",
    "xiao",
    "fifre",
    ""
@@ -8180,12 +6923,8 @@
   "CatID": "NATDAval",
   "SubCategory": "AVALANCHE",
   "Synonyms": [
-   "glissement",
-   "de",
-   "terrain",
-   "coul\u00e9e",
-   "de",
-   "boue"
+   "glissement de terrain",
+   "coul\u00e9e de boue"
   ]
  },
  {
@@ -8194,9 +6933,7 @@
   "CatID": "NATDQuak",
   "SubCategory": "S\u00c9ISME",
   "Synonyms": [
-   "tremblement",
-   "de",
-   "terre",
+   "tremblement de terre",
    "grondement",
    "cr\u00e9celle",
    "fissure",
@@ -8220,8 +6957,7 @@
   "Synonyms": [
    "tornade",
    "vortex",
-   "trombe",
-   "marine"
+   "trombe marine"
   ]
  },
  {
@@ -8230,9 +6966,7 @@
   "CatID": "NATDTsun",
   "SubCategory": "TSUNAMI",
   "Synonyms": [
-   "raz",
-   "de",
-   "mar\u00e9e",
+   "raz-de-mar\u00e9e",
    "tsunami"
   ]
  },
@@ -8245,8 +6979,7 @@
    "typhon",
    "ouragan",
    "cyclone",
-   "temp\u00eate",
-   "tropicale"
+   "temp\u00eate tropicale"
   ]
  },
  {
@@ -8257,9 +6990,7 @@
   "Synonyms": [
    "\u00e9ruption",
    "lave",
-   "bombes",
-   "de",
-   "lave",
+   "bombes de lave",
    "\u00e9ruptions",
    "pyroclastes"
   ]
@@ -8271,23 +7002,12 @@
   "SubCategory": "SAC",
   "Synonyms": [
    "duffle",
-   "sac",
-   "\u00e0",
-   "dos",
-   "sac",
-   "\u00e0",
-   "dos",
+   "sac \u00e0 dos",
+   "sac \u00e0 dos",
    "bourse",
-   "sac",
-   "\u00e0",
-   "main",
-   "sac",
-   "\u00e0",
-   "bandouli\u00e8re",
-   "sac",
-   "pour",
-   "appareil",
-   "photo"
+   "sac \u00e0 main",
+   "sac \u00e0 bandouli\u00e8re",
+   "sac pour appareil photo"
   ]
  },
  {
@@ -8300,8 +7020,7 @@
    "couverture",
    "magazine",
    "catalogue",
-   "manuel",
-   "scolaire",
+   "manuel scolaire",
    "dictionnaire",
    "tome",
    "volume",
@@ -8318,23 +7037,18 @@
    "lancer",
    "retourner",
    "jeter",
-   "faire",
-   "tourner",
+   "faire tourner",
    "tirelire",
    "cliquetis",
    "monnaie",
+   "monnaie perdue",
    "monnaie",
-   "perdue",
-   "monnaie",
-   "dollar",
-   "d",
-   "argent",
+   "dollar d'argent",
    "penny",
    "nickel",
    "dime",
    "quarter",
-   "etc",
-   ""
+   "etc."
   ]
  },
  {
@@ -8344,32 +7058,18 @@
   "SubCategory": "BO\u00ceTE",
   "Synonyms": [
    "bo\u00eete",
-   "bo\u00eete",
-   "en",
-   "carton",
+   "bo\u00eete en carton",
    "contenant",
    "emballage",
-   "bo\u00eete",
-   "\u00e0",
-   "bijoux",
-   "contenant",
-   "en",
-   "plastique",
+   "bo\u00eete \u00e0 bijoux",
+   "contenant en plastique",
    "couvercle",
    "tupperware",
    "capsule",
-   "bo\u00eete",
-   "\u00e0",
-   "pain",
-   "bo\u00eete",
-   "de",
-   "conserve",
-   "bo\u00eete",
-   "\u00e0",
-   "outils",
-   "bo\u00eete",
-   "\u00e0",
-   "pilules"
+   "bo\u00eete \u00e0 pain",
+   "bo\u00eete de conserve",
+   "bo\u00eete \u00e0 outils",
+   "bo\u00eete \u00e0 pilules"
   ]
  },
  {
@@ -8381,19 +7081,13 @@
    "chaussures",
    "bottes",
    "mascara",
-   "rouge",
-   "\u00e0",
-   "l\u00e8vres",
+   "rouge \u00e0 l\u00e8vres",
    "maquillage",
    "ceinture",
    "\u00e9charpe",
-   "talons",
-   "hauts",
-   "eye",
-   "liner",
-   "lunettes",
-   "de",
-   "soleil",
+   "talons hauts",
+   "eye-liner",
+   "lunettes de soleil",
    "lunettes",
    "portefeuille",
    "chapeau",
@@ -8407,9 +7101,7 @@
    "manchons",
    "bretelles",
    "peignoir",
-   "mouchoir",
-   "en",
-   "papier"
+   "mouchoir en papier"
   ]
  },
  {
@@ -8420,9 +7112,7 @@
   "Synonyms": [
    "chesterfield",
    "sofa",
-   "chaise",
-   "\u00e0",
-   "bascule",
+   "chaise \u00e0 bascule",
    "table",
    "chaise",
    "causeuse",
@@ -8440,18 +7130,12 @@
   "CatID": "OBJGrdn",
   "SubCategory": "MODE",
   "Synonyms": [
-   "pot",
-   "de",
-   "fleurs",
-   "sculpture",
-   "de",
-   "jardin",
+   "pot de fleurs",
+   "sculpture de jardin",
    "tuyau",
    "robinet",
    "arrosoir",
-   "mangeoire",
-   "pour",
-   "oiseaux",
+   "mangeoire pour oiseaux",
    "composteur"
   ]
  },
@@ -8465,31 +7149,15 @@
    "halt\u00e8re",
    "barre",
    "tapis",
-   "banc",
-   "de",
-   "musculation",
-   "corde",
-   "\u00e0",
-   "sauter",
-   "ballon",
-   "d",
-   "exercice",
-   "tapis",
-   "de",
-   "yoga",
-   "banc",
-   "de",
-   "musculation",
-   "bande",
-   "de",
-   "r\u00e9sistance",
+   "banc de musculation",
+   "corde \u00e0 sauter",
+   "ballon d'exercice",
+   "tapis de yoga",
+   "banc de musculation",
+   "bande de r\u00e9sistance",
    "kettlebell",
-   "ballon",
-   "de",
-   "fitness",
-   "ballon",
-   "d",
-   "exercice"
+   "ballon de fitness",
+   "ballon d'exercice"
   ]
  },
  {
@@ -8512,18 +7180,12 @@
    "bracelet",
    "collier",
    "couronne",
-   "boucle",
-   "d",
-   "oreille",
+   "boucle d'oreille",
    "bague",
    "nez",
    "pendentif",
-   "\u00e9pingle",
-   "de",
-   "cravate",
-   "boutons",
-   "de",
-   "manchette"
+   "\u00e9pingle de cravate",
+   "boutons de manchette"
   ]
  },
  {
@@ -8532,10 +7194,8 @@
   "CatID": "OBJKey",
   "SubCategory": "CLEFS",
   "Synonyms": [
-   "porte",
-   "cl\u00e9s",
-   "porte",
-   "cl\u00e9s",
+   "porte-cl\u00e9s",
+   "porte-cl\u00e9s",
    "lanyard"
   ]
  },
@@ -8547,9 +7207,7 @@
   "Synonyms": [
    "valise",
    "bagage",
-   "sac",
-   "de",
-   "voyage",
+   "sac de voyage",
    "polochon"
   ]
  },
@@ -8559,12 +7217,9 @@
   "CatID": "OBJMed",
   "SubCategory": "M\u00c9DICAL",
   "Synonyms": [
-   "tensiom\u00e8tre",
-   "manuel",
+   "tensiom\u00e8tre manuel",
    "st\u00e9thoscope",
-   "gants",
-   "en",
-   "caoutchouc",
+   "gants en caoutchouc",
    "pince",
    "seringue",
    "forcep"
@@ -8586,15 +7241,11 @@
   "SubCategory": "BUREAU",
   "Synonyms": [
    "agrafeuse",
-   "coupe",
-   "papier",
+   "coupe-papier",
    "perforateur",
    "ciseaux",
-   "plateau",
-   "\u00e0",
-   "papier",
-   "presse",
-   "papier",
+   "plateau \u00e0 papier",
+   "presse-papier",
    "dossier",
    "classeur",
    "rapport"
@@ -8610,19 +7261,12 @@
    "styromousse",
    "cacahu\u00e8tes",
    "\u00e9tiquettes",
-   "papier",
-   "d",
-   "emballage",
-   "papier",
-   "bulle",
-   "ruban",
-   "adh\u00e9sif",
+   "papier d'emballage",
+   "papier bulle",
+   "ruban adh\u00e9sif",
    "velcro",
-   "papier",
-   "tue",
-   "mouches",
-   "etc",
-   ""
+   "papier tue-mouches",
+   "etc."
   ]
  },
  {
@@ -8631,36 +7275,16 @@
   "CatID": "OBJTape",
   "SubCategory": "ADH\u00c9SIF",
   "Synonyms": [
-   "ruban",
-   "adh\u00e9sif",
+   "ruban adh\u00e9sif",
    "velcro",
-   "papier",
-   "tue",
-   "mouches",
+   "papier tue-mouches",
    "colle",
-   "ruban",
-   "adh\u00e9sif",
-   "d",
-   "emballage",
-   "ruban",
-   "de",
-   "masquage",
-   "ruban",
-   "adh\u00e9sif",
-   "en",
-   "toile",
-   "ruban",
-   "adh\u00e9sif",
-   "de",
-   "gaffer",
-   "ruban",
-   "adh\u00e9sif",
-   "en",
-   "scotch",
-   "ruban",
-   "adh\u00e9sif",
-   "double",
-   "face"
+   "ruban adh\u00e9sif d'emballage",
+   "ruban de masquage",
+   "ruban adh\u00e9sif en toile",
+   "ruban adh\u00e9sif de gaffer",
+   "ruban adh\u00e9sif en scotch",
+   "ruban adh\u00e9sif double face"
   ]
  },
  {
@@ -8672,8 +7296,7 @@
    "secouer",
    "bruissement",
    "pop",
-   "bruit",
-   "sourd"
+   "bruit sourd"
   ]
  },
  {
@@ -8684,11 +7307,8 @@
   "Synonyms": [
    "landau",
    "perambulateur",
-   "voiture",
-   "d",
-   "enfant",
-   "fauteuil",
-   "roulant",
+   "voiture d'enfant",
+   "fauteuil roulant",
    "chariot",
    "poussette",
    "charrette",
@@ -8705,13 +7325,8 @@
    "crayon",
    "marqueur",
    "craie",
-   "crayon",
-   "de",
-   "couleur",
-   "tableau",
-   "effa\u00e7able",
-   "\u00e0",
-   "sec",
+   "crayon de couleur",
+   "tableau effa\u00e7able \u00e0 sec",
    "sharpie",
    "signature"
   ]
@@ -8722,8 +7337,7 @@
   "CatID": "OBJZipr",
   "SubCategory": "FERMETURE \u00c9CLAIR",
   "Synonyms": [
-   "fermeture",
-   "\u00e9clair",
+   "fermeture \u00e9clair",
    "pantalon",
    "veste",
    "tente",
@@ -8880,8 +7494,7 @@
   "SubCategory": "IMPACTS",
   "Synonyms": [
    "frapper",
-   "laisser",
-   "tomber",
+   "laisser tomber",
    "impact"
   ]
  },
@@ -8949,9 +7562,7 @@
   "SubCategory": "G\u00c9N\u00c9RIQUE",
   "Synonyms": [
    "pluie",
-   "temp\u00eate",
-   "de",
-   "pluie",
+   "temp\u00eate de pluie",
    "averse"
   ]
  },
@@ -8965,8 +7576,7 @@
    "verre",
    "lucarne",
    "fen\u00eatre",
-   "toit",
-   "ouvrant",
+   "toit ouvrant",
    "serre"
   ]
  },
@@ -8977,19 +7587,10 @@
   "SubCategory": "INT\u00c9RIEUR",
   "Synonyms": [
    "pluie",
-   "temp\u00eate",
-   "de",
-   "pluie",
-   "pluie",
-   "int\u00e9rieure",
-   "pluie",
-   "de",
-   "pare",
-   "brise",
-   "pluie",
-   "sur",
-   "le",
-   "toit"
+   "temp\u00eate de pluie",
+   "pluie int\u00e9rieure",
+   "pluie de pare-brise",
+   "pluie sur le toit"
   ]
  },
  {
@@ -9002,8 +7603,7 @@
    "m\u00e9tal",
    "voiture",
    "bo\u00eete",
-   "fer",
-   "blanc",
+   "fer blanc",
    "toit"
   ]
  },
@@ -9025,20 +7625,10 @@
   "CatID": "RAINVege",
   "SubCategory": "V\u00c9G\u00c9TATION",
   "Synonyms": [
-   "pluie",
-   "sur",
-   "une",
-   "surface",
-   "m\u00e9tallique",
-   "donc",
-   "pluie",
-   "sur",
-   "une",
-   "voiture",
-   "ou",
-   "t\u00f4le",
-   "etc",
-   ""
+   "pluie sur une surface m\u00e9tallique",
+   "donc pluie sur une voiture",
+   "ou t\u00f4le",
+   "etc."
   ]
  },
  {
@@ -9048,9 +7638,7 @@
   "SubCategory": "EAU",
   "Synonyms": [
    "pluie",
-   "flaque",
-   "d",
-   "eau",
+   "flaque d'eau",
    "lac",
    "\u00e9tang"
   ]
@@ -9153,9 +7741,7 @@
   "Synonyms": [
    "manipuler",
    "saisir",
-   "mettre",
-   "en",
-   "place",
+   "mettre en place",
    "ramasser",
    "poser",
    "lancer",
@@ -9169,22 +7755,14 @@
   "SubCategory": "IMPACT",
   "Synonyms": [
    "frapper",
-   "laisser",
-   "tomber",
+   "laisser tomber",
    "impacter",
-   "s",
-   "\u00e9craser",
-   "s",
-   "\u00e9craser",
-   "s",
-   "entrechoquer",
-   "s",
-   "entrechoquer",
-   "s",
-   "entrechoquer",
-   "s",
-   "entrechoquer",
-   ""
+   "s'\u00e9craser",
+   "s'\u00e9craser",
+   "s'entrechoquer",
+   "s'entrechoquer",
+   "s'entrechoquer",
+   "s'entrechoquer..."
   ]
  },
  {
@@ -9214,15 +7792,11 @@
   "CatID": "ROCKTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "s",
-   "incliner",
+   "s'incliner",
    "sonner",
-   "se",
-   "tordre",
-   "s",
-   "agiter",
-   "se",
-   "d\u00e9former"
+   "se tordre",
+   "s'agiter",
+   "se d\u00e9former"
   ]
  },
  {
@@ -9258,8 +7832,7 @@
   "SubCategory": "IMPACT",
   "Synonyms": [
    "frapper",
-   "laisser",
-   "tomber",
+   "laisser tomber",
    "impacter"
   ]
  },
@@ -9376,10 +7949,7 @@
   "CatID": "SCIAlrm",
   "SubCategory": "ALARME",
   "Synonyms": [
-   "alarme",
-   "de",
-   "science",
-   "fiction",
+   "alarme de science-fiction",
    "alerte",
    "avertissement"
   ]
@@ -9393,8 +7963,7 @@
    "ordinateur",
    "console",
    "interface",
-   "holo",
-   "\u00e9cran"
+   "holo-\u00e9cran"
   ]
  },
  {
@@ -9403,10 +7972,7 @@
   "CatID": "SCIDoor",
   "SubCategory": "PORTE",
   "Synonyms": [
-   "porte",
-   "de",
-   "science",
-   "fiction",
+   "porte de science-fiction",
    "sas"
   ]
  },
@@ -9420,9 +7986,7 @@
    "vortex",
    "transporteur",
    "hologramme",
-   "champ",
-   "de",
-   "force"
+   "champ de force"
   ]
  },
  {
@@ -9431,15 +7995,9 @@
   "CatID": "SCIImpt",
   "SubCategory": "IMPACT",
   "Synonyms": [
-   "coup",
-   "d",
-   "\u00e9nergie",
-   "vague",
-   "d",
-   "\u00e9nergie",
-   "champ",
-   "de",
-   "force"
+   "coup d'\u00e9nergie",
+   "vague d'\u00e9nergie",
+   "champ de force"
   ]
  },
  {
@@ -9449,9 +8007,7 @@
   "SubCategory": "MACHINE",
   "Synonyms": [
    "t\u00e9l\u00e9porteur",
-   "r\u00e9plicateurs",
-   "de",
-   "nourriture",
+   "r\u00e9plicateurs de nourriture",
    "holodeck"
   ]
  },
@@ -9462,10 +8018,7 @@
   "SubCategory": "M\u00c9CANISME",
   "Synonyms": [
    "tricordeur",
-   "appareil",
-   "de",
-   "science",
-   "fiction",
+   "appareil de science-fiction",
    "gadget"
   ]
  },
@@ -9484,9 +8037,7 @@
   "CatID": "SCIRetro",
   "SubCategory": "R\u00c9TRO",
   "Synonyms": [
-   "vieille",
-   "science",
-   "fiction"
+   "vieille science-fiction"
   ]
  },
  {
@@ -9495,16 +8046,11 @@
   "CatID": "SCIShip",
   "SubCategory": "VAISSEAU SPATIAL",
   "Synonyms": [
-   "vaisseau",
-   "spatial",
+   "vaisseau spatial",
    "ovni",
-   "vaisseau",
-   "m\u00e8re",
-   "croiseur",
-   "de",
-   "combat",
-   "vaisseau",
-   "spatial"
+   "vaisseau-m\u00e8re",
+   "croiseur de combat",
+   "vaisseau spatial"
   ]
  },
  {
@@ -9513,11 +8059,9 @@
   "CatID": "SCIVeh",
   "SubCategory": "V\u00c9HICULE",
   "Synonyms": [
-   "rover",
-   "lunaire",
+   "rover lunaire",
    "landspeeder",
-   "speeder",
-   "bike",
+   "speeder bike",
    "hoverboard",
    "podracer"
   ]
@@ -9528,10 +8072,8 @@
   "CatID": "SCIWeap",
   "SubCategory": "ARME",
   "Synonyms": [
-   "sabre",
-   "laser",
-   "arme",
-   "exotique"
+   "sabre laser",
+   "arme exotique"
   ]
  },
  {
@@ -9540,12 +8082,8 @@
   "CatID": "SNOWCrsh",
   "SubCategory": "CRASH & D\u00c9BRIS",
   "Synonyms": [
-   "boule",
-   "de",
-   "neige",
-   "chute",
-   "de",
-   "neige"
+   "boule de neige",
+   "chute de neige"
   ]
  },
  {
@@ -9582,12 +8120,8 @@
   "CatID": "SNOWImpt",
   "SubCategory": "IMPACT",
   "Synonyms": [
-   "boule",
-   "de",
-   "neige",
-   "d\u00e9rive",
-   "de",
-   "neige",
+   "boule de neige",
+   "d\u00e9rive de neige",
    "basculer",
    "tomber"
   ]
@@ -9619,12 +8153,10 @@
   "CatID": "SPRTCourt",
   "SubCategory": "COURT",
   "Synonyms": [
-   "basket",
-   "ball",
+   "basket-ball",
    "tennis",
    "escrime",
-   "volley",
-   "ball",
+   "volley-ball",
    "racquetball",
    "badminton",
    "netball",
@@ -9643,9 +8175,7 @@
    "soccer",
    "football",
    "baseball",
-   "hockey",
-   "sur",
-   "gazon",
+   "hockey sur gazon",
    "cricket",
    "rugby",
    "polo",
@@ -9662,16 +8192,12 @@
    "lutte",
    "gymnastique",
    "musculation",
-   "arts",
-   "martiaux",
+   "arts martiaux",
    "karat\u00e9",
    "judo",
-   "tae",
-   "kwon",
-   "do",
+   "tae kwon do",
    "dojo",
-   "kung",
-   "fu"
+   "kung fu"
   ]
  },
  {
@@ -9682,8 +8208,7 @@
   "Synonyms": [
    "bowling",
    "billard",
-   "ping",
-   "pong",
+   "ping-pong",
    "fl\u00e9chettes"
   ]
  },
@@ -9702,16 +8227,10 @@
   "CatID": "SPRTSkate",
   "SubCategory": "SKATE",
   "Synonyms": [
-   "planche",
-   "\u00e0",
-   "roulettes",
-   "patins",
-   "\u00e0",
-   "roulettes",
+   "planche \u00e0 roulettes",
+   "patins \u00e0 roulettes",
    "rollerblade",
-   "trottinette",
-   "\u00e0",
-   "pousser"
+   "trottinette \u00e0 pousser"
   ]
  },
  {
@@ -9720,22 +8239,11 @@
   "CatID": "SPRTTrck",
   "SubCategory": "ATHL\u00c9TISME",
   "Synonyms": [
-   "saut",
-   "en",
-   "longueur",
-   "course",
-   "\u00e0",
-   "pied",
-   "saut",
-   "\u00e0",
-   "la",
-   "perche",
-   "lancer",
-   "du",
-   "poids",
-   "lancer",
-   "du",
-   "javelot"
+   "saut en longueur",
+   "course \u00e0 pied",
+   "saut \u00e0 la perche",
+   "lancer du poids",
+   "lancer du javelot"
   ]
  },
  {
@@ -9745,18 +8253,13 @@
   "SubCategory": "NAUTIQUE",
   "Synonyms": [
    "natation",
-   "water",
-   "polo",
-   "water",
-   "volleyball",
+   "water-polo",
+   "water-volleyball",
    "plong\u00e9e",
-   "ski",
-   "nautique",
+   "ski nautique",
    "surf",
    "kitesurf",
-   "plong\u00e9e",
-   "sous",
-   "marine",
+   "plong\u00e9e sous-marine",
    "snorkeling"
   ]
  },
@@ -9769,18 +8272,12 @@
    "ski",
    "snowboard",
    "bobsleigh",
-   "patinage",
-   "sur",
-   "glace",
+   "patinage sur glace",
    "luge",
    "curling",
-   "hockey",
-   "sur",
-   "glace",
+   "hockey sur glace",
    "luge",
-   "patinage",
-   "de",
-   "vitesse"
+   "patinage de vitesse"
   ]
  },
  {
@@ -9817,9 +8314,7 @@
    "truelle",
    "balai",
    "s\u00e9cateur",
-   "fourche",
-   "de",
-   "jardin",
+   "fourche de jardin",
    "motoculteur",
    "\u00e9brancheur",
    "pelle",
@@ -9835,14 +8330,10 @@
    "marteau",
    "tournevis",
    "pinces",
-   "cl\u00e9",
-   "\u00e0",
-   "molette",
+   "cl\u00e9 \u00e0 molette",
    "cliquet",
    "douille",
-   "scie",
-   "\u00e0",
-   "main",
+   "scie \u00e0 main",
    "pince",
    "cutter",
    "levier",
@@ -9868,15 +8359,10 @@
   "CatID": "TOOLPneu",
   "SubCategory": "PNEUMATIQUE",
   "Synonyms": [
-   "marteau",
-   "piqueur",
-   "outil",
-   "pneumatique",
-   "cliquet",
-   "pneumatique",
-   "pistolet",
-   "\u00e0",
-   "clous"
+   "marteau-piqueur",
+   "outil pneumatique",
+   "cliquet pneumatique",
+   "pistolet \u00e0 clous"
   ]
  },
  {
@@ -9886,27 +8372,16 @@
   "SubCategory": "\u00c9LECTRIQUE",
   "Synonyms": [
    "perceuse",
-   "scie",
-   "\u00e9lectrique",
-   "scie",
-   "circulaire",
-   "scie",
-   "sauteuse",
+   "scie \u00e9lectrique",
+   "scie circulaire",
+   "scie sauteuse",
    "ponceuse",
-   "ponceuse",
-   "\u00e0",
-   "bande",
+   "ponceuse \u00e0 bande",
    "toupie",
-   "tournevis",
-   "\u00e9lectrique",
-   "pistolet",
-   "thermique",
-   "perceuse",
-   "\u00e0",
-   "colonne",
-   "scie",
-   "\u00e0",
-   "table"
+   "tournevis \u00e9lectrique",
+   "pistolet thermique",
+   "perceuse \u00e0 colonne",
+   "scie \u00e0 table"
   ]
  },
  {
@@ -9915,14 +8390,9 @@
   "CatID": "TOYElec",
   "SubCategory": "\u00c9LECTRONIQUE",
   "Synonyms": [
-   "voiture",
-   "t\u00e9l\u00e9command\u00e9e",
-   "voiture",
-   "\u00e0",
-   "cr\u00e9maill\u00e8re",
-   "parle",
-   "et",
-   "\u00e9pelle",
+   "voiture t\u00e9l\u00e9command\u00e9e",
+   "voiture \u00e0 cr\u00e9maill\u00e8re",
+   "parle et \u00e9pelle",
    "furby"
   ]
  },
@@ -9932,14 +8402,9 @@
   "CatID": "TOYMech",
   "SubCategory": "M\u00c9CANIQUE",
   "Synonyms": [
-   "jouet",
-   "\u00e0",
-   "remonter",
-   "robot",
-   "jouet",
-   "jouet",
-   "\u00e0",
-   "enrouler"
+   "jouet \u00e0 remonter",
+   "robot-jouet",
+   "jouet \u00e0 enrouler"
   ]
  },
  {
@@ -9950,9 +8415,7 @@
   "Synonyms": [
    "figurine",
    "poup\u00e9e",
-   "animal",
-   "en",
-   "peluche"
+   "animal en peluche"
   ]
  },
  {
@@ -9981,12 +8444,8 @@
   "CatID": "TRNDoor",
   "SubCategory": "PORTE",
   "Synonyms": [
-   "porte",
-   "de",
-   "train",
-   "porte",
-   "de",
-   "m\u00e9tro"
+   "porte de train",
+   "porte de m\u00e9tro"
   ]
  },
  {
@@ -9995,8 +8454,7 @@
   "CatID": "TRNDiesl",
   "SubCategory": "DI\u00c9SEL",
   "Synonyms": [
-   "train",
-   "diesel"
+   "train diesel"
   ]
  },
  {
@@ -10005,19 +8463,11 @@
   "CatID": "TRNElec",
   "SubCategory": "\u00c9LECTRIQUE",
   "Synonyms": [
-   "train",
-   "de",
-   "banlieue",
-   "train",
-   "r\u00e9gional",
-   "ligne",
-   "urbaine",
-   "train",
-   "interurbain",
-   "train",
-   "l\u00e9ger",
-   "sur",
-   "rail"
+   "train de banlieue",
+   "train r\u00e9gional",
+   "ligne urbaine",
+   "train interurbain",
+   "train l\u00e9ger sur rail"
   ]
  },
  {
@@ -10026,14 +8476,11 @@
   "CatID": "TRNHspd",
   "SubCategory": "GRANDE VITESSE",
   "Synonyms": [
-   "train",
-   "hi",
-   "tech",
+   "train hi-tech",
    "maglev",
    "monorails",
    "hyperloop",
-   "bullet",
-   "train"
+   "bullet train"
   ]
  },
  {
@@ -10042,12 +8489,8 @@
   "CatID": "TRNHorn",
   "SubCategory": "KLAXON",
   "Synonyms": [
-   "klaxon",
-   "de",
-   "train",
-   "klaxon",
-   "de",
-   "m\u00e9tro"
+   "klaxon de train",
+   "klaxon de m\u00e9tro"
   ]
  },
  {
@@ -10056,22 +8499,12 @@
   "CatID": "TRNInt",
   "SubCategory": "INT\u00c9RIEUR",
   "Synonyms": [
-   "train",
-   "de",
-   "banlieue",
-   "train",
-   "r\u00e9gional",
-   "ligne",
-   "urbaine",
-   "train",
-   "interurbain",
-   "train",
-   "l\u00e9ger",
-   "sur",
-   "rail",
-   "train",
-   "de",
-   "marchandises",
+   "train de banlieue",
+   "train r\u00e9gional",
+   "ligne urbaine",
+   "train interurbain",
+   "train l\u00e9ger sur rail",
+   "train de marchandises",
    "m\u00e9tro",
    "monorail"
   ]
@@ -10101,12 +8534,8 @@
   "CatID": "TRNSteam",
   "SubCategory": "VAPEUR",
   "Synonyms": [
-   "train",
-   "\u00e0",
-   "vapeur",
-   "train",
-   "\u00e0",
-   "charbon"
+   "train \u00e0 vapeur",
+   "train \u00e0 charbon"
   ]
  },
  {
@@ -10117,8 +8546,7 @@
   "Synonyms": [
    "m\u00e9tro",
    "subway",
-   "the",
-   "tube",
+   "the tube",
    "rer"
   ]
  },
@@ -10132,9 +8560,7 @@
    "trolley",
    "t\u00e9l\u00e9ph\u00e9rique",
    "funiculaire",
-   "voiture",
-   "\u00e0",
-   "pinces"
+   "voiture \u00e0 pinces"
   ]
  },
  {
@@ -10145,8 +8571,7 @@
   "Synonyms": [
    "alerte",
    "tonalit\u00e9",
-   "message",
-   "texte",
+   "message texte",
    "notification",
    "d\u00e9marrage"
   ]
@@ -10157,12 +8582,8 @@
   "CatID": "UIBeep",
   "SubCategory": "BIP",
   "Synonyms": [
-   "bip",
-   "d",
-   "ordinateur",
-   "bip",
-   "de",
-   "t\u00e9l\u00e9phone"
+   "bip d'ordinateur",
+   "bip de t\u00e9l\u00e9phone"
   ]
  },
  {
@@ -10197,14 +8618,8 @@
    "p\u00e9pin",
    "dysfonctionnement",
    "panne",
-   "panique",
-   "du",
-   "noyau",
-   "erreur",
-   "de",
-   "m\u00e9ditation",
-   "du",
-   "gourou"
+   "panique du noyau",
+   "erreur de m\u00e9ditation du gourou"
   ]
  },
  {
@@ -10223,8 +8638,7 @@
   "SubCategory": "MOUVEMENT",
   "Synonyms": [
    "glisser",
-   "faire",
-   "d\u00e9filer",
+   "faire d\u00e9filer",
    "zoomer",
    "page"
   ]
@@ -10235,9 +8649,7 @@
   "CatID": "VEGEGras",
   "SubCategory": "HERBE",
   "Synonyms": [
-   "bruissement",
-   "d",
-   "herbe",
+   "bruissement d'herbe",
    "traverser",
    "foin",
    "bl\u00e9"
@@ -10249,18 +8661,10 @@
   "CatID": "VEGELeaf",
   "SubCategory": "FEUILLES",
   "Synonyms": [
-   "tourbillon",
-   "de",
-   "feuilles",
-   "chute",
-   "de",
-   "feuilles",
-   "feuilles",
-   "qui",
-   "tombent",
-   "tas",
-   "de",
-   "feuilles"
+   "tourbillon de feuilles",
+   "chute de feuilles",
+   "feuilles qui tombent",
+   "tas de feuilles"
   ]
  },
  {
@@ -10278,13 +8682,9 @@
   "CatID": "VEGETree",
   "SubCategory": "ARBRE",
   "Synonyms": [
-   "chute",
-   "d",
-   "arbre",
-   "branche",
-   "cass\u00e9e",
-   "branche",
-   "cass\u00e9e",
+   "chute d'arbre",
+   "branche cass\u00e9e",
+   "branche cass\u00e9e",
    "brindille"
   ]
  },
@@ -10297,9 +8697,7 @@
    "voiture",
    "auto",
    "automobile",
-   "alarme",
-   "de",
-   "voiture",
+   "alarme de voiture",
    "armement",
    "d\u00e9sarmement",
    "fob"
@@ -10315,10 +8713,8 @@
    "auto",
    "automobile",
    "oldsmobile",
-   "model",
-   "a",
-   "model",
-   "t"
+   "model a",
+   "model t"
   ]
  },
  {
@@ -10328,14 +8724,10 @@
   "SubCategory": "TOUT TERRAIN",
   "Synonyms": [
    "quad",
-   "trois",
-   "roues",
-   "quatre",
-   "roues",
+   "trois roues",
+   "quatre roues",
    "quadricycle",
-   "buggy",
-   "des",
-   "dunes"
+   "buggy des dunes"
   ]
  },
  {
@@ -10346,8 +8738,7 @@
   "Synonyms": [
    "bicyclette",
    "v\u00e9lo",
-   "v\u00e9lo",
-   "couch\u00e9",
+   "v\u00e9lo couch\u00e9",
    "monocycle",
    "tandem",
    "bmx"
@@ -10359,9 +8750,7 @@
   "CatID": "VEHBrake",
   "SubCategory": "FREIN",
   "Synonyms": [
-   "crissement",
-   "de",
-   "frein",
+   "crissement de frein",
    "crissement",
    "grincement"
   ]
@@ -10372,22 +8761,12 @@
   "CatID": "VEHBus",
   "SubCategory": "BUS",
   "Synonyms": [
-   "autobus",
-   "urbain",
-   "autobus",
-   "scolaire",
-   "autobus",
-   "de",
-   "la",
-   "compagnie",
-   "greyhound",
+   "autobus urbain",
+   "autobus scolaire",
+   "autobus de la compagnie greyhound",
    "autocar",
-   "autobus",
-   "touristique",
-   "autobus",
-   "\u00e0",
-   "deux",
-   "\u00e9tages"
+   "autobus touristique",
+   "autobus \u00e0 deux \u00e9tages"
   ]
  },
  {
@@ -10412,10 +8791,7 @@
    "pelleteuse",
    "excavateur",
    "excavatrice",
-   "chariot",
-   "\u00e9l\u00e9vateur",
-   "\u00e0",
-   "fourche"
+   "chariot \u00e9l\u00e9vateur \u00e0 fourche"
   ]
  },
  {
@@ -10427,15 +8803,9 @@
    "voiture",
    "auto",
    "automobile",
-   "porte",
-   "de",
-   "voiture",
-   "porte",
-   "de",
-   "fourgon",
-   "porte",
-   "de",
-   "camion"
+   "porte de voiture",
+   "porte de fourgon",
+   "porte de camion"
   ]
  },
  {
@@ -10445,18 +8815,12 @@
   "SubCategory": "\u00c9LECTRIQUE",
   "Synonyms": [
    "segway",
-   "voiturette",
-   "de",
-   "golf",
-   "scooter",
-   "\u00e9lectrique",
-   "voiture",
-   "\u00e9lectrique",
-   "moto",
-   "\u00e9lectrique",
+   "voiturette de golf",
+   "scooter \u00e9lectrique",
+   "voiture \u00e9lectrique",
+   "moto \u00e9lectrique",
    "tesla",
-   "gokart",
-   "\u00e9lectrique"
+   "gokart \u00e9lectrique"
   ]
  },
  {
@@ -10465,19 +8829,11 @@
   "CatID": "VEHEmrg",
   "SubCategory": "URGENCE",
   "Synonyms": [
-   "camion",
-   "de",
-   "pompiers",
-   "camion",
-   "de",
-   "pompiers",
+   "camion de pompiers",
+   "camion de pompiers",
    "ambulance",
-   "voiture",
-   "de",
-   "police",
-   "fourgon",
-   "du",
-   "swat"
+   "voiture de police",
+   "fourgon du swat"
   ]
  },
  {
@@ -10487,8 +8843,7 @@
   "SubCategory": "AGRICOLE",
   "Synonyms": [
    "tracteur",
-   "moissonneuse",
-   "batteuse",
+   "moissonneuse-batteuse",
    "d\u00e9cortiqueuse",
    "r\u00e9colteuse"
   ]
@@ -10499,20 +8854,13 @@
   "CatID": "VEHFrght",
   "SubCategory": "POIDS LOURD",
   "Synonyms": [
-   "gros",
-   "camions",
+   "gros camions",
    "camion",
-   "semi",
-   "remorque",
-   "camion",
-   "u",
-   "haul",
+   "semi-remorque",
+   "camion u-haul",
    "penske",
-   "camion",
-   "caisse",
-   "camion",
-   "de",
-   "marchandises"
+   "camion-caisse",
+   "camion de marchandises"
   ]
  },
  {
@@ -10550,8 +8898,7 @@
    "camionnette",
    "int\u00e9rieur",
    "conduite",
-   "\u00e0",
-   "bord",
+   "\u00e0 bord",
    "bus"
   ]
  },
@@ -10567,17 +8914,11 @@
    "hoopty",
    "clunker",
    "junker",
-   "faux",
-   "d\u00e9part",
+   "faux d\u00e9part",
    "rat\u00e9",
-   "mauvais",
-   "fonctionnement",
-   "rat\u00e9",
-   "d",
-   "allumage",
-   "retour",
-   "de",
-   "flamme"
+   "mauvais fonctionnement",
+   "rat\u00e9 d'allumage",
+   "retour de flamme"
   ]
  },
  {
@@ -10586,24 +8927,14 @@
   "CatID": "VEHMech",
   "SubCategory": "ACCESSOIRE",
   "Synonyms": [
-   "manivelle",
-   "de",
-   "fen\u00eatre",
-   "bo\u00eete",
-   "\u00e0",
-   "gants",
-   "pare",
-   "brise",
-   "essuie",
-   "glace",
+   "manivelle de fen\u00eatre",
+   "bo\u00eete \u00e0 gants",
+   "pare-brise",
+   "essuie-glace",
    "coffre",
-   "ceinture",
-   "de",
-   "s\u00e9curit\u00e9",
+   "ceinture de s\u00e9curit\u00e9",
    "clignotant",
-   "changement",
-   "de",
-   "vitesse"
+   "changement de vitesse"
   ]
  },
  {
@@ -10614,12 +8945,7 @@
   "Synonyms": [
    "tank",
    "apc",
-   "v\u00e9hicule",
-   "blind\u00e9",
-   "de",
-   "transport",
-   "de",
-   "troupes",
+   "v\u00e9hicule blind\u00e9 de transport de troupes",
    "humvee",
    "jeep"
   ]
@@ -10644,8 +8970,7 @@
    "moto",
    "vespa",
    "motocross",
-   "dirt",
-   "bike"
+   "dirt bike"
   ]
  },
  {
@@ -10657,19 +8982,13 @@
    "voiture",
    "auto",
    "automobile",
-   "voiture",
-   "de",
-   "course",
-   "drag",
-   "car",
+   "voiture de course",
+   "drag car",
    "indy",
-   "formule",
-   "1",
+   "formule 1",
    "nascar",
-   "grand",
-   "prix",
-   "monster",
-   "truck"
+   "grand prix",
+   "monster truck"
   ]
  },
  {
@@ -10681,9 +9000,7 @@
    "ambulance",
    "police",
    "sir\u00e8ne",
-   "camion",
-   "de",
-   "pompiers",
+   "camion de pompiers",
    "pompier"
   ]
  },
@@ -10693,9 +9010,7 @@
   "CatID": "VEHSkid",
   "SubCategory": "D\u00c9RAPAGE",
   "Synonyms": [
-   "d\u00e9rapage",
-   "de",
-   "pneu",
+   "d\u00e9rapage de pneu",
    "d\u00e9collage",
    "chuff",
    "burnout"
@@ -10733,9 +9048,7 @@
    "voiture",
    "auto",
    "automobile",
-   "camion",
-   "de",
-   "passagers",
+   "camion de passagers",
    "camionnette",
    "fourgonnette",
    "suv",
@@ -10751,9 +9064,7 @@
   "Synonyms": [
    "utv",
    "sxs",
-   "side",
-   "by",
-   "side",
+   "side by side",
    "rzr",
    "ranger",
    "cushman",
@@ -10770,9 +9081,7 @@
    "diligence",
    "buggy",
    "chariot",
-   "charrette",
-   "\u00e0",
-   "bois"
+   "charrette \u00e0 bois"
   ]
  },
  {
@@ -10784,10 +9093,8 @@
    "voiture",
    "auto",
    "automobile",
-   "fen\u00eatre",
-   "automatique",
-   "fen\u00eatre",
-   "\u00e9lectrique"
+   "fen\u00eatre automatique",
+   "fen\u00eatre \u00e9lectrique"
   ]
  },
  {
@@ -10796,8 +9103,7 @@
   "CatID": "VOXAlien",
   "SubCategory": "ALIEN",
   "Synonyms": [
-   "langage",
-   "alien",
+   "langage alien",
    "chewbacca"
   ]
  },
@@ -10809,8 +9115,7 @@
   "Synonyms": [
    "roucouler",
    "babiller",
-   "s",
-   "agiter",
+   "s'agiter",
    "renifler"
   ]
  },
@@ -10847,16 +9152,12 @@
   "SubCategory": "PLEURS",
   "Synonyms": [
    "pleurer",
-   "faire",
-   "la",
-   "moue",
+   "faire la moue",
    "sangloter",
    "pleurnicher",
    "brailler",
-   "s",
-   "agiter",
-   "se",
-   "blesser"
+   "s'agiter",
+   "se blesser"
   ]
  },
  {
@@ -10868,10 +9169,8 @@
    "effort",
    "grogner",
    "lutter",
-   "s",
-   "efforcer",
-   "se",
-   "d\u00e9penser"
+   "s'efforcer",
+   "se d\u00e9penser"
   ]
  },
  {
@@ -10891,8 +9190,7 @@
   "SubCategory": "HAUT-PARLEUR",
   "Synonyms": [
    "orateur",
-   "discours",
-   "public",
+   "discours public",
    "annonce"
   ]
  },
@@ -10993,8 +9291,7 @@
   "Synonyms": [
    "chuchoter",
    "murmurer",
-   "se",
-   "taire"
+   "se taire"
   ]
  },
  {
@@ -11024,8 +9321,7 @@
    "\u00e9gout",
    "douche",
    "\u00e9vier",
-   "\u00e9gout",
-   "pluvial"
+   "\u00e9gout pluvial"
   ]
  },
  {
@@ -11034,9 +9330,7 @@
   "CatID": "WATRDrip",
   "SubCategory": "GOUTTE",
   "Synonyms": [
-   "goutte",
-   "\u00e0",
-   "goutte",
+   "goutte \u00e0 goutte",
    "plip",
    "plop",
    "ruissellement",
@@ -11067,9 +9361,7 @@
    "ruisseau",
    "crique",
    "courant",
-   "cours",
-   "d",
-   "eau",
+   "cours d'eau",
    "affluent",
    "ruisseau",
    "couloir",
@@ -11085,9 +9377,7 @@
   "Synonyms": [
    "fontaine",
    "jet",
-   "filet",
-   "d",
-   "eau",
+   "filet d'eau",
    "sifflement"
   ]
  },
@@ -11099,12 +9389,8 @@
   "Synonyms": [
    "\u00e9claboussement",
    "chute",
-   "boulet",
-   "de",
-   "canon",
-   "charge",
-   "de",
-   "profondeur",
+   "boulet de canon",
+   "charge de profondeur",
    "\u00e9claboussure"
   ]
  },
@@ -11149,9 +9435,7 @@
   "CatID": "WATRPlmb",
   "SubCategory": "PLOMBERIE",
   "Synonyms": [
-   "chasse",
-   "d",
-   "eau",
+   "chasse d'eau",
    "\u00e9vier",
    "douche",
    ""
@@ -11179,8 +9463,7 @@
    "nager",
    "patauger",
    "plonger",
-   "s",
-   "immerger",
+   "s'immerger",
    "submerger"
   ]
  },
@@ -11206,8 +9489,7 @@
    "pschitt",
    "brume",
    "vapeur",
-   "sifflement",
-   "humide",
+   "sifflement humide",
    "crachoter"
   ]
  },
@@ -11219,9 +9501,7 @@
   "Synonyms": [
    "c\u00f4te",
    "rivage",
-   "bord",
-   "de",
-   "mer",
+   "bord de mer",
    "plage",
    "lavage"
   ]
@@ -11233,9 +9513,7 @@
   "SubCategory": "TURBULENT",
   "Synonyms": [
    "tourbillon",
-   "piscine",
-   "\u00e0",
-   "vagues",
+   "piscine \u00e0 vagues",
    "rapides",
    "maelstr\u00f6m",
    "tourbillon"
@@ -11247,8 +9525,7 @@
   "CatID": "WATRUndwtr",
   "SubCategory": "SOUS MARIN",
   "Synonyms": [
-   "sous",
-   "marin",
+   "sous-marin",
    "flux",
    "turbulent"
   ]
@@ -11259,9 +9536,7 @@
   "CatID": "WATRFall",
   "SubCategory": "CASCADE",
   "Synonyms": [
-   "chute",
-   "d",
-   "eau",
+   "chute d'eau",
    "cascade",
    "barrage",
    "torrent",
@@ -11275,12 +9550,9 @@
   "SubCategory": "VAGUE",
   "Synonyms": [
    "vague",
-   "brise",
-   "lames",
+   "brise-lames",
    "mar\u00e9es",
-   "bord",
-   "de",
-   "mer",
+   "bord de mer",
    "jet\u00e9e",
    "clapotis"
   ]
@@ -11292,13 +9564,9 @@
   "SubCategory": "ARMURE",
   "Synonyms": [
    "armure",
-   "cotte",
-   "de",
-   "mailles",
+   "cotte de mailles",
    "casque",
-   "armure",
-   "d",
-   "\u00e9cailles",
+   "armure d'\u00e9cailles",
    "plastron",
    "cuirasse",
    "domaru",
@@ -11328,9 +9596,7 @@
    "hache",
    "hache",
    "hachette",
-   "hache",
-   "de",
-   "jet"
+   "hache de jet"
   ]
  },
  {
@@ -11344,15 +9610,10 @@
    "masse",
    "boulet",
    "nunchaku",
-   "marteau",
-   "de",
-   "guerre",
-   "marteau",
-   "de",
-   "guerre",
+   "marteau de guerre",
+   "marteau de guerre",
    "douille",
-   "poing",
-   "am\u00e9ricain",
+   "poing am\u00e9ricain",
    "fl\u00e9au",
    "tonfa",
    "matraque",
@@ -11365,8 +9626,7 @@
   "CatID": "WEAPBow",
   "SubCategory": "ARC",
   "Synonyms": [
-   "arc",
-   "long",
+   "arc long",
    "arbal\u00e8te",
    "arbal\u00e8te"
   ]
@@ -11377,31 +9637,15 @@
   "CatID": "WEAPKnif",
   "SubCategory": "COUTEAU",
   "Synonyms": [
-   "couteau",
-   "\u00e0",
-   "cran",
-   "d",
-   "arr\u00eat",
-   "couteau",
-   "de",
-   "poche",
-   "couteau",
-   "papillon",
-   "couteau",
-   "de",
-   "chasse",
-   "couteau",
-   "utilitaire",
+   "couteau \u00e0 cran d'arr\u00eat",
+   "couteau de poche",
+   "couteau papillon",
+   "couteau de chasse",
+   "couteau utilitaire",
    "couperet",
-   "couteau",
-   "de",
-   "boucher",
-   "couteau",
-   "de",
-   "tranch\u00e9e",
-   "couteau",
-   "de",
-   "chef"
+   "couteau de boucher",
+   "couteau de tranch\u00e9e",
+   "couteau de chef"
   ]
  },
  {
@@ -11438,9 +9682,7 @@
    "tr\u00e9buchet",
    "b\u00e9lier",
    "baliste",
-   "tour",
-   "de",
-   "si\u00e8ge"
+   "tour de si\u00e8ge"
   ]
  },
  {
@@ -11453,18 +9695,14 @@
    "cimeterre",
    "\u00e9p\u00e9e",
    "rapi\u00e8re",
-   "\u00e9p\u00e9e",
-   "longue",
+   "\u00e9p\u00e9e longue",
    "samoura\u00ef",
    "coutelas",
-   "\u00e9p\u00e9e",
-   "d",
-   "escrime",
+   "\u00e9p\u00e9e d'escrime",
    "kattana",
    "machette",
    "sabre",
-   "\u00e9p\u00e9e",
-   "viking",
+   "\u00e9p\u00e9e viking",
    "fleuret"
   ]
  },
@@ -11474,16 +9712,10 @@
   "CatID": "WEAPWhip",
   "SubCategory": "FOUET",
   "Synonyms": [
+   "fouet \u00e0 taureau",
+   "fouet \u00e0 cheval",
    "fouet",
-   "\u00e0",
-   "taureau",
-   "fouet",
-   "\u00e0",
-   "cheval",
-   "fouet",
-   "craquement",
-   "de",
-   "fouet"
+   "craquement de fouet"
   ]
  },
  {
@@ -11516,14 +9748,10 @@
    "orage",
    "typhon",
    "gr\u00e9sil",
-   "temp\u00eate",
-   "de",
-   "sable",
+   "temp\u00eate de sable",
    "tornade",
    "cyclone",
-   "temp\u00eate",
-   "de",
-   "gr\u00eale",
+   "temp\u00eate de gr\u00eale",
    ""
   ]
  },
@@ -11535,12 +9763,8 @@
   "Synonyms": [
    "orage",
    "foudre",
-   "coup",
-   "de",
-   "tonnerre",
-   "coup",
-   "de",
-   "foudre",
+   "coup de tonnerre",
+   "coup de foudre",
    "\u00e9clair",
    "tonnerre",
    "craquement",
@@ -11557,9 +9781,7 @@
    "sifflet",
    "acclamation",
    "humain",
-   "sifflet",
-   "de",
-   "loup",
+   "sifflet de loup",
    "signal"
   ]
  },
@@ -11569,18 +9791,12 @@
   "CatID": "WHSTMech",
   "SubCategory": "M\u00c9CANIQUE",
   "Synonyms": [
-   "bateau",
-   "\u00e0",
-   "vapeur",
+   "bateau \u00e0 vapeur",
    "arbitre",
    "toot",
-   "sifflet",
-   "de",
-   "police",
+   "sifflet de police",
    "th\u00e9i\u00e8re",
-   "sifflet",
-   "de",
-   "train"
+   "sifflet de train"
   ]
  },
  {
@@ -11590,9 +9806,7 @@
   "SubCategory": "DIVERS",
   "Synonyms": [
    "arbitre",
-   "fl\u00fbte",
-   "de",
-   "nez"
+   "fl\u00fbte de nez"
   ]
  },
  {
@@ -11601,9 +9815,7 @@
   "CatID": "WINDDsgn",
   "SubCategory": "DESIGN",
   "Synonyms": [
-   "machine",
-   "\u00e0",
-   "vent",
+   "machine \u00e0 vent",
    "synth\u00e9tique",
    "artificielle",
    "tonale"
@@ -11625,20 +9837,12 @@
   "SubCategory": "BOURRASQUE",
   "Synonyms": [
    "rafale",
-   "coup",
-   "de",
-   "vent",
+   "coup de vent",
    "brise",
    "buffet",
-   "coup",
-   "de",
-   "vent",
-   "coup",
-   "de",
-   "vent",
-   "rafale",
-   "de",
-   "vent"
+   "coup de vent",
+   "coup de vent",
+   "rafale de vent"
   ]
  },
  {
@@ -11651,9 +9855,7 @@
    "volet",
    "cliquetis",
    "g\u00e9missement",
-   "courant",
-   "d",
-   "air"
+   "courant d'air"
   ]
  },
  {
@@ -11675,12 +9877,9 @@
   "SubCategory": "TURBULENT",
   "Synonyms": [
    "buffet",
-   "vent",
-   "turbulent",
-   "vent",
-   "fort",
-   "vent",
-   "violent",
+   "vent turbulent",
+   "vent fort",
+   "vent violent",
    "buffet"
   ]
  },
@@ -11709,8 +9908,7 @@
    "store",
    "volet",
    "occultation",
-   "abat",
-   "jour"
+   "abat-jour"
   ]
  },
  {
@@ -11719,18 +9917,10 @@
   "CatID": "WNDWHdwr",
   "SubCategory": "M\u00c9CANISME",
   "Synonyms": [
-   "verrou",
-   "de",
-   "fen\u00eatre",
-   "manivelle",
-   "de",
-   "fen\u00eatre",
-   "serrure",
-   "de",
-   "fen\u00eatre",
-   "joint",
-   "de",
-   "fen\u00eatre"
+   "verrou de fen\u00eatre",
+   "manivelle de fen\u00eatre",
+   "serrure de fen\u00eatre",
+   "joint de fen\u00eatre"
   ]
  },
  {
@@ -11750,8 +9940,7 @@
   "CatID": "WNDWMetl",
   "SubCategory": "M\u00c9TAL",
   "Synonyms": [
-   "cadre",
-   "m\u00e9tallique"
+   "cadre m\u00e9tallique"
   ]
  },
  {
@@ -11769,9 +9958,7 @@
   "CatID": "WNDWPlas",
   "SubCategory": "PLASTIQUE",
   "Synonyms": [
-   "cadre",
-   "en",
-   "plastique"
+   "cadre en plastique"
   ]
  },
  {
@@ -11780,9 +9967,7 @@
   "CatID": "WNDWWood",
   "SubCategory": "BOIS",
   "Synonyms": [
-   "cadre",
-   "en",
-   "bois"
+   "cadre en bois"
   ]
  },
  {
@@ -11791,13 +9976,9 @@
   "CatID": "WINGBird",
   "SubCategory": "OISEAU",
   "Synonyms": [
-   "aile",
-   "d",
-   "oiseau",
+   "aile d'oiseau",
    "battement",
-   "battement",
-   "d",
-   "ailes"
+   "battement d'ailes"
   ]
  },
  {
@@ -11806,28 +9987,13 @@
   "CatID": "WINGCrea",
   "SubCategory": "CR\u00c9ATURE",
   "Synonyms": [
-   "aile",
-   "de",
-   "dragon",
-   "aile",
-   "de",
-   "f\u00e9e",
-   "aile",
-   "de",
-   "griffon",
-   "aile",
-   "de",
-   "sphinx",
-   "aile",
-   "d",
-   "ange",
-   "aile",
-   "de",
-   "ph\u00e9nix",
-   "aile",
-   "d",
-   "oiseau",
-   "g\u00e9ant"
+   "aile de dragon",
+   "aile de f\u00e9e",
+   "aile de griffon",
+   "aile de sphinx",
+   "aile d'ange",
+   "aile de ph\u00e9nix",
+   "aile d'oiseau g\u00e9ant"
   ]
  },
  {
@@ -11839,9 +10005,7 @@
    "mouche",
    "abeille",
    "libellule",
-   "papillon",
-   "de",
-   "nuit",
+   "papillon de nuit",
    "papillon",
    "col\u00e9opt\u00e8re",
    "scarab\u00e9e",
@@ -11865,16 +10029,11 @@
   "CatID": "WOODBrk",
   "SubCategory": "CASSE",
   "Synonyms": [
-   "se",
-   "casse",
-   "se",
-   "fissure",
-   "se",
-   "d\u00e9chire",
-   "se",
-   "brise",
-   "s",
-   "\u00e9crase",
+   "se casse",
+   "se fissure",
+   "se d\u00e9chire",
+   "se brise",
+   "s'\u00e9crase",
    "\u00e9clate"
   ]
  },
@@ -11888,9 +10047,7 @@
    "d\u00e9bris",
    "crash",
    "tomb\u00e9e",
-   "bois",
-   "de",
-   "construction"
+   "bois de construction"
   ]
  },
  {
@@ -11928,19 +10085,11 @@
   "SubCategory": "IMPACT",
   "Synonyms": [
    "frapper",
-   "laisser",
-   "tomber",
+   "laisser tomber",
    "impacter",
-   "s",
-   "\u00e9craser",
-   "faire",
-   "un",
-   "bruit",
-   "sourd",
-   "faire",
-   "un",
-   "bruit",
-   "sourd",
+   "s'\u00e9craser",
+   "faire un bruit sourd",
+   "faire un bruit sourd",
    "tinter",
    "hacher"
   ]
@@ -11972,15 +10121,11 @@
   "CatID": "WOODTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "s",
-   "incliner",
+   "s'incliner",
    "sonner",
-   "se",
-   "tromper",
-   "se",
-   "d\u00e9former",
-   "se",
-   "d\u00e9former"
+   "se tromper",
+   "se d\u00e9former",
+   "se d\u00e9former"
   ]
  }
 ]

@@ -19,8 +19,7 @@
   "CatID": "AIRHiss",
   "SubCategory": "SIHIN\u00c4",
   "Synonyms": [
-   "ilmaa",
-   "vapauttaa",
+   "ilmaa vapauttaa",
    "pakottaa",
    "karkottaa",
    "vuotaa"
@@ -52,10 +51,8 @@
   "CatID": "AERODoor",
   "SubCategory": "OVI",
   "Synonyms": [
-   "ohjaamon",
-   "ovi",
-   "lentokoneen",
-   "ovi",
+   "ohjaamon ovi",
+   "lentokoneen ovi",
    "luukku",
    "h\u00e4t\u00e4ulosk\u00e4ynti"
   ]
@@ -69,11 +66,9 @@
    "gyrocopter",
    "whirlybird",
    "chopper",
-   "ghetto",
-   "bird",
+   "ghetto bird",
    "bellcopter",
-   "police",
-   "chopper",
+   "police chopper",
    "huey",
    "chopper",
    "blackhawk"
@@ -102,15 +97,13 @@
    "747",
    "777",
    "a310",
-   "dc",
-   "10",
+   "dc-10",
    "a310",
    "a310",
    "a330",
    "a350",
    "a380",
-   "h\u00e4vitt\u00e4j\u00e4kone",
-   ""
+   "h\u00e4vitt\u00e4j\u00e4kone."
   ]
  },
  {
@@ -130,8 +123,7 @@
    "747",
    "777",
    "a310",
-   "dc",
-   "10",
+   "dc-10",
    "a310",
    "a330",
    "a350",
@@ -139,8 +131,7 @@
    "a310",
    "a330",
    "a350",
-   "a380",
-   ""
+   "a380."
   ]
  },
  {
@@ -150,8 +141,7 @@
   "SubCategory": "MEKANISMI",
   "Synonyms": [
    "laskutelineet",
-   "ohjaamon",
-   "vipu",
+   "ohjaamon vipu",
    "per\u00e4sin",
    "laskusiiveke"
   ]
@@ -165,8 +155,7 @@
    "h\u00e4vitt\u00e4j\u00e4",
    "pommikone",
    "h\u00e4ivepommikone",
-   "siniset",
-   "enkelit",
+   "siniset enkelit",
    "thunderbirds",
    "lockheed",
    "mig",
@@ -190,8 +179,7 @@
    "ultrakevyt",
    "riippuliituri",
    "zeppeliini",
-   "ilmalaiva",
-   ""
+   "ilmalaiva."
   ]
  },
  {
@@ -203,17 +191,13 @@
    "kaksitaso",
    "kolmitaso",
    "potkuriturbiinikone",
-   "stunt",
-   "kone",
-   "crop",
-   "duster",
-   "piper",
-   "cub",
+   "stunt-kone",
+   "crop duster",
+   "piper cub",
    "potkuri",
    "kaksoispotkuri",
    "potkurisuihkukone",
-   "ilmaruuvi",
-   ""
+   "ilmaruuvi."
   ]
  },
  {
@@ -224,14 +208,9 @@
   "Synonyms": [
    "nelikopterit",
    "uav",
-   "miehitt\u00e4m\u00e4t\u00f6n",
-   "ilma",
-   "alus",
-   "rc",
-   "suihkukone",
-   "rc",
-   "helikopteri",
-   ""
+   "miehitt\u00e4m\u00e4t\u00f6n ilma-alus",
+   "rc-suihkukone",
+   "rc-helikopteri."
   ]
  },
  {
@@ -249,8 +228,7 @@
    "icbm",
    "ydinraketti",
    "ydink\u00e4rki",
-   "ydink\u00e4rki",
-   ""
+   "ydink\u00e4rki."
   ]
  },
  {
@@ -260,12 +238,9 @@
   "SubCategory": "KELLO",
   "Synonyms": [
    "palokello",
-   "koulun",
-   "kello",
-   "rautatieristeyksen",
-   "kello",
-   "h\u00e4lytyskello",
-   ""
+   "koulun kello",
+   "rautatieristeyksen kello",
+   "h\u00e4lytyskello."
   ]
  },
  {
@@ -275,10 +250,8 @@
   "SubCategory": "SUMMERI",
   "Synonyms": [
    "ovisummeri",
-   "peliohjelma",
-   "summeri",
-   "ulko",
-   "ovisummeri",
+   "peliohjelma-summeri",
+   "ulko-ovisummeri",
    "sis\u00e4\u00e4ntulosummeri",
    "sis\u00e4puhelinsummeri",
    "sis\u00e4puhelinsummeri"
@@ -290,8 +263,7 @@
   "CatID": "ALRMClok",
   "SubCategory": "HER\u00c4TYSKELLO",
   "Synonyms": [
-   "digitaalinen",
-   "her\u00e4tyskello",
+   "digitaalinen her\u00e4tyskello",
    "her\u00e4tyskello",
    "her\u00e4tyskello"
   ]
@@ -304,11 +276,9 @@
   "Synonyms": [
    "palovaroitin",
    "savunilmaisin",
-   "co2",
-   "ilmaisin",
+   "co2-ilmaisin",
    "autoh\u00e4lytin",
-   "kodin",
-   "h\u00e4lytin"
+   "kodin h\u00e4lytin"
   ]
  },
  {
@@ -327,8 +297,7 @@
   "SubCategory": "TORVI",
   "Synonyms": [
    "klaxon",
-   "ahooga",
-   "torvi",
+   "ahooga-torvi",
    "ilmahy\u00f6kk\u00e4yssireeni",
    "tornadosireeni"
   ]
@@ -341,8 +310,7 @@
   "Synonyms": [
    "aavikko",
    "talvi",
-   "hiljainen",
-   "ilma",
+   "hiljainen ilma",
    "y\u00f6ilma",
    "vuoristoilma",
    "y\u00f6ilmaa"
@@ -374,18 +342,15 @@
   "SubCategory": "HUVIPUISTO",
   "Synonyms": [
    "disneyland",
-   "six",
-   "flags",
+   "six-flags",
    "teemapuisto",
    "huvipuisto",
    "karnevaali",
    "tivoli",
    "tivoli",
-   "l\u00e4\u00e4nin",
-   "tivoli",
+   "l\u00e4\u00e4nin tivoli",
    "midway",
-   "kiert\u00e4v\u00e4t",
-   "tivolit",
+   "kiert\u00e4v\u00e4t tivolit",
    "festivaali",
    "kummitustalo",
    "huvipuisto",
@@ -402,8 +367,7 @@
   "Synonyms": [
    "aamukuoro",
    "aamukuoro",
-   "kaunis",
-   "lintu",
+   "kaunis lintu",
    "parvi",
    "sirkutus",
    "tirisev\u00e4",
@@ -418,8 +382,7 @@
   "CatID": "AMBCele",
   "SubCategory": "JUHLA",
   "Synonyms": [
-   "julkinen",
-   "kokoontuminen",
+   "julkinen kokoontuminen",
    "tapahtuma",
    "juhla",
    "juhla",
@@ -440,10 +403,8 @@
    "rakentaminen",
    "kirvesmies",
    "remodel",
-   "home",
-   "reno",
-   "tien",
-   "korjaus",
+   "home reno",
+   "tien korjaus",
    "uudelleenrakentaminen"
   ]
  },
@@ -490,8 +451,7 @@
    "onnettomuus",
    "katastrofi",
    "loukkaantuminen",
-   "kasaantuminen",
-   "onnettomuusonnettomuus"
+   "kasaantuminen onnettomuusonnettomuus"
   ]
  },
  {
@@ -505,8 +465,7 @@
    "maaginen",
    "valtakunta",
    "unelma",
-   "keski",
-   "maa",
+   "keski-maa",
    "pandora"
   ]
  },
@@ -543,11 +502,9 @@
    "mets\u00e4",
    "mets\u00e4t",
    "mets\u00e4maa",
-   "boreaalinen",
-   "mets\u00e4",
+   "boreaalinen mets\u00e4",
    "sademets\u00e4",
-   "lauhkea",
-   "sademets\u00e4",
+   "lauhkea sademets\u00e4",
    "pilvimets\u00e4",
    "lehtimets\u00e4",
    "havupuu"
@@ -576,13 +533,10 @@
   "SubCategory": "HISTORIALLINEN",
   "Synonyms": [
    "aavekaupunki",
-   "vanha",
-   "l\u00e4nsi",
+   "vanha l\u00e4nsi",
    "kultarynt\u00e4ys",
-   "muinainen",
-   "rooma",
-   "muinainen",
-   "kreikka"
+   "muinainen rooma",
+   "muinainen kreikka"
   ]
  },
  {
@@ -664,11 +618,9 @@
   "SubCategory": "KAUPPA",
   "Synonyms": [
    "market",
-   "market",
-   "place",
+   "market place",
    "vendor",
-   "shopping",
-   "district",
+   "shopping district",
    "bazaar",
    "mart",
    "exchange",
@@ -731,8 +683,7 @@
    "puisto",
    "leikkipaikka",
    "puutarha",
-   "kasvitieteellinen",
-   "puutarha",
+   "kasvitieteellinen puutarha",
    "kaupunkipuisto",
    "esikaupunkipuisto",
    "pallopuisto",
@@ -770,8 +721,7 @@
    "laulaminen",
    "huutaminen",
    "kiljuminen",
-   "vihainen",
-   "v\u00e4kijoukko",
+   "vihainen v\u00e4kijoukko",
    "marssi",
    "mielenosoitus",
    "myllerrys",
@@ -792,8 +742,7 @@
    "hotellit",
    "ostoskeskukset",
    "museot",
-   "julkiset",
-   "torit",
+   "julkiset torit",
    "sis\u00e4pihat",
    "kuntosalit",
    "kuntokeskus",
@@ -864,8 +813,7 @@
    "ruokapaikka",
    "brasserie",
    "autokahvila",
-   "drive",
-   "in"
+   "drive-in"
   ]
  },
  {
@@ -875,10 +823,8 @@
   "SubCategory": "ROOM TONE",
   "Synonyms": [
    "huone\u00e4\u00e4ni",
-   "kuollut",
-   "ilma",
-   "hiljainen",
-   "ilma"
+   "kuollut ilma",
+   "hiljainen ilma"
   ]
  },
  {
@@ -892,8 +838,7 @@
    "preeria",
    "niitty",
    "vuori",
-   "kumpuileva",
-   "kukkula",
+   "kumpuileva kukkula",
    "savanni",
    "tundra",
    "niitty",
@@ -918,8 +863,7 @@
    "esikoulu",
    "yliopisto",
    "luokkahuone",
-   "kokoustila",
-   ""
+   "kokoustila."
   ]
  },
  {
@@ -934,10 +878,8 @@
    "scifi",
    "futuristinen",
    "huipputekniikka",
-   "hi",
-   "tech",
-   "hi",
-   "tec"
+   "hi-tech",
+   "hi-tec"
   ]
  },
  {
@@ -956,8 +898,7 @@
    "seashore",
    "seaboard",
    "boardwalk",
-   "beach",
-   "resort",
+   "beach resort",
    "beachfront",
    "embankment",
    "dock",
@@ -998,8 +939,7 @@
    "kyl\u00e4",
    "barrio",
    "esikaupunki",
-   "kyl\u00e4kyl\u00e4n",
-   "laidalla",
+   "kyl\u00e4kyl\u00e4n laidalla",
    "hamlet"
   ]
  },
@@ -1014,8 +954,7 @@
    "r\u00e4me",
    "everglade",
    "kosteikko",
-   "ranta",
-   "alue",
+   "ranta-alue",
    "j\u00e4rvenranta",
    "j\u00e4rvi",
    "mangrovi"
@@ -1030,8 +969,7 @@
    "town",
    "village",
    "hamlet",
-   "small",
-   "town",
+   "small town",
    "community",
    "settlement",
    "settlement"
@@ -1043,8 +981,7 @@
   "CatID": "AMBTraf",
   "SubCategory": "LIIKENNE",
   "Synonyms": [
-   "car",
-   "bys",
+   "car bys",
    "freeway",
    "highway",
    "boulevard",
@@ -1059,11 +996,9 @@
   "CatID": "AMBTran",
   "SubCategory": "LIIKENNE ASEMA",
   "Synonyms": [
-   "juna",
-   "asema",
+   "juna-asema",
    "lentokentt\u00e4",
-   "linja",
-   "autoasema",
+   "linja-autoasema",
    "metroasema",
    "metroasema",
    "metroasema",
@@ -1080,8 +1015,7 @@
   "Synonyms": [
    "viidakko",
    "bush",
-   "trooppinen",
-   "sademets\u00e4",
+   "trooppinen sademets\u00e4",
    "pilvimets\u00e4",
    "trooppinen"
   ]
@@ -1097,8 +1031,7 @@
    "yl\u00e4tasanko",
    "pohjoisnapa",
    "etel\u00e4napa",
-   "napa",
-   "alue",
+   "napa-alue",
    "j\u00e4\u00e4tikk\u00f6",
    "lumi",
    "j\u00e4\u00e4"
@@ -1139,15 +1072,13 @@
    "vedenalainen",
    "riutta",
    "koralli",
-   "meren",
-   "kaivanto",
+   "meren kaivanto",
    "upotettu",
    "vedenalainen",
    "vedenalainen",
    "vedenalainen",
    "haaksirikko",
-   "hylky",
-   ""
+   "hylky."
   ]
  },
  {
@@ -1157,18 +1088,15 @@
   "SubCategory": "KAUPUNKI",
   "Synonyms": [
    "metropoli",
-   "tihe\u00e4",
-   "kaupunki",
+   "tihe\u00e4 kaupunki",
    "kaupunki",
    "keskusta",
    "sis\u00e4kaupunki",
    "suurkaupunki",
    "vilkas",
-   "ruuhka",
-   "aika",
+   "ruuhka-aika",
    "ruuhkautuminen",
-   "kaupungin",
-   "keskusta",
+   "kaupungin keskusta",
    "slummi",
    "slummialue",
    "slummi",
@@ -1201,8 +1129,7 @@
    "salamasota",
    "salvo",
    "r\u00e4iskint\u00e4",
-   "leve\u00e4",
-   "kylki",
+   "leve\u00e4 kylki",
    "tykist\u00f6laukaus"
   ]
  },
@@ -1260,11 +1187,9 @@
   "CatID": "ANMLBat",
   "SubCategory": "LEPAKKO",
   "Synonyms": [
-   "lent\u00e4v\u00e4",
-   "kettu",
+   "lent\u00e4v\u00e4 kettu",
    "vampyyrilepakko",
-   "hedelm\u00e4lepakko",
-   ""
+   "hedelm\u00e4lepakko..."
   ]
  },
  {
@@ -1302,8 +1227,7 @@
    "karakaali",
    "ocelot",
    "pantteri",
-   "servaali",
-   ""
+   "servaali..."
   ]
  },
  {
@@ -1352,8 +1276,7 @@
    "sika",
    "nauta",
    "laama",
-   "alpakka",
-   ""
+   "alpakka."
   ]
  },
  {
@@ -1387,8 +1310,7 @@
    "k\u00e4pyp\u00e4\u00e4",
    "hein\u00e4sirkka",
    "kovakuoriainen",
-   "torakka",
-   ""
+   "torakka."
   ]
  },
  {
@@ -1416,8 +1338,7 @@
    "apina",
    "gibbon",
    "bonobo",
-   "paviaani",
-   ""
+   "paviaani."
   ]
  },
  {
@@ -1460,8 +1381,7 @@
    "lemminki",
    "piisami",
    "chinchilla",
-   "jyrsij\u00e4",
-   ""
+   "jyrsij\u00e4."
   ]
  },
  {
@@ -1500,11 +1420,9 @@
    "sarvikuono",
    "impala",
    "virtahepo",
-   "hunajainen",
-   "m\u00e4yr\u00e4",
+   "hunajainen m\u00e4yr\u00e4",
    "biisoni",
-   "hirvi",
-   ""
+   "hirvi."
   ]
  },
  {
@@ -1515,8 +1433,7 @@
   "Synonyms": [
    "adr",
    "silmukka",
-   "korvaava",
-   "dialogi"
+   "korvaava dialogi"
   ]
  },
  {
@@ -1570,11 +1487,9 @@
   "SubCategory": "MIKSAUS",
   "Synonyms": [
    "esisekoitus",
-   "lopullinen",
-   "sekoitus",
+   "lopullinen sekoitus",
    "stem",
-   "m",
-   "e",
+   "m&e",
    "mixdown",
    "printmaster"
   ]
@@ -1594,10 +1509,8 @@
   "CatID": "PROD",
   "SubCategory": "TUOTANTO\u00c4\u00c4NI",
   "Synonyms": [
-   "tuotanto",
-   "take",
-   "dialog",
-   "line",
+   "tuotanto take",
+   "dialog line",
    "dx"
   ]
  },
@@ -1607,11 +1520,9 @@
   "CatID": "RAW",
   "SubCategory": "RAAKAMATERIAALI",
   "Synonyms": [
-   "dat",
-   "nauha",
+   "dat-nauha",
    "raakatiedostot",
-   "k\u00e4sittelem\u00e4tt\u00f6m\u00e4t",
-   "tiedostot"
+   "k\u00e4sittelem\u00e4tt\u00f6m\u00e4t tiedostot"
   ]
  },
  {
@@ -1631,8 +1542,7 @@
   "SubCategory": "KOHTAUS",
   "Synonyms": [
    "valmis",
-   "valmiiksi",
-   "rakennettu"
+   "valmiiksi rakennettu"
   ]
  },
  {
@@ -1641,17 +1551,13 @@
   "CatID": "TEST",
   "SubCategory": "TESTISIGNAALI",
   "Synonyms": [
-   "adr",
-   "piippaukset",
+   "adr-piippaukset",
    "testi\u00e4\u00e4net",
    "piippaus\u00e4\u00e4ni",
    "2pops",
-   "valkoinen",
-   "kohina",
-   "vaaleanpunainen",
-   "kohina",
-   "siniaaltopyyhk\u00e4isyt",
-   ""
+   "valkoinen kohina",
+   "vaaleanpunainen kohina",
+   "siniaaltopyyhk\u00e4isyt."
   ]
  },
  {
@@ -1674,8 +1580,7 @@
   "CatID": "WIP",
   "SubCategory": "TY\u00d6N ALLA",
   "Synonyms": [
-   "keskener\u00e4inen",
-   "ty\u00f6",
+   "keskener\u00e4inen ty\u00f6",
    "wip",
    "keskener\u00e4inen"
   ]
@@ -1745,11 +1650,9 @@
   "SubCategory": "AJASTIN",
   "Synonyms": [
    "mikroaaltouuni",
-   "uuni",
-   "ajastin",
+   "uuni ajastin",
    "digitaalikello",
-   "puhelin",
-   "ajastin"
+   "puhelin ajastin"
   ]
  },
  {
@@ -1758,10 +1661,8 @@
   "CatID": "BEEPVeh",
   "SubCategory": "KULKUV\u00c4LINE",
   "Synonyms": [
-   "trukin",
-   "\u00e4\u00e4nimerkki",
-   "vara",
-   "\u00e4\u00e4nimerkki"
+   "trukin \u00e4\u00e4nimerkki",
+   "vara-\u00e4\u00e4nimerkki"
   ]
  },
  {
@@ -1784,8 +1685,7 @@
   "Synonyms": [
    "ovikello",
    "ovikello",
-   "ding",
-   "dong",
+   "ding dong",
    "tring",
    "tring"
   ]
@@ -1799,10 +1699,8 @@
    "gong",
    "gamelan",
    "agung",
-   "bowl",
-   "gong",
-   "tam",
-   "tam"
+   "bowl gong",
+   "tam-tam"
   ]
  },
  {
@@ -1814,13 +1712,10 @@
    "k\u00e4sikello",
    "ruokakello",
    "koulukello",
-   "vanhainkodin",
-   "kello",
+   "vanhainkodin kello",
    "reenikello",
    "jinglebells",
-   "hovimestarin",
-   "kello",
-   ""
+   "hovimestarin kello."
   ]
  },
  {
@@ -1829,12 +1724,10 @@
   "CatID": "BELLLrg",
   "SubCategory": "KIRKONKELLO",
   "Synonyms": [
-   "temppelin",
-   "kello",
+   "temppelin kello",
    "kirkonkello",
    "soittokello",
-   "tornikello",
-   ""
+   "tornikello."
   ]
  },
  {
@@ -1845,8 +1738,7 @@
   "Synonyms": [
    "polkupy\u00f6r\u00e4nkello",
    "palvelukello",
-   "soittokello",
-   ""
+   "soittokello."
   ]
  },
  {
@@ -1866,8 +1758,7 @@
    "kalas\u00e4\u00e4ski",
    "harakka",
    "tuulihaukka",
-   "karakara",
-   ""
+   "karakara."
   ]
  },
  {
@@ -1881,8 +1772,7 @@
    "kaakkuri",
    "sinitiainen",
    "harakka",
-   "p\u00e4hkin\u00e4ns\u00e4rkij\u00e4",
-   ""
+   "p\u00e4hkin\u00e4ns\u00e4rkij\u00e4."
   ]
  },
  {
@@ -1910,8 +1800,7 @@
    "harmaasieppo",
    "tiainen",
    "kottarainen",
-   "mets\u00e4kanalintu",
-   ""
+   "mets\u00e4kanalintu."
   ]
  },
  {
@@ -1928,8 +1817,7 @@
    "y\u00f6haukka",
    "y\u00f6kk\u00f6nen",
    "k\u00f6yh\u00e4list\u00f6",
-   "kolibri",
-   ""
+   "kolibri..."
   ]
  },
  {
@@ -1959,8 +1847,7 @@
    "aukko",
    "t\u00f6yht\u00f6hyypp\u00e4",
    "hiirihaukka",
-   "pikkulintu",
-   ""
+   "pikkulintu."
   ]
  },
  {
@@ -2001,8 +1888,7 @@
    "r\u00e4pyl\u00e4tti",
    "kirjosieppo",
    "kortelintu",
-   "lehtokerttu",
-   ""
+   "lehtokerttu."
   ]
  },
  {
@@ -2022,8 +1908,7 @@
    "papukaija",
    "iibis",
    "lusikkasotka",
-   "flamingo",
-   ""
+   "flamingo."
   ]
  },
  {
@@ -2050,8 +1935,7 @@
    "haikara",
    "r\u00e4k\u00e4ttirastas",
    "r\u00e4k\u00e4ttirastas",
-   "r\u00e4k\u00e4ttirastas",
-   ""
+   "r\u00e4k\u00e4ttirastas."
   ]
  },
  {
@@ -2082,14 +1966,10 @@
   "SubCategory": "OVI",
   "Synonyms": [
    "luukku",
-   "lautan",
-   "ovi",
-   "veneen",
-   "ovi",
-   "vesitiivis",
-   "ovi",
-   "laivan",
-   "ovi"
+   "lautan ovi",
+   "veneen ovi",
+   "vesitiivis ovi",
+   "laivan ovi"
   ]
  },
  {
@@ -2109,9 +1989,7 @@
   "Synonyms": [
    "rapuveneet",
    "troolarit",
-   "nuottaa",
-   "k\u00e4ytt\u00e4v\u00e4",
-   "alus",
+   "nuottaa k\u00e4ytt\u00e4v\u00e4 alus",
    "siimalaiva",
    "ruoppaaja",
    "verkkopyydys",
@@ -2124,11 +2002,8 @@
   "CatID": "BOATHorn",
   "SubCategory": "TORVI",
   "Synonyms": [
-   "laivan",
-   "torvi",
-   "hinaaja",
-   "aluksen",
-   "torvi"
+   "laivan torvi",
+   "hinaaja-aluksen torvi"
   ]
  },
  {
@@ -2149,8 +2024,7 @@
    "\u00f6ljys\u00e4ili\u00f6alus",
    "rahtialus",
    "rahtialus",
-   "sukellusvene",
-   ""
+   "sukellusvene."
   ]
  },
  {
@@ -2167,8 +2041,7 @@
    "verkko",
    "h\u00e4kki",
    "loukku",
-   "ankkuri",
-   ""
+   "ankkuri."
   ]
  },
  {
@@ -2184,9 +2057,7 @@
    "taisteluristeilij\u00e4",
    "fregatti",
    "korvetti",
-   "nopea",
-   "hy\u00f6kk\u00e4ysvene",
-   ""
+   "nopea hy\u00f6kk\u00e4ysvene."
   ]
  },
  {
@@ -2207,16 +2078,11 @@
   "SubCategory": "MOOTTORIVENE",
   "Synonyms": [
    "pienvene",
-   "henkil\u00f6kohtainen",
-   "kalastusvene",
+   "henkil\u00f6kohtainen kalastusvene",
    "pikavene",
    "ponttonivene",
    "ankkavene",
-   "jollakin",
-   "tavalla",
-   "varustettu",
-   "vene",
-   ""
+   "jollakin tavalla varustettu vene."
   ]
  },
  {
@@ -2227,8 +2093,7 @@
   "Synonyms": [
    "vesitaso",
    "kantosiipialus",
-   "suihkuvene",
-   ""
+   "suihkuvene."
   ]
  },
  {
@@ -2258,8 +2123,7 @@
    "jollari",
    "slooppi",
    "ketssi",
-   "moottoripurjevene",
-   ""
+   "moottoripurjevene."
   ]
  },
  {
@@ -2268,13 +2132,11 @@
   "CatID": "BOATShip",
   "SubCategory": "LAIVA",
   "Synonyms": [
-   "suuri",
-   "laiva",
+   "suuri laiva",
    "risteilyalus",
    "\u00f6ljys\u00e4ili\u00f6alus",
    "rahtilaiva",
-   "rahtialus",
-   ""
+   "rahtialus."
   ]
  },
  {
@@ -2298,8 +2160,7 @@
    "kaikuluotain",
    "sukellusvene",
    "sukellusvene",
-   "u",
-   "vene"
+   "u-vene"
   ]
  },
  {
@@ -2323,9 +2184,7 @@
   "CatID": "BLLTBy",
   "SubCategory": "OHITUS",
   "Synonyms": [
-   "bullet",
-   "whiz",
-   "by",
+   "bullet whiz-by",
    "fwip"
   ]
  },
@@ -2335,10 +2194,8 @@
   "CatID": "BLLTImpt",
   "SubCategory": "ISKU",
   "Synonyms": [
-   "bullet",
-   "impact",
-   "bullet",
-   "hit"
+   "bullet impact",
+   "bullet hit"
   ]
  },
  {
@@ -2379,8 +2236,7 @@
   "CatID": "TOONAnml",
   "SubCategory": "EL\u00c4IN",
   "Synonyms": [
-   "v\u00e4\u00e4rennetty",
-   "el\u00e4in",
+   "v\u00e4\u00e4rennetty el\u00e4in",
    "mets\u00e4styskutsu",
    "ankkakutsu"
   ]
@@ -2423,8 +2279,7 @@
   "Synonyms": [
    "polttimotorvi",
    "torvi",
-   "pelle",
-   "torvi"
+   "pelle torvi"
   ]
  },
  {
@@ -2445,11 +2300,8 @@
   "SubCategory": "KONE",
   "Synonyms": [
    "vehje",
-   "koominen",
-   "kone",
-   "rube",
-   "goldbergin",
-   "kone"
+   "koominen kone",
+   "rube goldbergin kone"
   ]
  },
  {
@@ -2483,8 +2335,7 @@
   "CatID": "TOONPluk",
   "SubCategory": "N\u00c4PP\u00c4ILY",
   "Synonyms": [
-   "string",
-   "pluck"
+   "string pluck"
   ]
  },
  {
@@ -2493,15 +2344,11 @@
   "CatID": "TOONPop",
   "SubCategory": "POP",
   "Synonyms": [
-   "pop",
-   "gun",
-   "mouth",
-   "pop",
+   "pop gun",
+   "mouth pop",
    "imukuppi",
-   "bubble",
-   "pops",
-   "bubble",
-   "pops"
+   "bubble pops",
+   "bubble pops"
   ]
  },
  {
@@ -2569,9 +2416,7 @@
   "SubCategory": "AJONEUVO",
   "Synonyms": [
    "jetsonit",
-   "vehje",
-   "flintstonesin",
-   "auto",
+   "vehje. flintstonesin auto",
    "takapalo"
   ]
  },
@@ -2582,10 +2427,8 @@
   "SubCategory": "IHMIS\u00c4\u00c4NI",
   "Synonyms": [
    "mutinaa",
-   "hassu",
-   "\u00e4\u00e4ni",
-   "sarjakuva\u00e4\u00e4ni",
-   ""
+   "hassu \u00e4\u00e4ni",
+   "sarjakuva\u00e4\u00e4ni..."
   ]
  },
  {
@@ -2665,11 +2508,9 @@
    "tarttua",
    "asettaa",
    "poimia",
-   "asettaa",
-   "alas",
+   "asettaa alas",
    "heitt\u00e4\u00e4",
-   "ottaa",
-   "kiinni"
+   "ottaa kiinni"
   ]
  },
  {
@@ -2684,8 +2525,7 @@
    "kolahtaa",
    "kolahtaa",
    "kolahtaa",
-   "kolahtaa",
-   ""
+   "kolahtaa."
   ]
  },
  {
@@ -2742,8 +2582,7 @@
    "grab",
    "set",
    "pickup",
-   "set",
-   "down",
+   "set down",
    "toss",
    "catch",
    "catch"
@@ -2760,9 +2599,7 @@
    "iske\u00e4",
    "iske\u00e4",
    "iske\u00e4",
-   "j\u00e4nnitys",
-   "napsahtaa",
-   ""
+   "j\u00e4nnitys napsahtaa."
   ]
  },
  {
@@ -2835,8 +2672,7 @@
   "SubCategory": "MEKANISMI",
   "Synonyms": [
    "k\u00e4\u00e4mitys",
-   "kellon",
-   "hammaspy\u00f6r\u00e4t",
+   "kellon hammaspy\u00f6r\u00e4t",
    "k\u00e4kikello"
   ]
  },
@@ -2858,11 +2694,9 @@
    "tikitys",
    "naksahdus",
    "kvartsi",
-   "tik",
-   "tak",
+   "tik-tak",
    "sekuntikello",
-   "muna",
-   "ajastin"
+   "muna-ajastin"
   ]
  },
  {
@@ -2892,12 +2726,9 @@
    "tarttua",
    "asettaa",
    "poimia",
-   "laskea",
-   "alas",
+   "laskea alas",
    "heitt\u00e4\u00e4",
-   "ottaa",
-   "kiinni",
-   ""
+   "ottaa kiinni."
   ]
  },
  {
@@ -2959,20 +2790,17 @@
    "nauhuri",
    "nagra",
    "walkman",
-   "cd",
-   "soitin",
+   "cd-soitin",
    "kelauslaite",
    "vcr",
-   "laserdisc",
-   "soitin",
+   "laserdisc-soitin",
    "betamax",
    "diaprojektori",
    "beamer",
    "ipod",
    "bolex",
    "8mm",
-   "16mm",
-   ""
+   "16mm."
   ]
  },
  {
@@ -2981,8 +2809,7 @@
   "CatID": "COMCam",
   "SubCategory": "KAMERA",
   "Synonyms": [
-   "kameran",
-   "suljin",
+   "kameran suljin",
    "kelaaminen",
    "salamalamppu",
    "kodak",
@@ -3019,8 +2846,7 @@
   "CatID": "COMMic",
   "SubCategory": "MIKROFONI",
   "Synonyms": [
-   "mikrofonin",
-   "k\u00e4sittely",
+   "mikrofonin k\u00e4sittely",
    "mikrofonihana",
    "larsen",
    "megafoni"
@@ -3097,8 +2923,7 @@
    "kiertovalitsin",
    "n\u00e4pp\u00e4imist\u00f6",
    "lankapuhelin",
-   "johdollinen",
-   "puhelin"
+   "johdollinen puhelin"
   ]
  },
  {
@@ -3113,8 +2938,7 @@
    "show",
    "ohjelma",
    "futz",
-   "tv",
-   "ohjelma",
+   "tv-ohjelma",
    "l\u00e4hetys",
    "l\u00e4hetys"
   ]
@@ -3135,8 +2959,7 @@
    "radiopuhelimet",
    "radiopuhelimet",
    "radiopuhelimet",
-   "radiopuhelimet",
-   ""
+   "radiopuhelimet."
   ]
  },
  {
@@ -3147,10 +2970,8 @@
   "Synonyms": [
    "kirjoituskone",
    "telelaitetulostin",
-   "kelkkauksen",
-   "palautus",
-   "kirjoituskoneen",
-   "nuppi"
+   "kelkkauksen palautus",
+   "kirjoituskoneen nuppi"
   ]
  },
  {
@@ -3162,8 +2983,7 @@
    "skip",
    "search",
    "grind",
-   "hard",
-   "disc",
+   "hard disc",
    "kovalevy",
    "kovalevy"
   ]
@@ -3208,9 +3028,7 @@
   "SubCategory": "LINTU",
   "Synonyms": [
    "avaruuslinnut",
-   "maan",
-   "ulkopuoliset",
-   "linnut",
+   "maan ulkopuoliset linnut",
    "fantasialinnut",
    "mielikuvituslinnut"
   ]
@@ -3299,8 +3117,7 @@
    "poltergeist",
    "aave",
    "haamu",
-   "wraith",
-   ""
+   "wraith."
   ]
  },
  {
@@ -3311,8 +3128,7 @@
   "Synonyms": [
    "zombi",
    "ep\u00e4kuollut",
-   "el\u00e4v\u00e4",
-   "kuollut",
+   "el\u00e4v\u00e4 kuollut",
    "ghouli",
    "vampyyri",
    "tonttu",
@@ -3322,12 +3138,10 @@
    "tengu",
    "mennink\u00e4inen",
    "isojalka",
-   "suo",
-   "olento",
+   "suo-olento",
    "ihmissusi",
    "frankenstein",
-   "muumio",
-   ""
+   "muumio..."
   ]
  },
  {
@@ -3356,8 +3170,7 @@
   "SubCategory": "HIRVI\u00d6",
   "Synonyms": [
    "godzilla",
-   "king",
-   "kong",
+   "king kong",
    "rancor",
    "behemoth",
    "xenomorph",
@@ -3374,8 +3187,7 @@
    "k\u00e4\u00e4rme",
    "j\u00e4ttil\u00e4islisko",
    "j\u00e4ttil\u00e4isk\u00e4\u00e4rme",
-   "j\u00e4ttil\u00e4isk\u00e4\u00e4rme",
-   ""
+   "j\u00e4ttil\u00e4isk\u00e4\u00e4rme."
   ]
  },
  {
@@ -3420,8 +3232,7 @@
    "huutaa",
    "kiljua",
    "vinkua",
-   "vinkua",
-   ""
+   "vinkua."
   ]
  },
  {
@@ -3478,8 +3289,7 @@
    "juhlat",
    "riehakkaat",
    "syntym\u00e4p\u00e4iv\u00e4",
-   "uusi",
-   "vuosi",
+   "uusi vuosi",
    "joulu",
    "paraati",
    "paraati"
@@ -3491,8 +3301,7 @@
   "CatID": "CRWDCheer",
   "SubCategory": "HURRAUS",
   "Synonyms": [
-   "hurraa",
-   "huuto",
+   "hurraa-huuto",
    "konsertti",
    "stadion",
    "yleis\u00f6",
@@ -3510,8 +3319,7 @@
   "Synonyms": [
    "leikkikentt\u00e4",
    "v\u00e4litunti",
-   "lapset",
-   "leikkiv\u00e4t",
+   "lapset leikkiv\u00e4t",
    "puisto",
    "leikki",
    "leikki\u00e4",
@@ -3527,8 +3335,7 @@
    "chatter",
    "chat",
    "puhua",
-   "harva",
-   "walla",
+   "harva walla",
    "keskustella",
    "keskustelu",
    "keskustelu"
@@ -3540,14 +3347,11 @@
   "CatID": "CRWDLaff",
   "SubCategory": "NAURU",
   "Synonyms": [
-   "tv",
-   "ohjelma",
-   "purkitettu",
-   "nauru",
+   "tv-ohjelma",
+   "purkitettu nauru",
    "komediaklubi",
    "naururaja",
-   "laugh",
-   "track"
+   "laugh track"
   ]
  },
  {
@@ -3607,8 +3411,7 @@
    "boo",
    "ahh",
    "ooh",
-   "studion",
-   "reaktio"
+   "studion reaktio"
   ]
  },
  {
@@ -3673,10 +3476,8 @@
   "SubCategory": "JYM\u00c4HDYS",
   "Synonyms": [
    "boom",
-   "deep",
-   "hit",
-   "low",
-   "sting",
+   "deep hit",
+   "low sting",
    "traileri"
   ]
  },
@@ -3696,8 +3497,7 @@
   "SubCategory": "YLIOHJAUTUNUT",
   "Synonyms": [
    "distortion",
-   "squared",
-   "off",
+   "squared off",
    "v\u00e4\u00e4ristynyt",
    "v\u00e4\u00e4ristynyt"
   ]
@@ -3812,9 +3612,7 @@
    "subharmoninen",
    "rumble",
    "shake",
-   "earthquake",
-   "maanj\u00e4ristys",
-   ""
+   "earthquake (maanj\u00e4ristys)"
   ]
  },
  {
@@ -3826,8 +3624,7 @@
    "stutter",
    "glitch",
    "pulssi",
-   "stattaco",
-   ""
+   "stattaco."
   ]
  },
  {
@@ -3862,15 +3659,11 @@
   "Synonyms": [
    "syntetisoitu",
    "syntetisaattori",
-   "mod",
-   "syntetisaattori",
-   "modulaarinen",
-   "syntetisaattori",
+   "mod-syntetisaattori",
+   "modulaarinen syntetisaattori",
    "rakeinen",
-   "analoginen",
-   "syntetisaattori",
-   "modulaarinen",
-   "syntetisaattori"
+   "analoginen syntetisaattori",
+   "modulaarinen syntetisaattori"
   ]
  },
  {
@@ -3906,8 +3699,7 @@
   "SubCategory": "SUHAUS",
   "Synonyms": [
    "whoosh",
-   "trailer",
-   "swish",
+   "trailer swish",
    "swish"
   ]
  },
@@ -4026,8 +3818,7 @@
   "SubCategory": "TONAALINEN",
   "Synonyms": [
    "hiekkadyynit",
-   "laulavat",
-   "hiekat"
+   "laulavat hiekat"
   ]
  },
  {
@@ -4093,10 +3884,8 @@
    "linna",
    "puuovi",
    "metalliovi",
-   "oven",
-   "narina",
-   "ovi",
-   "narina"
+   "oven narina",
+   "ovi narina"
   ]
  },
  {
@@ -4118,14 +3907,10 @@
   "CatID": "DOORElec",
   "SubCategory": "S\u00c4HK\u00d6",
   "Synonyms": [
-   "s\u00e4hk\u00f6inen",
-   "ovi",
-   "autotallin",
-   "ovi",
-   "\u00e4\u00e4nimaisema",
-   "ovi",
-   "automaattinen",
-   "ovi"
+   "s\u00e4hk\u00f6inen ovi",
+   "autotallin ovi",
+   "\u00e4\u00e4nimaisema ovi",
+   "automaattinen ovi"
   ]
  },
  {
@@ -4134,18 +3919,12 @@
   "CatID": "DOORGate",
   "SubCategory": "PORTTI",
   "Synonyms": [
-   "puutarhan",
-   "portti",
-   "aidan",
-   "portti",
-   "puiston",
-   "portti",
-   "rautatien",
-   "ylitys",
-   "karjan",
-   "portti",
-   "maatilan",
-   "portti"
+   "puutarhan portti",
+   "aidan portti",
+   "puiston portti",
+   "rautatien ylitys",
+   "karjan portti",
+   "maatilan portti"
   ]
  },
  {
@@ -4155,11 +3934,9 @@
   "SubCategory": "LASI",
   "Synonyms": [
    "lasiovi",
-   "myym\u00e4l\u00e4n",
-   "ovi",
+   "myym\u00e4l\u00e4n ovi",
    "erkkeriovi",
-   "ranskalainen",
-   "ovi"
+   "ranskalainen ovi"
   ]
  },
  {
@@ -4186,8 +3963,7 @@
   "CatID": "DOORTech",
   "SubCategory": "HITECH",
   "Synonyms": [
-   "laboratorion",
-   "ovi"
+   "laboratorion ovi"
   ]
  },
  {
@@ -4199,8 +3975,7 @@
    "ovensuljin",
    "pneumaattinen",
    "hydraulinen",
-   "s\u00e4hk\u00f6k\u00e4ytt\u00f6inen",
-   "luukku"
+   "s\u00e4hk\u00f6k\u00e4ytt\u00f6inen luukku"
   ]
  },
  {
@@ -4245,12 +4020,9 @@
   "CatID": "DOORPlas",
   "SubCategory": "MUOVI",
   "Synonyms": [
-   "porta",
-   "wc",
-   "porta",
-   "let",
-   "porta",
-   "pottie"
+   "porta wc",
+   "porta let",
+   "porta pottie"
   ]
  },
  {
@@ -4259,10 +4031,8 @@
   "CatID": "DOORPrisn",
   "SubCategory": "VANKILA",
   "Synonyms": [
-   "vankilan",
-   "ovi",
-   "vankilan",
-   "ovi"
+   "vankilan ovi",
+   "vankilan ovi"
   ]
  },
  {
@@ -4273,8 +4043,7 @@
   "Synonyms": [
    "revolve",
    "rotate",
-   "py\u00f6riv\u00e4",
-   "ovi",
+   "py\u00f6riv\u00e4 ovi",
    "hotelli",
    "lentokentt\u00e4",
    "ostoskeskus"
@@ -4287,10 +4056,8 @@
   "SubCategory": "LIUKUOVI",
   "Synonyms": [
    "lasiliukuovi",
-   "terassin",
-   "ovi",
-   "suihkun",
-   "ovi"
+   "terassin ovi",
+   "suihkun ovi"
   ]
  },
  {
@@ -4303,8 +4070,7 @@
    "krypta",
    "temppeli",
    "mausoleumi",
-   "salainen",
-   "sis\u00e4\u00e4nk\u00e4ynti"
+   "salainen sis\u00e4\u00e4nk\u00e4ynti"
   ]
  },
  {
@@ -4313,14 +4079,10 @@
   "CatID": "DOORSwng",
   "SubCategory": "HEILURI",
   "Synonyms": [
-   "saluunan",
-   "ovi",
+   "saluunan ovi",
    "liikenneovi",
-   "ravintolan",
-   "ovi",
-   "kirkon",
-   "saarnastuolin",
-   "ovi"
+   "ravintolan ovi",
+   "kirkon saarnastuolin ovi"
   ]
  },
  {
@@ -4330,8 +4092,7 @@
   "SubCategory": "PUU",
   "Synonyms": [
    "sis\u00e4\u00e4nk\u00e4ynti",
-   "ulko",
-   "ovi",
+   "ulko-ovi",
    "kaappi"
   ]
  },
@@ -4364,8 +4125,7 @@
   "SubCategory": "MUOVI",
   "Synonyms": [
    "varaosalaatikko",
-   "ty\u00f6p\u00f6yd\u00e4n",
-   "j\u00e4rjestelij\u00e4"
+   "ty\u00f6p\u00f6yd\u00e4n j\u00e4rjestelij\u00e4"
   ]
  },
  {
@@ -4374,10 +4134,8 @@
   "CatID": "DRWRWood",
   "SubCategory": "PUU",
   "Synonyms": [
-   "keitti\u00f6n",
-   "laatikko",
-   "kylpyhuoneen",
-   "laatikko"
+   "keitti\u00f6n laatikko",
+   "kylpyhuoneen laatikko"
   ]
  },
  {
@@ -4386,10 +4144,8 @@
   "CatID": "ELECArc",
   "SubCategory": "VALOKAARI",
   "Synonyms": [
-   "jaakobin",
-   "tikkaat",
-   "tesla",
-   "kela",
+   "jaakobin tikkaat",
+   "tesla-kela",
    "arkki",
    "kaari",
    "voimalaitos",
@@ -4403,14 +4159,10 @@
   "SubCategory": "SURINA & HUMINA",
   "Synonyms": [
    "maahumina",
-   "vahvistimen",
-   "humina",
-   "vahvistimen",
-   "surina",
-   "kaiuttimen",
-   "humina",
-   "kaiuttimen",
-   "surina",
+   "vahvistimen humina",
+   "vahvistimen surina",
+   "kaiuttimen humina",
+   "kaiuttimen surina",
    "humina",
    "surina",
    "induktiohumina",
@@ -4473,8 +4225,7 @@
    "ohjakset",
    "talutushihna",
    "valjaat",
-   "koiran",
-   "talutushihna",
+   "koiran talutushihna",
    "satulahihna"
   ]
  },
@@ -4539,8 +4290,7 @@
    "ammusvy\u00f6",
    "poliisi",
    "armeija",
-   "panssarivaunuvy\u00f6",
-   ""
+   "panssarivaunuvy\u00f6."
   ]
  },
  {
@@ -4584,8 +4334,7 @@
    "kitti",
    "razzberry",
    "raspberry",
-   "whoopie",
-   "cushion",
+   "whoopie cushion",
    "flarp",
    "kainalo",
    "fartbag",
@@ -4599,8 +4348,7 @@
   "CatID": "FARTMisc",
   "SubCategory": "SEKALAINEN",
   "Synonyms": [
-   "el\u00e4in",
-   "pieru"
+   "el\u00e4in pieru"
   ]
  },
  {
@@ -4609,8 +4357,7 @@
   "CatID": "FARTReal",
   "SubCategory": "REALISTINEN",
   "Synonyms": [
-   "ihmisen",
-   "pieru",
+   "ihmisen pieru",
    "ilmavaivat",
    "pieru",
    "pieru",
@@ -4625,11 +4372,9 @@
   "SubCategory": "BODYFALL",
   "Synonyms": [
    "bodyfall",
-   "body",
-   "drag",
+   "body drag",
    "scuffle",
-   "body",
-   "slam",
+   "body slam",
    "tackle",
    "taklaus"
   ]
@@ -4676,8 +4421,7 @@
    "r\u00e4hin\u00e4",
    "t\u00f6n\u00e4isy",
    "nokitus",
-   "yl\u00e4viimeinen",
-   "ly\u00f6nti",
+   "yl\u00e4viimeinen ly\u00f6nti",
    "jab"
   ]
  },
@@ -4716,10 +4460,8 @@
   "SubCategory": "R\u00c4J\u00c4HDYS",
   "Synonyms": [
    "backdraft",
-   "lohik\u00e4\u00e4rmeen",
-   "tuli",
-   "nielaista",
-   ""
+   "lohik\u00e4\u00e4rmeen tuli",
+   "nielaista."
   ]
  },
  {
@@ -4744,8 +4486,7 @@
    "bunsenpoltin",
    "uuni",
    "retkikeitin",
-   "keitti\u00f6n",
-   "liesi",
+   "keitti\u00f6n liesi",
    "krematorio",
    "kaasuliesi"
   ]
@@ -4761,11 +4502,8 @@
    "zippo",
    "syttyy",
    "purkautuu",
-   "syttyy",
-   "tuleen",
-   "syttyy",
-   "tuleen",
-   ""
+   "syttyy tuleen",
+   "syttyy tuleen."
   ]
  },
  {
@@ -4785,8 +4523,7 @@
   "Synonyms": [
    "palopokeri",
    "sulake",
-   "sulake",
-   "palaa"
+   "sulake palaa"
   ]
  },
  {
@@ -4810,8 +4547,7 @@
   "SubCategory": "PY\u00d6RRE",
   "Synonyms": [
    "palopy\u00f6rre",
-   "v\u00e4kivaltainen",
-   "tuli",
+   "v\u00e4kivaltainen tuli",
    "liekinheitt\u00e4j\u00e4",
    "palotornado",
    "nielaista",
@@ -4866,13 +4602,10 @@
    "tuikkukipin\u00e4",
    "pulloraketti",
    "savupommi",
-   "jumping",
-   "jack",
-   "roomalainen",
-   "kynttil\u00e4",
+   "jumping jack",
+   "roomalainen kynttil\u00e4",
    "popper",
-   "kirsikkapommi",
-   ""
+   "kirsikkapommi."
   ]
  },
  {
@@ -4951,8 +4684,7 @@
    "h\u00f6yrytt\u00e4minen",
    "hauduttaminen",
    "sekoittaminen",
-   "hauduttaminen",
-   ""
+   "hauduttaminen."
   ]
  },
  {
@@ -5022,8 +4754,7 @@
    "vilja",
    "liha",
    "kaura",
-   "maissi",
-   ""
+   "maissi."
   ]
  },
  {
@@ -5070,8 +4801,7 @@
   "Synonyms": [
    "hopeaesineet",
    "astiat",
-   "lasin",
-   "kilin\u00e4\u00e4"
+   "lasin kilin\u00e4\u00e4"
   ]
  },
  {
@@ -5153,9 +4883,7 @@
   "SubCategory": "ARCADE",
   "Synonyms": [
    "flipperipallo",
-   "whack",
-   "a",
-   "mole",
+   "whack-a-mole",
    "skeeball",
    "kynsikone"
   ]
@@ -5169,8 +4897,7 @@
    "shakki",
    "tammi",
    "go",
-   "backgammon",
-   ""
+   "backgammon..."
   ]
  },
  {
@@ -5185,8 +4912,7 @@
    "rahapy\u00f6r\u00e4",
    "keno",
    "pokerikone",
-   "pokerikone",
-   ""
+   "pokerikone."
   ]
  },
  {
@@ -5211,16 +4937,13 @@
   "Synonyms": [
    "atari",
    "ps4",
-   "xbox",
-   "one",
-   "xbox",
-   "360",
+   "xbox one",
+   "xbox 360",
    "amstrad",
    "famicom",
    "snes",
    "gameboy",
-   "nintendo",
-   "64",
+   "nintendo 64",
    "playstation",
    "megadrive",
    "psp"
@@ -5262,8 +4985,7 @@
    "viskoosi",
    "roihu",
    "rummutus",
-   "tulivuori",
-   ""
+   "tulivuori..."
   ]
  },
  {
@@ -5272,9 +4994,7 @@
   "CatID": "GEOMisc",
   "SubCategory": "SEKALAINEN",
   "Synonyms": [
-   "kupliva",
-   "kuuma",
-   "allas"
+   "kupliva kuuma allas"
   ]
  },
  {
@@ -5284,8 +5004,7 @@
   "SubCategory": "MUTA",
   "Synonyms": [
    "mudpot",
-   "paint",
-   "pot",
+   "paint pot",
    "tervakuoppa",
    "muta",
    "kupla",
@@ -5299,8 +5018,7 @@
   "CatID": "GLASBrk",
   "SubCategory": "HAJOAMINEN",
   "Synonyms": [
-   "lasi",
-   "rikkoutuu",
+   "lasi rikkoutuu",
    "s\u00e4rkyy",
    "pirstoutuu"
   ]
@@ -5341,11 +5059,9 @@
    "tarttua",
    "asettaa",
    "poimia",
-   "laskea",
-   "alas",
+   "laskea alas",
    "heitt\u00e4\u00e4",
-   "ottaa",
-   "kiinni"
+   "ottaa kiinni"
   ]
  },
  {
@@ -5416,14 +5132,10 @@
   "CatID": "GOREBone",
   "SubCategory": "LUU",
   "Synonyms": [
-   "luun",
-   "napsahdus",
-   "luun",
-   "murtuminen",
-   "luun",
-   "murtuminen",
-   "leuan",
-   "napsahdus",
+   "luun napsahdus",
+   "luun murtuminen",
+   "luun murtuminen",
+   "leuan napsahdus",
    "leuat"
   ]
  },
@@ -5555,8 +5267,7 @@
    "puukottaa",
    "leikata",
    "paloitella",
-   "paloitella",
-   ""
+   "paloitella..."
   ]
  },
  {
@@ -5594,17 +5305,14 @@
   "CatID": "GUNAuto",
   "SubCategory": "AUTOMAATTI",
   "Synonyms": [
-   "ak",
-   "47",
+   "ak-47",
    "m16",
    "konekiv\u00e4\u00e4ri",
-   "tommy",
-   "gun",
+   "tommy gun",
    "uzi",
    "m249",
    "m1919",
-   "gatling",
-   "gun",
+   "gatling gun",
    "minigun",
    ""
   ]
@@ -5629,15 +5337,10 @@
   "Synonyms": [
    "holsteri",
    "ase",
-   "aseen",
-   "nappaaminen",
-   "aseen",
-   "kiinniottaminen",
-   "aseen",
-   "pudottaminen",
-   "aseen",
-   "lataaminen",
-   ""
+   "aseen nappaaminen",
+   "aseen kiinniottaminen",
+   "aseen pudottaminen",
+   "aseen lataaminen."
   ]
  },
  {
@@ -5647,8 +5350,7 @@
   "SubCategory": "HITECH",
   "Synonyms": [
    "kiskoase",
-   "vakooja",
-   "ase"
+   "vakooja-ase"
   ]
  },
  {
@@ -5659,15 +5361,11 @@
   "Synonyms": [
    "clip",
    "cocking",
-   "gun",
-   "rattle",
-   "bolt",
-   "slide",
+   "gun rattle",
+   "bolt slide",
    "lipas",
-   "luodin",
-   "lataus",
-   "gun",
-   "cock"
+   "luodin lataus",
+   "gun cock"
   ]
  },
  {
@@ -5678,8 +5376,7 @@
   "Synonyms": [
    "valopistooli",
    "ilmapistooli",
-   "paintball",
-   "pistooli"
+   "paintball-pistooli"
   ]
  },
  {
@@ -5694,13 +5391,10 @@
    "glock",
    "k\u00e4siase",
    "colt",
-   "smith",
-   "wesson",
-   "sig",
-   "sauer",
+   "smith & wesson",
+   "sig sauer",
    "luger",
-   "walther",
-   "ppk",
+   "walther ppk",
    "browning",
    "ruger",
    "beretta"
@@ -5719,8 +5413,7 @@
    "luger",
    "karbiini",
    "powell",
-   "tarkka",
-   "ampuja",
+   "tarkka-ampuja",
    "mets\u00e4stys",
    "puoliautomaatti"
   ]
@@ -5735,8 +5428,7 @@
    "kaksoispiippuinen",
    "mossberg",
    "winchester",
-   "valmentaja",
-   "aseet"
+   "valmentaja-aseet"
   ]
  },
  {
@@ -5779,8 +5471,7 @@
    "mets\u00e4styskutsu",
    "hirvikutsu",
    "sorsakutsu",
-   "ketun",
-   "torvi"
+   "ketun torvi"
   ]
  },
  {
@@ -5850,11 +5541,7 @@
    "hack",
    "ahem",
    "hoarse",
-   "clear",
-   "throat",
-   "kurkun",
-   "tyhjennys",
-   ""
+   "clear throat (kurkun tyhjennys)"
   ]
  },
  {
@@ -5917,13 +5604,11 @@
    "iho",
    "kutina",
    "l\u00e4ps\u00e4isy",
-   "k\u00e4den",
-   "ote",
+   "k\u00e4den ote",
    "k\u00e4denpuristus",
    "hyv\u00e4ily",
    "hankaus",
-   "sel\u00e4n",
-   "kuorinta"
+   "sel\u00e4n kuorinta"
   ]
  },
  {
@@ -5933,8 +5618,7 @@
   "SubCategory": "AIVASTAMINEN",
   "Synonyms": [
    "aivastelu",
-   "ah",
-   "ku"
+   "ah-ku"
   ]
  },
  {
@@ -5946,8 +5630,7 @@
    "haistella",
    "haistella",
    "haistaa",
-   "nuuskailla",
-   ""
+   "nuuskailla."
   ]
  },
  {
@@ -5959,8 +5642,7 @@
    "kuorsaus",
    "zzz",
    "tukkoinen",
-   "raskas",
-   "hengitys",
+   "raskas hengitys",
    "apnea"
   ]
  },
@@ -6033,8 +5715,7 @@
    "narina",
    "vinkuminen",
    "kitin\u00e4",
-   "narina",
-   ""
+   "narina."
   ]
  },
  {
@@ -6049,9 +5730,7 @@
    "noutaa",
    "laskea",
    "heitt\u00e4\u00e4",
-   "ottaa",
-   "kiinni",
-   ""
+   "ottaa kiinni."
   ]
  },
  {
@@ -6120,11 +5799,9 @@
   "CatID": "LASRGun",
   "SubCategory": "ASE",
   "Synonyms": [
-   "plasma",
-   "ase",
+   "plasma-ase",
    "r\u00e4j\u00e4ytin",
-   "lasertykki",
-   ""
+   "lasertykki."
   ]
  },
  {
@@ -6171,11 +5848,9 @@
    "tarttua",
    "asettaa",
    "poimia",
-   "asettaa",
-   "alas",
+   "asettaa alas",
    "heitt\u00e4\u00e4",
-   "ottaa",
-   "kiinni"
+   "ottaa kiinni"
   ]
  },
  {
@@ -6292,9 +5967,7 @@
    "lastenkyyti",
    "huvipuistokyyti",
    "flipperipallo",
-   "skeeball",
-   "pallo",
-   ""
+   "skeeball-pallo."
   ]
  },
  {
@@ -6306,8 +5979,7 @@
    "painokone",
    "ompelukone",
    "oliivipuristin",
-   "voileip\u00e4kone",
-   ""
+   "voileip\u00e4kone."
   ]
  },
  {
@@ -6328,8 +6000,7 @@
    "silitysrauta",
    "kahvinkeitin",
    "astianpesukone",
-   "s\u00e4hk\u00f6inen",
-   "t\u00f6lkinavaaja",
+   "s\u00e4hk\u00f6inen t\u00f6lkinavaaja",
    "roskienk\u00e4sittelylaite",
    "ilmankostutin",
    "ilmankuivain",
@@ -6371,8 +6042,7 @@
   "SubCategory": "RULLAPORTAAT",
   "Synonyms": [
    "kulkulaite",
-   "liikkuva",
-   "k\u00e4yt\u00e4v\u00e4"
+   "liikkuva k\u00e4yt\u00e4v\u00e4"
   ]
  },
  {
@@ -6385,8 +6055,7 @@
    "kattotuuletin",
    "laatikkotuuletin",
    "teollisuustuuletin",
-   "siivekkeet\u00f6n",
-   "tuuletin"
+   "siivekkeet\u00f6n tuuletin"
   ]
  },
  {
@@ -6415,11 +6084,9 @@
    "eliptical",
    "soutulaite",
    "kuntopy\u00f6r\u00e4",
-   "kiinte\u00e4",
-   "polkupy\u00f6r\u00e4",
+   "kiinte\u00e4 polkupy\u00f6r\u00e4",
    "nordictrack",
-   "porraskiipeilij\u00e4",
-   ""
+   "porraskiipeilij\u00e4."
   ]
  },
  {
@@ -6441,8 +6108,7 @@
   "Synonyms": [
    "ilmastointi",
    "ilmastointi",
-   "l\u00e4mmitys",
-   ""
+   "l\u00e4mmitys."
   ]
  },
  {
@@ -6451,14 +6117,11 @@
   "CatID": "MACHInd",
   "SubCategory": "TEOLLINEN",
   "Synonyms": [
-   "hydraulinen",
-   "puristin",
+   "hydraulinen puristin",
    "kokoonpanolinja",
    "tislaamo",
    "ly\u00f6ntipuristin",
-   "muotopuristin",
-   "f437",
-   "f450"
+   "muotopuristin+f437:f450"
   ]
  },
  {
@@ -6468,8 +6131,7 @@
   "SubCategory": "MEKANISMI",
   "Synonyms": [
    "palapelilaatikko",
-   "rube",
-   "goldberg",
+   "rube goldberg",
    "vempaimia"
   ]
  },
@@ -6482,8 +6144,7 @@
    "r\u00f6ntgenkoneet",
    "mri",
    "kissakuvaus",
-   "lemmikkiel\u00e4inten",
-   "kuvaus",
+   "lemmikkiel\u00e4inten kuvaus",
    "verenpainekone",
    "laboratoriotestikone",
    "sentrifugi",
@@ -6563,8 +6224,7 @@
    "ilma",
    "tuuli",
    "s\u00e4hk\u00f6inen",
-   "s\u00e4hk\u00f6inen",
-   ""
+   "s\u00e4hk\u00f6inen."
   ]
  },
  {
@@ -6578,8 +6238,7 @@
    "kutsua",
    "nekromania",
    "voodoo",
-   "musta",
-   "magia",
+   "musta magia",
    "kielletty"
   ]
  },
@@ -6620,8 +6279,7 @@
    "kimallus",
    "kimallus",
    "kimallus",
-   "kimallus",
-   ""
+   "kimallus."
   ]
  },
  {
@@ -6780,8 +6438,7 @@
   "Synonyms": [
    "rulla",
    "hihna",
-   "linja",
-   "akseli"
+   "linja-akseli"
   ]
  },
  {
@@ -6794,8 +6451,7 @@
    "naksahdus",
    "naksahdus",
    "nappi",
-   "napin",
-   "painallus",
+   "napin painallus",
    "painike"
   ]
  },
@@ -6809,8 +6465,7 @@
    "haljeta",
    "repi\u00e4",
    "murskata",
-   "rapistua",
-   ""
+   "rapistua."
   ]
  },
  {
@@ -6848,12 +6503,9 @@
    "tarttua",
    "asettaa",
    "poimia",
-   "laskea",
-   "alas",
+   "laskea alas",
    "heitt\u00e4\u00e4",
-   "ottaa",
-   "kiinni",
-   ""
+   "ottaa kiinni."
   ]
  },
  {
@@ -6868,8 +6520,7 @@
    "kolahtaa",
    "kolahtaa",
    "kolahtaa",
-   "kolahtaa",
-   ""
+   "kolahtaa."
   ]
  },
  {
@@ -6906,8 +6557,7 @@
    "soi",
    "v\u00e4\u00e4ntyy",
    "taipuu",
-   "resonoi",
-   ""
+   "resonoi."
   ]
  },
  {
@@ -6942,8 +6592,7 @@
    "s\u00e4hk\u00f6partah\u00f6yl\u00e4",
    "s\u00e4hk\u00f6moottori",
    "roskienk\u00e4sittelylaite",
-   "hammasl\u00e4\u00e4k\u00e4rin",
-   "porakone"
+   "hammasl\u00e4\u00e4k\u00e4rin porakone"
   ]
  },
  {
@@ -6962,12 +6611,9 @@
   "SubCategory": "SERVO",
   "Synonyms": [
    "robotti",
-   "rc",
-   "auto",
-   "kameran",
-   "tarkennus",
-   "auton",
-   "antenni",
+   "rc-auto",
+   "kameran tarkennus",
+   "auton antenni",
    "tulostin"
   ]
  },
@@ -6979,8 +6625,7 @@
   "Synonyms": [
    "tuulimylly",
    "lentokone",
-   "ilma",
-   "alus",
+   "ilma-alus",
    "generaattori"
   ]
  },
@@ -6994,8 +6639,7 @@
    "muutto",
    "siivous",
    "ostokset",
-   "pakkausten",
-   "purkaminen"
+   "pakkausten purkaminen"
   ]
  },
  {
@@ -7100,8 +6744,7 @@
    "sekoittaa",
    "sekoittaa",
    "sekoittaa",
-   "kevyt",
-   "liikkuminen",
+   "kevyt liikkuminen",
    "siirtyminen"
   ]
  },
@@ -7114,17 +6757,14 @@
    "putkikellot",
    "soittokello",
    "gamelan",
-   "laulava",
-   "kulho",
+   "laulava kulho",
    "k\u00e4sikello",
    "lehm\u00e4nkello",
    "gong",
    "gamelan",
    "agung",
    "kulhogong",
-   "tam",
-   "tam",
-   ""
+   "tam-tam."
   ]
  },
  {
@@ -7144,8 +6784,7 @@
    "siipitorvi",
    "k\u00e4yr\u00e4torvi",
    "saksofoni",
-   "k\u00e4yr\u00e4torvi",
-   ""
+   "k\u00e4yr\u00e4torvi."
   ]
  },
  {
@@ -7185,10 +6824,8 @@
    "pyrofoni",
    "stylofoni",
    "kristallibasketti",
-   "s\u00e4hk\u00f6istetty",
-   "kaktus",
-   "aeolian",
-   "tuuliharppu"
+   "s\u00e4hk\u00f6istetty kaktus",
+   "aeolian tuuliharppu"
   ]
  },
  {
@@ -7216,8 +6853,7 @@
    "klavinetti",
    "klavikordi",
    "harmonium",
-   "dulcitone",
-   ""
+   "dulcitone."
   ]
  },
  {
@@ -7271,8 +6907,7 @@
    "metallofoni",
    "lyyra",
    "ter\u00e4srumpu",
-   "marimba",
-   ""
+   "marimba."
   ]
  },
  {
@@ -7283,8 +6918,7 @@
   "Synonyms": [
    "b\u00e4ndi",
    "katumuusikko",
-   "live",
-   "konsertti",
+   "live-konsertti",
    "show",
    "y\u00f6kerho",
    ""
@@ -7300,8 +6934,7 @@
    "banjo",
    "ukelele",
    "harppu",
-   "akustinen",
-   "kitara",
+   "akustinen kitara",
    "bassokitara",
    "mandoliini",
    "balalaika",
@@ -7317,8 +6950,7 @@
    "lyra",
    "oud",
    "tambura",
-   "karimba",
-   ""
+   "karimba."
   ]
  },
  {
@@ -7329,8 +6961,7 @@
   "Synonyms": [
    "n\u00e4ytteet",
    "raakan\u00e4ytteet",
-   "one",
-   "shot"
+   "one-shot"
   ]
  },
  {
@@ -7343,12 +6974,10 @@
    "tamburiini",
    "rattles",
    "rainstick",
-   "shekere",
-   "egg",
-   "shaker",
+   "shekere ",
+   "egg shaker",
    "chajchas",
-   "monkey",
-   "stick",
+   "monkey stick",
    "katsa",
    "sistrum",
    "shaker",
@@ -7362,8 +6991,7 @@
   "SubCategory": "KAPPALE & FRAASI",
   "Synonyms": [
    "musiikki",
-   "soitin",
-   "piano",
+   "soitin piano",
    "soitto\u00e4\u00e4ni",
    "musiikkiauto",
    "fraasi",
@@ -7420,10 +7048,7 @@
   "SubCategory": "LELU",
   "Synonyms": [
    "soittorasia",
-   "jack",
-   "in",
-   "the",
-   "box"
+   "jack in the box"
   ]
  },
  {
@@ -7512,9 +7137,7 @@
    "taifuuni",
    "hurrikaani",
    "py\u00f6rremyrsky",
-   "trooppinen",
-   "myrsky",
-   ""
+   "trooppinen myrsky."
   ]
  },
  {
@@ -7542,8 +7165,7 @@
    "k\u00e4silaukku",
    "k\u00e4silaukku",
    "olkalaukku",
-   "kameralaukku",
-   ""
+   "kameralaukku."
   ]
  },
  {
@@ -7575,15 +7197,12 @@
    "ping",
    "dump",
    "spin",
-   "piggy",
-   "bank",
+   "piggy bank",
    "clink",
    "coinage",
-   "loose",
+   "loose change",
    "change",
-   "change",
-   "silver",
-   "dollar",
+   "silver dollar",
    "penny",
    "nickel",
    "dime",
@@ -7608,8 +7227,7 @@
    "leip\u00e4laatikko",
    "kanisteri",
    "ty\u00f6kalulaatikko",
-   "pillerilaatikko",
-   ""
+   "pillerilaatikko."
   ]
  },
  {
@@ -7665,8 +7283,7 @@
    "kirjahylly",
    "s\u00e4nky",
    "sohva",
-   "lipasto",
-   ""
+   "lipasto."
   ]
  },
  {
@@ -7680,8 +7297,7 @@
    "letku",
    "hana",
    "kastelukannu",
-   "lintujen",
-   "ruokinta",
+   "lintujen ruokinta",
    "kompostori"
   ]
  },
@@ -7733,8 +7349,7 @@
    "riipus",
    "solmioneula",
    "kalvosinnappi",
-   "kalvosinnapit",
-   ""
+   "kalvosinnapit."
   ]
  },
  {
@@ -7747,8 +7362,7 @@
    "avaimenper\u00e4",
    "avaimenper\u00e4",
    "avaimenper\u00e4",
-   "avaimenper\u00e4",
-   ""
+   "avaimenper\u00e4."
   ]
  },
  {
@@ -7760,8 +7374,7 @@
    "matkalaukku",
    "matkatavarat",
    "pussukka",
-   "duffel",
-   "bag",
+   "duffel bag",
    "duffel"
   ]
  },
@@ -7771,8 +7384,7 @@
   "CatID": "OBJMed",
   "SubCategory": "SAIRAALA & APTEEKKI",
   "Synonyms": [
-   "k\u00e4sik\u00e4ytt\u00f6inen",
-   "verenpainemittari",
+   "k\u00e4sik\u00e4ytt\u00f6inen verenpainemittari",
    "stetoskooppi",
    "kumihanskat",
    "puristin",
@@ -7797,8 +7409,7 @@
   "Synonyms": [
    "nitoja",
    "paperileikkuri",
-   "rei",
-   "itysleikkuri",
+   "rei'itysleikkuri",
    "sakset",
    "paperilokero",
    "paperipaino",
@@ -7834,12 +7445,9 @@
    "pakkausteippi",
    "maalarinteippi",
    "ilmastointiteippi",
-   "gaffer",
-   "teippi",
-   "skotch",
-   "teippi",
-   "kaksinkertainen",
-   "teippi"
+   "gaffer-teippi",
+   "skotch-teippi",
+   "kaksinkertainen teippi"
   ]
  },
  {
@@ -7851,8 +7459,7 @@
    "ravistaa",
    "kolisee",
    "paukkuu",
-   "kolahtaa",
-   ""
+   "kolahtaa..."
   ]
  },
  {
@@ -7869,8 +7476,7 @@
    "rattaat",
    "k\u00e4rryt",
    "kantotuoli",
-   "rattaat",
-   ""
+   "rattaat."
   ]
  },
  {
@@ -7949,8 +7555,7 @@
   "CatID": "PAPRImpt",
   "SubCategory": "ISKU",
   "Synonyms": [
-   "paperi",
-   "ly\u00f6d\u00e4",
+   "paperi ly\u00f6d\u00e4",
    "l\u00e4im\u00e4ytt\u00e4\u00e4",
    "l\u00e4ps\u00e4ytt\u00e4\u00e4",
    "sanomalehti",
@@ -8045,11 +7650,9 @@
    "tarttua",
    "asettaa",
    "noutaa",
-   "laskea",
-   "alas",
+   "laskea alas",
    "heitt\u00e4\u00e4",
-   "ottaa",
-   "kiinni"
+   "ottaa kiinni"
   ]
  },
  {
@@ -8117,8 +7720,7 @@
    "sade",
    "sementti",
    "jalkak\u00e4yt\u00e4v\u00e4",
-   "asfaltti",
-   ""
+   "asfaltti."
   ]
  },
  {
@@ -8155,12 +7757,9 @@
   "Synonyms": [
    "sade",
    "sadekuuro",
-   "sis\u00e4tilojen",
-   "sade",
-   "tuulilasin",
-   "sade",
-   "sade",
-   "katolla"
+   "sis\u00e4tilojen sade",
+   "tuulilasin sade",
+   "sade katolla"
   ]
  },
  {
@@ -8196,15 +7795,8 @@
   "CatID": "RAINVege",
   "SubCategory": "KASVILLISUUS",
   "Synonyms": [
-   "sade",
-   "metallipinnalle",
-   "siis",
-   "sade",
-   "autolle",
-   "tai",
-   "metallilevylle",
-   "jne",
-   ""
+   "sade metallipinnalle",
+   "siis sade autolle tai metallilevylle jne."
   ]
  },
  {
@@ -8256,8 +7848,7 @@
    "pneumaattinen",
    "hydraulinen",
    "droid",
-   "robotti",
-   ""
+   "robotti."
   ]
  },
  {
@@ -8270,8 +7861,7 @@
    "chirp",
    "beep",
    "whistle",
-   "bot",
-   ""
+   "bot."
   ]
  },
  {
@@ -8284,8 +7874,7 @@
    "halkeaa",
    "repe\u00e4\u00e4",
    "murskaantuu",
-   "murskaantuu",
-   ""
+   "murskaantuu..."
   ]
  },
  {
@@ -8322,12 +7911,9 @@
    "tarttua",
    "asettaa",
    "noutaa",
-   "asettaa",
-   "alas",
+   "asettaa alas",
    "heitt\u00e4\u00e4",
-   "ottaa",
-   "kiinni",
-   ""
+   "ottaa kiinni."
   ]
  },
  {
@@ -8378,8 +7964,7 @@
    "ring",
    "wronk",
    "shing",
-   "warp",
-   ""
+   "warp."
   ]
  },
  {
@@ -8403,8 +7988,7 @@
    "grab",
    "set",
    "pickup",
-   "set",
-   "down",
+   "set down",
    "toss",
    "catch",
    "catch"
@@ -8466,11 +8050,9 @@
    "drag",
    "rub",
    "scrape",
-   "groan",
-   "vinkua",
+   "groan (vinkua",
    "narista",
-   "vet\u00e4\u00e4",
-   ""
+   "vet\u00e4\u00e4)"
   ]
  },
  {
@@ -8483,8 +8065,7 @@
    "grab",
    "set",
    "pickup",
-   "set",
-   "down",
+   "set down",
    "toss",
    "catch",
    "catch"
@@ -8542,9 +8123,7 @@
   "CatID": "SCIAlrm",
   "SubCategory": "H\u00c4LYTIN",
   "Synonyms": [
-   "sci",
-   "fi",
-   "h\u00e4lytys",
+   "sci-fi h\u00e4lytys",
    "h\u00e4lytys",
    "varoitus"
   ]
@@ -8558,8 +8137,7 @@
    "tietokone",
    "konsoli",
    "k\u00e4ytt\u00f6liittym\u00e4",
-   "holoruutu",
-   ""
+   "holoruutu."
   ]
  },
  {
@@ -8568,9 +8146,7 @@
   "CatID": "SCIDoor",
   "SubCategory": "OVI",
   "Synonyms": [
-   "sci",
-   "fi",
-   "ovi",
+   "sci-fi ovi",
    "ilmalukko"
   ]
  },
@@ -8594,8 +8170,7 @@
   "SubCategory": "ISKU",
   "Synonyms": [
    "energiaisku",
-   "energia",
-   "aalto",
+   "energia-aalto",
    "voimakentt\u00e4"
   ]
  },
@@ -8637,8 +8212,7 @@
   "CatID": "SCIRetro",
   "SubCategory": "RETRO",
   "Synonyms": [
-   "vanha",
-   "scifi"
+   "vanha scifi"
   ]
  },
  {
@@ -8660,8 +8234,7 @@
   "CatID": "SCIVeh",
   "SubCategory": "KULKUV\u00c4LINE",
   "Synonyms": [
-   "kuun",
-   "kulkija",
+   "kuun kulkija",
    "maastoajoneuvo",
    "kiihdytinpy\u00f6r\u00e4",
    "ilmatyynyalusta",
@@ -8675,8 +8248,7 @@
   "SubCategory": "ASE",
   "Synonyms": [
    "valomiekat",
-   "eksoottinen",
-   "ase"
+   "eksoottinen ase"
   ]
  },
  {
@@ -8715,9 +8287,7 @@
    "noutaa",
    "laskea",
    "heitt\u00e4\u00e4",
-   "ottaa",
-   "kiinni",
-   ""
+   "ottaa kiinni."
   ]
  },
  {
@@ -8771,8 +8341,7 @@
    "squash",
    "polttopallo",
    "shuffleboard",
-   "k\u00e4sipallo",
-   ""
+   "k\u00e4sipallo."
   ]
  },
  {
@@ -8804,13 +8373,9 @@
    "kamppailulajit",
    "karate",
    "judo",
-   "tae",
-   "kwon",
-   "do",
+   "tae kwon do",
    "dojo",
-   "kung",
-   "fu",
-   ""
+   "kung-fu."
   ]
  },
  {
@@ -8822,8 +8387,7 @@
    "keilailu",
    "biljardi",
    "pingis",
-   "tikanheitto",
-   ""
+   "tikanheitto."
   ]
  },
  {
@@ -8844,8 +8408,7 @@
    "rullalautailu",
    "rullaluistelu",
    "rullaluistelu",
-   "potkulautailu",
-   ""
+   "potkulautailu."
   ]
  },
  {
@@ -8858,8 +8421,7 @@
    "juoksu",
    "seiv\u00e4shyppy",
    "kuulanty\u00f6nt\u00f6",
-   "keih\u00e4\u00e4nheitto",
-   ""
+   "keih\u00e4\u00e4nheitto."
   ]
  },
  {
@@ -8893,8 +8455,7 @@
    "curling",
    "j\u00e4\u00e4kiekko",
    "kelkkailu",
-   "pikaluistelu",
-   ""
+   "pikaluistelu."
   ]
  },
  {
@@ -8935,8 +8496,7 @@
    "maanmuokkaaja",
    "oksasakset",
    "lapio",
-   "rikkaruohomurskaaja",
-   ""
+   "rikkaruohomurskaaja."
   ]
  },
  {
@@ -8996,8 +8556,7 @@
    "hiomakone",
    "hihnahiomakone",
    "jyrsin",
-   "s\u00e4hk\u00f6k\u00e4ytt\u00f6inen",
-   "ruuvinv\u00e4\u00e4nnin",
+   "s\u00e4hk\u00f6k\u00e4ytt\u00f6inen ruuvinv\u00e4\u00e4nnin",
    "kuumailmapuhallin",
    "porakone",
    "p\u00f6yt\u00e4saha"
@@ -9009,13 +8568,9 @@
   "CatID": "TOYElec",
   "SubCategory": "ELEKTRONINEN",
   "Synonyms": [
-   "kauko",
-   "ohjattava",
-   "auto",
+   "kauko-ohjattava auto",
    "peliauto",
-   "puhu",
-   "ja",
-   "loitsu",
+   "puhu ja loitsu",
    "furby"
   ]
  },
@@ -9025,13 +8580,10 @@
   "CatID": "TOYMech",
   "SubCategory": "MEKAANINEN",
   "Synonyms": [
-   "kelattava",
-   "lelu",
+   "kelattava lelu",
    "lelurobotti",
-   "kelattava",
-   "lelu",
-   "kelattava",
-   "lelu"
+   "kelattava lelu",
+   "kelattava lelu"
   ]
  },
  {
@@ -9071,10 +8623,8 @@
   "CatID": "TRNDoor",
   "SubCategory": "OVI",
   "Synonyms": [
-   "junan",
-   "ovi",
-   "metron",
-   "ovi"
+   "junan ovi",
+   "metron ovi"
   ]
  },
  {
@@ -9083,8 +8633,7 @@
   "CatID": "TRNDiesl",
   "SubCategory": "DIESELVETURI",
   "Synonyms": [
-   "diesel",
-   "juna"
+   "diesel-juna"
   ]
  },
  {
@@ -9096,11 +8645,8 @@
    "l\u00e4hijuna",
    "aluejuna",
    "kaupunkijuna",
-   "kaupunkien",
-   "v\u00e4linen",
-   "juna",
-   "kevytrautatie",
-   ""
+   "kaupunkien v\u00e4linen juna",
+   "kevytrautatie."
   ]
  },
  {
@@ -9122,10 +8668,8 @@
   "CatID": "TRNHorn",
   "SubCategory": "TORVI",
   "Synonyms": [
-   "junan",
-   "torvi",
-   "metron",
-   "torvi"
+   "junan torvi",
+   "metron torvi"
   ]
  },
  {
@@ -9137,9 +8681,7 @@
    "l\u00e4hijuna",
    "aluejuna",
    "kaupunkijuna",
-   "kaupunkien",
-   "v\u00e4linen",
-   "juna",
+   "kaupunkien v\u00e4linen juna",
    "kevytrautatie",
    "tavarajuna",
    "metro",
@@ -9200,8 +8742,7 @@
    "k\u00f6ysirata",
    "k\u00f6ysirata",
    "k\u00f6ysirata",
-   "tartuntakiskovaunu",
-   ""
+   "tartuntakiskovaunu."
   ]
  },
  {
@@ -9223,10 +8764,8 @@
   "CatID": "UIBeep",
   "SubCategory": "PIIPPAUS",
   "Synonyms": [
-   "tietokoneen",
-   "\u00e4\u00e4nimerkki",
-   "puhelimen",
-   "\u00e4\u00e4nimerkki"
+   "tietokoneen \u00e4\u00e4nimerkki",
+   "puhelimen \u00e4\u00e4nimerkki"
   ]
  },
  {
@@ -9261,11 +8800,8 @@
    "glitch",
    "toimintah\u00e4iri\u00f6",
    "vika",
-   "ydin",
-   "paniikki",
-   "guru",
-   "meditaatio",
-   "virhe"
+   "ydin paniikki",
+   "guru meditaatio virhe"
   ]
  },
  {
@@ -9286,8 +8822,7 @@
    "pyyhk\u00e4isy",
    "selaus",
    "zoomaus",
-   "sivujen",
-   "selaus"
+   "sivujen selaus"
   ]
  },
  {
@@ -9296,13 +8831,10 @@
   "CatID": "VEGEGras",
   "SubCategory": "HEIN\u00c4",
   "Synonyms": [
-   "ruohon",
-   "kahina",
+   "ruohon kahina",
    "k\u00e4veleminen",
    "hein\u00e4n",
-   "vehn\u00e4n",
-   "l\u00e4pi",
-   ""
+   "vehn\u00e4n l\u00e4pi..."
   ]
  },
  {
@@ -9311,12 +8843,9 @@
   "CatID": "VEGELeaf",
   "SubCategory": "LEHTI",
   "Synonyms": [
-   "lehtien",
-   "py\u00f6rre",
-   "lehtien",
-   "putoaminen",
-   "lehtien",
-   "putoaminen",
+   "lehtien py\u00f6rre",
+   "lehtien putoaminen",
+   "lehtien putoaminen",
    "lehtikasa"
   ]
  },
@@ -9335,12 +8864,9 @@
   "CatID": "VEGETree",
   "SubCategory": "PUU",
   "Synonyms": [
-   "puun",
-   "kaatuminen",
-   "oksan",
-   "katkeaminen",
-   "oksan",
-   "katkeaminen",
+   "puun kaatuminen",
+   "oksan katkeaminen",
+   "oksan katkeaminen",
    "oksa",
    "oksa"
   ]
@@ -9355,10 +8881,8 @@
    "auto",
    "automobile",
    "autoh\u00e4lytin",
-   "h\u00e4lyttimen",
-   "viritys",
-   "virityksen",
-   "poisto",
+   "h\u00e4lyttimen viritys",
+   "virityksen poisto",
    "h\u00e4lytyslaite",
    "fob"
   ]
@@ -9374,10 +8898,8 @@
    "auto",
    "automobile",
    "oldsmobile",
-   "a",
-   "malli",
-   "t",
-   "malli"
+   "a-malli",
+   "t-malli"
   ]
  },
  {
@@ -9391,8 +8913,7 @@
    "nelipy\u00f6r\u00e4inen",
    "nelipy\u00f6r\u00e4inen",
    "nelipy\u00f6r\u00e4",
-   "dyyni",
-   "buggy"
+   "dyyni buggy"
   ]
  },
  {
@@ -9415,8 +8936,7 @@
   "CatID": "VEHBrake",
   "SubCategory": "JARRU",
   "Synonyms": [
-   "jarrujen",
-   "vinkuminen",
+   "jarrujen vinkuminen",
    "narina",
    "narskutus",
    "jauhaminen"
@@ -9430,13 +8950,10 @@
   "Synonyms": [
    "kaupunkibussi",
    "koulubussi",
-   "greyhound",
-   "bussi",
-   "linja",
-   "auto",
+   "greyhound-bussi",
+   "linja-auto",
    "turistibussi",
-   "kaksikerroksinen",
-   "bussi"
+   "kaksikerroksinen bussi"
   ]
  },
  {
@@ -9475,13 +8992,9 @@
    "auto",
    "auto",
    "henkil\u00f6auto",
-   "auton",
-   "ovi",
-   "pakettiauton",
-   "ovi",
-   "kuorma",
-   "auton",
-   "ovi"
+   "auton ovi",
+   "pakettiauton ovi",
+   "kuorma-auton ovi"
   ]
  },
  {
@@ -9509,10 +9022,8 @@
    "paloauto",
    "ambulanssi",
    "poliisiauto",
-   "swat",
-   "auto",
-   "swat",
-   "pakettiauto"
+   "swat-auto",
+   "swat-pakettiauto"
   ]
  },
  {
@@ -9533,19 +9044,12 @@
   "CatID": "VEHFrght",
   "SubCategory": "RAHTI",
   "Synonyms": [
-   "iso",
-   "kuorma",
-   "auto",
-   "kuorma",
-   "auto",
+   "iso kuorma-auto",
+   "kuorma-auto",
    "puolirekka",
-   "u",
-   "haul",
-   "kuorma",
-   "auto",
+   "u-haul kuorma-auto",
    "penske",
-   "laatikkokuorma",
-   "auto",
+   "laatikkokuorma-auto",
    "tavarankuljetusrekka"
   ]
  },
@@ -9572,8 +9076,7 @@
    "auto",
    "auto",
    "auto",
-   "auton",
-   "torvi"
+   "auton torvi"
   ]
  },
  {
@@ -9583,8 +9086,7 @@
   "SubCategory": "INTERI\u00d6\u00d6RI",
   "Synonyms": [
    "auto",
-   "kuorma",
-   "auto",
+   "kuorma-auto",
    "pakettiauto",
    "sisustus",
    "ajo",
@@ -9604,8 +9106,7 @@
    "hoopty",
    "clunker",
    "junker",
-   "false",
-   "start",
+   "false start",
    "misfiring",
    "malfunctioning",
    "misfire",
@@ -9638,8 +9139,7 @@
   "Synonyms": [
    "panssarivaunu",
    "apc",
-   "panssaroitu",
-   "miehist\u00f6nkuljetusvaunu",
+   "panssaroitu miehist\u00f6nkuljetusvaunu",
    "humvee",
    "jeeppi"
   ]
@@ -9677,19 +9177,13 @@
    "auto",
    "auto",
    "automobile",
-   "kilpa",
-   "auto",
-   "drag",
-   "race",
-   "car",
+   "kilpa-auto",
+   "drag race car",
    "indy",
-   "formula",
-   "1",
+   "formula 1",
    "nascar",
-   "grand",
-   "prix",
-   "monster",
-   "truck"
+   "grand prix",
+   "monster truck"
   ]
  },
  {
@@ -9702,8 +9196,7 @@
    "poliisi",
    "sireeni",
    "paloauto",
-   "palomies",
-   ""
+   "palomies."
   ]
  },
  {
@@ -9712,8 +9205,7 @@
   "CatID": "VEHSkid",
   "SubCategory": "RENGAS LIUKU",
   "Synonyms": [
-   "rengas",
-   "luistaa",
+   "rengas luistaa",
    "kuoriutua",
    "chuff",
    "burnout"
@@ -9728,8 +9220,7 @@
    "jousitus",
    "iskunjouset",
    "vinkuminen",
-   "kolina",
-   ""
+   "kolina."
   ]
  },
  {
@@ -9754,12 +9245,10 @@
    "auto",
    "henkil\u00f6auto",
    "henkil\u00f6auto",
-   "lava",
-   "auto",
+   "lava-auto",
    "pakettiauto",
    "maasturi",
-   "lava",
-   "auto",
+   "lava-auto",
    ""
   ]
  },
@@ -9771,9 +9260,7 @@
   "Synonyms": [
    "utv",
    "sxs",
-   "side",
-   "by",
-   "side",
+   "side by side",
    "rzr",
    "ranger",
    "cushman",
@@ -9790,8 +9277,7 @@
    "stagecoach",
    "buggy",
    "carriage",
-   "wood",
-   "cart"
+   "wood cart"
   ]
  },
  {
@@ -9803,12 +9289,9 @@
    "auto",
    "auto",
    "automobile",
-   "automaattinen",
-   "ikkuna",
-   "s\u00e4hk\u00f6inen",
-   "ikkuna",
-   "s\u00e4hk\u00f6inen",
-   "ikkuna"
+   "automaattinen ikkuna",
+   "s\u00e4hk\u00f6inen ikkuna",
+   "s\u00e4hk\u00f6inen ikkuna"
   ]
  },
  {
@@ -9857,8 +9340,7 @@
   "Synonyms": [
    "lapsi",
    "teini",
-   "teini",
-   "ik\u00e4inen"
+   "teini-ik\u00e4inen"
   ]
  },
  {
@@ -9873,8 +9355,7 @@
    "vinkua",
    "r\u00e4ksytt\u00e4\u00e4",
    "h\u00f6ss\u00f6tt\u00e4\u00e4",
-   "haavoittunut",
-   ""
+   "haavoittunut..."
   ]
  },
  {
@@ -9908,8 +9389,7 @@
   "SubCategory": "KAIUTIN",
   "Synonyms": [
    "puhuja",
-   "julkinen",
-   "puhe",
+   "julkinen puhe",
    "ilmoitus"
   ]
  },
@@ -10045,8 +9525,7 @@
    "viem\u00e4ri",
    "suihku",
    "pesuallas",
-   "myrskyviem\u00e4ri",
-   ""
+   "myrskyviem\u00e4ri."
   ]
  },
  {
@@ -10060,8 +9539,7 @@
    "pl\u00e4j\u00e4ht\u00e4\u00e4",
    "tihkua",
    "vuotaa",
-   "luolastua",
-   ""
+   "luolastua."
   ]
  },
  {
@@ -10117,8 +9595,7 @@
    "splash",
    "bellyflop",
    "cannonball",
-   "depth",
-   "charge",
+   "depth charge",
    "sploosh",
    "sploosh"
   ]
@@ -10164,9 +9641,7 @@
   "CatID": "WATRPlmb",
   "SubCategory": "VESIJOHTO",
   "Synonyms": [
-   "wc",
-   "n",
-   "huuhtelu",
+   "wc:n huuhtelu",
    "pesuallas",
    "suihku",
    ""
@@ -10223,8 +9698,7 @@
    "spritz",
    "sumu",
    "h\u00f6yry",
-   "m\u00e4rk\u00e4",
-   "hiss",
+   "m\u00e4rk\u00e4 hiss",
    "sputter",
    "sputter"
   ]
@@ -10311,8 +9785,7 @@
    "domaru",
    "lastoitus",
    "haramaki",
-   "kilpi",
-   ""
+   "kilpi."
   ]
  },
  {
@@ -10324,8 +9797,7 @@
    "nuoli",
    "pultti",
    "jousipyssy",
-   "v\u00e4risev\u00e4",
-   "jousipyssy"
+   "v\u00e4risev\u00e4 jousipyssy"
   ]
  },
  {
@@ -10350,9 +9822,7 @@
    "maila",
    "maila",
    "keih\u00e4s",
-   "pallo",
-   "ja",
-   "ketju",
+   "pallo ja ketju",
    "nunchuck",
    "sotavasara",
    "sotavasara",
@@ -10361,8 +9831,7 @@
    "r\u00e4pyl\u00e4",
    "tonfa",
    "y\u00f6keppi",
-   "nuijasauva",
-   ""
+   "nuijasauva."
   ]
  },
  {
@@ -10386,15 +9855,11 @@
    "puukko",
    "perhosveitsi",
    "mets\u00e4stysveitsi",
-   "yleisk\u00e4ytt\u00f6\u00f6n",
-   "tarkoitettu",
-   "veitsi",
+   "yleisk\u00e4ytt\u00f6\u00f6n tarkoitettu veitsi",
    "leikkuuveitsi",
    "teurastusveitsi",
-   "juoksuhaudan",
-   "puukko",
-   "kokkiveitsi",
-   ""
+   "juoksuhaudan puukko",
+   "kokkiveitsi."
   ]
  },
  {
@@ -10432,8 +9897,7 @@
    "trebuchet",
    "rynn\u00e4kk\u00f6pylv\u00e4s",
    "ballista",
-   "piiritystorni",
-   ""
+   "piiritystorni."
   ]
  },
  {
@@ -10549,12 +10013,9 @@
    "h\u00f6yrylaiva",
    "erotuomari",
    "putki",
-   "poliisin",
-   "pilli",
+   "poliisin pilli",
    "teepannu",
-   "junan",
-   "pilli",
-   ""
+   "junan pilli."
   ]
  },
  {
@@ -10627,8 +10088,7 @@
    "ulvonta",
    "vihellys",
    "valitusvirsi",
-   "tonaalinen",
-   "\u00e4\u00e4ni"
+   "tonaalinen \u00e4\u00e4ni"
   ]
  },
  {
@@ -10638,12 +10098,9 @@
   "SubCategory": "PY\u00d6RRE",
   "Synonyms": [
    "buffet",
-   "myrskyis\u00e4",
-   "tuuli",
-   "voimakas",
-   "tuuli",
-   "raju",
-   "tuuli",
+   "myrskyis\u00e4 tuuli",
+   "voimakas tuuli",
+   "raju tuuli",
    "buffet"
   ]
  },
@@ -10683,13 +10140,11 @@
   "CatID": "WNDWHdwr",
   "SubCategory": "KAHVA & LUKKO",
   "Synonyms": [
-   "ikkunan",
-   "salpa",
+   "ikkunan salpa",
    "ikkunakahva",
    "ikkunalukko",
    "ikkunatiiviste",
-   "ikkunan",
-   "tiiviste"
+   "ikkunan tiiviste"
   ]
  },
  {
@@ -10745,8 +10200,7 @@
   "CatID": "WINGBird",
   "SubCategory": "LINTU",
   "Synonyms": [
-   "linnun",
-   "siipi",
+   "linnun siipi",
    "l\u00e4pp\u00e4",
    "lepatus"
   ]
@@ -10757,21 +10211,13 @@
   "CatID": "WINGCrea",
   "SubCategory": "OLIO",
   "Synonyms": [
-   "lohik\u00e4\u00e4rmeen",
-   "siipi",
-   "keijun",
-   "siipi",
-   "aarnikotkan",
-   "siipi",
-   "sfinksin",
-   "siipi",
-   "enkelin",
-   "siipi",
-   "feeniksin",
-   "siipi",
-   "j\u00e4ttil\u00e4islinnun",
-   "siipi",
-   ""
+   "lohik\u00e4\u00e4rmeen siipi",
+   "keijun siipi",
+   "aarnikotkan siipi",
+   "sfinksin siipi",
+   "enkelin siipi",
+   "feeniksin siipi",
+   "j\u00e4ttil\u00e4islinnun siipi."
   ]
  },
  {
@@ -10812,8 +10258,7 @@
    "repe\u00e4\u00e4",
    "s\u00e4rkyy",
    "murskaantuu",
-   "sirpaloituu",
-   ""
+   "sirpaloituu."
   ]
  },
  {
@@ -10839,8 +10284,7 @@
    "raapaisu",
    "narina",
    "vinkuminen",
-   "narina",
-   ""
+   "narina."
   ]
  },
  {
@@ -10855,9 +10299,7 @@
    "noutaa",
    "laskea",
    "heitt\u00e4\u00e4",
-   "ottaa",
-   "kiinni",
-   ""
+   "ottaa kiinni."
   ]
  },
  {
@@ -10875,8 +10317,7 @@
    "kolahtaa",
    "kolahtaa",
    "kolahtaa",
-   "kolahtaa",
-   ""
+   "kolahtaa."
   ]
  },
  {

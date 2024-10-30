@@ -80,7 +80,10 @@ for lang in langs:
                 syns_raw = category['Synonyms']
                 assert type(syns_raw) == str, \
                         f"Synonym list (lang: {lang}, {category['CatID']}) was not readable"
-                syn_list = re.split(r'\W+', syns_raw)
+                split_pattern = r',\s*'
+                if lang in ['zh','ar','kr','ja','tw']:
+                    split_pattern = r'\W+'
+                syn_list = re.split(split_pattern, syns_raw)
                 category['Synonyms'] = [s.lower() for s in syn_list]
         
         schedule.append(category)

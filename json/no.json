@@ -65,11 +65,9 @@
    "gyrocopter",
    "whirlybird",
    "chopper",
-   "ghetto",
-   "bird",
+   "ghetto bird",
    "bellcopter",
-   "politi",
-   "chopper",
+   "politi chopper",
    "huey",
    "chopper",
    "blackhawk"
@@ -98,8 +96,7 @@
    "747",
    "777",
    "a310",
-   "dc",
-   "10",
+   "dc-10",
    "a310",
    "a330",
    "a350",
@@ -124,8 +121,7 @@
    "747",
    "777",
    "a310",
-   "dc",
-   "10",
+   "dc-10",
    "a310",
    "a330",
    "a350",
@@ -152,10 +148,8 @@
   "Synonyms": [
    "jagerfly",
    "bombefly",
-   "stealth",
-   "bombefly",
-   "bl\u00e5",
-   "engler",
+   "stealth bombefly",
+   "bl\u00e5 engler",
    "thunderbirds",
    "lockheed",
    "mig",
@@ -192,10 +186,8 @@
    "triplan",
    "turboprop",
    "stuntfly",
-   "crop",
-   "duster",
-   "piper",
-   "cub",
+   "crop duster",
+   "piper cub",
    "propell",
    "tvillingpropell",
    "propjet",
@@ -210,12 +202,9 @@
   "Synonyms": [
    "quadcopters",
    "uav",
-   "ubemannet",
-   "luftfart\u00f8y",
-   "rc",
-   "jet",
-   "rc",
-   "helikopter"
+   "ubemannet luftfart\u00f8y",
+   "rc jet",
+   "rc helikopter"
   ]
  },
  {
@@ -231,8 +220,7 @@
    "spacex",
    "nasa",
    "icbm",
-   "kjernefysisk",
-   "rakett",
+   "kjernefysisk rakett",
    "stridshode"
   ]
  },
@@ -267,8 +255,7 @@
   "CatID": "ALRMClok",
   "SubCategory": "KLOKKE",
   "Synonyms": [
-   "digital",
-   "vekkerklokke",
+   "digital vekkerklokke",
    "vekkerklokke",
    "vekkerklokke"
   ]
@@ -281,8 +268,7 @@
   "Synonyms": [
    "branndetektor",
    "r\u00f8ykvarsler",
-   "co2",
-   "detektor",
+   "co2-detektor",
    "bilalarm",
    "boligalarm"
   ]
@@ -303,8 +289,7 @@
   "SubCategory": "SIRENE",
   "Synonyms": [
    "klaxon",
-   "ahooga",
-   "horn",
+   "ahooga-horn",
    "luftangrepssirene",
    "tornadosirene"
   ]
@@ -317,8 +302,7 @@
   "Synonyms": [
    "\u00f8rken",
    "vinter",
-   "stille",
-   "luft",
+   "stille luft",
    "nattluft",
    "fjelluft",
    "nattluft"
@@ -348,8 +332,7 @@
   "SubCategory": "FORN\u00d8YELSE",
   "Synonyms": [
    "disneyland",
-   "six",
-   "flags",
+   "six-flags",
    "temapark",
    "forn\u00f8yelsespark",
    "karneval",
@@ -358,8 +341,7 @@
    "midtveis",
    "reisemesse",
    "festival",
-   "hjems\u00f8kt",
-   "hus",
+   "hjems\u00f8kt hus",
    "funhouse",
    "arkade",
    "flipperspill"
@@ -371,11 +353,9 @@
   "CatID": "AMBBird",
   "SubCategory": "FUGLESANG",
   "Synonyms": [
-   "dawn",
-   "chorus",
+   "dawn chorus",
    "morgenkor",
-   "pen",
-   "fugl",
+   "pen fugl",
    "flokker",
    "kvitring",
    "tweeting",
@@ -388,8 +368,7 @@
   "CatID": "AMBCele",
   "SubCategory": "FEIRING",
   "Synonyms": [
-   "offentlig",
-   "samling",
+   "offentlig samling",
    "arrangement",
    "fest",
    "galla",
@@ -507,11 +486,9 @@
    "skog",
    "skog",
    "t\u00f8mmerland",
-   "boreal",
-   "skog",
+   "boreal skog",
    "regnskog",
-   "temperert",
-   "regnskog",
+   "temperert regnskog",
    "skyskog",
    "l\u00f8vskog",
    "bartr\u00e6r"
@@ -539,13 +516,10 @@
   "SubCategory": "HISTORISK",
   "Synonyms": [
    "sp\u00f8kelsesby",
-   "gamle",
-   "vesten",
+   "gamle vesten",
    "gullrushet",
-   "antikkens",
-   "roma",
-   "antikkens",
-   "hellas"
+   "antikkens roma",
+   "antikkens hellas"
   ]
  },
  {
@@ -688,8 +662,7 @@
    "park",
    "lekeplass",
    "hager",
-   "botantiske",
-   "hager",
+   "botantiske hager",
    "bypark",
    "forstadspark",
    "ballpark",
@@ -726,8 +699,7 @@
    "sang",
    "roping",
    "skriking",
-   "sint",
-   "folkemengde",
+   "sint folkemengde",
    "marsjer",
    "demonstrasjon",
    "uro",
@@ -747,8 +719,7 @@
    "hoteller",
    "kj\u00f8pesentre",
    "museer",
-   "offentlige",
-   "torg",
+   "offentlige torg",
    "g\u00e5rdsplasser",
    "treningssentre",
    "treningssenter",
@@ -817,8 +788,7 @@
    "delikatesse",
    "spisested",
    "brasserie",
-   "drive",
-   "i"
+   "drive- i"
   ]
  },
  {
@@ -828,10 +798,8 @@
   "SubCategory": "ROMTONE",
   "Synonyms": [
    "romtone",
-   "d\u00f8d",
-   "luft",
-   "stille",
-   "luft"
+   "d\u00f8d luft",
+   "stille luft"
   ]
  },
  {
@@ -845,8 +813,7 @@
    "pr\u00e6rie",
    "gressletter",
    "fjell",
-   "b\u00f8lgende",
-   "\u00e5s",
+   "b\u00f8lgende \u00e5s",
    "savanne",
    "tundra",
    "eng",
@@ -865,8 +832,7 @@
   "Synonyms": [
    "barneskole",
    "ungdomsskole",
-   "videreg\u00e5ende",
-   "skole",
+   "videreg\u00e5ende skole",
    "h\u00f8yskole",
    "f\u00f8rskole",
    "universitet",
@@ -886,8 +852,7 @@
    "scifi",
    "futuristisk",
    "h\u00f8yteknologisk",
-   "hi",
-   "tec"
+   "hi-tec"
   ]
  },
  {
@@ -906,8 +871,7 @@
    "strandpromenade",
    "strandpromenade",
    "strandferiested",
-   "ved",
-   "stranden",
+   "ved stranden",
    "voll",
    "kai",
    "brygge",
@@ -929,8 +893,7 @@
    "baseball",
    "tennis",
    "sportsbegivenhet",
-   "little",
-   "league",
+   "little league",
    "trening"
   ]
  },
@@ -1004,12 +967,9 @@
    "togstasjon",
    "flyplass",
    "busstasjon",
-   "t",
-   "banestasjon",
-   "t",
-   "banestasjon",
-   "t",
-   "banestasjon",
+   "t-banestasjon",
+   "t-banestasjon",
+   "t-banestasjon",
    "terminal",
    "depot",
    "endestasjon"
@@ -1023,8 +983,7 @@
   "Synonyms": [
    "jungel",
    "bush",
-   "tropisk",
-   "regnskog",
+   "tropisk regnskog",
    "skyskog",
    "tropisk"
   ]
@@ -1095,12 +1054,10 @@
   "SubCategory": "URBANT",
   "Synonyms": [
    "metropol",
-   "tett",
-   "by",
+   "tett by",
    "by",
    "sentrum",
-   "indre",
-   "by",
+   "indre by",
    "storby",
    "travle",
    "rushtid",
@@ -1173,8 +1130,7 @@
    "manatee",
    "hvalross",
    "selelefant",
-   "marin",
-   "oter",
+   "marin oter",
    "sj\u00f8aure",
    "hvithval",
    "narhval",
@@ -1195,8 +1151,7 @@
   "CatID": "ANMLBat",
   "SubCategory": "FLAGGERMUS",
   "Synonyms": [
-   "flygende",
-   "rev",
+   "flygende rev",
    "vampyrflaggermus",
    "fruktflaggermus"
   ]
@@ -1489,8 +1444,7 @@
    "premix",
    "sluttmiks",
    "stamme",
-   "m",
-   "e",
+   "m&e",
    "mixdown",
    "printmaster"
   ]
@@ -1521,8 +1475,7 @@
   "CatID": "RAW",
   "SubCategory": "RAW",
   "Synonyms": [
-   "dat",
-   "tape",
+   "dat tape",
    "r\u00e5filer",
    "ubehandlet"
   ]
@@ -1553,16 +1506,12 @@
   "CatID": "TEST",
   "SubCategory": "TEST TONE",
   "Synonyms": [
-   "adr",
-   "pip",
+   "adr-pip",
    "testtoner",
    "pipetone",
-   "2",
-   "pops",
-   "hvit",
-   "st\u00f8y",
-   "rosa",
-   "st\u00f8y",
+   "2 pops",
+   "hvit st\u00f8y",
+   "rosa st\u00f8y",
    "sinusb\u00f8lgesveip"
   ]
  },
@@ -1586,8 +1535,7 @@
   "CatID": "WIP",
   "SubCategory": "UNDER ARBEID",
   "Synonyms": [
-   "arbeid",
-   "p\u00e5g\u00e5r",
+   "arbeid p\u00e5g\u00e5r",
    "wip",
    "uferdig"
   ]
@@ -1657,8 +1605,7 @@
   "Synonyms": [
    "mikrob\u00f8lgeovn",
    "ovnstimer",
-   "digital",
-   "klokke",
+   "digital klokke",
    "telefontimer"
   ]
  },
@@ -1668,10 +1615,8 @@
   "CatID": "BEEPVeh",
   "SubCategory": "KJ\u00d8RET\u00d8Y",
   "Synonyms": [
-   "gaffeltruck",
-   "pip",
-   "backup",
-   "pip"
+   "gaffeltruck-pip",
+   "backup-pip"
   ]
  },
  {
@@ -1694,8 +1639,7 @@
   "Synonyms": [
    "ringeklokke",
    "d\u00f8rklokke",
-   "ding",
-   "dong",
+   "ding dong",
    "tring"
   ]
  },
@@ -1709,8 +1653,7 @@
    "gamelan",
    "agung",
    "bollegong",
-   "tam",
-   "tam"
+   "tam-tam"
   ]
  },
  {
@@ -1780,8 +1723,7 @@
    "kr\u00e5ke",
    "ravn",
    "jay",
-   "blue",
-   "jay",
+   "blue jay",
    "skj\u00e6re",
    "n\u00f8tteknekker"
   ]
@@ -1825,8 +1767,7 @@
    "hakkespett",
    "natthauk",
    "nattjark",
-   "d\u00e5rlig",
-   "vilje",
+   "d\u00e5rlig vilje",
    "kolibri"
   ]
  },
@@ -1973,8 +1914,7 @@
    "luke",
    "ferjed\u00f8r",
    "b\u00e5td\u00f8r",
-   "vanntett",
-   "d\u00f8r",
+   "vanntett d\u00f8r",
    "skipsd\u00f8r"
   ]
  },
@@ -1984,8 +1924,7 @@
   "CatID": "BOATElec",
   "SubCategory": "ELEKTRISK",
   "Synonyms": [
-   "trolling",
-   "motor"
+   "trolling motor"
   ]
  },
  {
@@ -2082,10 +2021,8 @@
   "CatID": "BOATMotr",
   "SubCategory": "MOTORB\u00c5T",
   "Synonyms": [
-   "liten",
-   "b\u00e5t",
-   "personlig",
-   "fiskeb\u00e5t",
+   "liten b\u00e5t",
+   "personlig fiskeb\u00e5t",
    "hurtigb\u00e5t",
    "pontongb\u00e5t",
    "andeb\u00e5t",
@@ -2138,8 +2075,7 @@
   "CatID": "BOATShip",
   "SubCategory": "SKIP",
   "Synonyms": [
-   "stort",
-   "skip",
+   "stort skip",
    "cruiseskip",
    "oljetanker",
    "lasteskip",
@@ -2166,8 +2102,7 @@
    "ub\u00e5t",
    "sonar",
    "nedsenkbar",
-   "u",
-   "b\u00e5t"
+   "u-b\u00e5t"
   ]
  },
  {
@@ -2182,8 +2117,7 @@
    "tankbil",
    "fiskeb\u00e5t",
    "motorb\u00e5t",
-   "under",
-   "vann"
+   "under vann"
   ]
  },
  {
@@ -2192,9 +2126,7 @@
   "CatID": "BLLTBy",
   "SubCategory": "PASSERING",
   "Synonyms": [
-   "bullet",
-   "whiz",
-   "by",
+   "bullet whiz-by",
    "fwip"
   ]
  },
@@ -2245,8 +2177,7 @@
   "CatID": "TOONAnml",
   "SubCategory": "DYR",
   "Synonyms": [
-   "falskt",
-   "dyr",
+   "falskt dyr",
    "jaktkall",
    "andekall"
   ]
@@ -2277,8 +2208,7 @@
   "CatID": "TOONCreak",
   "SubCategory": "KNIRK",
   "Synonyms": [
-   "gummi",
-   "tre"
+   "gummi tre"
   ]
  },
  {
@@ -2310,11 +2240,8 @@
   "SubCategory": "MASKIN",
   "Synonyms": [
    "innretning",
-   "komisk",
-   "maskin",
-   "rube",
-   "goldberg",
-   "maskin"
+   "komisk maskin",
+   "rube goldberg maskin"
   ]
  },
  {
@@ -2337,8 +2264,7 @@
   "Synonyms": [
    "gliss",
    "stige",
-   "stige",
-   "ned",
+   "stige ned",
    ""
   ]
  },
@@ -2357,13 +2283,10 @@
   "CatID": "TOONPop",
   "SubCategory": "POP",
   "Synonyms": [
-   "pop",
-   "pistol",
-   "munn",
-   "pop",
+   "pop pistol",
+   "munn pop",
    "sugekopp",
-   "boble",
-   "pops"
+   "boble pops"
   ]
  },
  {
@@ -2431,11 +2354,8 @@
   "SubCategory": "KJ\u00d8RET\u00d8Y",
   "Synonyms": [
    "jetsons",
-   "innretning",
-   "flintstones",
-   "bil",
-   "sl\u00e5r",
-   "tilbake"
+   "innretning. flintstones bil",
+   "sl\u00e5r tilbake"
   ]
  },
  {
@@ -2445,8 +2365,7 @@
   "SubCategory": "STEMME",
   "Synonyms": [
    "mumling",
-   "dum",
-   "stemme",
+   "dum stemme",
    "tegneseriestemme"
   ]
  },
@@ -2465,8 +2384,7 @@
   "CatID": "TOONWhis",
   "SubCategory": "FL\u00d8YTE",
   "Synonyms": [
-   "skyve",
-   "fl\u00f8yte"
+   "skyve fl\u00f8yte"
   ]
  },
  {
@@ -2527,8 +2445,7 @@
    "gripe",
    "sette",
    "hente",
-   "sette",
-   "ned",
+   "sette ned",
    "kaste",
    "fange"
   ]
@@ -2601,8 +2518,7 @@
    "gripe",
    "sette",
    "hente",
-   "sette",
-   "ned",
+   "sette ned",
    "kaste",
    "fange"
   ]
@@ -2712,8 +2628,7 @@
    "tikk",
    "klikk",
    "kvarts",
-   "tikk",
-   "tok",
+   "tikk tok",
    "stoppeklokke",
    "eggeklokke"
   ]
@@ -2744,8 +2659,7 @@
    "gripe",
    "sette",
    "hente",
-   "sette",
-   "ned",
+   "sette ned",
    "kaste",
    "fange"
   ]
@@ -2809,11 +2723,8 @@
    "b\u00e5ndopptaker",
    "nagra",
    "walkman",
-   "cd",
-   "spiller",
-   "spole",
-   "til",
-   "spole",
+   "cd-spiller",
+   "spole til spole",
    "videospiller",
    "laserdiskspiller",
    "betamax",
@@ -2858,8 +2769,7 @@
    "smarttelefon",
    "iphone",
    "blackberry",
-   "flip",
-   "telefon",
+   "flip-telefon",
    "android"
   ]
  },
@@ -2961,8 +2871,7 @@
    "show",
    "program",
    "futz",
-   "tv",
-   "program",
+   "tv-program",
    "kringkasting"
   ]
  },
@@ -2972,8 +2881,7 @@
   "CatID": "COMTran",
   "SubCategory": "SENDER",
   "Synonyms": [
-   "walkie",
-   "talkies",
+   "walkie talkies",
    "cb",
    "skinkeradioer",
    "transceiver",
@@ -3000,8 +2908,7 @@
   "CatID": "CMPTDriv",
   "SubCategory": "HARDDISK",
   "Synonyms": [
-   "hopp",
-   "over",
+   "hopp over",
    "s\u00f8k",
    "slip",
    "harddisk",
@@ -3026,10 +2933,8 @@
   "CatID": "CMPTMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "palm",
-   "pilot",
-   "pocket",
-   "pc"
+   "palm pilot",
+   "pocket pc"
   ]
  },
  {
@@ -3049,10 +2954,8 @@
   "CatID": "CREAAvian",
   "SubCategory": "FUGL",
   "Synonyms": [
-   "fremmede",
-   "fugler",
-   "utenomjordiske",
-   "fugler",
+   "fremmede fugler",
+   "utenomjordiske fugler",
    "fantasifugler"
   ]
  },
@@ -3062,9 +2965,7 @@
   "CatID": "CREABeast",
   "SubCategory": "BEIST",
   "Synonyms": [
-   "",
-   "ullen",
-   "mammut",
+   " ullen mammut",
    "mumakil",
    ""
   ]
@@ -3151,8 +3052,7 @@
   "Synonyms": [
    "zombie",
    "ud\u00f8de",
-   "levende",
-   "d\u00f8de",
+   "levende d\u00f8de",
    "ghoul",
    "vampyr",
    "alv",
@@ -3194,8 +3094,7 @@
   "SubCategory": "MONSTER",
   "Synonyms": [
    "godzilla",
-   "king",
-   "kong",
+   "king kong",
    "rancor",
    "behemoth",
    "xenomorph",
@@ -3340,9 +3239,7 @@
   "Synonyms": [
    "lekeplass",
    "friminutt",
-   "barn",
-   "som",
-   "leker",
+   "barn som leker",
    "parkerer",
    "leker",
    "tag"
@@ -3357,8 +3254,7 @@
    "skravling",
    "prat",
    "prat",
-   "sparsom",
-   "walla",
+   "sparsom walla",
    "samtale",
    "samtale"
   ]
@@ -3369,10 +3265,8 @@
   "CatID": "CRWDLaff",
   "SubCategory": "LATTER",
   "Synonyms": [
-   "tv",
-   "show",
-   "hermetisk",
-   "latter",
+   "tv-show",
+   "hermetisk latter",
    "komedieklubb",
    "latterspor"
   ]
@@ -3483,11 +3377,9 @@
   "CatID": "DSGNBass",
   "SubCategory": "BASS NEDGANG",
   "Synonyms": [
-   "bass",
-   "dykk",
+   "bass dykk",
    "downer",
-   "bass",
-   "drop",
+   "bass drop",
    "fall"
   ]
  },
@@ -3498,10 +3390,8 @@
   "SubCategory": "SMELL",
   "Synonyms": [
    "bom",
-   "dypt",
-   "treff",
-   "lavt",
-   "stikk",
+   "dypt treff",
+   "lavt stikk",
    "tilhenger"
   ]
  },
@@ -3544,8 +3434,7 @@
   "CatID": "DSGNErie",
   "SubCategory": "UHYGGELIG",
   "Synonyms": [
-   "",
-   "skummel",
+   " skummel",
    "anspent",
    "merkelig",
    "skummel",
@@ -3681,13 +3570,10 @@
    "syntetisert",
    "synth",
    "modsynth",
-   "modul\u00e6r",
-   "synth",
+   "modul\u00e6r synth",
    "granul\u00e6r",
-   "analog",
-   "synth",
-   "modul\u00e6r",
-   "synth"
+   "analog synth",
+   "modul\u00e6r synth"
   ]
  },
  {
@@ -3723,8 +3609,7 @@
   "SubCategory": "SVOSJ",
   "Synonyms": [
    "whoosh",
-   "trailer",
-   "swish",
+   "trailer swish",
    "swish"
   ]
  },
@@ -3842,8 +3727,7 @@
   "SubCategory": "TONAL",
   "Synonyms": [
    "sanddyner",
-   "syngende",
-   "sand"
+   "syngende sand"
   ]
  },
  {
@@ -3929,12 +3813,10 @@
   "CatID": "DOORElec",
   "SubCategory": "ELEKTRISK",
   "Synonyms": [
-   "elektrisk",
-   "port",
+   "elektrisk port",
    "garasjeport",
    "lydbildeport",
-   "automatisk",
-   "port"
+   "automatisk port"
   ]
  },
  {
@@ -3960,8 +3842,7 @@
    "glassd\u00f8r",
    "butikkd\u00f8r",
    "karnappd\u00f8r",
-   "fransk",
-   "d\u00f8r"
+   "fransk d\u00f8r"
   ]
  },
  {
@@ -3988,8 +3869,7 @@
   "CatID": "DOORTech",
   "SubCategory": "HI-TECH",
   "Synonyms": [
-   "lab",
-   "d\u00f8r"
+   "lab d\u00f8r"
   ]
  },
  {
@@ -4001,8 +3881,7 @@
    "d\u00f8rlukker",
    "pneumatisk",
    "hydraulisk",
-   "motordrevet",
-   "luke"
+   "motordrevet luke"
   ]
  },
  {
@@ -4046,12 +3925,9 @@
   "CatID": "DOORPlas",
   "SubCategory": "PLAST",
   "Synonyms": [
-   "porta",
-   "john",
-   "porta",
-   "let",
-   "porta",
-   "pottie"
+   "porta john",
+   "porta let",
+   "porta pottie"
   ]
  },
  {
@@ -4084,9 +3960,7 @@
   "CatID": "DOORSlid",
   "SubCategory": "SKYVED\u00d8R",
   "Synonyms": [
-   "skyved\u00f8r",
-   "i",
-   "glass",
+   "skyved\u00f8r i glass",
    "terrassed\u00f8r",
    "dusjd\u00f8r"
   ]
@@ -4101,8 +3975,7 @@
    "krypt",
    "tempel",
    "mausoleum",
-   "hemmelig",
-   "inngang"
+   "hemmelig inngang"
   ]
  },
  {
@@ -4176,10 +4049,8 @@
   "CatID": "ELECArc",
   "SubCategory": "ARC",
   "Synonyms": [
-   "jacobs",
-   "stige",
-   "tesla",
-   "coil",
+   "jacobs stige",
+   "tesla coil",
    "ark",
    "bue",
    "kraftstasjon",
@@ -4305,8 +4176,7 @@
    "skulderpute",
    "knebeskytter",
    "leggbelegg",
-   "jock",
-   "stropp"
+   "jock stropp"
   ]
  },
  {
@@ -4365,8 +4235,7 @@
    "kitt",
    "razzberry",
    "bringeb\u00e6r",
-   "whoopie",
-   "pute",
+   "whoopie pute",
    "flarp",
    "armhule",
    "fartbag",
@@ -4388,11 +4257,8 @@
   "CatID": "FARTReal",
   "SubCategory": "EKTE",
   "Synonyms": [
-   "menneskelig",
-   "fis",
-   "luft",
-   "i",
-   "magen",
+   "menneskelig fis",
+   "luft i magen",
    "poot",
    "tut"
   ]
@@ -4404,11 +4270,9 @@
   "SubCategory": "BODYFALL",
   "Synonyms": [
    "bodyfall",
-   "body",
-   "drag",
+   "body drag",
    "scuffle",
-   "body",
-   "slam",
+   "body slam",
    "takling"
   ]
  },
@@ -4531,10 +4395,8 @@
    "zippo",
    "flamme",
    "utbrudd",
-   "flamme",
-   "opp",
-   "flamme",
-   "opp"
+   "flamme opp",
+   "flamme opp"
   ]
  },
  {
@@ -4552,11 +4414,9 @@
   "CatID": "FIRESizz",
   "SubCategory": "FRESE",
   "Synonyms": [
-   "brann",
-   "poker",
+   "brann poker",
    "sikring",
-   "sikring",
-   "brenn"
+   "sikring brenn"
   ]
  },
  {
@@ -4569,8 +4429,7 @@
    "lunte",
    "fakkel",
    "ildsted",
-   "flammende",
-   "pinne",
+   "flammende pinne",
    "cresset"
   ]
  },
@@ -4581,8 +4440,7 @@
   "SubCategory": "TURBULENT",
   "Synonyms": [
    "brannvirvel",
-   "voldsom",
-   "brann",
+   "voldsom brann",
    "flammekaster",
    "branntornado",
    "oppsluke",
@@ -4704,9 +4562,7 @@
   "SubCategory": "MATLAGING",
   "Synonyms": [
    "hakke",
-   "skj\u00e6re",
-   "i",
-   "terninger",
+   "skj\u00e6re i terninger",
    "blande",
    "blande",
    "visp",
@@ -4885,8 +4741,7 @@
    "jogge",
    "sprint",
    "hoppe",
-   "hoppe",
-   "over",
+   "hoppe over",
    "hinke",
    "g\u00e5",
    "g\u00e5",
@@ -4913,12 +4768,9 @@
   "SubCategory": "ARKADESPILL",
   "Synonyms": [
    "pinball",
-   "whack",
-   "a",
-   "mole",
+   "whack-a-mole",
    "skeeball",
-   "klo",
-   "maskin"
+   "klo maskin"
   ]
  },
  {
@@ -4969,16 +4821,13 @@
   "Synonyms": [
    "atari",
    "ps4",
-   "xbox",
-   "one",
-   "xbox",
-   "360",
+   "xbox one",
+   "xbox 360",
    "amstrad",
    "famicom",
    "snes",
    "gameboy",
-   "nintendo",
-   "64",
+   "nintendo 64",
    "playstation",
    "megadrive",
    "psp"
@@ -5028,9 +4877,7 @@
   "CatID": "GEOMisc",
   "SubCategory": "DIVERSE",
   "Synonyms": [
-   "boblende",
-   "varmt",
-   "basseng"
+   "boblende varmt basseng"
   ]
  },
  {
@@ -5040,10 +4887,8 @@
   "SubCategory": "GJ\u00d8RMEPYTT",
   "Synonyms": [
    "mudpot",
-   "maling",
-   "pott",
-   "tj\u00e6re",
-   "pit",
+   "maling pott",
+   "tj\u00e6re pit",
    "mud",
    "boble",
    "glop"
@@ -5055,8 +4900,7 @@
   "CatID": "GLASBrk",
   "SubCategory": "KNUSE",
   "Synonyms": [
-   "glass",
-   "knuse",
+   "glass knuse",
    "knuse",
    "knuse"
   ]
@@ -5096,8 +4940,7 @@
    "gripe",
    "sette",
    "hente",
-   "sette",
-   "ned",
+   "sette ned",
    "kaste",
    "fange"
   ]
@@ -5144,9 +4987,7 @@
    "resonere",
    "ring",
    "tonal",
-   "munnspill",
-   "i",
-   "glass",
+   "munnspill i glass",
    "krystallsk\u00e5l"
   ]
  },
@@ -5169,14 +5010,10 @@
   "CatID": "GOREBone",
   "SubCategory": "BEIN",
   "Synonyms": [
-   "bein",
-   "knips",
-   "bein",
-   "brudd",
-   "bein",
-   "knuse",
-   "kjeve",
-   "snap",
+   "bein knips",
+   "bein brudd",
+   "bein knuse",
+   "kjeve snap",
    "kjever"
   ]
  },
@@ -5305,9 +5142,7 @@
    "stikke",
    "kutte",
    "vorpale",
-   "dele",
-   "i",
-   "stykker"
+   "dele i stykker"
   ]
  },
  {
@@ -5345,17 +5180,14 @@
   "CatID": "GUNAuto",
   "SubCategory": "AUTOMATISK",
   "Synonyms": [
-   "ak",
-   "47",
+   "ak-47",
    "m16",
    "maskingev\u00e6r",
-   "tommy",
-   "gun",
+   "tommy gun",
    "uzi",
    "m249",
    "m1919",
-   "gatling",
-   "gun",
+   "gatling gun",
    "minigun",
    ""
   ]
@@ -5434,13 +5266,10 @@
    "glock",
    "pistol",
    "f\u00f8ll",
-   "smith",
-   "wesson",
-   "sig",
-   "sauer",
+   "smith & wesson",
+   "sig sauer",
    "luger",
-   "walther",
-   "ppk",
+   "walther ppk",
    "bruning",
    "ruger",
    "beretta"
@@ -5542,8 +5371,7 @@
   "SubCategory": "BL\u00c5SE",
   "Synonyms": [
    "bl\u00e5se",
-   "puste",
-   "ut"
+   "puste ut"
   ]
  },
  {
@@ -5554,10 +5382,8 @@
   "Synonyms": [
    "pust",
    "sukk",
-   "pust",
-   "inn",
-   "pust",
-   "ut",
+   "pust inn",
+   "pust ut",
    "gispe",
    "pes",
    "hvesing",
@@ -5589,8 +5415,7 @@
    "hack",
    "ahem",
    "hes",
-   "klar",
-   "hals"
+   "klar hals"
   ]
  },
  {
@@ -5661,8 +5486,7 @@
   "SubCategory": "NYSE",
   "Synonyms": [
    "nys",
-   "ah",
-   "choo"
+   "ah-choo"
   ]
  },
  {
@@ -5686,8 +5510,7 @@
    "snorking",
    "zzz",
    "overbelastet",
-   "tung",
-   "pust",
+   "tung pust",
    "apn\u00e9"
   ]
  },
@@ -5769,8 +5592,7 @@
    "gripe",
    "sette",
    "hente",
-   "sette",
-   "ned",
+   "sette ned",
    "kaste",
    "fange"
   ]
@@ -5888,8 +5710,7 @@
    "gripe",
    "sette",
    "hente",
-   "sette",
-   "ned",
+   "sette ned",
    "kaste",
    "fange"
   ]
@@ -5997,17 +5818,11 @@
   "CatID": "MACHAmus",
   "SubCategory": "FORN\u00d8YELSE",
   "Synonyms": [
-   "berg",
-   "og",
-   "dal",
-   "bane",
+   "berg-og-dal-bane",
    "karusell",
    "scrambler",
-   "tilt",
-   "a",
-   "whirl",
-   "kiddy",
-   "ride",
+   "tilt-a-whirl",
+   "kiddy ride",
    "forn\u00f8yelsespark",
    "flipperspill",
    "skeeball"
@@ -6035,8 +5850,7 @@
    "kj\u00f8leskap",
    "kj\u00f8leskap",
    "blender",
-   "food",
-   "prosessor",
+   "food prosessor",
    "h\u00e5rf\u00f8ner",
    "ismaskin",
    "vaskemaskin",
@@ -6044,8 +5858,7 @@
    "strykejern",
    "kaffetrakter",
    "oppvaskmaskin",
-   "elektrisk",
-   "boks\u00e5pner",
+   "elektrisk boks\u00e5pner",
    "s\u00f8ppelt\u00f8mming",
    "luftfukter",
    "avfukter",
@@ -6086,8 +5899,7 @@
   "SubCategory": "RULLETRAPP",
   "Synonyms": [
    "travelator",
-   "bevegelig",
-   "gangvei"
+   "bevegelig gangvei"
   ]
  },
  {
@@ -6100,9 +5912,7 @@
    "takvifte",
    "boksvifte",
    "industrivifte",
-   "vifte",
-   "uten",
-   "blad"
+   "vifte uten blad"
   ]
  },
  {
@@ -6131,11 +5941,9 @@
    "eliptical",
    "romaskin",
    "trimsykkel",
-   "stasjon\u00e6r",
-   "sykkel",
+   "stasjon\u00e6r sykkel",
    "nordictrack",
-   "trappeklatrer",
-   ""
+   "trappeklatrer."
   ]
  },
  {
@@ -6156,10 +5964,8 @@
   "SubCategory": "VENTILASJON",
   "Synonyms": [
    "aircon",
-   "air",
-   "condition",
-   "oppvarming",
-   ""
+   "air condition",
+   "oppvarming."
   ]
  },
  {
@@ -6168,14 +5974,11 @@
   "CatID": "MACHInd",
   "SubCategory": "INDUSTRIELL",
   "Synonyms": [
-   "hydraulisk",
-   "presse",
+   "hydraulisk presse",
    "samleb\u00e5nd",
    "destilleri",
    "stansepresse",
-   "formpresse",
-   "f437",
-   "f450"
+   "formpresse+f437:f450"
   ]
  },
  {
@@ -6185,8 +5988,7 @@
   "SubCategory": "MEKANISME",
   "Synonyms": [
    "puslespillboks",
-   "rube",
-   "goldberg",
+   "rube goldberg",
    "dings"
   ]
  },
@@ -6290,8 +6092,7 @@
    "tilkalling",
    "nekromanti",
    "voodoo",
-   "svart",
-   "magi",
+   "svart magi",
    "forbudt"
   ]
  },
@@ -6549,8 +6350,7 @@
    "gripe",
    "sette",
    "hente",
-   "sette",
-   "ned",
+   "sette ned",
    "kaste",
    "fange"
   ]
@@ -6634,10 +6434,8 @@
   "SubCategory": "ELEKTRISK",
   "Synonyms": [
    "tannb\u00f8rste",
-   "elektrisk",
-   "barberh\u00f8vel",
-   "elektrisk",
-   "motor",
+   "elektrisk barberh\u00f8vel",
+   "elektrisk motor",
    "s\u00f8ppelt\u00f8mming",
    "tannlegebor"
   ]
@@ -6658,8 +6456,7 @@
   "SubCategory": "SERVO",
   "Synonyms": [
    "robot",
-   "rc",
-   "bil",
+   "rc-bil",
    "kamerafokus",
    "bilantenne",
    "skriver"
@@ -6712,10 +6509,8 @@
    "skli",
    "krype",
    "skli",
-   "vri",
-   "seg",
-   "vri",
-   "seg"
+   "vri seg",
+   "vri seg"
   ]
  },
  {
@@ -6735,8 +6530,7 @@
    "ligge",
    "skli",
    "hoppe",
-   "hoppe",
-   "over"
+   "hoppe over"
   ]
  },
  {
@@ -6756,8 +6550,7 @@
    "ligge",
    "skli",
    "hoppe",
-   "hoppe",
-   "over"
+   "hoppe over"
   ]
  },
  {
@@ -6791,8 +6584,7 @@
    "justere",
    "stokke",
    "sl\u00e5",
-   "lett",
-   "bevegelse",
+   "lett bevegelse",
    "skifte"
   ]
  },
@@ -6812,8 +6604,7 @@
    "gamelan",
    "agung",
    "bollegong",
-   "tam",
-   "tam"
+   "tam-tam"
   ]
  },
  {
@@ -6823,8 +6614,7 @@
   "SubCategory": "MESSING",
   "Synonyms": [
    "tuba",
-   "fransk",
-   "horn",
+   "fransk horn",
    "trombone",
    "trompet",
    "mellofon",
@@ -6868,15 +6658,12 @@
   "SubCategory": "EKSPERIMENTELL",
   "Synonyms": [
    "theremin",
-   "glass",
-   "armonica",
+   "glass armonica",
    "pyrofon",
    "stylofon",
    "kristalbasket",
-   "elektrifisert",
-   "kaktus",
-   "eolisk",
-   "vindharpe"
+   "elektrifisert kaktus",
+   "eolisk vindharpe"
   ]
  },
  {
@@ -6966,11 +6753,9 @@
   "CatID": "MUSCPrfm",
   "SubCategory": "MUSIKALSK INNSLAG",
   "Synonyms": [
-   "",
-   "band",
+   " band",
    "gatemusiker",
-   "live",
-   "konsert",
+   "live konsert",
    "show",
    "nattklubb",
    ""
@@ -6986,8 +6771,7 @@
    "banjo",
    "ukelele",
    "harpe",
-   "akustisk",
-   "gitar",
+   "akustisk gitar",
    "bassgitar",
    "mandolin",
    "balalaika",
@@ -7014,8 +6798,7 @@
   "Synonyms": [
    "pr\u00f8ver",
    "r\u00e5pr\u00f8ver",
-   "one",
-   "shot"
+   "one-shot"
   ]
  },
  {
@@ -7029,11 +6812,9 @@
    "rangler",
    "rainstick",
    "shekere",
-   "egg",
-   "shaker",
+   "egg shaker",
    "chajchas",
-   "monkey",
-   "stick",
+   "monkey stick",
    "katsa",
    "sistrum",
    "shaker",
@@ -7047,12 +6828,9 @@
   "SubCategory": "SANG OG FRASERING",
   "Synonyms": [
    "musikk",
-   "spiller",
-   "piano",
+   "spiller piano",
    "ringetone",
-   "musikalsk",
-   "bil",
-   "av",
+   "musikalsk bil av",
    "frase"
   ]
  },
@@ -7106,9 +6884,7 @@
   "SubCategory": "LEKE",
   "Synonyms": [
    "musikkboks",
-   "jack",
-   "i",
-   "boksen"
+   "jack i boksen"
   ]
  },
  {
@@ -7117,8 +6893,7 @@
   "CatID": "MUSCWind",
   "SubCategory": "TREBL\u00c5S",
   "Synonyms": [
-   "",
-   "fl\u00f8yte",
+   " fl\u00f8yte",
    "piccolo",
    "obo",
    "fagott",
@@ -7197,8 +6972,7 @@
    "tyfon",
    "orkan",
    "syklon",
-   "tropisk",
-   "storm"
+   "tropisk storm"
   ]
  },
  {
@@ -7305,8 +7079,7 @@
    "belte",
    "sash",
    "skjerf",
-   "h\u00f8ye",
-   "h\u00e6ler",
+   "h\u00f8ye h\u00e6ler",
    "eyeliner",
    "solbriller",
    "briller",
@@ -7438,8 +7211,7 @@
   "CatID": "OBJMed",
   "SubCategory": "MEDISINSK",
   "Synonyms": [
-   "manuell",
-   "blodtrykksm\u00e5ler",
+   "manuell blodtrykksm\u00e5ler",
    "stetoskop",
    "gummihansker",
    "klemme",
@@ -7501,11 +7273,8 @@
    "maskeringstape",
    "gaffatape",
    "gaffertape",
-   "scotch",
-   "tape",
-   "dobbel",
-   "stick",
-   "tape"
+   "scotch tape",
+   "dobbel stick tape"
   ]
  },
  {
@@ -7600,8 +7369,7 @@
    "snu",
    "side",
    "bla",
-   "bla",
-   "gjennom",
+   "bla gjennom",
    "les",
    "papp",
    "papir"
@@ -7704,8 +7472,7 @@
    "gripe",
    "sette",
    "hente",
-   "sette",
-   "ned",
+   "sette ned",
    "kaste",
    "fange"
   ]
@@ -7813,9 +7580,7 @@
    "regnbyger",
    "interi\u00f8rregn",
    "vindskjermregn",
-   "regn",
-   "p\u00e5",
-   "taket"
+   "regn p\u00e5 taket"
   ]
  },
  {
@@ -7850,19 +7615,9 @@
   "CatID": "RAINVege",
   "SubCategory": "VEGETASJON",
   "Synonyms": [
-   "regn",
-   "p\u00e5",
-   "en",
-   "metalloverflate",
-   "s\u00e5",
-   "regn",
-   "p\u00e5",
-   "en",
-   "bil",
-   "eller",
-   "metallplate",
-   "osv",
-   ""
+   "regn p\u00e5 en metalloverflate",
+   "s\u00e5 regn p\u00e5 en bil",
+   "eller metallplate osv."
   ]
  },
  {
@@ -7976,8 +7731,7 @@
    "gripe",
    "sette",
    "hente",
-   "sette",
-   "ned",
+   "sette ned",
    "kaste",
    "fange"
   ]
@@ -8053,8 +7807,7 @@
    "gripe",
    "sette",
    "hente",
-   "sette",
-   "ned",
+   "sette ned",
    "kaste",
    "fange"
   ]
@@ -8127,8 +7880,7 @@
    "gripe",
    "sette",
    "hente",
-   "sette",
-   "ned",
+   "sette ned",
    "kaste",
    "fange"
   ]
@@ -8184,9 +7936,7 @@
   "CatID": "SCIAlrm",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "sci",
-   "fi",
-   "alarm",
+   "sci-fi alarm",
    "varsling",
    "advarsel"
   ]
@@ -8209,9 +7959,7 @@
   "CatID": "SCIDoor",
   "SubCategory": "D\u00d8R",
   "Synonyms": [
-   "sci",
-   "fi",
-   "d\u00f8r",
+   "sci-fi d\u00f8r",
    "luftsluse"
   ]
  },
@@ -8257,8 +8005,7 @@
   "SubCategory": "MEKANISME",
   "Synonyms": [
    "tricorder",
-   "scifi",
-   "enhet",
+   "scifi-enhet",
    "dings"
   ]
  },
@@ -8277,9 +8024,7 @@
   "CatID": "SCIRetro",
   "SubCategory": "RETRO",
   "Synonyms": [
-   "gammel",
-   "sci",
-   "fi"
+   "gammel sci-fi"
   ]
  },
  {
@@ -8301,11 +8046,9 @@
   "CatID": "SCIVeh",
   "SubCategory": "KJ\u00d8RET\u00d8Y",
   "Synonyms": [
-   "moon",
-   "rover",
+   "moon rover",
    "landspeeder",
-   "speeder",
-   "bike",
+   "speeder bike",
    "hoverboard",
    "podracer"
   ]
@@ -8317,8 +8060,7 @@
   "SubCategory": "V\u00c5PEN",
   "Synonyms": [
    "lyssverd",
-   "eksotisk",
-   "v\u00e5pen"
+   "eksotisk v\u00e5pen"
   ]
  },
  {
@@ -8354,8 +8096,7 @@
    "gripe",
    "sette",
    "hente",
-   "sette",
-   "ned",
+   "sette ned",
    "kaste",
    "fange"
   ]
@@ -8441,12 +8182,9 @@
    "kampsport",
    "karate",
    "judo",
-   "tae",
-   "kwon",
-   "do",
+   "tae kwon do",
    "dojo",
-   "kung",
-   "fu"
+   "kung fu"
   ]
  },
  {
@@ -8479,8 +8217,7 @@
    "skateboard",
    "rullesk\u00f8yter",
    "rullesk\u00f8yter",
-   "push",
-   "scooter"
+   "push-scooter"
   ]
  },
  {
@@ -8628,8 +8365,7 @@
    "slipemaskin",
    "b\u00e5ndsliper",
    "overfres",
-   "elektrisk",
-   "skrutrekker",
+   "elektrisk skrutrekker",
    "varmepistol",
    "borepresse",
    "bordsag"
@@ -8641,12 +8377,9 @@
   "CatID": "TOYElec",
   "SubCategory": "ELEKTRONISK",
   "Synonyms": [
-   "fjernstyrt",
-   "bil",
+   "fjernstyrt bil",
    "spilleautomat",
-   "snakk",
-   "og",
-   "stave",
+   "snakk og stave",
    "furby"
   ]
  },
@@ -8699,8 +8432,7 @@
   "SubCategory": "D\u00d8R",
   "Synonyms": [
    "togd\u00f8r",
-   "t",
-   "baned\u00f8r"
+   "t-baned\u00f8r"
   ]
  },
  {
@@ -8731,8 +8463,7 @@
   "CatID": "TRNHspd",
   "SubCategory": "H\u00d8YHASTIGHETSTOG",
   "Synonyms": [
-   "h\u00f8yteknologisk",
-   "tog",
+   "h\u00f8yteknologisk tog",
    "maglev",
    "monorails",
    "hyperloop",
@@ -8746,8 +8477,7 @@
   "SubCategory": "HORN",
   "Synonyms": [
    "toghorn",
-   "t",
-   "banehorn"
+   "t-banehorn"
   ]
  },
  {
@@ -8762,8 +8492,7 @@
    "intercitytog",
    "bybane",
    "godstog",
-   "t",
-   "bane",
+   "t-bane",
    "monorail"
   ]
  },
@@ -8803,8 +8532,7 @@
   "SubCategory": "T-BANE",
   "Synonyms": [
    "metro",
-   "t",
-   "bane",
+   "t-bane",
    "r\u00f8ret",
    "rer"
   ]
@@ -8878,8 +8606,7 @@
    "funksjonsfeil",
    "feil",
    "kjernepanikk",
-   "guru",
-   "meditasjonsfeil"
+   "guru-meditasjonsfeil"
   ]
  },
  {
@@ -8909,10 +8636,8 @@
   "CatID": "VEGEGras",
   "SubCategory": "GRESS",
   "Synonyms": [
-   "gress",
-   "rasle",
-   "g\u00e5",
-   "gjennom",
+   "gress rasle",
+   "g\u00e5 gjennom",
    "h\u00f8y",
    "hvete"
   ]
@@ -8925,9 +8650,7 @@
   "Synonyms": [
    "bladvirvel",
    "bladfall",
-   "blader",
-   "som",
-   "faller",
+   "blader som faller",
    "bladhaug"
   ]
  },
@@ -8977,10 +8700,8 @@
    "bil",
    "bil",
    "oldsmobile",
-   "modell",
-   "a",
-   "modell",
-   "t"
+   "modell a",
+   "modell t"
   ]
  },
  {
@@ -9016,8 +8737,7 @@
   "CatID": "VEHBrake",
   "SubCategory": "BREMSE",
   "Synonyms": [
-   "brems",
-   "squeal",
+   "brems squeal",
    "screech",
    "grind"
   ]
@@ -9083,14 +8803,11 @@
   "Synonyms": [
    "segway",
    "golfbil",
-   "elektrisk",
-   "scooter",
+   "elektrisk scooter",
    "elbil",
-   "elektrisk",
-   "motorsykkel",
+   "elektrisk motorsykkel",
    "tesla",
-   "elektrisk",
-   "gokart"
+   "elektrisk gokart"
   ]
  },
  {
@@ -9103,8 +8820,7 @@
    "brannbil",
    "ambulanse",
    "politibil",
-   "swat",
-   "varebil"
+   "swat varebil"
   ]
  },
  {
@@ -9125,14 +8841,10 @@
   "CatID": "VEHFrght",
   "SubCategory": "FRAKT",
   "Synonyms": [
-   "store",
-   "rigger",
+   "store rigger",
    "lastebil",
-   "semi",
-   "lastebil",
-   "u",
-   "haul",
-   "lastebil",
+   "semi-lastebil",
+   "u-haul lastebil",
    "penske",
    "kassebil",
    "godsbil"
@@ -9147,8 +8859,7 @@
    "bil",
    "bil",
    "bil",
-   "g\u00e5",
-   "forbi"
+   "g\u00e5 forbi"
   ]
  },
  {
@@ -9190,8 +8901,7 @@
    "hoopty",
    "clunker",
    "junker",
-   "falsk",
-   "start",
+   "falsk start",
    "feiltenning",
    "funksjonsfeil",
    "feiltenning",
@@ -9223,8 +8933,7 @@
   "Synonyms": [
    "tank",
    "apc",
-   "pansret",
-   "personellvogn",
+   "pansret personellvogn",
    "humvee",
    "jeep"
   ]
@@ -9249,8 +8958,7 @@
    "motorsykkel",
    "vespa",
    "motocross",
-   "dirt",
-   "bike"
+   "dirt bike"
   ]
  },
  {
@@ -9263,14 +8971,11 @@
    "bil",
    "bil",
    "racerbil",
-   "drag",
-   "racerbil",
+   "drag racerbil",
    "indy",
-   "formel",
-   "1",
+   "formel 1",
    "nascar",
-   "grand",
-   "prix",
+   "grand prix",
    "monstertruck"
   ]
  },
@@ -9294,8 +8999,7 @@
   "SubCategory": "SKRENS",
   "Synonyms": [
    "dekksklir",
-   "peel",
-   "out",
+   "peel out",
    "chuff",
    "burnout"
   ]
@@ -9329,14 +9033,11 @@
   "CatID": "VEHTruck",
   "SubCategory": "PICK-UP OG SUV",
   "Synonyms": [
-   "",
+   " bil",
    "bil",
    "bil",
-   "bil",
-   "passasjer",
-   "lastebil",
-   "pickup",
-   "lastebil",
+   "passasjer lastebil",
+   "pickup lastebil",
    "varebiler",
    "suv",
    "flatbed",
@@ -9351,9 +9052,7 @@
   "Synonyms": [
    "utv",
    "sxs",
-   "side",
-   "ved",
-   "side",
+   "side ved side",
    "rzr",
    "ranger",
    "cushman",
@@ -9382,10 +9081,8 @@
    "bil",
    "bil",
    "bil",
-   "automatisk",
-   "vindu",
-   "elektrisk",
-   "vindu"
+   "automatisk vindu",
+   "elektrisk vindu"
   ]
  },
  {
@@ -9394,8 +9091,7 @@
   "CatID": "VOXAlien",
   "SubCategory": "ALIEN",
   "Synonyms": [
-   "fremmed",
-   "spr\u00e5k",
+   "fremmed spr\u00e5k",
    "chewbacca"
   ]
  },
@@ -9482,8 +9178,7 @@
   "SubCategory": "H\u00d8YTTALER",
   "Synonyms": [
    "foredragsholder",
-   "offentlig",
-   "tale",
+   "offentlig tale",
    "kunngj\u00f8ring"
   ]
  },
@@ -9758,8 +9453,7 @@
    "dykke",
    "stupe",
    "skvette",
-   "senke",
-   "seg"
+   "senke seg"
   ]
  },
  {
@@ -9784,8 +9478,7 @@
    "sprut",
    "t\u00e5ke",
    "damp",
-   "v\u00e5t",
-   "susing",
+   "v\u00e5t susing",
    "sprut"
   ]
  },
@@ -9821,8 +9514,7 @@
   "CatID": "WATRUndwtr",
   "SubCategory": "UNDERVANNS",
   "Synonyms": [
-   "under",
-   "vann",
+   "under vann",
    "flyt",
    "turbulent"
   ]
@@ -9905,9 +9597,7 @@
    "k\u00f8lle",
    "balltre",
    "mace",
-   "ball",
-   "og",
-   "kjede",
+   "ball og kjede",
    "nunchuck",
    "krigshammer",
    "warhammer",
@@ -9926,8 +9616,7 @@
   "SubCategory": "BUE",
   "Synonyms": [
    "langbue",
-   "sammensatt",
-   "boks",
+   "sammensatt boks",
    "armbr\u00f8st"
   ]
  },
@@ -10002,8 +9691,7 @@
    "kattana",
    "machete",
    "sabel",
-   "viking",
-   "sverd",
+   "viking sverd",
    "folie"
   ]
  },
@@ -10179,12 +9867,9 @@
   "SubCategory": "TURBULENT",
   "Synonyms": [
    "buffet",
-   "turbulent",
-   "vind",
-   "sterk",
-   "vind",
-   "voldsom",
-   "vind",
+   "turbulent vind",
+   "sterk vind",
+   "voldsom vind",
    "buffet"
   ]
  },
@@ -10245,8 +9930,7 @@
   "CatID": "WNDWMetl",
   "SubCategory": "METALL",
   "Synonyms": [
-   "metall",
-   "ramme"
+   "metall ramme"
   ]
  },
  {
@@ -10299,8 +9983,7 @@
    "sfinksvinger",
    "englevinge",
    "f\u00f8niksvinge",
-   "gigantiske",
-   "fuglevinger"
+   "gigantiske fuglevinger"
   ]
  },
  {
@@ -10380,8 +10063,7 @@
    "gripe",
    "sette",
    "hente",
-   "sette",
-   "ned",
+   "sette ned",
    "kaste",
    "fange"
   ]

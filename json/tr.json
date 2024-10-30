@@ -5,10 +5,8 @@
   "CatID": "AIRBrst",
   "SubCategory": "P\u00dcSK\u00dcRME",
   "Synonyms": [
-   "hava",
-   "patlamas\u0131",
-   "hava",
-   "pufu",
+   "hava patlamas\u0131",
+   "hava pufu",
    "\u00e7uf",
    "f\u0131\u015fk\u0131rma",
    "patlama"
@@ -20,11 +18,9 @@
   "CatID": "AIRHiss",
   "SubCategory": "TISLAMA",
   "Synonyms": [
-   "hava",
-   "tahliyesi",
+   "hava tahliyesi",
    "egzoz",
-   "d\u0131\u015far\u0131",
-   "atma",
+   "d\u0131\u015far\u0131 atma",
    "s\u0131z\u0131nt\u0131"
   ]
  },
@@ -54,13 +50,10 @@
   "CatID": "AERODoor",
   "SubCategory": "KAPI",
   "Synonyms": [
-   "kokpit",
-   "kap\u0131s\u0131",
-   "u\u00e7ak",
-   "kap\u0131s\u0131",
+   "kokpit kap\u0131s\u0131",
+   "u\u00e7ak kap\u0131s\u0131",
    "ambar",
-   "acil",
-   "\u00e7\u0131k\u0131\u015f"
+   "acil \u00e7\u0131k\u0131\u015f"
   ]
  },
  {
@@ -72,11 +65,9 @@
    "gyrocopter",
    "whirlybird",
    "chopper",
-   "ghetto",
-   "bird",
+   "ghetto bird",
    "bellcopter",
-   "polis",
-   "helikopteri",
+   "polis helikopteri",
    "huey",
    "helikopter",
    "blackhawk"
@@ -91,14 +82,12 @@
    "jet",
    "u\u00e7ak",
    "u\u00e7ak",
-   "yolcu",
-   "jeti",
+   "yolcu jeti",
    "plan\u00f6r",
    "zeplin",
    "airliner",
    "jetliner",
-   "jumbo",
-   "jet",
+   "jumbo jet",
    "learjet",
    "airbus",
    "boeing",
@@ -107,14 +96,12 @@
    "747",
    "777",
    "a310",
-   "dc",
-   "10",
+   "dc-10",
    "a310",
    "a330",
    "a350",
    "a380",
-   "sava\u015f",
-   "u\u00e7a\u011f\u0131"
+   "sava\u015f u\u00e7a\u011f\u0131"
   ]
  },
  {
@@ -125,8 +112,7 @@
   "Synonyms": [
    "airliner",
    "jetliner",
-   "jumbo",
-   "jet",
+   "jumbo jet",
    "learjet",
    "airbus",
    "boeing",
@@ -135,8 +121,7 @@
    "747",
    "777",
    "a310",
-   "dc",
-   "10",
+   "dc-10",
    "a310",
    "a330",
    "a350",
@@ -149,10 +134,8 @@
   "CatID": "AEROMech",
   "SubCategory": "MEKAN\u0130ZMA",
   "Synonyms": [
-   "ini\u015f",
-   "tak\u0131m\u0131",
-   "kokpit",
-   "kolu",
+   "ini\u015f tak\u0131m\u0131",
+   "kokpit kolu",
    "d\u00fcmen",
    "flap"
   ]
@@ -163,15 +146,10 @@
   "CatID": "AEROMil",
   "SubCategory": "ASKER\u0130",
   "Synonyms": [
-   "sava\u015f",
-   "u\u00e7a\u011f\u0131",
-   "bombard\u0131man",
-   "u\u00e7a\u011f\u0131",
-   "hayalet",
-   "bombard\u0131man",
-   "u\u00e7a\u011f\u0131",
-   "mavi",
-   "melekler",
+   "sava\u015f u\u00e7a\u011f\u0131",
+   "bombard\u0131man u\u00e7a\u011f\u0131",
+   "hayalet bombard\u0131man u\u00e7a\u011f\u0131",
+   "mavi melekler",
    "thunderbirds",
    "lockheed",
    "mig",
@@ -191,12 +169,9 @@
   "Synonyms": [
    "zeplin",
    "plan\u00f6r",
-   "s\u0131cak",
-   "hava",
-   "balonu",
+   "s\u0131cak hava balonu",
    "ultralight",
-   "yelken",
-   "kanat",
+   "yelken kanat",
    "zeplin",
    "zeplin"
   ]
@@ -207,24 +182,16 @@
   "CatID": "AEROProp",
   "SubCategory": "PERVANEL\u0130",
   "Synonyms": [
-   "\u00e7ift",
-   "kanatl\u0131",
-   "\u00fc\u00e7",
-   "kanatl\u0131",
+   "\u00e7ift kanatl\u0131",
+   "\u00fc\u00e7 kanatl\u0131",
    "turboprop",
-   "dubl\u00f6r",
-   "u\u00e7ak",
-   "crop",
-   "duster",
-   "piper",
-   "cub",
+   "dubl\u00f6r u\u00e7ak",
+   "crop duster",
+   "piper cub",
    "pervaneli",
-   "\u00e7ift",
-   "pervaneli",
-   "pervaneli",
-   "jet",
-   "hava",
-   "vidas\u0131"
+   "\u00e7ift pervaneli",
+   "pervaneli jet",
+   "hava vidas\u0131"
   ]
  },
  {
@@ -235,13 +202,9 @@
   "Synonyms": [
    "quadcopterler",
    "i\u0307ha",
-   "insans\u0131z",
-   "hava",
-   "arac\u0131",
-   "rc",
-   "jet",
-   "rc",
-   "helikopter"
+   "insans\u0131z hava arac\u0131",
+   "rc jet",
+   "rc helikopter"
   ]
  },
  {
@@ -253,15 +216,12 @@
    "roket",
    "f\u00fcze",
    "jetpack",
-   "uzay",
-   "meki\u011fi",
+   "uzay meki\u011fi",
    "spacex",
    "nasa",
    "icbm",
-   "n\u00fckleer",
-   "roket",
-   "sava\u015f",
-   "ba\u015fl\u0131\u011f\u0131"
+   "n\u00fckleer roket",
+   "sava\u015f ba\u015fl\u0131\u011f\u0131"
   ]
  },
  {
@@ -270,15 +230,10 @@
   "CatID": "ALRMBell",
   "SubCategory": "Z\u0130L",
   "Synonyms": [
-   "yang\u0131n",
-   "zili",
-   "okul",
-   "zili",
-   "demiryolu",
-   "ge\u00e7idi",
-   "zili",
-   "alarm",
-   "zili"
+   "yang\u0131n zili",
+   "okul zili",
+   "demiryolu ge\u00e7idi zili",
+   "alarm zili"
   ]
  },
  {
@@ -287,18 +242,11 @@
   "CatID": "ALRMBuzr",
   "SubCategory": "BUZZER & \u0130KAZ C\u0130HAZI",
   "Synonyms": [
-   "kap\u0131",
-   "zili",
-   "oyun",
-   "g\u00f6sterisi",
-   "zili",
-   "\u00f6n",
-   "kap\u0131",
-   "zili",
-   "giri\u015f",
-   "zili",
-   "interkom",
-   "zili"
+   "kap\u0131 zili",
+   "oyun g\u00f6sterisi zili",
+   "\u00f6n kap\u0131 zili",
+   "giri\u015f zili",
+   "interkom zili"
   ]
  },
  {
@@ -307,13 +255,9 @@
   "CatID": "ALRMClok",
   "SubCategory": "SAAT",
   "Synonyms": [
-   "dijital",
-   "\u00e7alar",
-   "saat",
-   "\u00e7alar",
-   "saat",
-   "\u00e7alar",
-   "saat"
+   "dijital \u00e7alar saat",
+   "\u00e7alar saat",
+   "\u00e7alar saat"
   ]
  },
  {
@@ -322,16 +266,11 @@
   "CatID": "ALRMElec",
   "SubCategory": "ELEKTRON\u0130K",
   "Synonyms": [
-   "yang\u0131n",
-   "dedekt\u00f6r\u00fc",
-   "duman",
-   "dedekt\u00f6r\u00fc",
-   "co2",
-   "dedekt\u00f6r\u00fc",
-   "araba",
-   "alarm\u0131",
-   "ev",
-   "alarm\u0131"
+   "yang\u0131n dedekt\u00f6r\u00fc",
+   "duman dedekt\u00f6r\u00fc",
+   "co2 dedekt\u00f6r\u00fc",
+   "araba alarm\u0131",
+   "ev alarm\u0131"
   ]
  },
  {
@@ -350,13 +289,9 @@
   "SubCategory": "S\u0130REN",
   "Synonyms": [
    "klakson",
-   "ahooga",
-   "kornas\u0131",
-   "hava",
-   "sald\u0131r\u0131s\u0131",
-   "sireni",
-   "kas\u0131rga",
-   "sireni"
+   "ahooga kornas\u0131",
+   "hava sald\u0131r\u0131s\u0131 sireni",
+   "kas\u0131rga sireni"
   ]
  },
  {
@@ -367,14 +302,10 @@
   "Synonyms": [
    "\u00e7\u00f6l",
    "k\u0131\u015f",
-   "sessiz",
-   "hava",
-   "gece",
-   "havas\u0131",
-   "da\u011f",
-   "havas\u0131",
-   "gece",
-   "havas\u0131"
+   "sessiz hava",
+   "gece havas\u0131",
+   "da\u011f havas\u0131",
+   "gece havas\u0131"
   ]
  },
  {
@@ -389,10 +320,8 @@
    "tetonlar",
    "da\u011fc\u0131l\u0131k",
    "da\u011fl\u0131k",
-   "karla",
-   "kapl\u0131",
-   "da\u011f",
-   "kenar\u0131",
+   "karla kapl\u0131",
+   "da\u011f kenar\u0131",
    "zirve"
   ]
  },
@@ -403,25 +332,18 @@
   "SubCategory": "LUNAPARK",
   "Synonyms": [
    "disneyland",
-   "six",
-   "flags",
-   "tema",
-   "park\u0131",
-   "e\u011flence",
-   "park\u0131",
+   "six-flags",
+   "tema park\u0131",
+   "e\u011flence park\u0131",
    "karnaval",
    "fuar",
-   "il\u00e7e",
-   "fuar\u0131",
+   "il\u00e7e fuar\u0131",
    "midway",
-   "gezici",
-   "fuar",
+   "gezici fuar",
    "festival",
-   "perili",
-   "ev",
+   "perili ev",
    "lunapark",
-   "atari",
-   "salonu",
+   "atari salonu",
    "lang\u0131rt"
   ]
  },
@@ -431,12 +353,9 @@
   "CatID": "AMBBird",
   "SubCategory": "KU\u015e \u015eAKIMA",
   "Synonyms": [
-   "\u015fafak",
-   "korosu",
-   "sabah",
-   "korosu",
-   "g\u00fczel",
-   "ku\u015f",
+   "\u015fafak korosu",
+   "sabah korosu",
+   "g\u00fczel ku\u015f",
    "s\u00fcr\u00fcler",
    "c\u0131v\u0131lt\u0131",
    "c\u0131v\u0131ldama",
@@ -449,8 +368,7 @@
   "CatID": "AMBCele",
   "SubCategory": "KUTLAMA",
   "Synonyms": [
-   "halk",
-   "toplant\u0131s\u0131",
+   "halk toplant\u0131s\u0131",
    "etkinlik",
    "parti",
    "gala",
@@ -466,17 +384,13 @@
   "CatID": "AMBCnst",
   "SubCategory": "\u0130N\u015eAAT",
   "Synonyms": [
-   "yol",
-   "yap\u0131m\u0131",
+   "yol yap\u0131m\u0131",
    "in\u015faat",
    "marangozluk",
    "tadilat",
-   "ev",
-   "yenileme",
-   "yol",
-   "onar\u0131m\u0131",
-   "yeniden",
-   "in\u015fa"
+   "ev yenileme",
+   "yol onar\u0131m\u0131",
+   "yeniden in\u015fa"
   ]
  },
  {
@@ -489,12 +403,10 @@
    "takla",
    "vaha",
    "\u00e7orak",
-   "\u00e7orak",
-   "arazi",
+   "\u00e7orak arazi",
    "sahara",
    "kurak",
-   "kum",
-   "tepeleri",
+   "kum tepeleri",
    "\u0131ss\u0131z"
   ]
  },
@@ -514,22 +426,17 @@
   "CatID": "AMBEmrg",
   "SubCategory": "AC\u0130L",
   "Synonyms": [
-   "olay",
-   "yeri",
-   "yang\u0131nla",
-   "m\u00fccadele",
+   "olay yeri",
+   "yang\u0131nla m\u00fccadele",
    "polis",
-   "sa\u011fl\u0131k",
-   "g\u00f6revlileri",
+   "sa\u011fl\u0131k g\u00f6revlileri",
    "kan\u0131t",
-   "do\u011fal",
-   "afet",
+   "do\u011fal afet",
    "vurulma",
    "kaza",
    "felaket",
    "yaralanma",
-   "y\u0131\u011f\u0131lma",
-   "kazazede"
+   "y\u0131\u011f\u0131lma kazazede"
   ]
  },
  {
@@ -543,8 +450,7 @@
    "b\u00fcy\u00fcl\u00fc",
    "diyar",
    "r\u00fcya",
-   "orta",
-   "d\u00fcnya",
+   "orta d\u00fcnya",
    "pandora"
   ]
  },
@@ -556,21 +462,17 @@
   "Synonyms": [
    "\u00e7iftlik",
    "hasat",
-   "toprak",
-   "i\u015fleme",
+   "toprak i\u015fleme",
    "\u00e7iftlik",
-   "\u00e7iftlik",
-   "evi",
+   "\u00e7iftlik evi",
    "grange",
    "plantasyon",
-   "tar\u0131m",
-   "arazisi",
+   "tar\u0131m arazisi",
    "a\u011f\u0131l",
    "ah\u0131r",
    "mera",
    "mand\u0131ra",
-   "\u00fcz\u00fcm",
-   "ba\u011f\u0131",
+   "\u00fcz\u00fcm ba\u011f\u0131",
    "a\u011f\u0131l",
    "pastoral"
   ]
@@ -583,21 +485,13 @@
   "Synonyms": [
    "orman",
    "ormanlar",
-   "kerestelik",
-   "alan",
-   "boreal",
-   "orman\u0131",
-   "ya\u011fmur",
-   "orman\u0131",
-   "\u0131l\u0131man",
-   "ya\u011fmur",
-   "orman\u0131",
-   "bulut",
-   "orman\u0131",
-   "yaprak",
-   "d\u00f6ken",
-   "kozalakl\u0131",
-   "a\u011fa\u00e7"
+   "kerestelik alan",
+   "boreal orman\u0131",
+   "ya\u011fmur orman\u0131",
+   "\u0131l\u0131man ya\u011fmur orman\u0131",
+   "bulut orman\u0131",
+   "yaprak d\u00f6ken",
+   "kozalakl\u0131 a\u011fa\u00e7"
   ]
  },
  {
@@ -607,8 +501,7 @@
   "SubCategory": "\u00c7AYIR",
   "Synonyms": [
    "\u00e7ay\u0131r",
-   "tar\u0131m",
-   "arazisi",
+   "tar\u0131m arazisi",
    "\u00e7imen",
    "\u00e7ay\u0131r",
    "otlak",
@@ -622,16 +515,11 @@
   "CatID": "AMBHist",
   "SubCategory": "TAR\u0130H\u0130",
   "Synonyms": [
-   "hayalet",
-   "kasaba",
-   "eski",
-   "bat\u0131",
-   "alt\u0131na",
-   "h\u00fccum",
-   "antik",
-   "roma",
-   "antik",
-   "yunanistan"
+   "hayalet kasaba",
+   "eski bat\u0131",
+   "alt\u0131na h\u00fccum",
+   "antik roma",
+   "antik yunanistan"
   ]
  },
  {
@@ -641,13 +529,10 @@
   "SubCategory": "TEKNOLOJ\u0130K",
   "Synonyms": [
    "laboratuvar",
-   "makine",
-   "odas\u0131",
+   "makine odas\u0131",
    "sunucu",
-   "veri",
-   "merkezi",
-   "kontrol",
-   "odas\u0131"
+   "veri merkezi",
+   "kontrol odas\u0131"
   ]
  },
  {
@@ -656,11 +541,9 @@
   "CatID": "AMBHosp",
   "SubCategory": "HASTANE",
   "Synonyms": [
-   "acil",
-   "servis",
+   "acil servis",
    "ameliyathane",
-   "bekleme",
-   "odas\u0131",
+   "bekleme odas\u0131",
    "revir",
    "klinik",
    "sanatoryum",
@@ -687,10 +570,8 @@
   "CatID": "AMBInsc",
   "SubCategory": "B\u00d6CEK",
   "Synonyms": [
-   "c\u0131rc\u0131r",
-   "b\u00f6cekleri",
-   "a\u011fustos",
-   "b\u00f6cekleri",
+   "c\u0131rc\u0131r b\u00f6cekleri",
+   "a\u011fustos b\u00f6cekleri",
    "katididler",
    "swam",
    "\u00e7ekirgeler"
@@ -703,8 +584,7 @@
   "SubCategory": "G\u00d6L KENARI",
   "Synonyms": [
    "g\u00f6ller",
-   "g\u00f6l",
-   "kenar\u0131",
+   "g\u00f6l kenar\u0131",
    "al\u0131\u015ft\u0131rma",
    "y\u00fczme",
    "rezervuar",
@@ -719,16 +599,13 @@
   "SubCategory": "PAZARYER\u0130",
   "Synonyms": [
    "pazar",
-   "pazar",
-   "yeri",
+   "pazar yeri",
    "sat\u0131c\u0131",
-   "al\u0131\u015fveri\u015f",
-   "b\u00f6lgesi",
+   "al\u0131\u015fveri\u015f b\u00f6lgesi",
    "\u00e7ar\u015f\u0131",
    "mart",
    "borsa",
-   "bit",
-   "pazar\u0131",
+   "bit pazar\u0131",
    "meydan"
   ]
  },
@@ -772,8 +649,7 @@
    "b\u00f6l\u00fcm",
    "istasyon",
    "\u015fube",
-   "i\u015f",
-   "istasyonu"
+   "i\u015f istasyonu"
   ]
  },
  {
@@ -783,19 +659,13 @@
   "SubCategory": "PARK",
   "Synonyms": [
    "park",
-   "oyun",
-   "alan\u0131",
+   "oyun alan\u0131",
    "bah\u00e7eler",
-   "botanik",
-   "bah\u00e7eleri",
-   "\u015fehir",
-   "park\u0131",
-   "banliy\u00f6",
-   "park\u0131",
-   "top",
-   "sahas\u0131",
-   "park",
-   "alan\u0131"
+   "botanik bah\u00e7eleri",
+   "\u015fehir park\u0131",
+   "banliy\u00f6 park\u0131",
+   "top sahas\u0131",
+   "park alan\u0131"
   ]
  },
  {
@@ -806,16 +676,12 @@
   "Synonyms": [
    "hapishane",
    "hapishane",
-   "hapishane",
-   "avlusu",
+   "hapishane avlusu",
    "cezaevi",
    "hapishane",
    "g\u00f6zalt\u0131",
-   "h\u00fccre",
-   "hapsi",
-   "ceza",
-   "infaz",
-   "kurumu"
+   "h\u00fccre hapsi",
+   "ceza infaz kurumu"
   ]
  },
  {
@@ -828,13 +694,10 @@
    "miting",
    "mitingler",
    "isyan",
-   "slogan",
-   "atmak",
+   "slogan atmak",
    "ba\u011f\u0131rmak",
-   "\u00e7\u0131\u011fl\u0131k",
-   "atmak",
-   "\u00f6fkeli",
-   "kalabal\u0131k",
+   "\u00e7\u0131\u011fl\u0131k atmak",
+   "\u00f6fkeli kalabal\u0131k",
    "y\u00fcr\u00fcy\u00fc\u015fler",
    "g\u00f6steri",
    "karga\u015fa",
@@ -852,17 +715,12 @@
    "ma\u011fazalar",
    "lobiler",
    "oteller",
-   "al\u0131\u015fveri\u015f",
-   "merkezleri",
+   "al\u0131\u015fveri\u015f merkezleri",
    "m\u00fczeler",
-   "halka",
-   "a\u00e7\u0131k",
-   "meydanlar",
+   "halka a\u00e7\u0131k meydanlar",
    "avlular",
-   "spor",
-   "salonlar\u0131",
-   "fitness",
-   "merkezi",
+   "spor salonlar\u0131",
+   "fitness merkezi",
    "motel",
    "k\u00fct\u00fcphane",
    "adliye",
@@ -894,8 +752,7 @@
    "k\u0131namak",
    "konak",
    "ev",
-   "\u015fehir",
-   "evi",
+   "\u015fehir evi",
    "kabin",
    "ev",
    "konut"
@@ -916,26 +773,20 @@
    "cafe",
    "kafeterya",
    "kantin",
-   "\u00e7ay",
-   "salonu",
+   "\u00e7ay salonu",
    "salon",
-   "kahve",
-   "d\u00fckkan\u0131",
+   "kahve d\u00fckkan\u0131",
    "pizzac\u0131",
-   "fast",
-   "food",
-   "\u015farap",
-   "bar\u0131",
+   "fast-food",
+   "\u015farap bar\u0131",
    "otomat",
    "kantin",
    "taverna",
-   "gece",
-   "kul\u00fcb\u00fc",
+   "gece kul\u00fcb\u00fc",
    "\u015fark\u00fcteri",
    "eatery",
    "brasserie",
-   "drive",
-   "in"
+   "drive-in"
   ]
  },
  {
@@ -944,12 +795,9 @@
   "CatID": "AMBRoom",
   "SubCategory": "ODA SES\u0130",
   "Synonyms": [
-   "oda",
-   "sesi",
-   "\u00f6l\u00fc",
-   "hava",
-   "sessiz",
-   "hava"
+   "oda sesi",
+   "\u00f6l\u00fc hava",
+   "sessiz hava"
   ]
  },
  {
@@ -958,23 +806,19 @@
   "CatID": "AMBRurl",
   "SubCategory": "KIRSAL",
   "Synonyms": [
-   "k\u0131rsal",
-   "alan",
+   "k\u0131rsal alan",
    "ova",
    "\u00e7ay\u0131r",
    "otlak",
    "da\u011f",
-   "ini\u015fli",
-   "\u00e7\u0131k\u0131\u015fl\u0131",
-   "tepe",
+   "ini\u015fli \u00e7\u0131k\u0131\u015fl\u0131 tepe",
    "savan",
    "tundra",
    "\u00e7ay\u0131r",
    "kanyon",
    "kanyon",
    "\u00e7al\u0131l\u0131k",
-   "\u00e7al\u0131l\u0131k",
-   "alan",
+   "\u00e7al\u0131l\u0131k alan",
    "plato"
   ]
  },
@@ -988,8 +832,7 @@
    "ortaokul",
    "lise",
    "\u00fcniversite",
-   "okul",
-   "\u00f6ncesi",
+   "okul \u00f6ncesi",
    "\u00fcniversite",
    "s\u0131n\u0131f",
    "montaj"
@@ -1001,18 +844,13 @@
   "CatID": "AMBSci",
   "SubCategory": "B\u0130L\u0130MKURGU",
   "Synonyms": [
-   "uzay",
-   "gemisi",
-   "teknoloji",
-   "merkezi",
-   "komuta",
-   "merkezi",
+   "uzay gemisi",
+   "teknoloji merkezi",
+   "komuta merkezi",
    "scifi",
    "f\u00fct\u00fcristik",
-   "y\u00fcksek",
-   "teknoloji",
-   "hi",
-   "tec"
+   "y\u00fcksek teknoloji",
+   "hi-tec"
   ]
  },
  {
@@ -1022,19 +860,14 @@
   "SubCategory": "SAH\u0130L",
   "Synonyms": [
    "plaj",
-   "deniz",
-   "kenar\u0131",
+   "deniz kenar\u0131",
    "sahil",
    "k\u0131y\u0131",
-   "k\u0131y\u0131",
-   "\u015feridi",
+   "k\u0131y\u0131 \u015feridi",
    "sahil",
-   "sahil",
-   "\u015feridi",
-   "tahta",
-   "kald\u0131r\u0131m",
-   "sahil",
-   "tesisi",
+   "sahil \u015feridi",
+   "tahta kald\u0131r\u0131m",
+   "sahil tesisi",
    "sahil",
    "set",
    "r\u0131ht\u0131m",
@@ -1056,10 +889,8 @@
    "mlb",
    "beyzbol",
    "tenis",
-   "spor",
-   "etkinli\u011fi",
-   "k\u00fc\u00e7\u00fckler",
-   "ligi",
+   "spor etkinli\u011fi",
+   "k\u00fc\u00e7\u00fckler ligi",
    "antrenman"
   ]
  },
@@ -1072,12 +903,10 @@
    "banliy\u00f6",
    "yerle\u015fim",
    "mahalle",
-   "\u00e7\u0131kmaz",
-   "sokak",
+   "\u00e7\u0131kmaz sokak",
    "k\u00f6y",
    "varo\u015f",
-   "kenar",
-   "mahalle",
+   "kenar mahalle",
    "mezra"
   ]
  },
@@ -1091,12 +920,9 @@
    "batakl\u0131k",
    "batakl\u0131k",
    "everglade",
-   "sulak",
-   "alan",
-   "nehir",
-   "k\u0131y\u0131s\u0131",
-   "g\u00f6l",
-   "kenar\u0131",
+   "sulak alan",
+   "nehir k\u0131y\u0131s\u0131",
+   "g\u00f6l kenar\u0131",
    "g\u00f6l",
    "mangrov"
   ]
@@ -1110,8 +936,7 @@
    "kasaba",
    "k\u00f6y",
    "mezra",
-   "k\u00fc\u00e7\u00fck",
-   "kasaba",
+   "k\u00fc\u00e7\u00fck kasaba",
    "topluluk",
    "yerle\u015fim"
   ]
@@ -1136,15 +961,11 @@
   "CatID": "AMBTran",
   "SubCategory": "ULA\u015eIM",
   "Synonyms": [
-   "tren",
-   "istasyonu",
+   "tren istasyonu",
    "havaalan\u0131",
-   "otob\u00fcs",
-   "istasyonu",
-   "metro",
-   "istasyonu",
-   "metro",
-   "istasyonu",
+   "otob\u00fcs istasyonu",
+   "metro istasyonu",
+   "metro istasyonu",
    "terminal",
    "depo",
    "terminus"
@@ -1158,11 +979,8 @@
   "Synonyms": [
    "orman",
    "\u00e7al\u0131l\u0131k",
-   "tropikal",
-   "ya\u011fmur",
-   "orman\u0131",
-   "bulut",
-   "orman\u0131",
+   "tropikal ya\u011fmur orman\u0131",
+   "bulut orman\u0131",
    "tropikal"
   ]
  },
@@ -1175,10 +993,8 @@
    "artik",
    "antartik",
    "plato",
-   "kuzey",
-   "kutbu",
-   "g\u00fcney",
-   "kutbu",
+   "kuzey kutbu",
+   "g\u00fcney kutbu",
    "kutup",
    "buzul",
    "kar",
@@ -1198,20 +1014,17 @@
    "s\u0131\u011f\u0131nak",
    "t\u00fcnel",
    "zindan",
-   "lav",
-   "t\u00fcp\u00fc",
+   "lav t\u00fcp\u00fc",
    "mahzen",
    "yeralt\u0131",
    "bat\u0131k",
    "g\u00f6m\u00fcl\u00fc",
-   "yer",
-   "alt\u0131",
+   "yer alt\u0131",
    "bodrum",
    "\u015faft",
    "maden",
    "ge\u00e7it",
-   "ge\u00e7it",
-   "yolu"
+   "ge\u00e7it yolu"
   ]
  },
  {
@@ -1223,13 +1036,11 @@
    "sualt\u0131",
    "resif",
    "mercan",
-   "okyanus",
-   "\u00e7ukuru",
+   "okyanus \u00e7ukuru",
    "bat\u0131k",
    "denizalt\u0131",
    "subaquatic",
-   "gemi",
-   "enkaz\u0131"
+   "gemi enkaz\u0131"
   ]
  },
  {
@@ -1239,26 +1050,19 @@
   "SubCategory": "\u015eEH\u0130R",
   "Synonyms": [
    "metropolis",
-   "yo\u011fun",
+   "yo\u011fun \u015fehir",
    "\u015fehir",
-   "\u015fehir",
-   "\u015fehir",
-   "merkezi",
-   "\u015fehir",
-   "i\u00e7i",
+   "\u015fehir merkezi",
+   "\u015fehir i\u00e7i",
    "metropolitan",
    "kalabal\u0131k",
-   "yo\u011fun",
-   "saat",
+   "yo\u011fun saat",
    "t\u0131kan\u0131kl\u0131k",
-   "\u015fehir",
-   "merkezi",
+   "\u015fehir merkezi",
    "gecekondu",
-   "skid",
-   "row",
+   "skid row",
    "getto",
-   "finans",
-   "b\u00f6lgesi"
+   "finans b\u00f6lgesi"
   ]
  },
  {
@@ -1276,19 +1080,16 @@
    "sald\u0131r\u0131",
    "h\u00fccum",
    "y\u0131ld\u0131r\u0131m",
-   "hava",
-   "sald\u0131r\u0131s\u0131",
+   "hava sald\u0131r\u0131s\u0131",
    "bask\u0131n",
    "bombard\u0131man",
    "baraj",
    "f\u00fczilade",
-   "y\u0131ld\u0131r\u0131m",
-   "sava\u015f\u0131",
+   "y\u0131ld\u0131r\u0131m sava\u015f\u0131",
    "salvo",
    "flak",
    "borda",
-   "top\u00e7u",
-   "ate\u015fi"
+   "top\u00e7u ate\u015fi"
   ]
  },
  {
@@ -1299,12 +1100,10 @@
   "Synonyms": [
    "kurba\u011fa",
    "kurba\u011fa",
-   "bo\u011fa",
-   "kurba\u011fas\u0131",
+   "bo\u011fa kurba\u011fas\u0131",
    "semender",
    "semender",
-   "koro",
-   "kurba\u011fas\u0131",
+   "koro kurba\u011fas\u0131",
    "peeper",
    "croaker",
    "axolotl"
@@ -1319,23 +1118,17 @@
    "balina",
    "yunus",
    "domuzbal\u0131\u011f\u0131",
-   "deniz",
-   "aslan\u0131",
+   "deniz aslan\u0131",
    "fok",
-   "katil",
-   "balina",
+   "katil balina",
    "orka",
    "denizay\u0131s\u0131",
    "mors",
-   "fil",
-   "foku",
-   "deniz",
-   "samuru",
-   "su",
-   "samuru",
+   "fil foku",
+   "deniz samuru",
+   "su samuru",
    "beluga",
-   "deniz",
-   "gergedan\u0131",
+   "deniz gergedan\u0131",
    "dugong",
    "k\u00f6pekbal\u0131\u011f\u0131",
    "vatoz",
@@ -1353,12 +1146,9 @@
   "CatID": "ANMLBat",
   "SubCategory": "YARASA",
   "Synonyms": [
-   "u\u00e7an",
-   "tilki",
-   "vampir",
-   "yarasalar",
-   "meyve",
-   "yarasas\u0131"
+   "u\u00e7an tilki",
+   "vampir yarasalar",
+   "meyve yarasas\u0131"
   ]
  },
  {
@@ -1369,11 +1159,9 @@
   "Synonyms": [
    "miyavlamak",
    "m\u0131rlamak",
-   "kedi",
-   "yavrusu",
+   "kedi yavrusu",
    "kedicik",
-   "sokak",
-   "kedisi"
+   "sokak kedisi"
   ]
  },
  {
@@ -1388,8 +1176,7 @@
    "puma",
    "leopar",
    "jaguar",
-   "kar",
-   "leopar\u0131",
+   "kar leopar\u0131",
    "\u00e7ita",
    "va\u015fak",
    "va\u015fak",
@@ -1408,11 +1195,9 @@
    "k\u00f6pek",
    "taz\u0131",
    "havlamak",
-   "k\u00f6pek",
-   "yavrusu",
+   "k\u00f6pek yavrusu",
    "k\u00f6pek\u00e7ik",
-   "kucak",
-   "k\u00f6pe\u011fi",
+   "kucak k\u00f6pe\u011fi",
    "it",
    "pooch"
   ]
@@ -1465,19 +1250,14 @@
   "SubCategory": "B\u00d6CEK",
   "Synonyms": [
    "\u00e7ekirge",
-   "c\u0131rc\u0131r",
-   "b\u00f6ce\u011fi",
-   "a\u011fustos",
-   "b\u00f6ce\u011fi",
+   "c\u0131rc\u0131r b\u00f6ce\u011fi",
+   "a\u011fustos b\u00f6ce\u011fi",
    "sinek",
    "ar\u0131",
-   "yaban",
-   "ar\u0131s\u0131",
-   "e\u015fek",
-   "ar\u0131s\u0131",
+   "yaban ar\u0131s\u0131",
+   "e\u015fek ar\u0131s\u0131",
    "weta",
-   "kozalak",
-   "ba\u015f\u0131",
+   "kozalak ba\u015f\u0131",
    "\u00e7ekirge",
    "b\u00f6cek",
    "hamamb\u00f6ce\u011fi"
@@ -1543,15 +1323,12 @@
    "kunduz",
    "sincap",
    "rakun",
-   "\u00e7ay\u0131r",
-   "k\u00f6pe\u011fi",
+   "\u00e7ay\u0131r k\u00f6pe\u011fi",
    "gerbil",
    "hamster",
-   "da\u011f",
-   "s\u0131\u00e7an\u0131",
+   "da\u011f s\u0131\u00e7an\u0131",
    "lemming",
-   "misk",
-   "s\u0131\u00e7an\u0131",
+   "misk s\u0131\u00e7an\u0131",
    "\u00e7in\u00e7illa",
    "kemirgen"
   ]
@@ -1564,19 +1341,16 @@
   "Synonyms": [
    "ay\u0131",
    "z\u00fcrafa",
-   "su",
-   "ayg\u0131r\u0131",
+   "su ayg\u0131r\u0131",
    "fil",
    "geyik",
    "ceylan",
    "porsuk",
    "kar\u0131ncayiyen",
    "ornitorenk",
-   "tembel",
-   "hayvan",
+   "tembel hayvan",
    "wolverine",
-   "yaban",
-   "domuzu",
+   "yaban domuzu",
    "vombat",
    "koala",
    "kanguru",
@@ -1586,16 +1360,13 @@
    "antilop",
    "rakun",
    "geyik",
-   "ren",
-   "geyi\u011fi",
+   "ren geyi\u011fi",
    "gergedan",
    "aardvark",
-   "yaban",
-   "domuzu",
+   "yaban domuzu",
    "impala",
    "hipopotam",
-   "bal",
-   "porsu\u011fu",
+   "bal porsu\u011fu",
    "bufalo",
    "geyik"
   ]
@@ -1608,8 +1379,7 @@
   "Synonyms": [
    "adr",
    "d\u00f6ng\u00fc",
-   "de\u011fi\u015ftirme",
-   "diyalo\u011fu"
+   "de\u011fi\u015ftirme diyalo\u011fu"
   ]
  },
  {
@@ -1639,14 +1409,11 @@
   "CatID": "IR",
   "SubCategory": "IMPULSE RESPONSE",
   "Synonyms": [
-   "impulse",
-   "response",
+   "impulse response",
    "ir",
    "altiverb",
-   "reverb",
-   "sample",
-   "convolution",
-   "reverb"
+   "reverb sample",
+   "convolution reverb"
   ]
  },
  {
@@ -1655,8 +1422,7 @@
   "CatID": "LPGRP",
   "SubCategory": "RABARBA (SAHNEYE \u00d6ZEL KAYIT)",
   "Synonyms": [
-   "loop",
-   "group",
+   "loop group",
    "walla"
   ]
  },
@@ -1667,11 +1433,9 @@
   "SubCategory": "M\u0130KS",
   "Synonyms": [
    "premix",
-   "final",
-   "mix",
+   "final mix",
    "stem",
-   "m",
-   "e",
+   "m&e",
    "mixdown",
    "printmaster"
   ]
@@ -1691,10 +1455,8 @@
   "CatID": "PROD",
   "SubCategory": "PROD\u00dcKS\u0130YON",
   "Synonyms": [
-   "\u00fcretim",
-   "al\u0131m\u0131",
-   "diyalog",
-   "hatt\u0131",
+   "\u00fcretim al\u0131m\u0131",
+   "diyalog hatt\u0131",
    "dx"
   ]
  },
@@ -1704,10 +1466,8 @@
   "CatID": "RAW",
   "SubCategory": "HAM",
   "Synonyms": [
-   "veri",
-   "band\u0131",
-   "ham",
-   "dosyalar",
+   "veri band\u0131",
+   "ham dosyalar",
    "i\u015flenmemi\u015f"
   ]
  },
@@ -1727,11 +1487,8 @@
   "CatID": "SCNE",
   "SubCategory": "SAHNE",
   "Synonyms": [
-   "haz\u0131r",
-   "yap\u0131m",
-   "\u00f6nceden",
-   "in\u015fa",
-   "edilmi\u015f"
+   "haz\u0131r yap\u0131m",
+   "\u00f6nceden in\u015fa edilmi\u015f"
   ]
  },
  {
@@ -1740,21 +1497,13 @@
   "CatID": "TEST",
   "SubCategory": "TEST TONU",
   "Synonyms": [
-   "adr",
-   "bip",
-   "sesleri",
-   "test",
-   "sesleri",
-   "bip",
-   "sesi",
+   "adr bip sesleri",
+   "test sesleri",
+   "bip sesi",
    "2pops",
-   "beyaz",
-   "g\u00fcr\u00fclt\u00fc",
-   "pembe",
-   "g\u00fcr\u00fclt\u00fc",
-   "sin\u00fcs",
-   "dalgas\u0131",
-   "taramalar\u0131"
+   "beyaz g\u00fcr\u00fclt\u00fc",
+   "pembe g\u00fcr\u00fclt\u00fc",
+   "sin\u00fcs dalgas\u0131 taramalar\u0131"
   ]
  },
  {
@@ -1763,12 +1512,9 @@
   "CatID": "TMARK",
   "SubCategory": "T\u0130CAR\u0130 MARKA",
   "Synonyms": [
-   "ticari",
-   "marka",
-   "telif",
-   "hakk\u0131",
-   "\u00fcr\u00fcn",
-   "sesi",
+   "ticari marka",
+   "telif hakk\u0131",
+   "\u00fcr\u00fcn sesi",
    "lisansl\u0131",
    "tescilli",
    "yasal"
@@ -1780,9 +1526,7 @@
   "CatID": "WIP",
   "SubCategory": "\u00c7ALI\u015eMA A\u015eAMASINDA",
   "Synonyms": [
-   "devam",
-   "eden",
-   "\u00e7al\u0131\u015fma",
+   "devam eden \u00e7al\u0131\u015fma",
    "wip",
    "bitmemi\u015f"
   ]
@@ -1793,8 +1537,7 @@
   "CatID": "WTF",
   "SubCategory": "BUNEAMK",
   "Synonyms": [
-   "kategorize",
-   "edilemeyen",
+   "kategorize edilemeyen",
    "bilinmeyen",
    "\u015fakalar"
   ]
@@ -1806,10 +1549,8 @@
   "SubCategory": "BEYAZ E\u015eYA",
   "Synonyms": [
    "mikrodalga",
-   "bula\u015f\u0131k",
-   "makinesi",
-   "\u00e7ama\u015f\u0131r",
-   "makinesi",
+   "bula\u015f\u0131k makinesi",
+   "\u00e7ama\u015f\u0131r makinesi",
    "kurutucu"
   ]
  },
@@ -1842,8 +1583,7 @@
    "ekg",
    "ekg",
    "kdc",
-   "kalp",
-   "monit\u00f6r\u00fc",
+   "kalp monit\u00f6r\u00fc",
    "flatline",
    "ultrason"
   ]
@@ -1855,12 +1595,9 @@
   "SubCategory": "ZAMANLAYICI",
   "Synonyms": [
    "mikrodalga",
-   "f\u0131r\u0131n",
-   "zamanlay\u0131c\u0131s\u0131",
-   "dijital",
-   "saat",
-   "telefon",
-   "zamanlay\u0131c\u0131s\u0131"
+   "f\u0131r\u0131n zamanlay\u0131c\u0131s\u0131",
+   "dijital saat",
+   "telefon zamanlay\u0131c\u0131s\u0131"
   ]
  },
  {
@@ -1869,12 +1606,8 @@
   "CatID": "BEEPVeh",
   "SubCategory": "TA\u015eIT",
   "Synonyms": [
-   "forklift",
-   "bip",
-   "sesi",
-   "yedek",
-   "bip",
-   "sesi"
+   "forklift bip sesi",
+   "yedek bip sesi"
   ]
  },
  {
@@ -1883,14 +1616,10 @@
   "CatID": "BELLAnml",
   "SubCategory": "HAYVAN",
   "Synonyms": [
-   "inek",
-   "\u00e7an\u0131",
-   "\u015fahin",
-   "\u00e7an\u0131",
-   "yaka",
-   "\u00e7an\u0131",
-   "koyun",
-   "\u00e7an\u0131"
+   "inek \u00e7an\u0131",
+   "\u015fahin \u00e7an\u0131",
+   "yaka \u00e7an\u0131",
+   "koyun \u00e7an\u0131"
   ]
  },
  {
@@ -1899,12 +1628,9 @@
   "CatID": "BELLDoor",
   "SubCategory": "KAPI Z\u0130L\u0130",
   "Synonyms": [
-   "kap\u0131",
-   "zili",
-   "kap\u0131",
-   "zili",
-   "ding",
-   "dong",
+   "kap\u0131 zili",
+   "kap\u0131 zili",
+   "ding dong",
    "tring"
   ]
  },
@@ -1917,10 +1643,8 @@
    "gong",
    "gamelan",
    "agung",
-   "\u00e7anak",
-   "gong",
-   "tam",
-   "tam"
+   "\u00e7anak gong",
+   "tam-tam"
   ]
  },
  {
@@ -1929,19 +1653,13 @@
   "CatID": "BELLHand",
   "SubCategory": "\u00c7AN & EL \u00c7ANI ",
   "Synonyms": [
-   "el",
-   "zili",
-   "yemek",
-   "zili",
-   "okul",
-   "zili",
-   "alter",
-   "zili",
-   "k\u0131zak",
-   "zili",
+   "el zili",
+   "yemek zili",
+   "okul zili",
+   "alter zili",
+   "k\u0131zak zili",
    "jinglebells",
-   "u\u015fak",
-   "zili"
+   "u\u015fak zili"
   ]
  },
  {
@@ -1950,13 +1668,10 @@
   "CatID": "BELLLrg",
   "SubCategory": "B\u00dcY\u00dcK \u00c7AN",
   "Synonyms": [
-   "tap\u0131nak",
-   "\u00e7an\u0131",
-   "kilise",
-   "\u00e7an\u0131",
+   "tap\u0131nak \u00e7an\u0131",
+   "kilise \u00e7an\u0131",
    "peal",
-   "kule",
-   "\u00e7an\u0131"
+   "kule \u00e7an\u0131"
   ]
  },
  {
@@ -1965,12 +1680,9 @@
   "CatID": "BELLMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "bisiklet",
-   "zili",
-   "servis",
-   "zili",
-   "\u00e7a\u011fr\u0131",
-   "zili"
+   "bisiklet zili",
+   "servis zili",
+   "\u00e7a\u011fr\u0131 zili"
   ]
  },
  {
@@ -2002,8 +1714,7 @@
    "karga",
    "kuzgun",
    "alakarga",
-   "mavi",
-   "alakarga",
+   "mavi alakarga",
    "saksa\u011fan",
    "f\u0131nd\u0131kk\u0131ran"
   ]
@@ -2019,8 +1730,7 @@
    "hindi",
    "kaz",
    "kaz",
-   "orman",
-   "tavu\u011fu",
+   "orman tavu\u011fu",
    "\u00f6rdek",
    "ku\u011fu",
    "keklik",
@@ -2044,14 +1754,11 @@
   "Synonyms": [
    "ani",
    "roadrunner",
-   "guguk",
-   "ku\u015fu",
+   "guguk ku\u015fu",
    "a\u011fa\u00e7kakan",
    "b\u00fclb\u00fcl",
-   "b\u00fclb\u00fcl",
-   "ku\u015fu",
-   "sinek",
-   "ku\u015fu"
+   "b\u00fclb\u00fcl ku\u015fu",
+   "sinek ku\u015fu"
   ]
  },
  {
@@ -2061,20 +1768,16 @@
   "SubCategory": "DEN\u0130ZKU\u015eU",
   "Synonyms": [
    "mart\u0131",
-   "s\u00fcms\u00fck",
-   "ku\u015fu",
+   "s\u00fcms\u00fck ku\u015fu",
    "albatros",
    "karabatak",
    "pelikan",
    "penguen",
    "mart\u0131",
    "sumru",
-   "f\u0131rkateyn",
-   "ku\u015fu",
-   "s\u00fcms\u00fck",
-   "ku\u015fu",
-   "istiridye",
-   "ku\u015fu",
+   "f\u0131rkateyn ku\u015fu",
+   "s\u00fcms\u00fck ku\u015fu",
+   "istiridye ku\u015fu",
    "ya\u011fmurcun",
    "\u00e7ulluk",
    "dunlin",
@@ -2093,10 +1796,8 @@
    "g\u00fcvercin",
    "sinekkapan",
    "grosbeak",
-   "alayc\u0131",
-   "ku\u015f",
-   "s\u0131vac\u0131",
-   "ku\u015fu",
+   "alayc\u0131 ku\u015f",
+   "s\u0131vac\u0131 ku\u015fu",
    "g\u00fcvercin",
    "robin",
    "ser\u00e7e",
@@ -2123,8 +1824,7 @@
    "chat",
    "troupial",
    "kardinal",
-   "kiraz",
-   "ku\u015fu",
+   "kiraz ku\u015fu",
    "karatavuk"
   ]
  },
@@ -2137,18 +1837,14 @@
    "papa\u011fan",
    "tukan",
    "kookaburra",
-   "lir",
-   "ku\u015fu",
-   "tavus",
-   "ku\u015fu",
+   "lir ku\u015fu",
+   "tavus ku\u015fu",
    "macaw",
    "hornbill",
    "kakadu",
-   "muhabbet",
-   "ku\u015fu",
+   "muhabbet ku\u015fu",
    "ibis",
-   "ka\u015f\u0131k",
-   "gagas\u0131",
+   "ka\u015f\u0131k gagas\u0131",
    "flamingo"
   ]
  },
@@ -2159,8 +1855,7 @@
   "SubCategory": "YA\u011eMUR KU\u015eU",
   "Synonyms": [
    "turna",
-   "ak",
-   "bal\u0131k\u00e7\u0131l",
+   "ak bal\u0131k\u00e7\u0131l",
    "flamingo",
    "ibis",
    "ray",
@@ -2172,10 +1867,8 @@
    "sakarmeke",
    "turna",
    "bal\u0131k\u00e7\u0131l",
-   "ak",
-   "bal\u0131k\u00e7\u0131l",
-   "ak",
-   "bal\u0131k\u00e7\u0131l",
+   "ak bal\u0131k\u00e7\u0131l",
+   "ak bal\u0131k\u00e7\u0131l",
    "leylek",
    "\u00e7ulluk"
   ]
@@ -2186,10 +1879,8 @@
   "CatID": "BOATAir",
   "SubCategory": "BATAKLIK TEKNES\u0130",
   "Synonyms": [
-   "yelpaze",
-   "bot",
-   "hava",
-   "botu",
+   "yelpaze bot",
+   "hava botu",
    "hovercraft"
   ]
  },
@@ -2199,8 +1890,7 @@
   "CatID": "BOATWash",
   "SubCategory": "PRUVA DALGASI",
   "Synonyms": [
-   "yay",
-   "y\u0131kama",
+   "yay y\u0131kama",
    "uyand\u0131rma"
   ]
  },
@@ -2211,15 +1901,10 @@
   "SubCategory": "KAPI",
   "Synonyms": [
    "kapak",
-   "feribot",
-   "kap\u0131s\u0131",
-   "tekne",
-   "kap\u0131s\u0131",
-   "su",
-   "ge\u00e7irmez",
-   "kap\u0131",
-   "gemi",
-   "kap\u0131s\u0131"
+   "feribot kap\u0131s\u0131",
+   "tekne kap\u0131s\u0131",
+   "su ge\u00e7irmez kap\u0131",
+   "gemi kap\u0131s\u0131"
   ]
  },
  {
@@ -2228,8 +1913,7 @@
   "CatID": "BOATElec",
   "SubCategory": "ELEKTR\u0130KL\u0130",
   "Synonyms": [
-   "trolling",
-   "motoru"
+   "trolling motoru"
   ]
  },
  {
@@ -2238,19 +1922,13 @@
   "CatID": "BOATFish",
   "SubCategory": "BALIK\u00c7I",
   "Synonyms": [
-   "yenge\u00e7",
-   "tekneleri",
-   "trol",
-   "tekneleri",
-   "g\u0131rg\u0131r",
-   "teknesi",
-   "hat",
-   "gemisi",
-   "tarak",
-   "gemisi",
+   "yenge\u00e7 tekneleri",
+   "trol tekneleri",
+   "g\u0131rg\u0131r teknesi",
+   "hat gemisi",
+   "tarak gemisi",
    "gillnetter",
-   "ara\u015ft\u0131rma",
-   "gemisi"
+   "ara\u015ft\u0131rma gemisi"
   ]
  },
  {
@@ -2259,10 +1937,8 @@
   "CatID": "BOATHorn",
   "SubCategory": "KORNA",
   "Synonyms": [
-   "gemi",
-   "kornas\u0131",
-   "r\u00f6mork\u00f6r",
-   "kornas\u0131"
+   "gemi kornas\u0131",
+   "r\u00f6mork\u00f6r kornas\u0131"
   ]
  },
  {
@@ -2274,20 +1950,15 @@
    "gemi",
    "feribot",
    "feribotlar",
-   "yolcu",
-   "gemisi",
+   "yolcu gemisi",
    "donanma",
-   "askeri",
-   "tekne",
+   "askeri tekne",
    "r\u00f6mork\u00f6r",
    "yelkenli",
    "yat",
-   "petrol",
-   "tankeri",
-   "kargo",
-   "gemisi",
-   "y\u00fck",
-   "gemisi",
+   "petrol tankeri",
+   "kargo gemisi",
+   "y\u00fck gemisi",
    "denizalt\u0131"
   ]
  },
@@ -2300,10 +1971,8 @@
    "arma",
    "makara",
    "halat",
-   "gemi",
-   "\u00e7ark\u0131",
-   "gaz",
-   "kelebe\u011fi",
+   "gemi \u00e7ark\u0131",
+   "gaz kelebe\u011fi",
    "a\u011f",
    "kafes",
    "tuzak",
@@ -2316,17 +1985,13 @@
   "CatID": "BOATMil",
   "SubCategory": "ASKER\u0130",
   "Synonyms": [
-   "devriye",
-   "botu",
+   "devriye botu",
    "destroyer",
    "kruvaz\u00f6r",
-   "sava\u015f",
-   "kruvaz\u00f6r\u00fc",
+   "sava\u015f kruvaz\u00f6r\u00fc",
    "f\u0131rkateyn",
    "korvet",
-   "h\u0131zl\u0131",
-   "sald\u0131r\u0131",
-   "botu"
+   "h\u0131zl\u0131 sald\u0131r\u0131 botu"
   ]
  },
  {
@@ -2335,10 +2000,8 @@
   "CatID": "BOATMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "k\u00fcrek",
-   "teknesi",
-   "k\u00fcrek",
-   "tahtas\u0131"
+   "k\u00fcrek teknesi",
+   "k\u00fcrek tahtas\u0131"
   ]
  },
  {
@@ -2347,17 +2010,11 @@
   "CatID": "BOATMotr",
   "SubCategory": "MOTORBOT",
   "Synonyms": [
-   "k\u00fc\u00e7\u00fck",
-   "tekne",
-   "ki\u015fisel",
-   "bal\u0131k\u00e7\u0131",
-   "teknesi",
-   "s\u00fcrat",
-   "teknesi",
-   "duba",
-   "tekne",
-   "\u00f6rdek",
-   "botu",
+   "k\u00fc\u00e7\u00fck tekne",
+   "ki\u015fisel bal\u0131k\u00e7\u0131 teknesi",
+   "s\u00fcrat teknesi",
+   "duba tekne",
+   "\u00f6rdek botu",
    "sandal"
   ]
  },
@@ -2369,8 +2026,7 @@
   "Synonyms": [
    "hydroplane",
    "hydrofoil",
-   "jet",
-   "boat"
+   "jet boat"
   ]
  },
  {
@@ -2383,12 +2039,9 @@
    "sandal",
    "kay\u0131k",
    "k\u00fcrek",
-   "k\u00fcrek",
-   "\u00e7ekmek",
-   "ejderha",
-   "botu",
-   "k\u00fcrek",
-   "\u00e7ekmek"
+   "k\u00fcrek \u00e7ekmek",
+   "ejderha botu",
+   "k\u00fcrek \u00e7ekmek"
   ]
  },
  {
@@ -2411,16 +2064,11 @@
   "CatID": "BOATShip",
   "SubCategory": "GEM\u0130",
   "Synonyms": [
-   "b\u00fcy\u00fck",
-   "gemi",
-   "yolcu",
-   "gemisi",
-   "petrol",
-   "tankeri",
-   "kargo",
-   "gemisi",
-   "y\u00fck",
-   "gemisi"
+   "b\u00fcy\u00fck gemi",
+   "yolcu gemisi",
+   "petrol tankeri",
+   "kargo gemisi",
+   "y\u00fck gemisi"
   ]
  },
  {
@@ -2429,13 +2077,9 @@
   "CatID": "BOATStm",
   "SubCategory": "BUHARLI",
   "Synonyms": [
-   "buharl\u0131",
-   "k\u00fcrekli",
-   "gemi",
-   "k\u00fcrekli",
-   "vapur",
-   "buhar",
-   "makinesi"
+   "buharl\u0131 k\u00fcrekli gemi",
+   "k\u00fcrekli vapur",
+   "buhar makinesi"
   ]
  },
  {
@@ -2447,8 +2091,7 @@
    "denizalt\u0131",
    "sonar",
    "dalg\u0131\u00e7",
-   "u",
-   "bot"
+   "u-bot"
   ]
  },
  {
@@ -2461,10 +2104,8 @@
    "gemi",
    "sualt\u0131",
    "tanker",
-   "bal\u0131k\u00e7\u0131",
-   "teknesi",
-   "motorlu",
-   "tekne",
+   "bal\u0131k\u00e7\u0131 teknesi",
+   "motorlu tekne",
    "sualt\u0131"
   ]
  },
@@ -2474,8 +2115,7 @@
   "CatID": "BLLTBy",
   "SubCategory": "ISKA",
   "Synonyms": [
-   "mermi",
-   "v\u0131z\u0131lt\u0131s\u0131",
+   "mermi v\u0131z\u0131lt\u0131s\u0131",
    "fwip"
   ]
  },
@@ -2485,10 +2125,8 @@
   "CatID": "BLLTImpt",
   "SubCategory": "DARBE",
   "Synonyms": [
-   "mermi",
-   "\u00e7arpmas\u0131",
-   "mermi",
-   "isabeti"
+   "mermi \u00e7arpmas\u0131",
+   "mermi isabeti"
   ]
  },
  {
@@ -2528,12 +2166,9 @@
   "CatID": "TOONAnml",
   "SubCategory": "HAYVAN",
   "Synonyms": [
-   "sahte",
-   "hayvan",
-   "av",
-   "\u00e7a\u011fr\u0131s\u0131",
-   "\u00f6rdek",
-   "\u00e7a\u011fr\u0131s\u0131"
+   "sahte hayvan",
+   "av \u00e7a\u011fr\u0131s\u0131",
+   "\u00f6rdek \u00e7a\u011fr\u0131s\u0131"
   ]
  },
  {
@@ -2542,10 +2177,8 @@
   "CatID": "TOONBoing",
   "SubCategory": "DO\u0130NK",
   "Synonyms": [
-   "\u00e7ene",
-   "arp\u0131",
-   "a\u011f\u0131z",
-   "arp\u0131"
+   "\u00e7ene arp\u0131",
+   "a\u011f\u0131z arp\u0131"
   ]
  },
  {
@@ -2574,11 +2207,9 @@
   "CatID": "TOONHorn",
   "SubCategory": "KORNA",
   "Synonyms": [
-   "ampul",
-   "kornas\u0131",
+   "ampul kornas\u0131",
    "korna",
-   "palya\u00e7o",
-   "kornas\u0131"
+   "palya\u00e7o kornas\u0131"
   ]
  },
  {
@@ -2599,11 +2230,8 @@
   "SubCategory": "MAK\u0130NE",
   "Synonyms": [
    "mekanizma",
-   "komik",
-   "makine",
-   "rube",
-   "goldberg",
-   "makinesi"
+   "komik makine",
+   "rube goldberg makinesi"
   ]
  },
  {
@@ -2636,8 +2264,7 @@
   "CatID": "TOONPluk",
   "SubCategory": "\u015eELPE & PARMAK ST\u0130L\u0130 & P\u0130ZZ\u0130KATO",
   "Synonyms": [
-   "tel",
-   "koparma"
+   "tel koparma"
   ]
  },
  {
@@ -2646,13 +2273,10 @@
   "CatID": "TOONPop",
   "SubCategory": "POP",
   "Synonyms": [
-   "patlatma",
-   "tabancas\u0131",
-   "a\u011f\u0131z",
-   "patlatma",
+   "patlatma tabancas\u0131",
+   "a\u011f\u0131z patlatma",
    "vantuz",
-   "baloncuk",
-   "patlatma"
+   "baloncuk patlatma"
   ]
  },
  {
@@ -2710,8 +2334,7 @@
   "SubCategory": "YAYLANMA",
   "Synonyms": [
    "cetvel",
-   "a\u011f\u0131z",
-   "arp\u0131"
+   "a\u011f\u0131z arp\u0131"
   ]
  },
  {
@@ -2721,11 +2344,8 @@
   "SubCategory": "TA\u015eIT",
   "Synonyms": [
    "jetsons",
-   "contraption",
-   "\u00e7akmakta\u015flar",
-   "arabas\u0131",
-   "geri",
-   "tepme"
+   "contraption. \u00e7akmakta\u015flar arabas\u0131",
+   "geri tepme"
   ]
  },
  {
@@ -2735,11 +2355,8 @@
   "SubCategory": "SESLEND\u0130RME",
   "Synonyms": [
    "m\u0131r\u0131ldanma",
-   "aptal",
-   "ses",
-   "\u00e7izgi",
-   "film",
-   "sesi"
+   "aptal ses",
+   "\u00e7izgi film sesi"
   ]
  },
  {
@@ -2757,8 +2374,7 @@
   "CatID": "TOONWhis",
   "SubCategory": "ISLIK",
   "Synonyms": [
-   "slayt",
-   "d\u00fcd\u00fc\u011f\u00fc"
+   "slayt d\u00fcd\u00fc\u011f\u00fc"
   ]
  },
  {
@@ -2907,8 +2523,7 @@
    "vurma",
    "\u00e7arpma",
    "\u00e7arpma",
-   "gerilim",
-   "kopmas\u0131"
+   "gerilim kopmas\u0131"
   ]
  },
  {
@@ -2928,10 +2543,8 @@
   "Synonyms": [
    "s\u00fcr\u00fckleme",
    "kelep\u00e7e",
-   "hapishane",
-   "zinciri",
-   "k\u00f6pek",
-   "zinciri"
+   "hapishane zinciri",
+   "k\u00f6pek zinciri"
   ]
  },
  {
@@ -2973,8 +2586,7 @@
   "Synonyms": [
    "\u00e7an",
    "zil",
-   "dede",
-   "saati"
+   "dede saati"
   ]
  },
  {
@@ -2984,10 +2596,8 @@
   "SubCategory": "MEKAN\u0130K",
   "Synonyms": [
    "kurmal\u0131",
-   "saat",
-   "di\u015flileri",
-   "guguklu",
-   "saat"
+   "saat di\u015flileri",
+   "guguklu saat"
   ]
  },
  {
@@ -3008,11 +2618,9 @@
    "tik",
    "klik",
    "kuvars",
-   "tik",
-   "tak",
+   "tik tak",
    "kronometre",
-   "yumurta",
-   "zamanlay\u0131c\u0131"
+   "yumurta zamanlay\u0131c\u0131"
   ]
  },
  {
@@ -3026,8 +2634,7 @@
    "h\u0131\u015f\u0131rt\u0131",
    "para\u015f\u00fct",
    "pelerin",
-   "yelken",
-   "bezi",
+   "yelken bezi",
    "yelken",
    "\u00e7ar\u015faf"
   ]
@@ -3090,8 +2697,7 @@
   "Synonyms": [
    "y\u0131rtma",
    "y\u0131rt\u0131lma",
-   "c\u0131rt",
-   "c\u0131rt"
+   "c\u0131rt c\u0131rt"
   ]
  },
  {
@@ -3100,25 +2706,19 @@
   "CatID": "COMAv",
   "SubCategory": "G\u00d6RSEL \u0130\u015e\u0130TSEL",
   "Synonyms": [
-   "sinema",
-   "kameras\u0131",
+   "sinema kameras\u0131",
    "makara",
-   "film",
-   "kameras\u0131",
+   "film kameras\u0131",
    "projekt\u00f6r",
    "teyp",
    "nagra",
    "walkman",
-   "cd",
-   "\u00e7alar",
-   "makaradan",
-   "makaraya",
+   "cd \u00e7alar",
+   "makaradan makaraya",
    "vcr",
-   "laserdisc",
-   "oynat\u0131c\u0131",
+   "laserdisc oynat\u0131c\u0131",
    "betamax",
-   "slayt",
-   "projekt\u00f6r\u00fc",
+   "slayt projekt\u00f6r\u00fc",
    "beamer",
    "ipod",
    "bolex",
@@ -3132,11 +2732,9 @@
   "CatID": "COMCam",
   "SubCategory": "KAMERA",
   "Synonyms": [
-   "kamera",
-   "deklan\u015f\u00f6r\u00fc",
+   "kamera deklan\u015f\u00f6r\u00fc",
    "sarma",
-   "fla\u015f",
-   "ampul\u00fc",
+   "fla\u015f ampul\u00fc",
    "kodak",
    "nikon",
    "canon",
@@ -3157,14 +2755,11 @@
   "CatID": "COMCell",
   "SubCategory": "CEP TELEFONU",
   "Synonyms": [
-   "cep",
-   "telefonu",
-   "ak\u0131ll\u0131",
-   "telefon",
+   "cep telefonu",
+   "ak\u0131ll\u0131 telefon",
    "iphone",
    "blackberry",
-   "kapakl\u0131",
-   "telefon",
+   "kapakl\u0131 telefon",
    "android"
   ]
  },
@@ -3174,10 +2769,8 @@
   "CatID": "COMMic",
   "SubCategory": "M\u0130KROFON",
   "Synonyms": [
-   "mikrofon",
-   "kullan\u0131m\u0131",
-   "mikrofon",
-   "muslu\u011fu",
+   "mikrofon kullan\u0131m\u0131",
+   "mikrofon muslu\u011fu",
    "larsen",
    "megafon"
   ]
@@ -3201,8 +2794,7 @@
    "victrola",
    "fonograf",
    "stylus",
-   "vinil",
-   "plak"
+   "vinil plak"
   ]
  },
  {
@@ -3213,12 +2805,10 @@
   "Synonyms": [
    "ayarlama",
    "radyo",
-   "k\u0131sa",
-   "dalga",
+   "k\u0131sa dalga",
    "susturucu",
    "futz",
-   "radyo",
-   "yay\u0131n\u0131"
+   "radyo yay\u0131n\u0131"
   ]
  },
  {
@@ -3238,8 +2828,7 @@
   "CatID": "COMTelm",
   "SubCategory": "TELEMETR\u0130",
   "Synonyms": [
-   "mors",
-   "kodu",
+   "mors kodu",
    "telgraf",
    "telemetri",
    "okuma",
@@ -3253,16 +2842,11 @@
   "SubCategory": "TELEFON",
   "Synonyms": [
    "\u00e7evirmeli",
-   "ankes\u00f6rl\u00fc",
-   "telefon",
-   "d\u00f6ner",
-   "kadran",
-   "tu\u015f",
-   "tak\u0131m\u0131",
-   "sabit",
-   "hat",
-   "kablolu",
-   "telefon"
+   "ankes\u00f6rl\u00fc telefon",
+   "d\u00f6ner kadran",
+   "tu\u015f tak\u0131m\u0131",
+   "sabit hat",
+   "kablolu telefon"
   ]
  },
  {
@@ -3277,8 +2861,7 @@
    "g\u00f6steri",
    "program",
    "futz",
-   "tv",
-   "program\u0131",
+   "tv program\u0131",
    "yay\u0131n"
   ]
  },
@@ -3290,10 +2873,8 @@
   "Synonyms": [
    "telsizler",
    "cb",
-   "amat\u00f6r",
-   "telsizler",
-   "al\u0131c\u0131",
-   "verici",
+   "amat\u00f6r telsizler",
+   "al\u0131c\u0131-verici",
    "susturucu",
    "interkom",
    "sevk"
@@ -3307,10 +2888,8 @@
   "Synonyms": [
    "daktilo",
    "teleprinter",
-   "sat\u0131r",
-   "ba\u015f\u0131",
-   "merdane",
-   "d\u00fc\u011fmesi"
+   "sat\u0131r ba\u015f\u0131",
+   "merdane d\u00fc\u011fmesi"
   ]
  },
  {
@@ -3322,10 +2901,8 @@
    "atlama",
    "arama",
    "\u00f6\u011f\u00fctme",
-   "sabit",
-   "disk",
-   "sabit",
-   "disk"
+   "sabit disk",
+   "sabit disk"
   ]
  },
  {
@@ -3346,10 +2923,8 @@
   "CatID": "CMPTMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "palm",
-   "pilot",
-   "cep",
-   "bilgisayar\u0131"
+   "palm pilot",
+   "cep bilgisayar\u0131"
   ]
  },
  {
@@ -3360,8 +2935,7 @@
   "Synonyms": [
    "kraken",
    "denizk\u0131z\u0131",
-   "dev",
-   "kalamar"
+   "dev kalamar"
   ]
  },
  {
@@ -3370,13 +2944,9 @@
   "CatID": "CREAAvian",
   "SubCategory": "KANATLI",
   "Synonyms": [
-   "uzayl\u0131",
-   "ku\u015flar",
-   "d\u00fcnya",
-   "d\u0131\u015f\u0131",
-   "ku\u015flar",
-   "fantastik",
-   "ku\u015flar"
+   "uzayl\u0131 ku\u015flar",
+   "d\u00fcnya d\u0131\u015f\u0131 ku\u015flar",
+   "fantastik ku\u015flar"
   ]
  },
  {
@@ -3385,8 +2955,7 @@
   "CatID": "CREABeast",
   "SubCategory": "YARATIK",
   "Synonyms": [
-   "y\u00fcnl\u00fc",
-   "mamut",
+   "y\u00fcnl\u00fc mamut",
    "mumakil",
    ""
   ]
@@ -3438,16 +3007,11 @@
   "CatID": "CREAElem",
   "SubCategory": "D\u00d6RT ELEMENT",
   "Synonyms": [
-   "kaya",
-   "canavar\u0131",
-   "ate\u015f",
-   "canavar\u0131",
-   "buz",
-   "canavar\u0131",
-   "kaya",
-   "devi",
-   "buz",
-   "devi",
+   "kaya canavar\u0131",
+   "ate\u015f canavar\u0131",
+   "buz canavar\u0131",
+   "kaya devi",
+   "buz devi",
    "golem"
   ]
  },
@@ -3477,8 +3041,7 @@
   "SubCategory": "\u0130NSANSI",
   "Synonyms": [
    "zombi",
-   "ya\u015fayan",
-   "\u00f6l\u00fc",
+   "ya\u015fayan \u00f6l\u00fc",
    "hortlak",
    "vampir",
    "elf",
@@ -3488,10 +3051,8 @@
    "tengu",
    "leprikon",
    "kocaayak",
-   "batakl\u0131k",
-   "\u015feyi",
-   "kurt",
-   "adam",
+   "batakl\u0131k \u015feyi",
+   "kurt adam",
    "frankenstein",
    "mumya"
   ]
@@ -3502,10 +3063,8 @@
   "CatID": "CREAInsc",
   "SubCategory": "B\u00d6CEKS\u0130",
   "Synonyms": [
-   "dev",
-   "kar\u0131nca",
-   "dev",
-   "\u00f6r\u00fcmcek"
+   "dev kar\u0131nca",
+   "dev \u00f6r\u00fcmcek"
   ]
  },
  {
@@ -3524,8 +3083,7 @@
   "SubCategory": "CANAVAR",
   "Synonyms": [
    "godzilla",
-   "king",
-   "kong",
+   "king kong",
    "rancor",
    "behemoth",
    "xenomorph",
@@ -3540,10 +3098,8 @@
   "Synonyms": [
    "serpent",
    "serpentine",
-   "dev",
-   "kertenkele",
-   "dev",
-   "y\u0131lan"
+   "dev kertenkele",
+   "dev y\u0131lan"
   ]
  },
  {
@@ -3566,8 +3122,7 @@
   "SubCategory": "KAYNAK KAYIT",
   "Synonyms": [
    "havlamak",
-   "nefes",
-   "almak",
+   "nefes almak",
    "\u00e7a\u011f\u0131rmak",
    "gaklamak",
    "ciyaklamak",
@@ -3583,10 +3138,8 @@
    "inlemek",
    "a\u011f\u0131zdan",
    "k\u00fckremek",
-   "\u00e7\u0131\u011fl\u0131k",
-   "atmak",
-   "\u00e7\u0131\u011fl\u0131k",
-   "atmak",
+   "\u00e7\u0131\u011fl\u0131k atmak",
+   "\u00e7\u0131\u011fl\u0131k atmak",
    "ciyaklamak",
    "s\u0131zlanmak"
   ]
@@ -3622,18 +3175,15 @@
   "CatID": "CRWDBatl",
   "SubCategory": "SAVA\u015e",
   "Synonyms": [
-   "sava\u015f",
-   "\u00e7\u0131\u011fl\u0131klar\u0131",
+   "sava\u015f \u00e7\u0131\u011fl\u0131klar\u0131",
    "ba\u011f\u0131rmak",
    "h\u00fccum",
    "toplanmak",
    "ordu",
    "muharebe",
-   "iti\u015f",
-   "kak\u0131\u015f",
+   "iti\u015f kak\u0131\u015f",
    "sava\u015f",
-   "\u00e7\u0131\u011fl\u0131k",
-   "atmak",
+   "\u00e7\u0131\u011fl\u0131k atmak",
    "\u00f6lmek"
   ]
  },
@@ -3647,13 +3197,10 @@
    "tatil",
    "parti",
    "g\u00fcr\u00fclt\u00fcl\u00fc",
-   "do\u011fum",
-   "g\u00fcn\u00fc",
-   "yeni",
-   "y\u0131l",
+   "do\u011fum g\u00fcn\u00fc",
+   "yeni y\u0131l",
    "noel",
-   "ge\u00e7it",
-   "t\u00f6reni"
+   "ge\u00e7it t\u00f6reni"
   ]
  },
  {
@@ -3677,11 +3224,9 @@
   "CatID": "CRWDChld",
   "SubCategory": "\u00c7OCUKLAR",
   "Synonyms": [
-   "oyun",
-   "alan\u0131",
+   "oyun alan\u0131",
    "teneff\u00fcs",
-   "oynayan",
-   "\u00e7ocuklar",
+   "oynayan \u00e7ocuklar",
    "park",
    "oyun",
    "etiket"
@@ -3696,8 +3241,7 @@
    "chatter",
    "chat",
    "talk",
-   "sparse",
-   "walla",
+   "sparse walla",
    "converse",
    "conversation"
   ]
@@ -3708,14 +3252,10 @@
   "CatID": "CRWDLaff",
   "SubCategory": "KAHKAHA",
   "Synonyms": [
-   "tv",
-   "\u015fovu",
-   "konserve",
-   "kahkaha",
-   "komedi",
-   "kul\u00fcb\u00fc",
-   "laugh",
-   "track"
+   "tv \u015fovu",
+   "konserve kahkaha",
+   "komedi kul\u00fcb\u00fc",
+   "laugh track"
   ]
  },
  {
@@ -3724,8 +3264,7 @@
   "CatID": "CRWDLoop",
   "SubCategory": "RABARBA (SAHNEYE \u00d6ZEL KAYIT)",
   "Synonyms": [
-   "d\u00f6ng\u00fc",
-   "grubu",
+   "d\u00f6ng\u00fc grubu",
    "adr",
    "konserve"
   ]
@@ -3748,8 +3287,7 @@
    "panik",
    "kaos",
    "ba\u011f\u0131rmak",
-   "\u00e7\u0131\u011fl\u0131k",
-   "atmak",
+   "\u00e7\u0131\u011fl\u0131k atmak",
    "a\u011flamak",
    "s\u0131k\u0131nt\u0131"
   ]
@@ -3775,8 +3313,7 @@
    "boo",
    "ahh",
    "ooh",
-   "st\u00fcdyo",
-   "tepkisi"
+   "st\u00fcdyo tepkisi"
   ]
  },
  {
@@ -3827,11 +3364,9 @@
   "CatID": "DSGNBass",
   "SubCategory": "BASS DALI\u015eI",
   "Synonyms": [
-   "bas",
-   "dal\u0131\u015f\u0131",
+   "bas dal\u0131\u015f\u0131",
    "d\u00fc\u015f\u00fc\u015f",
-   "bas",
-   "d\u00fc\u015f\u00fc\u015f\u00fc",
+   "bas d\u00fc\u015f\u00fc\u015f\u00fc",
    "d\u00fc\u015f\u00fc\u015f"
   ]
  },
@@ -3842,10 +3377,8 @@
   "SubCategory": "BUM",
   "Synonyms": [
    "bom",
-   "derin",
-   "vuru\u015f",
-   "d\u00fc\u015f\u00fck",
-   "sokma",
+   "derin vuru\u015f",
+   "d\u00fc\u015f\u00fck sokma",
    "r\u00f6mork"
   ]
  },
@@ -3973,8 +3506,7 @@
   "CatID": "DSGNRmbl",
   "SubCategory": "G\u00dcMB\u00dcRT\u00dc",
   "Synonyms": [
-   "alt",
-   "harmonik",
+   "alt harmonik",
    "g\u00fcmb\u00fcrt\u00fc",
    "sars\u0131nt\u0131",
    "deprem"
@@ -4001,8 +3533,7 @@
    "kaynak",
    "ham",
    "malzeme",
-   "ham",
-   "kay\u0131t"
+   "ham kay\u0131t"
   ]
  },
  {
@@ -4025,15 +3556,11 @@
   "Synonyms": [
    "sentezlenmi\u015f",
    "synth",
-   "mod",
-   "synth",
-   "mod\u00fcler",
-   "synth",
+   "mod synth",
+   "mod\u00fcler synth",
    "gran\u00fcler",
-   "analog",
-   "synth",
-   "mod\u00fcler",
-   "synth"
+   "analog synth",
+   "mod\u00fcler synth"
   ]
  },
  {
@@ -4042,11 +3569,9 @@
   "CatID": "DSGNTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "kulak",
-   "\u00e7\u0131nlamas\u0131",
+   "kulak \u00e7\u0131nlamas\u0131",
    "\u00e7\u0131nlama",
-   "mermi",
-   "\u015foku",
+   "mermi \u015foku",
    "subjektif"
   ]
  },
@@ -4071,8 +3596,7 @@
   "SubCategory": "WHOOSH (GE\u00c7\u0130\u015e EFEKT\u0130)",
   "Synonyms": [
    "whoosh",
-   "trailer",
-   "swish",
+   "trailer swish",
    "swish"
   ]
  },
@@ -4099,8 +3623,7 @@
    "patlamak",
    "par\u00e7alanmak",
    "k\u0131r\u0131lmak",
-   "parampar\u00e7a",
-   "olmak"
+   "parampar\u00e7a olmak"
   ]
  },
  {
@@ -4190,11 +3713,8 @@
   "CatID": "DIRTTonl",
   "SubCategory": "TONAL",
   "Synonyms": [
-   "kum",
-   "tepeleri",
-   "\u015fark\u0131",
-   "s\u00f6yleyen",
-   "kumlar"
+   "kum tepeleri",
+   "\u015fark\u0131 s\u00f6yleyen kumlar"
   ]
  },
  {
@@ -4220,10 +3740,8 @@
    "f\u0131r\u0131n",
    "mikrodalga",
    "buzdolab\u0131",
-   "bula\u015f\u0131k",
-   "makinesi",
-   "\u00e7ama\u015f\u0131r",
-   "makinesi",
+   "bula\u015f\u0131k makinesi",
+   "\u00e7ama\u015f\u0131r makinesi",
    "kurutucu"
   ]
  },
@@ -4234,10 +3752,8 @@
   "SubCategory": "DOLAP",
   "Synonyms": [
    "dolap",
-   "mutfak",
-   "dolab\u0131",
-   "alet",
-   "dolab\u0131"
+   "mutfak dolab\u0131",
+   "alet dolab\u0131"
   ]
  },
  {
@@ -4261,12 +3777,9 @@
    "zindan",
    "kiler",
    "kale",
-   "ah\u015fap",
-   "kap\u0131",
-   "metal",
-   "kap\u0131",
-   "kap\u0131",
-   "g\u0131c\u0131rt\u0131s\u0131"
+   "ah\u015fap kap\u0131",
+   "metal kap\u0131",
+   "kap\u0131 g\u0131c\u0131rt\u0131s\u0131"
   ]
  },
  {
@@ -4287,14 +3800,10 @@
   "CatID": "DOORElec",
   "SubCategory": "ELEKTR\u0130KL\u0130",
   "Synonyms": [
-   "elektrikli",
-   "kap\u0131",
-   "garaj",
-   "kap\u0131s\u0131",
-   "seslendirme",
-   "kap\u0131s\u0131",
-   "otomatik",
-   "kap\u0131"
+   "elektrikli kap\u0131",
+   "garaj kap\u0131s\u0131",
+   "seslendirme kap\u0131s\u0131",
+   "otomatik kap\u0131"
   ]
  },
  {
@@ -4303,18 +3812,12 @@
   "CatID": "DOORGate",
   "SubCategory": "GE\u00c7\u0130T",
   "Synonyms": [
-   "bah\u00e7e",
-   "kap\u0131s\u0131",
-   "\u00e7it",
-   "kap\u0131s\u0131",
-   "park",
-   "kap\u0131s\u0131",
-   "demiryolu",
-   "ge\u00e7idi",
-   "s\u0131\u011f\u0131r",
-   "kap\u0131s\u0131",
-   "\u00e7iftlik",
-   "kap\u0131s\u0131"
+   "bah\u00e7e kap\u0131s\u0131",
+   "\u00e7it kap\u0131s\u0131",
+   "park kap\u0131s\u0131",
+   "demiryolu ge\u00e7idi",
+   "s\u0131\u011f\u0131r kap\u0131s\u0131",
+   "\u00e7iftlik kap\u0131s\u0131"
   ]
  },
  {
@@ -4323,14 +3826,10 @@
   "CatID": "DOORGlas",
   "SubCategory": "CAM",
   "Synonyms": [
-   "cam",
-   "kap\u0131",
-   "ma\u011faza",
-   "kap\u0131s\u0131",
-   "cumba",
-   "kap\u0131s\u0131",
-   "frans\u0131z",
-   "kap\u0131"
+   "cam kap\u0131",
+   "ma\u011faza kap\u0131s\u0131",
+   "cumba kap\u0131s\u0131",
+   "frans\u0131z kap\u0131"
   ]
  },
  {
@@ -4339,19 +3838,15 @@
   "CatID": "DOORHdwr",
   "SubCategory": "MEKAN\u0130ZMA",
   "Synonyms": [
-   "kap\u0131",
-   "tokma\u011f\u0131",
+   "kap\u0131 tokma\u011f\u0131",
    "s\u00fcrg\u00fc",
-   "itme",
-   "\u00e7ubu\u011fu",
-   "zincir",
-   "kilit",
+   "itme \u00e7ubu\u011fu",
+   "zincir kilit",
    "mente\u015fe",
    "mandal",
    "tutamak",
    "donan\u0131m",
-   "kilit",
-   "a\u00e7ma",
+   "kilit a\u00e7ma",
    "sallama"
   ]
  },
@@ -4361,8 +3856,7 @@
   "CatID": "DOORTech",
   "SubCategory": "TEKNOLOJ\u0130K",
   "Synonyms": [
-   "laboratuvar",
-   "kap\u0131s\u0131"
+   "laboratuvar kap\u0131s\u0131"
   ]
  },
  {
@@ -4371,12 +3865,10 @@
   "CatID": "DOORHydr",
   "SubCategory": "BASIN\u00c7LI & H\u0130DROL\u0130K",
   "Synonyms": [
-   "kap\u0131",
-   "kapat\u0131c\u0131",
+   "kap\u0131 kapat\u0131c\u0131",
    "pn\u00f6matik",
    "hidrolik",
-   "motorlu",
-   "kapak"
+   "motorlu kapak"
   ]
  },
  {
@@ -4399,8 +3891,7 @@
   "CatID": "DOORMetl",
   "SubCategory": "METAL",
   "Synonyms": [
-   "a\u00e7\u0131l\u0131r",
-   "kapan\u0131r",
+   "a\u00e7\u0131l\u0131r kapan\u0131r",
    "kasa",
    "kasa",
    "kapak"
@@ -4421,12 +3912,9 @@
   "CatID": "DOORPlas",
   "SubCategory": "PLAST\u0130K",
   "Synonyms": [
-   "porta",
-   "john",
-   "porta",
-   "let",
-   "porta",
-   "pottie"
+   "porta john",
+   "porta let",
+   "porta pottie"
   ]
  },
  {
@@ -4435,10 +3923,8 @@
   "CatID": "DOORPrisn",
   "SubCategory": "HAP\u0130SHANE",
   "Synonyms": [
-   "hapishane",
-   "kap\u0131s\u0131",
-   "hapishane",
-   "kap\u0131s\u0131"
+   "hapishane kap\u0131s\u0131",
+   "hapishane kap\u0131s\u0131"
   ]
  },
  {
@@ -4449,12 +3935,10 @@
   "Synonyms": [
    "d\u00f6nmek",
    "d\u00f6nd\u00fcrmek",
-   "d\u00f6ner",
-   "kap\u0131",
+   "d\u00f6ner kap\u0131",
    "otel",
    "havaalan\u0131",
-   "al\u0131\u015fveri\u015f",
-   "merkezi"
+   "al\u0131\u015fveri\u015f merkezi"
   ]
  },
  {
@@ -4463,13 +3947,9 @@
   "CatID": "DOORSlid",
   "SubCategory": "KAYAR",
   "Synonyms": [
-   "s\u00fcrg\u00fcl\u00fc",
-   "cam",
-   "kap\u0131",
-   "veranda",
-   "kap\u0131s\u0131",
-   "du\u015f",
-   "kap\u0131s\u0131"
+   "s\u00fcrg\u00fcl\u00fc cam kap\u0131",
+   "veranda kap\u0131s\u0131",
+   "du\u015f kap\u0131s\u0131"
   ]
  },
  {
@@ -4482,8 +3962,7 @@
    "mahzen",
    "tap\u0131nak",
    "t\u00fcrbe",
-   "gizli",
-   "giri\u015f"
+   "gizli giri\u015f"
   ]
  },
  {
@@ -4492,15 +3971,10 @@
   "CatID": "DOORSwng",
   "SubCategory": "\u00c7\u0130FT Y\u00d6NL\u00dc",
   "Synonyms": [
-   "salon",
-   "kap\u0131s\u0131",
-   "trafik",
-   "kap\u0131s\u0131",
-   "restoran",
-   "kap\u0131s\u0131",
-   "kilise",
-   "minber",
-   "kap\u0131s\u0131"
+   "salon kap\u0131s\u0131",
+   "trafik kap\u0131s\u0131",
+   "restoran kap\u0131s\u0131",
+   "kilise minber kap\u0131s\u0131"
   ]
  },
  {
@@ -4510,8 +3984,7 @@
   "SubCategory": "TAHTA",
   "Synonyms": [
    "giri\u015f",
-   "\u00f6n",
-   "kap\u0131",
+   "\u00f6n kap\u0131",
    "dolap"
   ]
  },
@@ -4521,16 +3994,11 @@
   "CatID": "DRWRMetl",
   "SubCategory": "METAL",
   "Synonyms": [
-   "alet",
-   "kutusu",
-   "raf",
-   "\u00e7ekmecesi",
-   "dosya",
-   "dolab\u0131",
-   "yazar",
-   "kasa",
-   "g\u00fcvenlik",
-   "\u00e7ekmecesi"
+   "alet kutusu",
+   "raf \u00e7ekmecesi",
+   "dosya dolab\u0131",
+   "yazar kasa",
+   "g\u00fcvenlik \u00e7ekmecesi"
   ]
  },
  {
@@ -4548,10 +4016,8 @@
   "CatID": "DRWRPlas",
   "SubCategory": "PLAST\u0130K",
   "Synonyms": [
-   "par\u00e7a",
-   "kutusu",
-   "masa",
-   "d\u00fczenleyici"
+   "par\u00e7a kutusu",
+   "masa d\u00fczenleyici"
   ]
  },
  {
@@ -4560,10 +4026,8 @@
   "CatID": "DRWRWood",
   "SubCategory": "TAHTA",
   "Synonyms": [
-   "mutfak",
-   "\u00e7ekmecesi",
-   "banyo",
-   "\u00e7ekmecesi"
+   "mutfak \u00e7ekmecesi",
+   "banyo \u00e7ekmecesi"
   ]
  },
  {
@@ -4572,17 +4036,12 @@
   "CatID": "ELECArc",
   "SubCategory": "ARK",
   "Synonyms": [
-   "jacob",
-   "un",
-   "merdiveni",
-   "tesla",
-   "bobini",
+   "jacob'un merdiveni",
+   "tesla bobini",
    "ark",
    "kemer",
-   "elektrik",
-   "santrali",
-   "elektrik",
-   "\u00e7arpmas\u0131"
+   "elektrik santrali",
+   "elektrik \u00e7arpmas\u0131"
   ]
  },
  {
@@ -4591,20 +4050,14 @@
   "CatID": "ELECBuzz",
   "SubCategory": "VIZILTI & U\u011eULTU",
   "Synonyms": [
-   "topraklama",
-   "u\u011fultusu",
-   "amfi",
-   "u\u011fultusu",
-   "amfi",
-   "v\u0131z\u0131lt\u0131s\u0131",
-   "hoparl\u00f6r",
-   "u\u011fultusu",
-   "hoparl\u00f6r",
-   "v\u0131z\u0131lt\u0131s\u0131",
+   "topraklama u\u011fultusu",
+   "amfi u\u011fultusu",
+   "amfi v\u0131z\u0131lt\u0131s\u0131",
+   "hoparl\u00f6r u\u011fultusu",
+   "hoparl\u00f6r v\u0131z\u0131lt\u0131s\u0131",
    "u\u011fultu",
    "v\u0131z\u0131lt\u0131",
-   "ind\u00fcksiyon",
-   "u\u011fultusu"
+   "ind\u00fcksiyon u\u011fultusu"
   ]
  },
  {
@@ -4637,8 +4090,7 @@
    "k\u0131v\u0131lc\u0131m",
    "kaynak",
    "s\u0131\u00e7rama",
-   "k\u0131sa",
-   "devre"
+   "k\u0131sa devre"
   ]
  },
  {
@@ -4649,8 +4101,7 @@
   "Synonyms": [
    "de\u015farj",
    "\u015fok",
-   "\u015fok",
-   "tabancas\u0131",
+   "\u015fok tabancas\u0131",
    "elektro\u015fok"
   ]
  },
@@ -4663,12 +4114,9 @@
    "dizgin",
    "dizginler",
    "tasma",
-   "ko\u015fum",
-   "tak\u0131m\u0131",
-   "k\u00f6pek",
-   "tasmas\u0131",
-   "eyer",
-   "kay\u0131\u015f\u0131"
+   "ko\u015fum tak\u0131m\u0131",
+   "k\u00f6pek tasmas\u0131",
+   "eyer kay\u0131\u015f\u0131"
   ]
  },
  {
@@ -4677,10 +4125,8 @@
   "CatID": "EQUIPTech",
   "SubCategory": "TEKNOLOJ\u0130K",
   "Synonyms": [
-   "uzay",
-   "giysisi",
-   "yard\u0131mc\u0131",
-   "kemer"
+   "uzay giysisi",
+   "yard\u0131mc\u0131 kemer"
   ]
  },
  {
@@ -4698,14 +4144,12 @@
   "CatID": "EQUIPRec",
   "SubCategory": "GEZ\u0130",
   "Synonyms": [
-   "s\u0131rt",
-   "\u00e7antas\u0131",
+   "s\u0131rt \u00e7antas\u0131",
    "y\u00fcr\u00fcy\u00fc\u015f",
    "y\u00fcr\u00fcy\u00fc\u015f",
    "da\u011fc\u0131l\u0131k",
    "t\u0131rman\u0131\u015f",
-   "kaya",
-   "t\u0131rman\u0131\u015f\u0131",
+   "kaya t\u0131rman\u0131\u015f\u0131",
    "kamp",
    "\u00e7ad\u0131r"
   ]
@@ -4719,8 +4163,7 @@
    "omuzluk",
    "dizlik",
    "inciklik",
-   "sporcu",
-   "ask\u0131s\u0131"
+   "sporcu ask\u0131s\u0131"
   ]
  },
  {
@@ -4731,10 +4174,8 @@
   "Synonyms": [
    "kemer",
    "taktik",
-   "g\u00f6rev",
-   "kemeri",
-   "cephane",
-   "kemeri",
+   "g\u00f6rev kemeri",
+   "cephane kemeri",
    "polis",
    "askeri",
    "bandoleer"
@@ -4746,8 +4187,7 @@
   "CatID": "EXPLDsgn",
   "SubCategory": "TASARIM",
   "Synonyms": [
-   "\u015fok",
-   "dalgas\u0131",
+   "\u015fok dalgas\u0131",
    "tatland\u0131r\u0131c\u0131",
    "yank\u0131"
   ]
@@ -4782,11 +4222,9 @@
    "macun",
    "razzberry",
    "ahududu",
-   "whoopie",
-   "yast\u0131k",
+   "whoopie yast\u0131k",
    "flarp",
-   "koltuk",
-   "alt\u0131",
+   "koltuk alt\u0131",
    "fartbag",
    "balon"
   ]
@@ -4797,8 +4235,7 @@
   "CatID": "FARTMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "hayvan",
-   "osuru\u011fu"
+   "hayvan osuru\u011fu"
   ]
  },
  {
@@ -4807,8 +4244,7 @@
   "CatID": "FARTReal",
   "SubCategory": "GER\u00c7EK",
   "Synonyms": [
-   "insan",
-   "osuru\u011fu",
+   "insan osuru\u011fu",
    "gaz",
    "poot",
    "toot"
@@ -4821,11 +4257,9 @@
   "SubCategory": "YUVARLANMA & D\u00dc\u015eME",
   "Synonyms": [
    "bodyfall",
-   "body",
-   "drag",
+   "body drag",
    "scuffle",
-   "body",
-   "slam",
+   "body slam",
    "tackle"
   ]
  },
@@ -4835,14 +4269,11 @@
   "CatID": "FGHTClth",
   "SubCategory": "KIYAFET",
   "Synonyms": [
-   "sava\u015f",
-   "bezi",
+   "sava\u015f bezi",
    "yakalama",
    "kapma",
-   "bez",
-   "darbesi",
-   "bez",
-   "vuru\u015fu"
+   "bez darbesi",
+   "bez vuru\u015fu"
   ]
  },
  {
@@ -4866,13 +4297,11 @@
   "Synonyms": [
    "yumruk",
    "tekme",
-   "v\u00fccut",
-   "darbesi",
+   "v\u00fccut darbesi",
    "tokat",
    "\u015faplak",
    "kavga",
-   "iti\u015f",
-   "kak\u0131\u015f",
+   "iti\u015f kak\u0131\u015f",
    "\u00e7orap",
    "aparkat",
    "jab"
@@ -4893,14 +4322,10 @@
   "CatID": "FIREBurn",
   "SubCategory": "YANMA",
   "Synonyms": [
-   "\u015fenlik",
-   "ate\u015fi",
-   "kamp",
-   "ate\u015fi",
-   "\u00e7al\u0131",
-   "yang\u0131n\u0131",
-   "yap\u0131",
-   "yang\u0131n\u0131",
+   "\u015fenlik ate\u015fi",
+   "kamp ate\u015fi",
+   "\u00e7al\u0131 yang\u0131n\u0131",
+   "yap\u0131 yang\u0131n\u0131",
    "alev",
    "cehennem",
    "yanma",
@@ -4915,8 +4340,7 @@
   "SubCategory": "P\u00dcSK\u00dcRME",
   "Synonyms": [
    "backdraft",
-   "ejderha",
-   "ate\u015fi",
+   "ejderha ate\u015fi",
    "yutmak"
   ]
  },
@@ -4938,18 +4362,13 @@
   "CatID": "FIREGas",
   "SubCategory": "GAZ",
   "Synonyms": [
-   "gaz",
-   "\u0131zgaras\u0131",
-   "bunsen",
-   "br\u00fcl\u00f6r\u00fc",
+   "gaz \u0131zgaras\u0131",
+   "bunsen br\u00fcl\u00f6r\u00fc",
    "f\u0131r\u0131n",
-   "kamp",
-   "oca\u011f\u0131",
-   "mutfak",
-   "oca\u011f\u0131",
+   "kamp oca\u011f\u0131",
+   "mutfak oca\u011f\u0131",
    "krematoryum",
-   "gaz",
-   "oca\u011f\u0131"
+   "gaz oca\u011f\u0131"
   ]
  },
  {
@@ -4961,8 +4380,7 @@
    "kibrit",
    "\u00e7akmak",
    "zippo",
-   "alev",
-   "almak",
+   "alev almak",
    "patlamak",
    "alevlenmek"
   ]
@@ -4982,11 +4400,9 @@
   "CatID": "FIRESizz",
   "SubCategory": "CIZLAMA",
   "Synonyms": [
-   "ate\u015f",
-   "ma\u015fas\u0131",
+   "ate\u015f ma\u015fas\u0131",
    "sigorta",
-   "sigorta",
-   "yan\u0131\u011f\u0131"
+   "sigorta yan\u0131\u011f\u0131"
   ]
  },
  {
@@ -4995,14 +4411,11 @@
   "CatID": "FIRETrch",
   "SubCategory": "ME\u015eALE",
   "Synonyms": [
-   "i\u015faret",
-   "fi\u015fe\u011fi",
+   "i\u015faret fi\u015fe\u011fi",
    "f\u00fcnye",
    "me\u015fale",
-   "ate\u015f",
-   "\u00e7ubu\u011fu",
-   "alevli",
-   "\u00e7ubuk",
+   "ate\u015f \u00e7ubu\u011fu",
+   "alevli \u00e7ubuk",
    "cresset"
   ]
  },
@@ -5012,17 +4425,12 @@
   "CatID": "FIRETurb",
   "SubCategory": "\u00c7ALKANTILI & T\u00dcRB\u00dcLANS",
   "Synonyms": [
-   "yang\u0131n",
-   "girdab\u0131",
-   "\u015fiddetli",
-   "yang\u0131n",
-   "alev",
-   "at\u0131c\u0131",
-   "yang\u0131n",
-   "kas\u0131rgas\u0131",
+   "yang\u0131n girdab\u0131",
+   "\u015fiddetli yang\u0131n",
+   "alev at\u0131c\u0131",
+   "yang\u0131n kas\u0131rgas\u0131",
    "yutmak",
-   "geri",
-   "tepme"
+   "geri tepme"
   ]
  },
  {
@@ -5031,14 +4439,11 @@
   "CatID": "FIREWhsh",
   "SubCategory": "WHOOSH (GE\u00c7\u0130\u015e EFEKT\u0130)",
   "Synonyms": [
-   "ate\u015f",
-   "topu",
+   "ate\u015f topu",
    "alev",
    "molotof",
-   "i\u015faret",
-   "fi\u015fe\u011fi",
-   "geri",
-   "tepme"
+   "i\u015faret fi\u015fe\u011fi",
+   "geri tepme"
   ]
  },
  {
@@ -5048,14 +4453,11 @@
   "SubCategory": "T\u0130CAR\u0130",
   "Synonyms": [
    "havan",
-   "havai",
-   "fi\u015fek",
+   "havai fi\u015fek",
    "piroteknik",
    "kaboom",
    "mermi",
-   "havai",
-   "fi\u015fek",
-   "g\u00f6sterisi"
+   "havai fi\u015fek g\u00f6sterisi"
   ]
  },
  {
@@ -5073,21 +4475,15 @@
   "CatID": "FRWKRec",
   "SubCategory": "E\u011eLENCE",
   "Synonyms": [
-   "havai",
-   "fi\u015fek",
+   "havai fi\u015fek",
    "m80",
    "maytap",
-   "\u015fi\u015fe",
-   "roketi",
-   "sis",
-   "bombas\u0131",
-   "z\u0131playan",
-   "kriko",
-   "roma",
-   "mumu",
+   "\u015fi\u015fe roketi",
+   "sis bombas\u0131",
+   "z\u0131playan kriko",
+   "roma mumu",
    "popper",
-   "kiraz",
-   "bombas\u0131"
+   "kiraz bombas\u0131"
   ]
  },
  {
@@ -5110,8 +4506,7 @@
   "Synonyms": [
    "ayak",
    "ayakkab\u0131",
-   "ayak",
-   "izi",
+   "ayak izi",
    "y\u00fczey"
   ]
  },
@@ -5154,26 +4549,19 @@
   "Synonyms": [
    "do\u011framak",
    "dilimlemek",
-   "k\u00fcp",
-   "k\u00fcp",
-   "do\u011framak",
+   "k\u00fcp k\u00fcp do\u011framak",
    "kar\u0131\u015ft\u0131rmak",
    "harmanlamak",
    "\u00e7\u0131rpmak",
-   "sote",
-   "etmek",
+   "sote etmek",
    "k\u0131zartmak",
    "kaynatmak",
-   "\u0131zgara",
-   "yapmak",
+   "\u0131zgara yapmak",
    "c\u0131z\u0131rdatmak",
-   "buharda",
-   "pi\u015firmek",
-   "g\u00fcve\u00e7",
-   "yapmak",
+   "buharda pi\u015firmek",
+   "g\u00fcve\u00e7 yapmak",
    "kar\u0131\u015ft\u0131rmak",
-   "sote",
-   "etmek"
+   "sote etmek"
   ]
  },
  {
@@ -5208,8 +4596,7 @@
    "\u0131s\u0131rmak",
    "yutmak",
    "t\u00fcketmek",
-   "ziyafet",
-   "\u00e7ekmek",
+   "ziyafet \u00e7ekmek",
    "beslemek"
   ]
  },
@@ -5255,8 +4642,7 @@
    "tencere",
    "g\u00fcve\u00e7",
    "tencere",
-   "k\u0131zartma",
-   "tavas\u0131",
+   "k\u0131zartma tavas\u0131",
    "tencere"
   ]
  },
@@ -5278,8 +4664,7 @@
    "d\u00f6kmek",
    "akmak",
    "d\u00f6k\u00fclmek",
-   "servis",
-   "etmek"
+   "servis etmek"
   ]
  },
  {
@@ -5288,12 +4673,9 @@
   "CatID": "FOODTware",
   "SubCategory": "\u00c7ATAL BI\u00c7AK",
   "Synonyms": [
-   "g\u00fcm\u00fc\u015f",
-   "tak\u0131mlar",
-   "mutfak",
-   "e\u015fyalar\u0131",
-   "bardak",
-   "\u015f\u0131ng\u0131rt\u0131lar\u0131"
+   "g\u00fcm\u00fc\u015f tak\u0131mlar",
+   "mutfak e\u015fyalar\u0131",
+   "bardak \u015f\u0131ng\u0131rt\u0131lar\u0131"
   ]
  },
  {
@@ -5374,8 +4756,7 @@
    "lang\u0131rt",
    "k\u00f6stebek",
    "skeeball",
-   "pen\u00e7e",
-   "makinesi"
+   "pen\u00e7e makinesi"
   ]
  },
  {
@@ -5397,14 +4778,11 @@
   "SubCategory": "KUMARHANE",
   "Synonyms": [
    "rulet",
-   "slot",
-   "makinesi",
+   "slot makinesi",
    "barbut",
-   "para",
-   "\u00e7ark\u0131",
+   "para \u00e7ark\u0131",
    "keno",
-   "poker",
-   "makinesi"
+   "poker makinesi"
   ]
  },
  {
@@ -5429,16 +4807,13 @@
   "Synonyms": [
    "atari",
    "ps4",
-   "xbox",
-   "one",
-   "xbox",
-   "360",
+   "xbox one",
+   "xbox 360",
    "amstrad",
    "famicom",
    "snes",
    "gameboy",
-   "nintendo",
-   "64",
+   "nintendo 64",
    "playstation",
    "megadrive",
    "psp"
@@ -5450,8 +4825,7 @@
   "CatID": "GEOFuma",
   "SubCategory": "T\u00dcTEN",
   "Synonyms": [
-   "buhar",
-   "deli\u011fi",
+   "buhar deli\u011fi",
    "jeotermal",
    "fumarole"
   ]
@@ -5489,9 +4863,7 @@
   "CatID": "GEOMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "fokurdayan",
-   "s\u0131cak",
-   "havuz"
+   "fokurdayan s\u0131cak havuz"
   ]
  },
  {
@@ -5501,10 +4873,8 @@
   "SubCategory": "\u00c7AMUR HAVUZU",
   "Synonyms": [
    "mudpot",
-   "boya",
-   "kab\u0131",
-   "katran",
-   "\u00e7ukuru",
+   "boya kab\u0131",
+   "katran \u00e7ukuru",
    "\u00e7amur",
    "kabarc\u0131k",
    "glop"
@@ -5516,11 +4886,9 @@
   "CatID": "GLASBrk",
   "SubCategory": "KIRMA",
   "Synonyms": [
-   "cam",
-   "k\u0131r\u0131lmas\u0131",
+   "cam k\u0131r\u0131lmas\u0131",
    "par\u00e7alanmas\u0131",
-   "parampar\u00e7a",
-   "olmas\u0131"
+   "parampar\u00e7a olmas\u0131"
   ]
  },
  {
@@ -5605,10 +4973,8 @@
    "rezonans",
    "halka",
    "tonal",
-   "cam",
-   "armonika",
-   "kristal",
-   "kase"
+   "cam armonika",
+   "kristal kase"
   ]
  },
  {
@@ -5630,14 +4996,10 @@
   "CatID": "GOREBone",
   "SubCategory": "KEM\u0130K",
   "Synonyms": [
-   "kemik",
-   "k\u0131r\u0131lmas\u0131",
-   "kemik",
-   "k\u0131r\u0131lmas\u0131",
-   "kemik",
-   "par\u00e7alanmas\u0131",
-   "\u00e7ene",
-   "k\u0131r\u0131lmas\u0131",
+   "kemik k\u0131r\u0131lmas\u0131",
+   "kemik k\u0131r\u0131lmas\u0131",
+   "kemik par\u00e7alanmas\u0131",
+   "\u00e7ene k\u0131r\u0131lmas\u0131",
    "\u00e7eneler"
   ]
  },
@@ -5762,8 +5124,7 @@
   "SubCategory": "SAPLAMA",
   "Synonyms": [
    "dilimlemek",
-   "kaz\u0131\u011fa",
-   "oturtmak",
+   "kaz\u0131\u011fa oturtmak",
    "b\u0131\u00e7aklamak",
    "kesmek",
    "vorpal",
@@ -5776,20 +5137,12 @@
   "CatID": "GUNAntq",
   "SubCategory": "ANT\u0130KA",
   "Synonyms": [
-   "a\u011f\u0131zdan",
-   "dolma",
-   "t\u00fcfek",
-   "misket",
-   "t\u00fcfe\u011fi",
-   "kara",
-   "barut",
-   "\u00e7akmakl\u0131",
-   "t\u00fcfek",
-   "uzun",
-   "namlulu",
-   "t\u00fcfek",
-   "ate\u015f",
-   "m\u0131zra\u011f\u0131"
+   "a\u011f\u0131zdan dolma t\u00fcfek",
+   "misket t\u00fcfe\u011fi",
+   "kara barut",
+   "\u00e7akmakl\u0131 t\u00fcfek",
+   "uzun namlulu t\u00fcfek",
+   "ate\u015f m\u0131zra\u011f\u0131"
   ]
  },
  {
@@ -5799,10 +5152,8 @@
   "SubCategory": "A\u011eIR TOP",
   "Synonyms": [
    "ob\u00fcs",
-   "u\u00e7aksavar",
-   "topu",
-   "f\u00fcze",
-   "f\u0131rlat\u0131c\u0131",
+   "u\u00e7aksavar topu",
+   "f\u00fcze f\u0131rlat\u0131c\u0131",
    "bazuka",
    "havan",
    "roket",
@@ -5815,18 +5166,14 @@
   "CatID": "GUNAuto",
   "SubCategory": "OTOMAT\u0130K",
   "Synonyms": [
-   "ak",
-   "47",
+   "ak-47",
    "m16",
-   "makineli",
-   "t\u00fcfek",
-   "tommy",
-   "gun",
+   "makineli t\u00fcfek",
+   "tommy gun",
    "uzi",
    "m249",
    "m1919",
-   "gatling",
-   "gun",
+   "gatling gun",
    "minigun",
    ""
   ]
@@ -5840,8 +5187,7 @@
    "blunderbuss",
    "handcannon",
    "cannon",
-   "black",
-   "powder"
+   "black powder"
   ]
  },
  {
@@ -5852,14 +5198,10 @@
   "Synonyms": [
    "k\u0131l\u0131f",
    "silah",
-   "silah",
-   "tutma",
-   "silah",
-   "yakalama",
-   "silah",
-   "d\u00fc\u015f\u00fcrme",
-   "silah",
-   "doldurma"
+   "silah tutma",
+   "silah yakalama",
+   "silah d\u00fc\u015f\u00fcrme",
+   "silah doldurma"
   ]
  },
  {
@@ -5868,10 +5210,8 @@
   "CatID": "GUNTech",
   "SubCategory": "TEKNOLOJ\u0130K",
   "Synonyms": [
-   "rayl\u0131",
-   "silah",
-   "casus",
-   "silah\u0131"
+   "rayl\u0131 silah",
+   "casus silah\u0131"
   ]
  },
  {
@@ -5882,14 +5222,11 @@
   "Synonyms": [
    "\u015farj\u00f6r",
    "horoz",
-   "silah",
-   "tak\u0131rt\u0131s\u0131",
+   "silah tak\u0131rt\u0131s\u0131",
    "s\u00fcrg\u00fc",
    "\u015farj\u00f6r",
-   "mermi",
-   "doldurma",
-   "silah",
-   "horozu"
+   "mermi doldurma",
+   "silah horozu"
   ]
  },
  {
@@ -5898,13 +5235,9 @@
   "CatID": "GUNMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "i\u015faret",
-   "fi\u015fe\u011fi",
-   "tabancas\u0131",
-   "hava",
-   "tabancas\u0131",
-   "paintball",
-   "tabancas\u0131"
+   "i\u015faret fi\u015fe\u011fi tabancas\u0131",
+   "hava tabancas\u0131",
+   "paintball tabancas\u0131"
   ]
  },
  {
@@ -5919,13 +5252,10 @@
    "glock",
    "tabanca",
    "colt",
-   "smith",
-   "wesson",
-   "sig",
-   "sauer",
+   "smith & wesson",
+   "sig sauer",
    "luger",
-   "walther",
-   "ppk",
+   "walther ppk",
    "browning",
    "ruger",
    "beretta"
@@ -5944,11 +5274,9 @@
    "luger",
    "karabina",
    "powell",
-   "keskin",
-   "ni\u015fanc\u0131",
+   "keskin ni\u015fanc\u0131",
    "avc\u0131l\u0131k",
-   "yar\u0131",
-   "otomatik"
+   "yar\u0131 otomatik"
   ]
  },
  {
@@ -5957,14 +5285,11 @@
   "CatID": "GUNShotg",
   "SubCategory": "POMPALI",
   "Synonyms": [
-   "av",
-   "t\u00fcfe\u011fi",
-   "\u00e7ift",
-   "namlu",
+   "av t\u00fcfe\u011fi",
+   "\u00e7ift namlu",
    "mossberg",
    "winchester",
-   "coach",
-   "gun"
+   "coach gun"
   ]
  },
  {
@@ -5983,12 +5308,9 @@
   "CatID": "HORNAir",
   "SubCategory": "HAVALI",
   "Synonyms": [
-   "sis",
-   "kornas\u0131",
-   "haval\u0131",
-   "korna",
-   "fabrika",
-   "kornas\u0131"
+   "sis kornas\u0131",
+   "haval\u0131 korna",
+   "fabrika kornas\u0131"
   ]
  },
  {
@@ -5997,8 +5319,7 @@
   "CatID": "HORNCele",
   "SubCategory": "KUTLAMA",
   "Synonyms": [
-   "parti",
-   "kornas\u0131",
+   "parti kornas\u0131",
    "vuvuzela"
   ]
  },
@@ -6008,14 +5329,10 @@
   "CatID": "HORNMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "av",
-   "\u00e7a\u011fr\u0131s\u0131",
-   "geyik",
-   "\u00e7a\u011fr\u0131s\u0131",
-   "\u00f6rdek",
-   "\u00e7a\u011fr\u0131s\u0131",
-   "tilki",
-   "borazan\u0131"
+   "av \u00e7a\u011fr\u0131s\u0131",
+   "geyik \u00e7a\u011fr\u0131s\u0131",
+   "\u00f6rdek \u00e7a\u011fr\u0131s\u0131",
+   "tilki borazan\u0131"
   ]
  },
  {
@@ -6026,12 +5343,9 @@
   "Synonyms": [
    "shofar",
    "konk",
-   "konk",
-   "kabu\u011fu",
-   "sava\u015f",
-   "borusu",
-   "alp",
-   "borusu",
+   "konk kabu\u011fu",
+   "sava\u015f borusu",
+   "alp borusu",
    "alpenhorn"
   ]
  },
@@ -6042,8 +5356,7 @@
   "SubCategory": "\u00dcFLEME",
   "Synonyms": [
    "\u00fcfle",
-   "nefes",
-   "ver"
+   "nefes ver"
   ]
  },
  {
@@ -6053,15 +5366,10 @@
   "SubCategory": "NEFES",
   "Synonyms": [
    "nefes",
-   "i\u00e7",
-   "\u00e7ekmek",
-   "nefes",
-   "almak",
-   "nefes",
-   "vermek",
-   "soluk",
-   "solu\u011fa",
-   "kalmak",
+   "i\u00e7 \u00e7ekmek",
+   "nefes almak",
+   "nefes vermek",
+   "soluk solu\u011fa kalmak",
    "h\u0131r\u0131lt\u0131",
    "huff",
    "heave",
@@ -6091,8 +5399,7 @@
    "hack",
    "ahem",
    "hoarse",
-   "clear",
-   "throat"
+   "clear throat"
   ]
  },
  {
@@ -6131,12 +5438,9 @@
   "SubCategory": "\u00c7\u0130\u015e & \u0130\u015eEMEK",
   "Synonyms": [
    "i\u015femek",
-   "idrar",
-   "yapmak",
-   "\u00e7i\u015f",
-   "yapmak",
-   "idrar",
-   "yapmak",
+   "idrar yapmak",
+   "\u00e7i\u015f yapmak",
+   "idrar yapmak",
    "tinkle",
    "wizz"
   ]
@@ -6152,14 +5456,11 @@
    "deri",
    "ka\u015f\u0131nt\u0131",
    "tokat",
-   "el",
-   "tutma",
-   "el",
-   "s\u0131k\u0131\u015fma",
+   "el tutma",
+   "el s\u0131k\u0131\u015fma",
    "ok\u015fama",
    "ovma",
-   "s\u0131rt",
-   "s\u0131vazlama"
+   "s\u0131rt s\u0131vazlama"
   ]
  },
  {
@@ -6169,8 +5470,7 @@
   "SubCategory": "HAP\u015eURUK",
   "Synonyms": [
    "hap\u015f\u0131r\u0131k",
-   "ah",
-   "choo"
+   "ah-choo"
   ]
  },
  {
@@ -6182,8 +5482,7 @@
    "koklamak",
    "koklamak",
    "koklamak",
-   "burnunu",
-   "\u00e7ekmek"
+   "burnunu \u00e7ekmek"
   ]
  },
  {
@@ -6195,9 +5494,7 @@
    "horlama",
    "zzz",
    "t\u0131kan\u0131kl\u0131k",
-   "a\u011f\u0131r",
-   "nefes",
-   "alma",
+   "a\u011f\u0131r nefes alma",
    "apne"
   ]
  },
@@ -6349,11 +5646,9 @@
   "CatID": "LASRGun",
   "SubCategory": "S\u0130LAH",
   "Synonyms": [
-   "plazma",
-   "silah\u0131",
+   "plazma silah\u0131",
    "blaster",
-   "lazer",
-   "topu"
+   "lazer topu"
   ]
  },
  {
@@ -6510,14 +5805,9 @@
    "rollercoaster",
    "atl\u0131kar\u0131nca",
    "scrambler",
-   "tilt",
-   "a",
-   "whirl",
-   "kiddy",
-   "ride",
-   "tema",
-   "park\u0131",
-   "yolculu\u011fu",
+   "tilt-a-whirl",
+   "kiddy ride",
+   "tema park\u0131 yolculu\u011fu",
    "lang\u0131rt",
    "skeeball"
   ]
@@ -6529,12 +5819,9 @@
   "SubCategory": "ANT\u0130KA",
   "Synonyms": [
    "matbaa",
-   "diki\u015f",
-   "makinesi",
-   "zeytin",
-   "presi",
-   "tereya\u011f\u0131",
-   "yay\u0131\u011f\u0131"
+   "diki\u015f makinesi",
+   "zeytin presi",
+   "tereya\u011f\u0131 yay\u0131\u011f\u0131"
   ]
  },
  {
@@ -6547,38 +5834,21 @@
    "buzdolab\u0131",
    "buzdolab\u0131",
    "blender",
-   "mutfak",
-   "robotu",
-   "sa\u00e7",
-   "kurutma",
-   "makinesi",
-   "buz",
-   "makinesi",
-   "\u00e7ama\u015f\u0131r",
-   "makinesi",
-   "kurutma",
-   "makinesi",
+   "mutfak robotu",
+   "sa\u00e7 kurutma makinesi",
+   "buz makinesi",
+   "\u00e7ama\u015f\u0131r makinesi",
+   "kurutma makinesi",
    "\u00fct\u00fc",
-   "kahve",
-   "makinesi",
-   "bula\u015f\u0131k",
-   "makinesi",
-   "elektrikli",
-   "konserve",
-   "a\u00e7aca\u011f\u0131",
-   "\u00e7\u00f6p",
-   "\u00f6\u011f\u00fct\u00fcc\u00fc",
+   "kahve makinesi",
+   "bula\u015f\u0131k makinesi",
+   "elektrikli konserve a\u00e7aca\u011f\u0131",
+   "\u00e7\u00f6p \u00f6\u011f\u00fct\u00fcc\u00fc",
    "nemlendirici",
-   "nem",
-   "alma",
-   "cihaz\u0131",
-   "diki\u015f",
-   "makinesi",
-   "ekmek",
-   "k\u0131zartma",
-   "makinesi",
-   "waffle",
-   "makinesi",
+   "nem alma cihaz\u0131",
+   "diki\u015f makinesi",
+   "ekmek k\u0131zartma makinesi",
+   "waffle makinesi",
    "\u0131zgara",
    "ocak"
   ]
@@ -6590,10 +5860,8 @@
   "SubCategory": "\u0130N\u015eAAT",
   "Synonyms": [
    "vin\u00e7",
-   "\u00e7imento",
-   "kar\u0131\u015ft\u0131r\u0131c\u0131",
-   "a\u011fa\u00e7",
-   "\u00f6\u011f\u00fct\u00fcc\u00fc"
+   "\u00e7imento kar\u0131\u015ft\u0131r\u0131c\u0131",
+   "a\u011fa\u00e7 \u00f6\u011f\u00fct\u00fcc\u00fc"
   ]
  },
  {
@@ -6603,10 +5871,8 @@
   "SubCategory": "ASANS\u00d6R",
   "Synonyms": [
    "paternoster",
-   "y\u00fck",
-   "asans\u00f6r\u00fc",
-   "yolcu",
-   "asans\u00f6r\u00fc",
+   "y\u00fck asans\u00f6r\u00fc",
+   "yolcu asans\u00f6r\u00fc",
    "asans\u00f6r"
   ]
  },
@@ -6617,9 +5883,7 @@
   "SubCategory": "Y\u00dcR\u00dcYEN MERD\u0130VEN",
   "Synonyms": [
    "travelator",
-   "hareketli",
-   "y\u00fcr\u00fcme",
-   "yolu"
+   "hareketli y\u00fcr\u00fcme yolu"
   ]
  },
  {
@@ -6629,14 +5893,10 @@
   "SubCategory": "PERVANE",
   "Synonyms": [
    "vantilat\u00f6r",
-   "tavan",
-   "vantilat\u00f6r\u00fc",
-   "kutu",
-   "vantilat\u00f6r",
-   "end\u00fcstriyel",
-   "vantilat\u00f6r",
-   "kanats\u0131z",
-   "vantilat\u00f6r"
+   "tavan vantilat\u00f6r\u00fc",
+   "kutu vantilat\u00f6r",
+   "end\u00fcstriyel vantilat\u00f6r",
+   "kanats\u0131z vantilat\u00f6r"
   ]
  },
  {
@@ -6645,21 +5905,13 @@
   "CatID": "MACHGrdn",
   "SubCategory": "BAH\u00c7E",
   "Synonyms": [
-   "\u00e7im",
-   "bi\u00e7me",
-   "makinesi",
-   "ot",
-   "bi\u00e7me",
-   "makinesi",
-   "kenar",
-   "d\u00fczeltme",
-   "makinesi",
-   "motorlu",
-   "testere",
+   "\u00e7im bi\u00e7me makinesi",
+   "ot bi\u00e7me makinesi",
+   "kenar d\u00fczeltme makinesi",
+   "motorlu testere",
    "d\u00fczeltici",
    "testere",
-   "mal\u00e7lama",
-   "makinesi",
+   "mal\u00e7lama makinesi",
    "k\u00fcltivat\u00f6r"
   ]
  },
@@ -6669,19 +5921,13 @@
   "CatID": "MACHGym",
   "SubCategory": "SPOR SALONU",
   "Synonyms": [
-   "ko\u015fu",
-   "band\u0131",
+   "ko\u015fu band\u0131",
    "eliptical",
-   "k\u00fcrek",
-   "makinesi",
-   "egzersiz",
-   "bisikleti",
-   "sabit",
-   "bisiklet",
+   "k\u00fcrek makinesi",
+   "egzersiz bisikleti",
+   "sabit bisiklet",
    "nordictrack",
-   "merdiven",
-   "t\u0131rman\u0131c\u0131",
-   ""
+   "merdiven t\u0131rman\u0131c\u0131."
   ]
  },
  {
@@ -6692,8 +5938,7 @@
   "Synonyms": [
    "alet",
    "dijital",
-   "el",
-   "cihaz\u0131"
+   "el cihaz\u0131"
   ]
  },
  {
@@ -6704,8 +5949,7 @@
   "Synonyms": [
    "aircon",
    "klima",
-   "\u0131s\u0131tma",
-   ""
+   "\u0131s\u0131tma."
   ]
  },
  {
@@ -6714,18 +5958,11 @@
   "CatID": "MACHInd",
   "SubCategory": "SANAY\u0130",
   "Synonyms": [
-   "hidrolik",
-   "pres",
-   "montaj",
-   "hatt\u0131",
-   "i\u00e7ki",
-   "fabrikas\u0131",
-   "z\u0131mba",
-   "presi",
-   "form",
-   "presi",
-   "f437",
-   "f450"
+   "hidrolik pres",
+   "montaj hatt\u0131",
+   "i\u00e7ki fabrikas\u0131",
+   "z\u0131mba presi",
+   "form presi + f437: f450"
   ]
  },
  {
@@ -6734,10 +5971,8 @@
   "CatID": "MACHMech",
   "SubCategory": "MEKAN\u0130ZMA",
   "Synonyms": [
-   "bulmaca",
-   "kutusu",
-   "rube",
-   "goldberg",
+   "bulmaca kutusu",
+   "rube goldberg",
    "gizmo"
   ]
  },
@@ -6747,19 +5982,12 @@
   "CatID": "MACHMed",
   "SubCategory": "TIBB\u0130",
   "Synonyms": [
-   "r\u00f6ntgen",
-   "makineleri",
+   "r\u00f6ntgen makineleri",
    "mr",
-   "kedi",
-   "taramas\u0131",
-   "evcil",
-   "hayvan",
-   "taramas\u0131",
-   "tansiyon",
-   "makinesi",
-   "laboratuvar",
-   "test",
-   "makinesi",
+   "kedi taramas\u0131",
+   "evcil hayvan taramas\u0131",
+   "tansiyon makinesi",
+   "laboratuvar test makinesi",
    "santrif\u00fcj",
    "vantilat\u00f6r",
    "defibrilat\u00f6r"
@@ -6780,25 +6008,18 @@
   "CatID": "MACHOffc",
   "SubCategory": "OF\u0130S",
   "Synonyms": [
-   "faks",
-   "makinesi",
-   "faksimile",
-   "makinesi",
+   "faks makinesi",
+   "faksimile makinesi",
    "telefaks",
-   "fotokopi",
-   "makinesi",
+   "fotokopi makinesi",
    "yaz\u0131c\u0131",
    "\u00f6\u011f\u00fct\u00fcc\u00fc",
    "xerox",
-   "fotokopi",
-   "makinesi",
+   "fotokopi makinesi",
    "teksir",
-   "lazer",
-   "yaz\u0131c\u0131",
-   "m\u00fcrekkep",
-   "p\u00fcsk\u00fcrtmeli",
-   "ka\u011f\u0131t",
-   "\u00f6\u011f\u00fct\u00fcc\u00fc",
+   "lazer yaz\u0131c\u0131",
+   "m\u00fcrekkep p\u00fcsk\u00fcrtmeli",
+   "ka\u011f\u0131t \u00f6\u011f\u00fct\u00fcc\u00fc",
    "\u00e7izici"
   ]
  },
@@ -6808,13 +6029,10 @@
   "CatID": "MACHPump",
   "SubCategory": "POMPA",
   "Synonyms": [
-   "su",
-   "pompas\u0131",
-   "karter",
-   "pompas\u0131",
+   "su pompas\u0131",
+   "karter pompas\u0131",
    "kompres\u00f6r",
-   "hava",
-   "kompres\u00f6r\u00fc"
+   "hava kompres\u00f6r\u00fc"
   ]
  },
  {
@@ -6858,8 +6076,7 @@
    "\u00e7a\u011f\u0131rma",
    "b\u00fcy\u00fcc\u00fcl\u00fck",
    "voodoo",
-   "kara",
-   "b\u00fcy\u00fc",
+   "kara b\u00fcy\u00fc",
    "yasak"
   ]
  },
@@ -6891,10 +6108,8 @@
   "Synonyms": [
    "p\u0131r\u0131lt\u0131",
    "\u0131\u015f\u0131lt\u0131",
-   "\u00e7an",
-   "a\u011fac\u0131",
-   "\u00e7an",
-   "sesi",
+   "\u00e7an a\u011fac\u0131",
+   "\u00e7an sesi",
    "par\u0131lt\u0131",
    "\u0131\u015f\u0131lt\u0131",
    "par\u0131lt\u0131",
@@ -6919,8 +6134,7 @@
    "b\u00fcy\u00fc",
    "b\u00fcy\u00fcleme",
    "b\u00fcy\u00fc",
-   "\u015feytan",
-   "\u00e7\u0131karma",
+   "\u015feytan \u00e7\u0131karma",
    "lanet",
    "trans"
   ]
@@ -6949,10 +6163,8 @@
    "pinyon",
    "kremayer",
    "\u015fanz\u0131man",
-   "di\u015fli",
-   "\u00e7ark",
-   "di\u015fli",
-   "\u00e7ark",
+   "di\u015fli \u00e7ark",
+   "di\u015fli \u00e7ark",
    "volan"
   ]
  },
@@ -7000,8 +6212,7 @@
   "CatID": "MECHLock",
   "SubCategory": "K\u0130L\u0130T",
   "Synonyms": [
-   "asma",
-   "kilit",
+   "asma kilit",
    "s\u00fcrg\u00fc"
   ]
  },
@@ -7046,8 +6257,7 @@
   "SubCategory": "R\u00d6LE",
   "Synonyms": [
    "\u00e7evirmek",
-   "ge\u00e7i\u015f",
-   "yapmak",
+   "ge\u00e7i\u015f yapmak",
    "tak\u0131rdatmak"
   ]
  },
@@ -7059,8 +6269,7 @@
   "Synonyms": [
    "rulo",
    "kay\u0131\u015f",
-   "hat",
-   "mili"
+   "hat mili"
   ]
  },
  {
@@ -7184,10 +6393,8 @@
   "CatID": "MOTRAntq",
   "SubCategory": "ANT\u0130KA",
   "Synonyms": [
-   "gazya\u011f\u0131",
-   "motoru",
-   "parafin",
-   "motoru"
+   "gazya\u011f\u0131 motoru",
+   "parafin motoru"
   ]
  },
  {
@@ -7196,15 +6403,10 @@
   "CatID": "MOTRComb",
   "SubCategory": "YANMALI",
   "Synonyms": [
-   "dizel",
-   "motor",
-   "gaz",
-   "motoru",
-   "yanmal\u0131",
-   "motor",
-   "iki",
-   "zamanl\u0131",
-   "motor"
+   "dizel motor",
+   "gaz motoru",
+   "yanmal\u0131 motor",
+   "iki zamanl\u0131 motor"
   ]
  },
  {
@@ -7213,17 +6415,11 @@
   "CatID": "MOTRElec",
   "SubCategory": "ELEKTR\u0130KL\u0130",
   "Synonyms": [
-   "di\u015f",
-   "f\u0131r\u00e7as\u0131",
-   "elektrikli",
-   "t\u0131ra\u015f",
-   "makinesi",
-   "elektrikli",
-   "motor",
-   "\u00e7\u00f6p",
-   "\u00f6\u011f\u00fct\u00fcc\u00fc",
-   "di\u015f\u00e7i",
-   "matkab\u0131"
+   "di\u015f f\u0131r\u00e7as\u0131",
+   "elektrikli t\u0131ra\u015f makinesi",
+   "elektrikli motor",
+   "\u00e7\u00f6p \u00f6\u011f\u00fct\u00fcc\u00fc",
+   "di\u015f\u00e7i matkab\u0131"
   ]
  },
  {
@@ -7242,12 +6438,9 @@
   "SubCategory": "SERVO",
   "Synonyms": [
    "robot",
-   "rc",
-   "araba",
-   "kamera",
-   "oda\u011f\u0131",
-   "araba",
-   "anteni",
+   "rc araba",
+   "kamera oda\u011f\u0131",
+   "araba anteni",
    "yaz\u0131c\u0131"
   ]
  },
@@ -7257,11 +6450,9 @@
   "CatID": "MOTRTurb",
   "SubCategory": "T\u00dcRB\u0130N",
   "Synonyms": [
-   "yel",
-   "de\u011firmeni",
+   "yel de\u011firmeni",
    "u\u00e7ak",
-   "hava",
-   "ta\u015f\u0131t\u0131",
+   "hava ta\u015f\u0131t\u0131",
    "jenerat\u00f6r"
   ]
  },
@@ -7275,8 +6466,7 @@
    "ta\u015f\u0131nma",
    "temizlik",
    "al\u0131\u015fveri\u015f",
-   "paket",
-   "a\u00e7ma"
+   "paket a\u00e7ma"
   ]
  },
  {
@@ -7353,8 +6543,7 @@
   "Synonyms": [
    "s\u00fcr\u00fc",
    "kovan",
-   "ar\u0131",
-   "kovan\u0131",
+   "ar\u0131 kovan\u0131",
    "s\u00fcr\u00fcngen",
    "kurt\u00e7uklar"
   ]
@@ -7377,8 +6566,7 @@
    "ayarlamak",
    "kar\u0131\u015ft\u0131rmak",
    "s\u00fcrtmek",
-   "hafif",
-   "hareket",
+   "hafif hareket",
    "kayd\u0131rmak"
   ]
  },
@@ -7388,24 +6576,17 @@
   "CatID": "MUSCBell",
   "SubCategory": "Z\u0130L",
   "Synonyms": [
-   "boru",
-   "\u015feklindeki",
-   "\u00e7anlar",
+   "boru \u015feklindeki \u00e7anlar",
    "carillon",
    "gamelan",
-   "\u015fark\u0131",
-   "s\u00f6yleyen",
-   "kase",
-   "el",
-   "\u00e7an\u0131",
+   "\u015fark\u0131 s\u00f6yleyen kase",
+   "el \u00e7an\u0131",
    "cowbell",
    "gong",
    "gamelan",
    "agung",
-   "kase",
-   "gong",
-   "tam",
-   "tam"
+   "kase gong",
+   "tam-tam"
   ]
  },
  {
@@ -7415,8 +6596,7 @@
   "SubCategory": "BAKIR NEFESL\u0130",
   "Synonyms": [
    "tuba",
-   "frans\u0131z",
-   "kornosu",
+   "frans\u0131z kornosu",
    "trombon",
    "trompet",
    "mellofon",
@@ -7434,10 +6614,8 @@
   "CatID": "MUSCChim",
   "SubCategory": "\u00c7AN",
   "Synonyms": [
-   "r\u00fczgar",
-   "\u00e7an\u0131",
-   "\u00e7an",
-   "a\u011fac\u0131",
+   "r\u00fczgar \u00e7an\u0131",
+   "\u00e7an a\u011fac\u0131",
    "tinkle",
    "twinkle",
    "shimmer"
@@ -7462,17 +6640,12 @@
   "SubCategory": "DENEYSEL",
   "Synonyms": [
    "theremin",
-   "cam",
-   "armonika",
+   "cam armonika",
    "pyrophone",
    "stylophone",
-   "kristal",
-   "baschet",
-   "elektrikli",
-   "kakt\u00fcs",
-   "aeolian",
-   "r\u00fczgar",
-   "arp\u0131"
+   "kristal baschet",
+   "elektrikli kakt\u00fcs",
+   "aeolian r\u00fczgar arp\u0131"
   ]
  },
  {
@@ -7509,12 +6682,9 @@
   "CatID": "MUSCLoop",
   "SubCategory": "LOOP",
   "Synonyms": [
-   "m\u00fczik",
-   "d\u00f6ng\u00fcleri",
-   "\u00f6rnek",
-   "d\u00f6ng\u00fcler",
-   "davul",
-   "d\u00f6ng\u00fcleri"
+   "m\u00fczik d\u00f6ng\u00fcleri",
+   "\u00f6rnek d\u00f6ng\u00fcler",
+   "davul d\u00f6ng\u00fcleri"
   ]
  },
  {
@@ -7535,16 +6705,12 @@
   "SubCategory": "VURMALI & PERK\u00dcSYON",
   "Synonyms": [
    "timpani",
-   "kettle",
-   "davulu",
-   "bas",
-   "davulu",
+   "kettle davulu",
+   "bas davulu",
    "toms",
-   "sava\u015f",
-   "davullar\u0131",
+   "sava\u015f davullar\u0131",
    "taiko",
-   "kick",
-   "davulu",
+   "kick davulu",
    "trampet"
   ]
  },
@@ -7558,10 +6724,8 @@
    "ksilofon",
    "vibrafon",
    "metalofon",
-   "zilli",
-   "lir",
-   "\u00e7elik",
-   "davul",
+   "zilli lir",
+   "\u00e7elik davul",
    "marimba"
   ]
  },
@@ -7572,13 +6736,10 @@
   "SubCategory": "PERFORMANS",
   "Synonyms": [
    "grup",
-   "sokak",
-   "m\u00fczisyeni",
-   "canl\u0131",
-   "konser",
+   "sokak m\u00fczisyeni",
+   "canl\u0131 konser",
    "g\u00f6steri",
-   "gece",
-   "kul\u00fcb\u00fc",
+   "gece kul\u00fcb\u00fc",
    ""
   ]
  },
@@ -7592,18 +6753,14 @@
    "banjo",
    "ukelele",
    "arp",
-   "akustik",
-   "gitar",
-   "bas",
-   "gitar",
+   "akustik gitar",
+   "bas gitar",
    "mandolin",
    "balalayka",
    "sitar",
    "pipa",
-   "parmak",
-   "piyano",
-   "\u00e7ene",
-   "arp\u0131",
+   "parmak piyano",
+   "\u00e7ene arp\u0131",
    "kanun",
    "balalayka",
    "autoharp",
@@ -7622,10 +6779,8 @@
   "SubCategory": "SAMPLE",
   "Synonyms": [
    "\u00f6rnekler",
-   "ham",
-   "\u00f6rnekler",
-   "tek",
-   "\u00e7ekim"
+   "ham \u00f6rnekler",
+   "tek \u00e7ekim"
   ]
  },
  {
@@ -7637,14 +6792,11 @@
    "marakas",
    "tef",
    "\u00e7\u0131ng\u0131rak",
-   "ya\u011fmur",
-   "\u00e7ubu\u011fu",
+   "ya\u011fmur \u00e7ubu\u011fu",
    "\u015fekere",
-   "yumurta",
-   "\u00e7alkalay\u0131c\u0131",
+   "yumurta \u00e7alkalay\u0131c\u0131",
    "chajchas",
-   "maymun",
-   "\u00e7ubu\u011fu",
+   "maymun \u00e7ubu\u011fu",
    "katsa",
    "sistrum",
    "\u00e7alkalay\u0131c\u0131",
@@ -7658,12 +6810,9 @@
   "SubCategory": "\u015eARKI & M\u00dcZ\u0130KAL C\u00dcMLE",
   "Synonyms": [
    "m\u00fczik",
-   "\u00e7alar",
-   "piyano",
-   "zil",
-   "sesi",
-   "m\u00fczikli",
-   "araba",
+   "\u00e7alar piyano",
+   "zil sesi",
+   "m\u00fczikli araba",
    "ifade"
   ]
  },
@@ -7673,10 +6822,8 @@
   "CatID": "MUSCStngr",
   "SubCategory": "KESK\u0130N \u00c7IKI\u015e & M\u00dcZ\u0130KAL \u0130\u011eNE",
   "Synonyms": [
-   "m\u00fczik",
-   "sting",
-   "haber",
-   "sting",
+   "m\u00fczik sting",
+   "haber sting",
    "ba\u015fl\u0131k"
   ]
  },
@@ -7718,10 +6865,8 @@
   "CatID": "MUSCToy",
   "SubCategory": "OYUNCAK",
   "Synonyms": [
-   "m\u00fczik",
-   "kutusu",
-   "kutudaki",
-   "jack"
+   "m\u00fczik kutusu",
+   "kutudaki jack"
   ]
  },
  {
@@ -7737,13 +6882,11 @@
    "recorder",
    "klarnet",
    "saksafon",
-   "bas",
-   "klarnet",
+   "bas klarnet",
    "ney",
    "bansuri",
    "kaval",
-   "pan",
-   "fl\u00fct",
+   "pan fl\u00fct",
    "xiao",
    "fife",
    ""
@@ -7755,10 +6898,8 @@
   "CatID": "NATDAval",
   "SubCategory": "\u00c7I\u011e",
   "Synonyms": [
-   "toprak",
-   "kaymas\u0131",
-   "\u00e7amur",
-   "kaymas\u0131"
+   "toprak kaymas\u0131",
+   "\u00e7amur kaymas\u0131"
   ]
  },
  {
@@ -7791,8 +6932,7 @@
   "Synonyms": [
    "kas\u0131rga",
    "girdap",
-   "su",
-   "hortumu"
+   "su hortumu"
   ]
  },
  {
@@ -7801,8 +6941,7 @@
   "CatID": "NATDTsun",
   "SubCategory": "TSUNAM\u0130",
   "Synonyms": [
-   "gelgit",
-   "dalgas\u0131",
+   "gelgit dalgas\u0131",
    "tsunami"
   ]
  },
@@ -7815,8 +6954,7 @@
    "tayfun",
    "kas\u0131rga",
    "siklon",
-   "tropikal",
-   "f\u0131rt\u0131na"
+   "tropikal f\u0131rt\u0131na"
   ]
  },
  {
@@ -7827,8 +6965,7 @@
   "Synonyms": [
    "p\u00fcsk\u00fcrme",
    "lav",
-   "lav",
-   "bombalar\u0131",
+   "lav bombalar\u0131",
    "patlamalar",
    "piroklast"
   ]
@@ -7840,17 +6977,12 @@
   "SubCategory": "\u00c7ANTA",
   "Synonyms": [
    "duffle",
-   "s\u0131rt",
-   "\u00e7antas\u0131",
-   "s\u0131rt",
-   "\u00e7antas\u0131",
+   "s\u0131rt \u00e7antas\u0131",
+   "s\u0131rt \u00e7antas\u0131",
    "\u00e7anta",
-   "el",
-   "\u00e7antas\u0131",
-   "omuz",
-   "\u00e7antas\u0131",
-   "kamera",
-   "\u00e7antas\u0131"
+   "el \u00e7antas\u0131",
+   "omuz \u00e7antas\u0131",
+   "kamera \u00e7antas\u0131"
   ]
  },
  {
@@ -7863,8 +6995,7 @@
    "kapak",
    "dergi",
    "katalog",
-   "ders",
-   "kitab\u0131",
+   "ders kitab\u0131",
    "s\u00f6zl\u00fck",
    "tome",
    "cilt",
@@ -7883,15 +7014,12 @@
    "ping",
    "dump",
    "spin",
-   "piggy",
-   "bank",
+   "piggy bank",
    "clink",
    "coinage",
-   "loose",
+   "loose change",
    "change",
-   "change",
-   "silver",
-   "dollar",
+   "silver dollar",
    "penny",
    "nickel",
    "dime",
@@ -7905,25 +7033,18 @@
   "SubCategory": "KONTEYNER & KUTU & PAKET",
   "Synonyms": [
    "kutu",
-   "karton",
-   "kutu",
+   "karton kutu",
    "konteyner",
    "paket",
-   "m\u00fccevher",
-   "kutusu",
-   "plastik",
-   "kap",
+   "m\u00fccevher kutusu",
+   "plastik kap",
    "kapak",
    "tupperware",
    "kaps\u00fcl",
-   "ekmek",
-   "kutusu",
-   "teneke",
-   "kutu",
-   "alet",
-   "kutusu",
-   "hap",
-   "kutusu"
+   "ekmek kutusu",
+   "teneke kutu",
+   "alet kutusu",
+   "hap kutusu"
   ]
  },
  {
@@ -7936,17 +7057,13 @@
    "bot",
    "rimel",
    "ruj",
-   "makyaj",
-   "malzemesi",
+   "makyaj malzemesi",
    "kemer",
    "ku\u015fak",
    "atk\u0131",
-   "topuklu",
-   "ayakkab\u0131",
-   "g\u00f6z",
-   "kalemi",
-   "g\u00fcne\u015f",
-   "g\u00f6zl\u00fc\u011f\u00fc",
+   "topuklu ayakkab\u0131",
+   "g\u00f6z kalemi",
+   "g\u00fcne\u015f g\u00f6zl\u00fc\u011f\u00fc",
    "g\u00f6zl\u00fck",
    "c\u00fczdan",
    "\u015fapka",
@@ -7955,12 +7072,10 @@
    "\u015fal",
    "\u00e7orap",
    "bandana",
-   "kafa",
-   "band\u0131",
+   "kafa band\u0131",
    "kravat",
    "man\u015fon",
-   "pantolon",
-   "ask\u0131s\u0131",
+   "pantolon ask\u0131s\u0131",
    "bornoz",
    "mendil"
   ]
@@ -7973,8 +7088,7 @@
   "Synonyms": [
    "chesterfield",
    "kanepe",
-   "sallanan",
-   "sandalye",
+   "sallanan sandalye",
    "masa",
    "sandalye",
    "loveseat",
@@ -7993,14 +7107,11 @@
   "SubCategory": "MODA",
   "Synonyms": [
    "saks\u0131",
-   "bah\u00e7e",
-   "heykeli",
+   "bah\u00e7e heykeli",
    "hortum",
    "musluk",
-   "sulama",
-   "kab\u0131",
-   "ku\u015f",
-   "yemli\u011fi",
+   "sulama kab\u0131",
+   "ku\u015f yemli\u011fi",
    "g\u00fcbrelik"
   ]
  },
@@ -8014,23 +7125,15 @@
    "damb\u0131l",
    "halter",
    "mat",
-   "a\u011f\u0131rl\u0131k",
-   "sehpas\u0131",
-   "atlama",
-   "ipi",
-   "egzersiz",
-   "topu",
-   "yoga",
-   "mat\u0131",
-   "a\u011f\u0131rl\u0131k",
-   "sehpas\u0131",
-   "diren\u00e7",
-   "band\u0131",
+   "a\u011f\u0131rl\u0131k sehpas\u0131",
+   "atlama ipi",
+   "egzersiz topu",
+   "yoga mat\u0131",
+   "a\u011f\u0131rl\u0131k sehpas\u0131",
+   "diren\u00e7 band\u0131",
    "kettlebell",
-   "fitness",
-   "topu",
-   "egzersiz",
-   "topu"
+   "fitness topu",
+   "egzersiz topu"
   ]
  },
  {
@@ -8039,8 +7142,7 @@
   "CatID": "OBJHsehld",
   "SubCategory": "MESKEN",
   "Synonyms": [
-   "ev",
-   "i\u00e7i",
+   "ev i\u00e7i",
    "ev",
    "ev"
   ]
@@ -8057,12 +7159,9 @@
    "k\u00fcpe",
    "y\u00fcz\u00fck",
    "nosering",
-   "kolye",
-   "ucu",
-   "kravat",
-   "i\u011fnesi",
-   "kol",
-   "d\u00fc\u011fmesi"
+   "kolye ucu",
+   "kravat i\u011fnesi",
+   "kol d\u00fc\u011fmesi"
   ]
  },
  {
@@ -8084,8 +7183,7 @@
   "Synonyms": [
    "bavul",
    "bagaj",
-   "spor",
-   "\u00e7antas\u0131",
+   "spor \u00e7antas\u0131",
    "duffel"
   ]
  },
@@ -8095,13 +7193,9 @@
   "CatID": "OBJMed",
   "SubCategory": "TIBB\u0130",
   "Synonyms": [
-   "manuel",
-   "kan",
-   "bas\u0131nc\u0131",
-   "\u00f6l\u00e7er",
+   "manuel kan bas\u0131nc\u0131 \u00f6l\u00e7er",
    "stetoskop",
-   "lastik",
-   "eldiven",
+   "lastik eldiven",
    "pens",
    "\u015f\u0131r\u0131nga",
    "forcep"
@@ -8123,14 +7217,11 @@
   "SubCategory": "OF\u0130S",
   "Synonyms": [
    "z\u0131mba",
-   "ka\u011f\u0131t",
-   "kesici",
+   "ka\u011f\u0131t kesici",
    "delge\u00e7",
    "makas",
-   "ka\u011f\u0131t",
-   "tepsisi",
-   "ka\u011f\u0131t",
-   "a\u011f\u0131rl\u0131\u011f\u0131",
+   "ka\u011f\u0131t tepsisi",
+   "ka\u011f\u0131t a\u011f\u0131rl\u0131\u011f\u0131",
    "klas\u00f6r",
    "ciltleyici",
    "rapor"
@@ -8144,13 +7235,10 @@
   "Synonyms": [
    "karton",
    "strafor",
-   "ambalaj",
-   "f\u0131st\u0131\u011f\u0131",
+   "ambalaj f\u0131st\u0131\u011f\u0131",
    "etiket",
-   "ambalaj",
-   "ka\u011f\u0131d\u0131",
-   "balonlu",
-   "naylon"
+   "ambalaj ka\u011f\u0131d\u0131",
+   "balonlu naylon"
   ]
  },
  {
@@ -8160,24 +7248,15 @@
   "SubCategory": "BANT",
   "Synonyms": [
    "bant",
-   "c\u0131rt",
-   "c\u0131rt",
-   "sinek",
-   "ka\u011f\u0131d\u0131",
+   "c\u0131rt c\u0131rt",
+   "sinek ka\u011f\u0131d\u0131",
    "yap\u0131\u015ft\u0131r\u0131c\u0131",
-   "ambalaj",
-   "band\u0131",
-   "maskeleme",
-   "band\u0131",
-   "koli",
-   "band\u0131",
-   "gaffer",
-   "bant",
-   "viski",
-   "band\u0131",
-   "\u00e7ift",
-   "yap\u0131\u015fkanl\u0131",
-   "bant"
+   "ambalaj band\u0131",
+   "maskeleme band\u0131",
+   "koli band\u0131",
+   "gaffer bant",
+   "viski band\u0131",
+   "\u00e7ift yap\u0131\u015fkanl\u0131 bant"
   ]
  },
  {
@@ -8198,18 +7277,13 @@
   "CatID": "OBJWhled",
   "SubCategory": "TEKERL\u0130",
   "Synonyms": [
-   "\u00e7ocuk",
-   "arabas\u0131",
+   "\u00e7ocuk arabas\u0131",
    "perambulat\u00f6r",
-   "bebek",
-   "arabas\u0131",
-   "tekerlekli",
-   "sandalye",
+   "bebek arabas\u0131",
+   "tekerlekli sandalye",
    "dolly",
-   "bebek",
-   "arabas\u0131",
-   "el",
-   "arabas\u0131",
+   "bebek arabas\u0131",
+   "el arabas\u0131",
    "sedye"
   ]
  },
@@ -8220,16 +7294,11 @@
   "SubCategory": "YAZI",
   "Synonyms": [
    "kalem",
-   "kur\u015fun",
-   "kalem",
-   "ke\u00e7eli",
-   "kalem",
+   "kur\u015fun kalem",
+   "ke\u00e7eli kalem",
    "tebe\u015fir",
-   "pastel",
-   "boya",
-   "kuru",
-   "silinebilir",
-   "tahta",
+   "pastel boya",
+   "kuru silinebilir tahta",
    "sharpie",
    "imza"
   ]
@@ -8254,8 +7323,7 @@
   "SubCategory": "\u00c7IRPMA",
   "Synonyms": [
    "\u00e7\u0131rp\u0131nmak",
-   "kanat",
-   "\u00e7\u0131rpmak",
+   "kanat \u00e7\u0131rpmak",
    "d\u00fc\u015fmek",
    "konfeti",
    "karton",
@@ -8283,8 +7351,7 @@
    "\u00e7evirmek",
    "sayfa",
    "\u00e7evirmek",
-   "g\u00f6z",
-   "atmak",
+   "g\u00f6z atmak",
    "incelemek",
    "karton",
    "ka\u011f\u0131t"
@@ -8296,10 +7363,8 @@
   "CatID": "PAPRImpt",
   "SubCategory": "DARBE",
   "Synonyms": [
-   "ka\u011f\u0131t",
-   "vurmak",
-   "\u015faplak",
-   "atmak",
+   "ka\u011f\u0131t vurmak",
+   "\u015faplak atmak",
    "tokatlamak",
    "gazete",
    "dergi",
@@ -8433,8 +7498,7 @@
   "SubCategory": "TONAL",
   "Synonyms": [
    "tonal",
-   "\u015fark\u0131",
-   "s\u00f6yleyen",
+   "\u015fark\u0131 s\u00f6yleyen",
    "\u00e7\u0131nlayan"
   ]
  },
@@ -8482,8 +7546,7 @@
   "Synonyms": [
    "ya\u011fmur",
    "cam",
-   "\u00e7at\u0131",
-   "penceresi",
+   "\u00e7at\u0131 penceresi",
    "pencere",
    "sunroof",
    "sera"
@@ -8496,15 +7559,10 @@
   "SubCategory": "\u0130\u00c7",
   "Synonyms": [
    "ya\u011fmur",
-   "ya\u011fmur",
-   "f\u0131rt\u0131nas\u0131",
-   "i\u00e7",
-   "ya\u011fmur",
-   "\u00f6n",
-   "cam",
-   "ya\u011fmuru",
-   "\u00e7at\u0131da",
-   "ya\u011fmur"
+   "ya\u011fmur f\u0131rt\u0131nas\u0131",
+   "i\u00e7 ya\u011fmur",
+   "\u00f6n cam ya\u011fmuru",
+   "\u00e7at\u0131da ya\u011fmur"
   ]
  },
  {
@@ -8539,23 +7597,8 @@
   "CatID": "RAINVege",
   "SubCategory": "B\u0130TK\u0130",
   "Synonyms": [
-   "metal",
-   "bir",
-   "y\u00fczey",
-   "\u00fczerine",
-   "ya\u011fan",
-   "ya\u011fmur",
-   "yani",
-   "bir",
-   "araba",
-   "veya",
-   "metal",
-   "levha",
-   "\u00fczerine",
-   "ya\u011fan",
-   "ya\u011fmur",
-   "vb",
-   ""
+   "metal bir y\u00fczey \u00fczerine ya\u011fan ya\u011fmur",
+   "yani bir araba veya metal levha \u00fczerine ya\u011fan ya\u011fmur vb."
   ]
  },
  {
@@ -8565,8 +7608,7 @@
   "SubCategory": "SU",
   "Synonyms": [
    "ya\u011fmur",
-   "su",
-   "birikintisi",
+   "su birikintisi",
    "g\u00f6l",
    "g\u00f6let"
   ]
@@ -8853,8 +7895,7 @@
   "Synonyms": [
    "hareket",
    "s\u00fcr\u00fckleme",
-   "kanat",
-   "\u00e7\u0131rpma",
+   "kanat \u00e7\u0131rpma",
    "flop"
   ]
  },
@@ -8866,8 +7907,7 @@
   "Synonyms": [
    "tonal",
    "kau\u00e7uk",
-   "\u015fark\u0131",
-   "s\u00f6yleme"
+   "\u015fark\u0131 s\u00f6yleme"
   ]
  },
  {
@@ -8876,9 +7916,7 @@
   "CatID": "SCIAlrm",
   "SubCategory": "ALARM",
   "Synonyms": [
-   "bilim",
-   "kurgu",
-   "alarm\u0131",
+   "bilim kurgu alarm\u0131",
    "uyar\u0131",
    "ikaz"
   ]
@@ -8901,10 +7939,8 @@
   "CatID": "SCIDoor",
   "SubCategory": "KAPI",
   "Synonyms": [
-   "bilimkurgu",
-   "kap\u0131s\u0131",
-   "hava",
-   "kilidi"
+   "bilimkurgu kap\u0131s\u0131",
+   "hava kilidi"
   ]
  },
  {
@@ -8917,8 +7953,7 @@
    "girdap",
    "ta\u015f\u0131y\u0131c\u0131",
    "hologram",
-   "g\u00fc\u00e7",
-   "alan\u0131"
+   "g\u00fc\u00e7 alan\u0131"
   ]
  },
  {
@@ -8927,12 +7962,9 @@
   "CatID": "SCIImpt",
   "SubCategory": "DARBE",
   "Synonyms": [
-   "enerji",
-   "darbesi",
-   "enerji",
-   "dalgas\u0131",
-   "g\u00fc\u00e7",
-   "alan\u0131"
+   "enerji darbesi",
+   "enerji dalgas\u0131",
+   "g\u00fc\u00e7 alan\u0131"
   ]
  },
  {
@@ -8942,10 +7974,8 @@
   "SubCategory": "MAK\u0130NE",
   "Synonyms": [
    "\u0131\u015f\u0131nlay\u0131c\u0131",
-   "yiyecek",
-   "\u00e7o\u011falt\u0131c\u0131lar",
-   "sanal",
-   "g\u00fcverte"
+   "yiyecek \u00e7o\u011falt\u0131c\u0131lar",
+   "sanal g\u00fcverte"
   ]
  },
  {
@@ -8955,8 +7985,7 @@
   "SubCategory": "MEKAN\u0130ZMA",
   "Synonyms": [
    "tricorder",
-   "scifi",
-   "cihaz\u0131",
+   "scifi cihaz\u0131",
    "gizmo"
   ]
  },
@@ -8975,10 +8004,7 @@
   "CatID": "SCIRetro",
   "SubCategory": "ESK\u0130 & RETRO",
   "Synonyms": [
-   "eski",
-   "bi",
-   "li",
-   "mkurgu"
+   "eski\u0307 bi\u0307li\u0307mkurgu"
   ]
  },
  {
@@ -8987,15 +8013,11 @@
   "CatID": "SCIShip",
   "SubCategory": "UZAY GEM\u0130S\u0130",
   "Synonyms": [
-   "uzay",
-   "gemisi",
+   "uzay gemisi",
    "ufo",
-   "ana",
-   "gemi",
-   "sava\u015f",
-   "kruvaz\u00f6r\u00fc",
-   "y\u0131ld\u0131z",
-   "gemisi"
+   "ana gemi",
+   "sava\u015f kruvaz\u00f6r\u00fc",
+   "y\u0131ld\u0131z gemisi"
   ]
  },
  {
@@ -9004,11 +8026,9 @@
   "CatID": "SCIVeh",
   "SubCategory": "TA\u015eIT",
   "Synonyms": [
-   "ay",
-   "rover",
+   "ay rover",
    "landspeeder",
-   "speeder",
-   "bike",
+   "speeder bike",
    "hoverboard",
    "podracer"
   ]
@@ -9019,10 +8039,8 @@
   "CatID": "SCIWeap",
   "SubCategory": "S\u0130LAH",
   "Synonyms": [
-   "\u0131\u015f\u0131n",
-   "k\u0131l\u0131\u00e7lar\u0131",
-   "egzotik",
-   "silah"
+   "\u0131\u015f\u0131n k\u0131l\u0131\u00e7lar\u0131",
+   "egzotik silah"
   ]
  },
  {
@@ -9032,8 +8050,7 @@
   "SubCategory": "\u00c7\u00d6KME & MOLOZ",
   "Synonyms": [
    "kartopu",
-   "kar",
-   "kazas\u0131"
+   "kar kazas\u0131"
   ]
  },
  {
@@ -9071,8 +8088,7 @@
   "SubCategory": "DARBE",
   "Synonyms": [
    "kartopu",
-   "kar",
-   "s\u00fcr\u00fcklenmesi",
+   "kar s\u00fcr\u00fcklenmesi",
    "devrilme",
    "d\u00fc\u015fme"
   ]
@@ -9126,8 +8142,7 @@
    "futbol",
    "futbol",
    "beyzbol",
-   "\u00e7im",
-   "hokeyi",
+   "\u00e7im hokeyi",
    "kriket",
    "ragbi",
    "polo",
@@ -9143,18 +8158,13 @@
    "boks",
    "g\u00fcre\u015f",
    "jimnastik",
-   "a\u011f\u0131rl\u0131k",
-   "\u00e7al\u0131\u015fmas\u0131",
-   "d\u00f6v\u00fc\u015f",
-   "sanatlar\u0131",
+   "a\u011f\u0131rl\u0131k \u00e7al\u0131\u015fmas\u0131",
+   "d\u00f6v\u00fc\u015f sanatlar\u0131",
    "karate",
    "judo",
-   "tae",
-   "kwon",
-   "do",
+   "tae kwon do",
    "dojo",
-   "kung",
-   "fu"
+   "kung fu"
   ]
  },
  {
@@ -9165,8 +8175,7 @@
   "Synonyms": [
    "bowling",
    "bilardo",
-   "ping",
-   "pong",
+   "ping pong",
    "dart"
   ]
  },
@@ -9188,8 +8197,7 @@
    "kaykay",
    "paten",
    "paten",
-   "itmeli",
-   "scooter"
+   "itmeli scooter"
   ]
  },
  {
@@ -9198,15 +8206,11 @@
   "CatID": "SPRTTrck",
   "SubCategory": "KO\u015eU",
   "Synonyms": [
-   "uzun",
-   "atlama",
+   "uzun atlama",
    "ko\u015fu",
-   "s\u0131r\u0131kla",
-   "atlama",
-   "g\u00fclle",
-   "atma",
-   "cirit",
-   "atma"
+   "s\u0131r\u0131kla atlama",
+   "g\u00fclle atma",
+   "cirit atma"
   ]
  },
  {
@@ -9216,13 +8220,10 @@
   "SubCategory": "SU",
   "Synonyms": [
    "y\u00fczme",
-   "su",
-   "topu",
-   "su",
-   "voleybolu",
+   "su topu",
+   "su voleybolu",
    "dal\u0131\u015f",
-   "su",
-   "kaya\u011f\u0131",
+   "su kaya\u011f\u0131",
    "s\u00f6rf",
    "kiteboard",
    "scuba",
@@ -9238,15 +8239,12 @@
    "kayak",
    "snowboard",
    "k\u0131zak",
-   "buz",
-   "pateni",
+   "buz pateni",
    "k\u0131zak",
    "curling",
-   "buz",
-   "hokeyi",
+   "buz hokeyi",
    "luge",
-   "s\u00fcrat",
-   "pateni"
+   "s\u00fcrat pateni"
   ]
  },
  {
@@ -9282,17 +8280,12 @@
    "k\u00fcrek",
    "mala",
    "s\u00fcp\u00fcrge",
-   "budama",
-   "makas\u0131",
-   "bah\u00e7e",
-   "\u00e7atal\u0131",
+   "budama makas\u0131",
+   "bah\u00e7e \u00e7atal\u0131",
    "yeke",
-   "budama",
-   "makas\u0131",
+   "budama makas\u0131",
    "k\u00fcrek",
-   "ot",
-   "bi\u00e7me",
-   "makinesi"
+   "ot bi\u00e7me makinesi"
   ]
  },
  {
@@ -9304,19 +8297,16 @@
    "\u00e7eki\u00e7",
    "tornavida",
    "pense",
-   "i\u0307ngiliz",
-   "anahtar\u0131",
+   "i\u0307ngiliz anahtar\u0131",
    "c\u0131rc\u0131r",
    "lokma",
-   "el",
-   "testeresi",
+   "el testeresi",
    "kelep\u00e7e",
    "kesici",
    "levye",
    "keski",
    "kaz\u0131y\u0131c\u0131",
-   "z\u0131mba",
-   "tabancas\u0131",
+   "z\u0131mba tabancas\u0131",
    "e\u011fe",
    "makas"
   ]
@@ -9337,12 +8327,9 @@
   "SubCategory": "BASIN\u00c7LI",
   "Synonyms": [
    "jackhammer",
-   "haval\u0131",
-   "alet",
-   "haval\u0131",
-   "c\u0131rc\u0131r",
-   "\u00e7ivi",
-   "tabancalar\u0131"
+   "haval\u0131 alet",
+   "haval\u0131 c\u0131rc\u0131r",
+   "\u00e7ivi tabancalar\u0131"
   ]
  },
  {
@@ -9352,24 +8339,16 @@
   "SubCategory": "MOTORLU",
   "Synonyms": [
    "matkap",
-   "elektrikli",
-   "testere",
-   "daire",
-   "testere",
-   "dekupaj",
-   "testeresi",
+   "elektrikli testere",
+   "daire testere",
+   "dekupaj testeresi",
    "z\u0131mpara",
-   "bant",
-   "z\u0131mpara",
+   "bant z\u0131mpara",
    "y\u00f6nlendirici",
-   "elektrikli",
-   "tornavida",
-   "\u0131s\u0131",
-   "tabancas\u0131",
-   "matkap",
-   "presi",
-   "masa",
-   "testeresi"
+   "elektrikli tornavida",
+   "\u0131s\u0131 tabancas\u0131",
+   "matkap presi",
+   "masa testeresi"
   ]
  },
  {
@@ -9378,14 +8357,9 @@
   "CatID": "TOYElec",
   "SubCategory": "ELEKTRON\u0130K",
   "Synonyms": [
-   "uzaktan",
-   "kumandal\u0131",
-   "araba",
-   "slot",
-   "araba",
-   "konu\u015f",
-   "ve",
-   "b\u00fcy\u00fc",
+   "uzaktan kumandal\u0131 araba",
+   "slot araba",
+   "konu\u015f ve b\u00fcy\u00fc",
    "furby"
   ]
  },
@@ -9395,12 +8369,9 @@
   "CatID": "TOYMech",
   "SubCategory": "MEKAN\u0130K",
   "Synonyms": [
-   "kurmal\u0131",
-   "oyuncak",
-   "oyuncak",
-   "robot",
-   "kurmal\u0131",
-   "oyuncak"
+   "kurmal\u0131 oyuncak",
+   "oyuncak robot",
+   "kurmal\u0131 oyuncak"
   ]
  },
  {
@@ -9409,12 +8380,9 @@
   "CatID": "TOYMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "aksiyon",
-   "fig\u00fcr\u00fc",
-   "oyuncak",
-   "bebek",
-   "doldurulmu\u015f",
-   "hayvan"
+   "aksiyon fig\u00fcr\u00fc",
+   "oyuncak bebek",
+   "doldurulmu\u015f hayvan"
   ]
  },
  {
@@ -9443,10 +8411,8 @@
   "CatID": "TRNDoor",
   "SubCategory": "KAPI",
   "Synonyms": [
-   "tren",
-   "kap\u0131s\u0131",
-   "metro",
-   "kap\u0131s\u0131"
+   "tren kap\u0131s\u0131",
+   "metro kap\u0131s\u0131"
   ]
  },
  {
@@ -9455,8 +8421,7 @@
   "CatID": "TRNDiesl",
   "SubCategory": "D\u0130ZEL",
   "Synonyms": [
-   "di\u0307zel",
-   "tren"
+   "di\u0307zel tren"
   ]
  },
  {
@@ -9465,17 +8430,11 @@
   "CatID": "TRNElec",
   "SubCategory": "ELEKTR\u0130KL\u0130",
   "Synonyms": [
-   "banliy\u00f6",
-   "treni",
-   "b\u00f6lgesel",
-   "tren",
-   "\u015fehir",
-   "hatt\u0131",
-   "\u015fehirleraras\u0131",
-   "tren",
-   "hafif",
-   "rayl\u0131",
-   "sistem"
+   "banliy\u00f6 treni",
+   "b\u00f6lgesel tren",
+   "\u015fehir hatt\u0131",
+   "\u015fehirleraras\u0131 tren",
+   "hafif rayl\u0131 sistem"
   ]
  },
  {
@@ -9484,14 +8443,11 @@
   "CatID": "TRNHspd",
   "SubCategory": "Y\u00dcKSEK HIZ",
   "Synonyms": [
-   "y\u00fcksek",
-   "teknoloji",
-   "treni",
+   "y\u00fcksek teknoloji treni",
    "maglev",
    "monoray",
    "hyperloop",
-   "h\u0131zl\u0131",
-   "tren"
+   "h\u0131zl\u0131 tren"
   ]
  },
  {
@@ -9500,10 +8456,8 @@
   "CatID": "TRNHorn",
   "SubCategory": "KORNA",
   "Synonyms": [
-   "tren",
-   "kornas\u0131",
-   "metro",
-   "kornas\u0131"
+   "tren kornas\u0131",
+   "metro kornas\u0131"
   ]
  },
  {
@@ -9512,20 +8466,12 @@
   "CatID": "TRNInt",
   "SubCategory": "\u0130\u00c7",
   "Synonyms": [
-   "banliy\u00f6",
-   "treni",
-   "b\u00f6lgesel",
-   "tren",
-   "\u015fehir",
-   "hatt\u0131",
-   "\u015fehirler",
-   "aras\u0131",
-   "tren",
-   "hafif",
-   "rayl\u0131",
-   "sistem",
-   "y\u00fck",
-   "treni",
+   "banliy\u00f6 treni",
+   "b\u00f6lgesel tren",
+   "\u015fehir hatt\u0131",
+   "\u015fehirler aras\u0131 tren",
+   "hafif rayl\u0131 sistem",
+   "y\u00fck treni",
    "metro",
    "monoray"
   ]
@@ -9555,10 +8501,8 @@
   "CatID": "TRNSteam",
   "SubCategory": "BUHARLI",
   "Synonyms": [
-   "buharl\u0131",
-   "tren",
-   "k\u00f6m\u00fcr",
-   "treni"
+   "buharl\u0131 tren",
+   "k\u00f6m\u00fcr treni"
   ]
  },
  {
@@ -9569,8 +8513,7 @@
   "Synonyms": [
    "metro",
    "metro",
-   "the",
-   "tube",
+   "the tube",
    "rer"
   ]
  },
@@ -9584,8 +8527,7 @@
    "tramvay",
    "teleferik",
    "f\u00fcnik\u00fcler",
-   "tutma",
-   "arabas\u0131"
+   "tutma arabas\u0131"
   ]
  },
  {
@@ -9596,8 +8538,7 @@
   "Synonyms": [
    "uyar\u0131",
    "ton",
-   "k\u0131sa",
-   "mesaj",
+   "k\u0131sa mesaj",
    "bildirim",
    "ba\u015flang\u0131\u00e7"
   ]
@@ -9608,12 +8549,8 @@
   "CatID": "UIBeep",
   "SubCategory": "B\u0130P",
   "Synonyms": [
-   "bilgisayar",
-   "bip",
-   "sesi",
-   "telefon",
-   "bip",
-   "sesi"
+   "bilgisayar bip sesi",
+   "telefon bip sesi"
   ]
  },
  {
@@ -9648,11 +8585,8 @@
    "aksakl\u0131k",
    "ar\u0131za",
    "ba\u015far\u0131s\u0131zl\u0131k",
-   "\u00e7ekirdek",
-   "pani\u011fi",
-   "guru",
-   "meditasyon",
-   "hatas\u0131"
+   "\u00e7ekirdek pani\u011fi",
+   "guru meditasyon hatas\u0131"
   ]
  },
  {
@@ -9682,8 +8616,7 @@
   "CatID": "VEGEGras",
   "SubCategory": "\u00c7\u0130MEN",
   "Synonyms": [
-   "\u00e7imen",
-   "h\u0131\u015f\u0131rt\u0131s\u0131",
+   "\u00e7imen h\u0131\u015f\u0131rt\u0131s\u0131",
    "y\u00fcr\u00fcmek",
    "saman",
    "bu\u011fday"
@@ -9695,14 +8628,10 @@
   "CatID": "VEGELeaf",
   "SubCategory": "YAPRAK",
   "Synonyms": [
-   "yaprak",
-   "girdab\u0131",
-   "yaprak",
-   "d\u00fc\u015fmesi",
-   "d\u00fc\u015fen",
-   "yapraklar",
-   "yaprak",
-   "y\u0131\u011f\u0131n\u0131"
+   "yaprak girdab\u0131",
+   "yaprak d\u00fc\u015fmesi",
+   "d\u00fc\u015fen yapraklar",
+   "yaprak y\u0131\u011f\u0131n\u0131"
   ]
  },
  {
@@ -9720,12 +8649,9 @@
   "CatID": "VEGETree",
   "SubCategory": "A\u011eA\u00c7",
   "Synonyms": [
-   "a\u011fa\u00e7",
-   "d\u00fc\u015fmesi",
-   "dal",
-   "k\u0131r\u0131lmas\u0131",
-   "dal",
-   "k\u0131r\u0131lmas\u0131",
+   "a\u011fa\u00e7 d\u00fc\u015fmesi",
+   "dal k\u0131r\u0131lmas\u0131",
+   "dal k\u0131r\u0131lmas\u0131",
    "dal"
   ]
  },
@@ -9738,14 +8664,9 @@
    "araba",
    "oto",
    "otomobil",
-   "araba",
-   "alarm\u0131",
-   "kurma",
-   "sesi",
-   "devre",
-   "d\u0131\u015f\u0131",
-   "b\u0131rakma",
-   "sesi",
+   "araba alarm\u0131",
+   "kurma sesi",
+   "devre d\u0131\u015f\u0131 b\u0131rakma sesi",
    "fob"
   ]
  },
@@ -9759,10 +8680,8 @@
    "oto",
    "otomobil",
    "oldsmobile",
-   "model",
-   "a",
-   "model",
-   "t"
+   "model a",
+   "model t"
   ]
  },
  {
@@ -9771,17 +8690,11 @@
   "CatID": "VEHAtv",
   "SubCategory": "ATV",
   "Synonyms": [
-   "d\u00f6rt",
-   "tekerlekli",
-   "\u00fc\u00e7",
-   "tekerlekli",
-   "d\u00f6rt",
-   "tekerlekli",
-   "d\u00f6rt",
-   "tekerlekli",
-   "bisiklet",
-   "kumul",
-   "arabas\u0131"
+   "d\u00f6rt tekerlekli",
+   "\u00fc\u00e7 tekerlekli",
+   "d\u00f6rt tekerlekli",
+   "d\u00f6rt tekerlekli bisiklet",
+   "kumul arabas\u0131"
   ]
  },
  {
@@ -9793,9 +8706,7 @@
    "bisiklet",
    "bisiklet",
    "recumbent",
-   "tek",
-   "tekerlekli",
-   "bisiklet",
+   "tek tekerlekli bisiklet",
    "tandem",
    "bmx"
   ]
@@ -9806,8 +8717,7 @@
   "CatID": "VEHBrake",
   "SubCategory": "FREN",
   "Synonyms": [
-   "fren",
-   "g\u0131c\u0131rt\u0131s\u0131",
+   "fren g\u0131c\u0131rt\u0131s\u0131",
    "g\u0131c\u0131rt\u0131",
    "eziyet"
   ]
@@ -9818,19 +8728,12 @@
   "CatID": "VEHBus",
   "SubCategory": "OTOB\u00dcS",
   "Synonyms": [
-   "\u015fehir",
-   "i\u00e7i",
-   "otob\u00fcs",
-   "okul",
-   "otob\u00fcs\u00fc",
-   "greyhound",
-   "otob\u00fcs",
-   "otob\u00fcs",
-   "otob\u00fcs\u00fc",
-   "tur",
-   "otob\u00fcs\u00fc",
-   "\u00e7ift",
-   "katl\u0131"
+   "\u015fehir i\u00e7i otob\u00fcs",
+   "okul otob\u00fcs\u00fc",
+   "greyhound otob\u00fcs",
+   "otob\u00fcs otob\u00fcs\u00fc",
+   "tur otob\u00fcs\u00fc",
+   "\u00e7ift katl\u0131"
   ]
  },
  {
@@ -9867,12 +8770,9 @@
    "araba",
    "oto",
    "otomobil",
-   "araba",
-   "kap\u0131s\u0131",
-   "kamyonet",
-   "kap\u0131s\u0131",
-   "kamyon",
-   "kap\u0131s\u0131"
+   "araba kap\u0131s\u0131",
+   "kamyonet kap\u0131s\u0131",
+   "kamyon kap\u0131s\u0131"
   ]
  },
  {
@@ -9882,17 +8782,12 @@
   "SubCategory": "ELEKTR\u0130KL\u0130",
   "Synonyms": [
    "segway",
-   "golf",
-   "arabas\u0131",
-   "elektrikli",
-   "scooter",
-   "elektrikli",
-   "araba",
-   "elektrikli",
-   "motosiklet",
+   "golf arabas\u0131",
+   "elektrikli scooter",
+   "elektrikli araba",
+   "elektrikli motosiklet",
    "tesla",
-   "elektrikli",
-   "gokart"
+   "elektrikli gokart"
   ]
  },
  {
@@ -9901,15 +8796,11 @@
   "CatID": "VEHEmrg",
   "SubCategory": "AC\u0130L",
   "Synonyms": [
-   "itfaiye",
-   "arac\u0131",
-   "itfaiye",
-   "arac\u0131",
+   "itfaiye arac\u0131",
+   "itfaiye arac\u0131",
    "ambulans",
-   "polis",
-   "arabas\u0131",
-   "swat",
-   "minib\u00fcs\u00fc"
+   "polis arabas\u0131",
+   "swat minib\u00fcs\u00fc"
   ]
  },
  {
@@ -9920,8 +8811,7 @@
   "Synonyms": [
    "trakt\u00f6r",
    "bi\u00e7erd\u00f6ver",
-   "hasat",
-   "makinesi",
+   "hasat makinesi",
    "bi\u00e7erd\u00f6ver"
   ]
  },
@@ -9931,20 +8821,13 @@
   "CatID": "VEHFrght",
   "SubCategory": "KAMYON & TIR",
   "Synonyms": [
-   "b\u00fcy\u00fck",
-   "kamyonlar",
+   "b\u00fcy\u00fck kamyonlar",
    "kamyon",
-   "yar\u0131",
-   "kamyon",
-   "u",
-   "haul",
-   "kamyonu",
+   "yar\u0131 kamyon",
+   "u-haul kamyonu",
    "penske",
-   "kapal\u0131",
-   "kasa",
-   "kamyon",
-   "y\u00fck",
-   "kamyonu"
+   "kapal\u0131 kasa kamyon",
+   "y\u00fck kamyonu"
   ]
  },
  {
@@ -9968,8 +8851,7 @@
    "araba",
    "oto",
    "otomobil",
-   "araba",
-   "kornas\u0131"
+   "araba kornas\u0131"
   ]
  },
  {
@@ -9999,13 +8881,11 @@
    "hoopty",
    "clunker",
    "junker",
-   "yanl\u0131\u015f",
-   "\u00e7al\u0131\u015ft\u0131rma",
+   "yanl\u0131\u015f \u00e7al\u0131\u015ft\u0131rma",
    "tekleme",
    "ar\u0131zal\u0131",
    "tekleme",
-   "geri",
-   "tepme"
+   "geri tepme"
   ]
  },
  {
@@ -10014,18 +8894,13 @@
   "CatID": "VEHMech",
   "SubCategory": "MEKAN\u0130ZMA",
   "Synonyms": [
-   "pencere",
-   "kolu",
-   "torpido",
-   "g\u00f6z\u00fc",
-   "\u00f6n",
-   "cam",
+   "pencere kolu",
+   "torpido g\u00f6z\u00fc",
+   "\u00f6n cam",
    "silecek",
    "bagaj",
-   "emniyet",
-   "kemeri",
-   "emniyet",
-   "kemeri",
+   "emniyet kemeri",
+   "emniyet kemeri",
    "sinyal",
    "vites"
   ]
@@ -10038,9 +8913,7 @@
   "Synonyms": [
    "tank",
    "apc",
-   "z\u0131rhl\u0131",
-   "personel",
-   "ta\u015f\u0131y\u0131c\u0131",
+   "z\u0131rhl\u0131 personel ta\u015f\u0131y\u0131c\u0131",
    "humvee",
    "jeep"
   ]
@@ -10051,8 +8924,7 @@
   "CatID": "VEHMisc",
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
-   "kar",
-   "arabas\u0131"
+   "kar arabas\u0131"
   ]
  },
  {
@@ -10066,8 +8938,7 @@
    "motorsiklet",
    "vespa",
    "motokros",
-   "arazi",
-   "motosikleti"
+   "arazi motosikleti"
   ]
  },
  {
@@ -10079,19 +8950,13 @@
    "araba",
    "araba",
    "otomobil",
-   "yar\u0131\u015f",
-   "arabas\u0131",
-   "drag",
-   "yar\u0131\u015f",
-   "arabas\u0131",
+   "yar\u0131\u015f arabas\u0131",
+   "drag yar\u0131\u015f arabas\u0131",
    "indy",
-   "formula",
-   "1",
+   "formula 1",
    "nascar",
-   "grand",
-   "prix",
-   "canavar",
-   "kamyon"
+   "grand prix",
+   "canavar kamyon"
   ]
  },
  {
@@ -10103,8 +8968,7 @@
    "ambulans",
    "polis",
    "siren",
-   "itfaiye",
-   "arac\u0131",
+   "itfaiye arac\u0131",
    "itfaiyeci"
   ]
  },
@@ -10114,8 +8978,7 @@
   "CatID": "VEHSkid",
   "SubCategory": "KAYDIRMA & PAT\u0130NAJ",
   "Synonyms": [
-   "lastik",
-   "patinaj\u0131",
+   "lastik patinaj\u0131",
    "soyulma",
    "\u00e7uf",
    "yanma"
@@ -10128,8 +8991,7 @@
   "SubCategory": "S\u00dcSPANS\u0130YON",
   "Synonyms": [
    "s\u00fcspansiyon",
-   "amortis\u00f6r",
-   "yaylar\u0131",
+   "amortis\u00f6r yaylar\u0131",
    "g\u0131c\u0131rt\u0131",
    "t\u0131k\u0131rt\u0131"
   ]
@@ -10154,13 +9016,11 @@
    "araba",
    "oto",
    "otomobil",
-   "yolcu",
-   "kamyonu",
+   "yolcu kamyonu",
    "kamyonet",
    "minib\u00fcs",
    "suv",
-   "a\u00e7\u0131k",
-   "kasa",
+   "a\u00e7\u0131k kasa",
    ""
   ]
  },
@@ -10172,8 +9032,7 @@
   "Synonyms": [
    "utv",
    "sxs",
-   "yan",
-   "yana",
+   "yan yana",
    "rzr",
    "ranger",
    "cushman",
@@ -10187,14 +9046,10 @@
   "SubCategory": "VAGON",
   "Synonyms": [
    "vagon",
-   "posta",
-   "arabas\u0131",
-   "at",
-   "arabas\u0131",
-   "at",
-   "arabas\u0131",
-   "tahta",
-   "araba"
+   "posta arabas\u0131",
+   "at arabas\u0131",
+   "at arabas\u0131",
+   "tahta araba"
   ]
  },
  {
@@ -10206,10 +9061,8 @@
    "araba",
    "oto",
    "otomobil",
-   "otomatik",
-   "pencere",
-   "elektrikli",
-   "pencere"
+   "otomatik pencere",
+   "elektrikli pencere"
   ]
  },
  {
@@ -10218,8 +9071,7 @@
   "CatID": "VOXAlien",
   "SubCategory": "UZAYLI",
   "Synonyms": [
-   "uzayl\u0131",
-   "dili",
+   "uzayl\u0131 dili",
    "chewbacca"
   ]
  },
@@ -10271,10 +9123,8 @@
    "somurtmak",
    "h\u0131\u00e7k\u0131rmak",
    "s\u0131zlanmak",
-   "feryat",
-   "etmek",
-   "yaygara",
-   "koparmak",
+   "feryat etmek",
+   "yaygara koparmak",
    "yaralanmak"
   ]
  },
@@ -10288,8 +9138,7 @@
    "homurdanma",
    "m\u00fccadele",
    "zorlanma",
-   "sarf",
-   "etme"
+   "sarf etme"
   ]
  },
  {
@@ -10309,8 +9158,7 @@
   "SubCategory": "HOPARL\u00d6R",
   "Synonyms": [
    "konu\u015fmac\u0131",
-   "halka",
-   "seslenme",
+   "halka seslenme",
    "duyuru"
   ]
  },
@@ -10387,8 +9235,7 @@
   "Synonyms": [
    "ba\u011f\u0131rmak",
    "ba\u011f\u0131rmak",
-   "\u00e7\u0131\u011fl\u0131k",
-   "atmak",
+   "\u00e7\u0131\u011fl\u0131k atmak",
    "\u00f6l\u00fcm",
    "d\u00fc\u015fmek"
   ]
@@ -10399,8 +9246,7 @@
   "CatID": "VOXSing",
   "SubCategory": "\u015eARKI S\u00d6YLEME",
   "Synonyms": [
-   "\u015fark\u0131",
-   "s\u00f6ylemek",
+   "\u015fark\u0131 s\u00f6ylemek",
    "m\u0131r\u0131ldanmak",
    "ditty"
   ]
@@ -10443,8 +9289,7 @@
    "kanalizasyon",
    "du\u015f",
    "lavabo",
-   "f\u0131rt\u0131na",
-   "gideri"
+   "f\u0131rt\u0131na gideri"
   ]
  },
  {
@@ -10483,8 +9328,7 @@
    "nehir",
    "dere",
    "ak\u0131nt\u0131",
-   "su",
-   "yolu",
+   "su yolu",
    "kol",
    "dere",
    "ak\u0131nt\u0131",
@@ -10511,11 +9355,9 @@
   "SubCategory": "DARBE",
   "Synonyms": [
    "s\u0131\u00e7rama",
-   "g\u00f6bek",
-   "atma",
+   "g\u00f6bek atma",
    "g\u00fclle",
-   "derinlik",
-   "sald\u0131r\u0131s\u0131",
+   "derinlik sald\u0131r\u0131s\u0131",
    "sploosh"
   ]
  },
@@ -10560,8 +9402,7 @@
   "CatID": "WATRPlmb",
   "SubCategory": "TES\u0130SAT",
   "Synonyms": [
-   "tuvalet",
-   "sifonu",
+   "tuvalet sifonu",
    "lavabo",
    "du\u015f",
    ""
@@ -10615,8 +9456,7 @@
    "spritz",
    "sis",
    "buhar",
-   "\u0131slak",
-   "t\u0131slama",
+   "\u0131slak t\u0131slama",
    "sputter"
   ]
  },
@@ -10626,12 +9466,9 @@
   "CatID": "WATRSurf",
   "SubCategory": "K\u00d6P\u00dcKL\u00dc DALGA",
   "Synonyms": [
-   "k\u0131y\u0131",
-   "\u015feridi",
-   "sahil",
-   "\u015feridi",
-   "deniz",
-   "k\u0131y\u0131s\u0131",
+   "k\u0131y\u0131 \u015feridi",
+   "sahil \u015feridi",
+   "deniz k\u0131y\u0131s\u0131",
    "plaj",
    "y\u0131kama"
   ]
@@ -10643,8 +9480,7 @@
   "SubCategory": "\u00c7ALKANTI & T\u00dcRB\u00dcLANS",
   "Synonyms": [
    "girdap",
-   "dalga",
-   "havuzu",
+   "dalga havuzu",
    "ak\u0131nt\u0131",
    "girdap",
    "girdap"
@@ -10656,8 +9492,7 @@
   "CatID": "WATRUndwtr",
   "SubCategory": "SUALTI",
   "Synonyms": [
-   "su",
-   "alt\u0131",
+   "su alt\u0131",
    "ak\u0131\u015f",
    "t\u00fcrb\u00fclansl\u0131"
   ]
@@ -10684,8 +9519,7 @@
    "dalga",
    "dalgak\u0131ran",
    "gelgit",
-   "deniz",
-   "k\u0131y\u0131s\u0131",
+   "deniz k\u0131y\u0131s\u0131",
    "iskele",
    "al\u0131\u015ft\u0131rma"
   ]
@@ -10697,13 +9531,10 @@
   "SubCategory": "ZIRH",
   "Synonyms": [
    "z\u0131rh",
-   "zincir",
-   "z\u0131rh",
+   "zincir z\u0131rh",
    "mi\u011ffer",
-   "pullu",
-   "z\u0131rh",
-   "g\u00f6\u011f\u00fcs",
-   "z\u0131rh\u0131",
+   "pullu z\u0131rh",
+   "g\u00f6\u011f\u00fcs z\u0131rh\u0131",
    "cuirass",
    "domaru",
    "atel",
@@ -10732,8 +9563,7 @@
    "balta",
    "balta",
    "pirzola",
-   "f\u0131rlatma",
-   "baltas\u0131"
+   "f\u0131rlatma baltas\u0131"
   ]
  },
  {
@@ -10744,14 +9574,10 @@
   "Synonyms": [
    "sopa",
    "topuz",
-   "top",
-   "ve",
-   "zincir",
+   "top ve zincir",
    "m\u0131n\u00e7\u0131ka",
-   "sava\u015f",
-   "\u00e7ekici",
-   "sava\u015f",
-   "\u00e7ekici",
+   "sava\u015f \u00e7ekici",
+   "sava\u015f \u00e7ekici",
    "\u00e7\u0131ta",
    "mu\u015fta",
    "flail",
@@ -10766,12 +9592,9 @@
   "CatID": "WEAPBow",
   "SubCategory": "YAYLI",
   "Synonyms": [
-   "uzun",
-   "yay",
-   "bile\u015fik",
-   "kutu",
-   "tatar",
-   "yay\u0131"
+   "uzun yay",
+   "bile\u015fik kutu",
+   "tatar yay\u0131"
   ]
  },
  {
@@ -10780,23 +9603,15 @@
   "CatID": "WEAPKnif",
   "SubCategory": "BI\u00c7AK",
   "Synonyms": [
-   "sustal\u0131",
-   "b\u0131\u00e7ak",
-   "kriko",
-   "b\u0131\u00e7a\u011f\u0131",
-   "kelebek",
-   "b\u0131\u00e7ak",
-   "av",
-   "b\u0131\u00e7a\u011f\u0131",
-   "maket",
-   "b\u0131\u00e7a\u011f\u0131",
+   "sustal\u0131 b\u0131\u00e7ak",
+   "kriko b\u0131\u00e7a\u011f\u0131",
+   "kelebek b\u0131\u00e7ak",
+   "av b\u0131\u00e7a\u011f\u0131",
+   "maket b\u0131\u00e7a\u011f\u0131",
    "sat\u0131r",
-   "kasap",
-   "b\u0131\u00e7a\u011f\u0131",
-   "hendek",
-   "b\u0131\u00e7a\u011f\u0131",
-   "\u015fef",
-   "b\u0131\u00e7a\u011f\u0131"
+   "kasap b\u0131\u00e7a\u011f\u0131",
+   "hendek b\u0131\u00e7a\u011f\u0131",
+   "\u015fef b\u0131\u00e7a\u011f\u0131"
   ]
  },
  {
@@ -10819,8 +9634,7 @@
    "z\u0131pk\u0131n",
    "karg\u0131",
    "cirit",
-   "s\u0131r\u0131kl\u0131",
-   "balta",
+   "s\u0131r\u0131kl\u0131 balta",
    "pollaxe"
   ]
  },
@@ -10834,8 +9648,7 @@
    "trebuchet",
    "ko\u00e7ba\u015f\u0131",
    "balista",
-   "ku\u015fatma",
-   "kulesi"
+   "ku\u015fatma kulesi"
   ]
  },
  {
@@ -10846,20 +9659,16 @@
   "Synonyms": [
    "falchion",
    "pala",
-   "geni\u015f",
-   "k\u0131l\u0131\u00e7",
+   "geni\u015f k\u0131l\u0131\u00e7",
    "rapier",
-   "uzun",
-   "k\u0131l\u0131\u00e7",
+   "uzun k\u0131l\u0131\u00e7",
    "samuray",
    "cutlass",
-   "eskrim",
-   "k\u0131l\u0131c\u0131",
+   "eskrim k\u0131l\u0131c\u0131",
    "kattana",
    "pala",
    "k\u0131l\u0131\u00e7",
-   "viking",
-   "k\u0131l\u0131c\u0131",
+   "viking k\u0131l\u0131c\u0131",
    "folyo"
   ]
  },
@@ -10870,11 +9679,9 @@
   "SubCategory": "KIRBA\u00c7",
   "Synonyms": [
    "kam\u00e7\u0131",
-   "at",
-   "k\u0131rbac\u0131",
+   "at k\u0131rbac\u0131",
    "k\u0131rba\u00e7",
-   "k\u0131rba\u00e7",
-   "\u015faklamas\u0131"
+   "k\u0131rba\u00e7 \u015faklamas\u0131"
   ]
  },
  {
@@ -10885,9 +9692,7 @@
   "Synonyms": [
    "dolu",
    "buz",
-   "karla",
-   "kar\u0131\u015f\u0131k",
-   "ya\u011fmur"
+   "karla kar\u0131\u015f\u0131k ya\u011fmur"
   ]
  },
  {
@@ -10908,15 +9713,11 @@
    "kas\u0131rga",
    "f\u0131rt\u0131na",
    "tayfun",
-   "karla",
-   "kar\u0131\u015f\u0131k",
-   "ya\u011fmur",
-   "kum",
-   "f\u0131rt\u0131nas\u0131",
+   "karla kar\u0131\u015f\u0131k ya\u011fmur",
+   "kum f\u0131rt\u0131nas\u0131",
    "hortum",
    "siklon",
-   "dolu",
-   "f\u0131rt\u0131nas\u0131",
+   "dolu f\u0131rt\u0131nas\u0131",
    ""
   ]
  },
@@ -10928,13 +9729,10 @@
   "Synonyms": [
    "f\u0131rt\u0131na",
    "\u015fim\u015fek",
-   "g\u00f6k",
-   "g\u00fcr\u00fclt\u00fcs\u00fc",
-   "\u015fim\u015fek",
-   "\u00e7akmas\u0131",
+   "g\u00f6k g\u00fcr\u00fclt\u00fcs\u00fc",
+   "\u015fim\u015fek \u00e7akmas\u0131",
    "y\u0131ld\u0131r\u0131m",
-   "g\u00f6k",
-   "g\u00fcr\u00fclt\u00fcs\u00fc",
+   "g\u00f6k g\u00fcr\u00fclt\u00fcs\u00fc",
    "\u00e7atlama",
    "yuvarlanma",
    "g\u00fcmb\u00fcrt\u00fc"
@@ -10949,8 +9747,7 @@
    "d\u00fcd\u00fck",
    "tezah\u00fcrat",
    "insan",
-   "kurt",
-   "d\u00fcd\u00fc\u011f\u00fc",
+   "kurt d\u00fcd\u00fc\u011f\u00fc",
    "i\u015faret"
   ]
  },
@@ -10963,11 +9760,9 @@
    "vapur",
    "hakem",
    "toot",
-   "polis",
-   "d\u00fcd\u00fc\u011f\u00fc",
+   "polis d\u00fcd\u00fc\u011f\u00fc",
    "\u00e7aydanl\u0131k",
-   "tren",
-   "d\u00fcd\u00fc\u011f\u00fc"
+   "tren d\u00fcd\u00fc\u011f\u00fc"
   ]
  },
  {
@@ -10977,8 +9772,7 @@
   "SubCategory": "D\u0130\u011eER",
   "Synonyms": [
    "ref",
-   "burun",
-   "fl\u00fct\u00fc"
+   "burun fl\u00fct\u00fc"
   ]
  },
  {
@@ -10987,8 +9781,7 @@
   "CatID": "WINDDsgn",
   "SubCategory": "TASARIM",
   "Synonyms": [
-   "r\u00fczgar",
-   "makinesi",
+   "r\u00fczgar makinesi",
    "sentetik",
    "yapay",
    "tonal"
@@ -11025,8 +9818,7 @@
   "CatID": "WINDInt",
   "SubCategory": "\u0130\u00c7 MEKAN",
   "Synonyms": [
-   "i\u00e7",
-   "mekan",
+   "i\u00e7 mekan",
    "panjur",
    "\u00e7\u0131ng\u0131rak",
    "inilti",
@@ -11052,12 +9844,9 @@
   "SubCategory": "\u00c7ALKANTI & T\u00dcRB\u00dcLANS",
   "Synonyms": [
    "b\u00fcfe",
-   "t\u00fcrb\u00fclansl\u0131",
-   "r\u00fczgar",
-   "kuvvetli",
-   "r\u00fczgar",
-   "\u015fiddetli",
-   "r\u00fczgar",
+   "t\u00fcrb\u00fclansl\u0131 r\u00fczgar",
+   "kuvvetli r\u00fczgar",
+   "\u015fiddetli r\u00fczgar",
    "b\u00fcfe"
   ]
  },
@@ -11068,8 +9857,7 @@
   "SubCategory": "B\u0130TK\u0130",
   "Synonyms": [
    "ye\u015fillik",
-   "bitki",
-   "\u00f6rt\u00fcs\u00fc",
+   "bitki \u00f6rt\u00fcs\u00fc",
    "\u00e7imen",
    "a\u011fa\u00e7",
    "yaprak",
@@ -11096,14 +9884,10 @@
   "CatID": "WNDWHdwr",
   "SubCategory": "DONANIM",
   "Synonyms": [
-   "pencere",
-   "mandal\u0131",
-   "pencere",
-   "kranklar\u0131",
-   "pencere",
-   "kilidi",
-   "pencere",
-   "contas\u0131"
+   "pencere mandal\u0131",
+   "pencere kranklar\u0131",
+   "pencere kilidi",
+   "pencere contas\u0131"
   ]
  },
  {
@@ -11123,8 +9907,7 @@
   "CatID": "WNDWMetl",
   "SubCategory": "METAL",
   "Synonyms": [
-   "metal",
-   "\u00e7er\u00e7eve"
+   "metal \u00e7er\u00e7eve"
   ]
  },
  {
@@ -11142,8 +9925,7 @@
   "CatID": "WNDWPlas",
   "SubCategory": "PLAST\u0130K",
   "Synonyms": [
-   "plastik",
-   "\u00e7er\u00e7eve"
+   "plastik \u00e7er\u00e7eve"
   ]
  },
  {
@@ -11152,8 +9934,7 @@
   "CatID": "WNDWWood",
   "SubCategory": "TAHTA",
   "Synonyms": [
-   "ah\u015fap",
-   "\u00e7er\u00e7eve"
+   "ah\u015fap \u00e7er\u00e7eve"
   ]
  },
  {
@@ -11162,10 +9943,8 @@
   "CatID": "WINGBird",
   "SubCategory": "KU\u015e",
   "Synonyms": [
-   "ku\u015f",
-   "kanad\u0131",
-   "kanat",
-   "\u00e7\u0131rpmak",
+   "ku\u015f kanad\u0131",
+   "kanat \u00e7\u0131rpmak",
    "\u00e7\u0131rp\u0131nmak"
   ]
  },
@@ -11175,22 +9954,13 @@
   "CatID": "WINGCrea",
   "SubCategory": "VARLIK",
   "Synonyms": [
-   "ejderha",
-   "kanad\u0131",
-   "peri",
-   "kanad\u0131",
-   "griffin",
-   "kanad\u0131",
-   "sfenks",
-   "kanad\u0131",
-   "melek",
-   "kanad\u0131",
-   "anka",
-   "ku\u015fu",
-   "kanad\u0131",
-   "dev",
-   "ku\u015f",
-   "kanad\u0131"
+   "ejderha kanad\u0131",
+   "peri kanad\u0131",
+   "griffin kanad\u0131",
+   "sfenks kanad\u0131",
+   "melek kanad\u0131",
+   "anka ku\u015fu kanad\u0131",
+   "dev ku\u015f kanad\u0131"
   ]
  },
  {
@@ -11206,10 +9976,8 @@
    "kelebek",
    "b\u00f6cek",
    "bokb\u00f6ce\u011fi",
-   "e\u015fek",
-   "ar\u0131s\u0131",
-   "yaban",
-   "ar\u0131s\u0131",
+   "e\u015fek ar\u0131s\u0131",
+   "yaban ar\u0131s\u0131",
    "\u00e7ekirge"
   ]
  },
