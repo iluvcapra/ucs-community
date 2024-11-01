@@ -85,6 +85,15 @@ for lang in langs:
                     split_pattern = r'\W+'
                 syn_list = re.split(split_pattern, syns_raw)
                 category['Synonyms'] = [s.lower() for s in syn_list]
+
+                # if the sub-category name is not in the synonym list, include it
+                # if category['SubCategory'].lower() not in category['Synonyms']:
+                    # category['Synonyms'].append(category['SubCategory'].lower())
+                
+                if lang == 'en':
+                    for i, syn in enumerate(category['Synonyms']):
+                        if syn == "a":
+                            del category['Synonyms'][i]
         
         schedule.append(category)
 
